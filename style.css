@@ -1,0 +1,39 @@
+body {
+  max-width: 48em;
+  margin: auto;
+  padding: 1em 0;
+}
+
+dt {
+  font-weight: bold;
+  margin: 0.5em 0;
+}
+
+dd ul {
+  margin: 0;
+  padding: 0;
+}
+
+#archives li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+.nerd {
+  font-family: monospace;
+  font-size: 14px;
+  background-color: #222;
+  color: #ddd;
+}
+
+.nerd a,
+.nerd a:visited {
+  color: #faa;
+  text-decoration: none;
+}
+
+.nerd a:hover {
+  color: #f88;
+  text-decoration: underline;
+}
+
