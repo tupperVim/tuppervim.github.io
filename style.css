@@ -4,6 +4,20 @@ body {
   padding: 1em 0;
 }
 
+header h1 {
+  display: none;
+}
+
+h2 {
+  margin-top: 1.5em;
+  border-bottom: 1px solid;
+}
+
+header img {
+  display: block;
+  margin: auto;
+}
+
 dt {
   font-weight: bold;
   margin: 0.5em 0;
@@ -14,10 +28,29 @@ dd ul {
   padding: 0;
 }
 
+#sessions dt {
+  margin-bottom: 0;
+}
+
+#sessions dd {
+  border: 1px solid;
+  margin: 0;
+  padding: 10px 40px;
+}
+
+#sessions dd + dt {
+  margin-top: 1em;
+}
+
 #archives li {
   list-style-type: none;
   display: inline-block;
 }
+
+
+/**
+ * color scheme
+ */
 
 .nerd {
   font-family: monospace;
@@ -35,5 +68,15 @@ dd ul {
 .nerd a:hover {
   color: #f88;
   text-decoration: underline;
+}
+
+.nerd #sessions dt {
+  color: #faa;
+}
+
+.nerd #sessions dd {
+  background-color: #444;
+  border-color: #966;
+  color: #fff;
 }
 
