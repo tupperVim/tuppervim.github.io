@@ -1,6 +1,26 @@
+2015-03-11 (17:53:04)
+----------
+```
+ Frederic | bonsoir
+    kinou | salut Frederic
+ Frederic | déjà réveillée ?
+ Frederic | :*
+    kinou | tu prends des cours avec kazé ?
+ Frederic | nan, j'ai pris un prof avec option « subtilité », moi
+    kinou | t’as pas dû être très attentif
+```
+
+2015-03-04
+----------
+```
+ pandark | guyzmo: avoue, t'utilises des machines virtuelles :oÞ
+  guyzmo | pandark - bah oui
+  guyzmo | notamment pour faire tourner du Windows
+  guyzmo | quand on veut faire de la culture de moisissure, il vaut mieux utiliser une boîte de Pétri :-)
+```
+
 2013-12-29
 ----------
-
 ```
       kazé | ^(?!(x(xx)+)\1*$)
       kazé | ce mec est un génie !
@@ -15,7 +35,6 @@
 
 2013-12-26
 ----------
-
 ```
   Frederic | merci papa Noël kazé :)
       kazé | :)
@@ -31,7 +50,6 @@ taratatach | Frederic: il suffit pas d'avoir un qwerty pour ça ?
 
 2013-10-15
 ----------
-
 ```
       kazé | kinou: à part peut-être le champ de recherche (cf. article ALA qui
            | explique vraiment bien pourquoi il ne faut pas les faire comme ça),
@@ -54,7 +72,6 @@ taratatach | Frederic: il suffit pas d'avoir un qwerty pour ça ?
 
 2013-02-06
 ----------
-
 ```
     maggick | hey le tupper vim c'est demain \o/
        kazé | yesssss :)
