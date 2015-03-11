@@ -62,7 +62,7 @@ dd ul {
 .nerd a,
 .nerd a:visited {
   color: #faa;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .nerd a:hover {
