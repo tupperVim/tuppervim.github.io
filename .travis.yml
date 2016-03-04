@@ -1,0 +1,8 @@
+sudo: false
+
+language: python
+
+install:
+  - pip install LinkChecker==9.3
+
+script: linkchecker --check-extern .
