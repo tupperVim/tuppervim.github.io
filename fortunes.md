@@ -1,3 +1,20 @@
+```
+~kaze: | enfin c’est pas non plus une école d’esthéticiennes hein, c’est l’Épita
+         quand même
+```
+
+```
+ kinou | et question manque de goût…
+~kaze: | … tu es la référence absolue, telle une boussole qui indiquerait le
+       | sud, en effet
+
+```
+
+```
+@alkino | en fait Joseki résumons, la sodomie ça te fait chier, sauf si c'est
+          en groupe ?
+```
+
 2015-03-11 (17:53:04)
 ----------
 ```
