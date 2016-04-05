@@ -1,3 +1,13 @@
+2016-04-05 (13:47:11)
+----------
+```
+   ~kaze | quelqu’un pour nous présenter Mutt 1.6 ce soir ?
+   ~kaze | c’est sorti hier, moi qui croyais qu’il n’y aurait plus
+         | jamais la moindre évolution sur Mutt…
+%Vagrant | à croire que c'est mieux maintenu que thunderbird !
+
+```
+
 ```
 ~kaze: | enfin c’est pas non plus une école d’esthéticiennes hein, c’est l’Épita
          quand même
