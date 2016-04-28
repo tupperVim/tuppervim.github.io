@@ -1,3 +1,14 @@
+2016-04-28 (20:39:38)
+----------
+
+```
+kevlarcade | faut vraiment que j’achète un canard en plastique, j’allais poser
+           | une question que j’ai résolue en l’écrivant
+      kaze | ça marche avec un vrai canard aussi
+      kaze | l’avantage du vrai canard, c’est que s’il ne connaît pas la réponse,
+           | tu l’encules
+```
+
 2016-04-05 (13:47:11)
 ----------
 ```
