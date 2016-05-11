@@ -1,0 +1,10 @@
+sudo: false
+
+language: python
+
+install:
+  # https://github.com/wummel/linkchecker/issues/649
+  - pip install requests==2.9.1
+  - pip install LinkChecker==9.3
+
+script: linkchecker --check-extern .

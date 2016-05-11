@@ -1,3 +1,41 @@
+2016-04-28 (20:39:38)
+----------
+
+```
+kevlarcade | faut vraiment que j’achète un canard en plastique, j’allais poser
+           | une question que j’ai résolue en l’écrivant
+      kaze | ça marche avec un vrai canard aussi
+      kaze | l’avantage du vrai canard, c’est que s’il ne connaît pas la réponse,
+           | tu l’encules
+```
+
+2016-04-05 (13:47:11)
+----------
+```
+   ~kaze | quelqu’un pour nous présenter Mutt 1.6 ce soir ?
+   ~kaze | c’est sorti hier, moi qui croyais qu’il n’y aurait plus
+         | jamais la moindre évolution sur Mutt…
+%Vagrant | à croire que c'est mieux maintenu que thunderbird !
+
+```
+
+```
+~kaze: | enfin c’est pas non plus une école d’esthéticiennes hein, c’est l’Épita
+         quand même
+```
+
+```
+ kinou | et question manque de goût…
+~kaze: | … tu es la référence absolue, telle une boussole qui indiquerait le
+       | sud, en effet
+
+```
+
+```
+@alkino | en fait Joseki résumons, la sodomie ça te fait chier, sauf si c'est
+          en groupe ?
+```
+
 2015-03-11 (17:53:04)
 ----------
 ```
