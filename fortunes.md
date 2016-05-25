@@ -1,3 +1,12 @@
+2016-05-25 (15:03:26)
+----------
+
+```
+guyzmo | et là j'ai eu un court instant où je me  suis senti intelligent
+       | (si kaze était là, je le rassurerais en
+       | lui disant que c'est vite passé ☺)
+```
+
 2016-04-28 (20:39:38)
 ----------
 
