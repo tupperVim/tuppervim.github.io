@@ -1,3 +1,10 @@
+2016-09-04 (21:31:46)
+----------
+
+```
+kaze | le JavaScript c’est rien que de l’amour avec des accolades autour
+```
+
 2016-06-23 (18:54:45)
 ----------
 
