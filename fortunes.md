@@ -1,3 +1,11 @@
+2016-10-09 (21:07:26)
+----------
+
+```
+kaze [à propos d'Atom] | la principale fonctionnalité IDE-like c’est le temps de
+chargement, huhuhu
+```
+
 2016-09-04 (21:31:46)
 ----------
 
