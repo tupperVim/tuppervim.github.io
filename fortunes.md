@@ -1,3 +1,13 @@
+2016-10-27 (16:12:07)
+----------
+
+```
+alexherbo2 | module.js:471
+alexherbo2 | Error: Cannont find module './config'
+  bbouvier | t'as pas lu le readme toi ;)
+alexherbo2 | y a pas de readme xD                 `
+```
+
 2016-10-09 (21:07:26)
 ----------
 
