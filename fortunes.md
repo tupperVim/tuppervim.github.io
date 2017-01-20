@@ -1,3 +1,15 @@
+2017-01-10 (15:42:30)
+----------
+
+```
+kaze | un bon développeur VB est un développeur mort dont toute la descendance
+     | a été éliminée
+ zmo | *relit la phrase trois fois
+ zmo | je comprends toujours pas
+ zmo | « développeur » suivi de « Visual Basic »
+ zmo | ça n'a aucun sens !
+```
+
 2016-10-27 (16:12:07)
 ----------
 
