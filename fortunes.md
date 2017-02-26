@@ -1,3 +1,12 @@
+2017-02-24 (12:19:17)
+----------
+
+```
+kaze | moi, rien que de lire « undefined is not a function », je
+     | suis excité comme un curé lyonnais dans un camp scout
+```
+
+
 2017-01-10 (15:42:30)
 ----------
 
