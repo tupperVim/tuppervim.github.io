@@ -80,6 +80,7 @@ dd ul {
   color: #fff;
 }
 
-#sessions .important dd {
-  background-color: #d22;
+.important {
+  font-weight: bold;
+  font-style: italic;
 }
