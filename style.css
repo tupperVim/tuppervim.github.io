@@ -84,3 +84,18 @@ dd ul {
   font-weight: bold;
   font-style: italic;
 }
+
+/**
+ * Media queries for mobile
+ */
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 640px) {
+    #fork-me {
+        display: none;
+    }
+
+    header img {
+        max-width: 100%;
+        height: auto;
+    }
+}
