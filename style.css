@@ -44,9 +44,14 @@ dd ul {
 
 #archives li {
   list-style-type: none;
-  display: inline-block;
 }
 
+#archives ul > li {
+  display: block; 
+}
+#archives ul > li > ul li { 
+  display: inline-block; 
+}
 
 /**
  * color scheme
