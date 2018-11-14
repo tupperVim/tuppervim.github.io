@@ -1,3 +1,12 @@
+2017-11-13 (17:53:26)
+----------
+
+```
+ ~kaze | On commence par TypeScript et puis c’est l’engrenage, on finit avec
+       | une ceinture d’explosifs au comice agricole de Brie-Comte-Robert, le schéma
+       | classique
+```
+
 2017-02-24 (12:19:17)
 ----------
 
