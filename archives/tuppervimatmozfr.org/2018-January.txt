@@ -1,0 +1,34 @@
+From florent.fayolle69 at gmail.com  Sun Jan 14 22:20:18 2018
+From: florent.fayolle69 at gmail.com (Florent FAYOLLE)
+Date: Sun, 14 Jan 2018 22:20:18 +0100
+Subject: [tupperVim] agapes lyonnaises de Janvier
+Message-ID: <3ff178bd-287e-05d7-e92b-e574fcd26f3d@gmail.com>
+
+Camades vimistes Lyonnais et de la région (Grenoble, toussa),
+
+Bonne année et meilleurs vœux. Puisse le Saint Canard guidez vos pas
+palmés !
+
+Je vous annonce que la prochaine session des TupperVim aura lieu le
+mercredi 31 janvier 2018 à l'ENS de Lyon <http://www.ens-lyon.fr/> de
+19h30 à 22h00. Pour la suite, il vous sera proposé d'aller venir avec
+nous au Ninkasi consommer breuvages et grignotes là-bas.
+
+*Pour les habitués, attention* : l’atelier n’aura plus lieu à l’Épitech
+comme l’année précédente. Remercions les ainsi qu'à ALIENS
+<https://aliens-lyon.fr/> pour leur accueil.
+
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-lyon-1801
+
+D'ici là, soyez sages et prenez soin de vos palmipèdes,
+
+Cordialement,
+Florent Fayolle,
+Secrétaire général du parti vimiste lyonnais
+
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20180114/e689ef96/attachment.html>
+

@@ -1,0 +1,87 @@
+From fabien at cazenave.cc  Mon Dec  3 22:35:46 2012
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Mon, 03 Dec 2012 22:35:46 +0100
+Subject: [tupperVim] =?utf-8?q?Session_de_d=C3=A9cembre?=
+Message-ID: <50BD1B32.1060209@cazenave.cc>
+
+Canettes, canetons,
+
+renouons avec les concepts d?origine de tupperVim, en particulier : 
+l?annonce à l?arrache. J?ai donc la joie de vous annoncer que les agapes 
+de décembre se tiendront jeudi prochain 6 décembre, à 20h dans les 
+locaux Mozilla.
+
+  ? règles du jeu : http://wiki.mozfr.org/TupperVim
+  ? inscriptions  : http://framadate.org/7gg7mkprm9p4zbmb
+  ? organisation  : https://etherpad.mozilla.org/TupperVim-1212
+
+Ça se passe toujours au 43 rue d?Aboukir. Passez sur le canal 
+irc://irc.mozilla.org/#tupperVim pour avoir les codes d?accès.
+
+Comme toujours, ce sont vos contributions qui feront le succès de la 
+soirée : astuces Vim ou CLI, plugins, autres logiciels, sans oublier les 
+grignottes et les boissons.
+
+À jeudi !
+-- 
+:wq
+
+
+From fabien at cazenave.cc  Tue Dec 18 14:35:18 2012
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Tue, 18 Dec 2012 14:35:18 +0100
+Subject: [tupperVim] Session de janvier
+Message-ID: <50D07116.6050800@cazenave.cc>
+
+Canettes, canetons,
+
+la première session TupperVim d?après la fin du monde aura lieu le jeudi 
+3 janvier 2013, à 20h dans les bureaux Mozilla (43 rue d?Aboukir).
+
+  ? règles du jeu : http://wiki.mozfr.org/TupperVim
+  ? inscriptions  : http://framadate.org/veioncrcm8haf423
+  ? organisation  : https://etherpad.mozilla.org/TupperVim-1301
+
+Passez sur le canal irc://irc.mozilla.org/#tupperVim pour avoir les 
+codes d?accès si besoin est.
+
+Comme d?habitude, les contributions sont les bienvenues ? qu?il s?agisse 
+de démos Vim, de présentation d?autres outils, ou tout simplement d?une 
+bouteille ou d?un gâteau à partager.
+
+Bonnes fêtes à toutes et tous !
+-- 
+:kazé
+
+
+From hobbestigrou at erakis.im  Tue Dec 18 16:57:23 2012
+From: hobbestigrou at erakis.im (=?ISO-8859-1?Q?Natal_Ng=E9tal?=)
+Date: Tue, 18 Dec 2012 16:57:23 +0100
+Subject: [tupperVim] Session de janvier
+In-Reply-To: <50D07116.6050800@cazenave.cc>
+References: <50D07116.6050800@cazenave.cc>
+Message-ID: <CANfeGsvW=3iB1iJ5AFpa7wo0xCx4UsGL_z15aYCm3JsN7k-pDg@mail.gmail.com>
+
+Le 18 décembre 2012 14:35, Fabien Cazenave <fabien at cazenave.cc> a écrit :
+> la première session TupperVim d?après la fin du monde aura lieu le jeudi 3
+> janvier 2013, à 20h dans les bureaux Mozilla (43 rue d?Aboukir).
+Cool, on commence directement après la nouvelle année.
+
+> Passez sur le canal irc://irc.mozilla.org/#tupperVim pour avoir les codes
+> d?accès si besoin est.
+Ok.
+
+> Comme d?habitude, les contributions sont les bienvenues ? qu?il s?agisse de
+> démos Vim, de présentation d?autres outils, ou tout simplement d?une
+> bouteille ou d?un gâteau à partager.
+Oui, cette fois-ci ça devrait le faire, ça va être dans mes bonnes
+résolutions de la nouvelle année.
+
+> Bonnes fêtes à toutes et tous !
+Merci toi aussi.
+
+--
+\0/ Hobbestigrou
+site web: erakis.im
+
+

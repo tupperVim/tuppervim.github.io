@@ -1,0 +1,36 @@
+From fabien at cazenave.cc  Mon May  7 12:05:39 2018
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Mon, 7 May 2018 12:05:39 +0200
+Subject: [tupperVim] Paris, session du 15 mai
+Message-ID: <12767cb0-b712-fe12-76fc-90b5b659801e@cazenave.cc>
+
+Canettes, canetons,
+
+les deux premiers mardi de mai étant fériés, c’est le troisième mardi de 
+mai (i.e. le 15 mai) qu’auront lieu nos agapes vimesques.
+
+Cette fois-ci c’est l’équipe des développeurs de ManoMano qui nous 
+invite — et ils nous offrent même les pizzas et les bières, pour marquer 
+le coup ! (Ça n’empêche pas d’apporter d’autres types de grignotes et de 
+boissons, hein.)
+
+Leurs bureaux sont proches de la porte de Champerret :
+
+https://goo.gl/maps/f4hrA2xk5f92
+
+J’ai un billet de TGV, normalement il n’y aura pas de grève SNCF, je 
+serai donc des vôtres pour assurer l’initiation des petits nouveaux (ou 
+pour vous aider à descendre les boissons alcoolisées, en cas de manque 
+de débutants).
+
+Comme d’habitude, merci de vous annoncer sur l’etherpad :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1805
+
+D’ici là, profitez des ponts (tas de feignasses) et ne cassez pas tout 
+le ternette.
+
+\_o<
+:kazé
+
+

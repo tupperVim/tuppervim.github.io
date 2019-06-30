@@ -1,0 +1,162 @@
+From keller.mdpa at gmail.com  Tue Jan  1 10:36:28 2019
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Tue, 1 Jan 2019 10:36:28 +0100
+Subject: [tupperVim] liste de diffusion tuppervim
+Message-ID: <CAM+ya-D8wYVO8tRqX-mmrZySKhfddrNOGSu==b1onzMAYM81pw@mail.gmail.com>
+
+Ceci est un simple rappel de votre abonnement à la liste de diffusion
+Tuppervim.
+
+Nous en profitons également pour vous souhaiter une très bonne année 2019.
+
+Matthieu Keller
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20190101/9000490f/attachment.html>
+
+From julioprayer1 at gmail.com  Sat Jan  5 08:37:44 2019
+From: julioprayer1 at gmail.com (Julio Prayer)
+Date: Sat, 5 Jan 2019 08:37:44 +0100
+Subject: [tupperVim] Essai
+Message-ID: <CAPPX_AEaR5bCBvoJfG34pKvJHmBV8kzKgiPr6ynL4p_NqJaTaQ@mail.gmail.com>
+
+Juste pour essayer si la liste de diffusion fonctionne de nouveau :-)
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20190105/fb617dda/attachment.html>
+
+From florent.fayolle69 at gmail.com  Sat Jan  5 10:27:40 2019
+From: florent.fayolle69 at gmail.com (Florent FAYOLLE)
+Date: Sat, 5 Jan 2019 10:27:40 +0100
+Subject: [tupperVim] Agapes Lyonnaises / Villeurbannaises le 14 janvier
+Message-ID: <af8517a0-08aa-a9d5-0201-aa674cea1478@gmail.com>
+
+Camarades Lyonnais·e·s, Villeurbannais·e·s et de la région, bonjour,
+
+J'ai le plaisir de vous annoncer le prochain atelier TupperVim qui aura
+lieu le lundi 14 janvier prochain au Laboratoire Ouvert Villeurbannais
+(LOV) :
+
+    • L'adresse : 21 place des Maisons Neuves, 69100 Villeurbanne
+    • Le pad : https://pad.hadoly.fr/p/TupperVim-lyon-1901
+
+
+Comme d'habitude, vous avez les informations pratiques dans le PAD.
+Merci de vous inscrire et de noter ce que vous souhaitez amener.
+
+La recette est la même qu’à Paris (dixit Kazé) :
+
+     • de 19h à 20h, initiation pour les débutants & apéro pour les
+        initiés, grâce à une technologie de parallélisation des tâches
+que le
+        monde entier nous envie depuis toujours ;
+     • de 20h à 22h, enlarge your productivity — avec son lot de démos
+et de présentations.
+
+D'ici là, portez-vous bien et passez de bonnes fêtes ! ;)
+
+Florent
+
+
+
+
+From cedric.dsm at gmail.com  Sat Jan  5 12:06:49 2019
+From: cedric.dsm at gmail.com (=?UTF-8?Q?C=C3=A9dric_de_Saint_Martin?=)
+Date: Sat, 5 Jan 2019 12:06:49 +0100
+Subject: [tupperVim] Essai
+In-Reply-To: <CAPPX_AEaR5bCBvoJfG34pKvJHmBV8kzKgiPr6ynL4p_NqJaTaQ@mail.gmail.com>
+References: <CAPPX_AEaR5bCBvoJfG34pKvJHmBV8kzKgiPr6ynL4p_NqJaTaQ@mail.gmail.com>
+Message-ID: <CAJMPg95EifT3NVrw+7=p4_LUdePgtz6sOfDbXDoayxzSMxMVMQ@mail.gmail.com>
+
+Coin.
+
+Le sam. 5 janv. 2019 à 12:03, Julio Prayer <julioprayer1 at gmail.com> a
+écrit :
+
+> Juste pour essayer si la liste de diffusion fonctionne de nouveau :-)
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> https://listes.mozfr.org/mailman/listinfo/tuppervim
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20190105/ccdd7e2c/attachment.html>
+
+From stephane.bard at gmail.com  Sun Jan  6 00:06:33 2019
+From: stephane.bard at gmail.com (=?utf-8?Q?Bard_St=C3=A9phane?=)
+Date: Sun, 6 Jan 2019 00:06:33 +0100
+Subject: [tupperVim] Essai
+In-Reply-To: <CAJMPg95EifT3NVrw+7=p4_LUdePgtz6sOfDbXDoayxzSMxMVMQ@mail.gmail.com>
+References: <CAPPX_AEaR5bCBvoJfG34pKvJHmBV8kzKgiPr6ynL4p_NqJaTaQ@mail.gmail.com>
+ <CAJMPg95EifT3NVrw+7=p4_LUdePgtz6sOfDbXDoayxzSMxMVMQ@mail.gmail.com>
+Message-ID: <15A2237A-A9B1-401B-AE33-E458988D7127@gmail.com>
+
+:w
+ça écrit ?
+
+> Le 5 janv. 2019 à 12:06, Cédric de Saint Martin <cedric.dsm at gmail.com> a écrit :
+> 
+> Coin. 
+> 
+>> Le sam. 5 janv. 2019 à 12:03, Julio Prayer <julioprayer1 at gmail.com> a écrit :
+>> Juste pour essayer si la liste de diffusion fonctionne de nouveau :-)
+>> _______________________________________________
+>> tupperVim mailing list
+>> tupperVim at mozfr.org
+>> https://listes.mozfr.org/mailman/listinfo/tuppervim
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> https://listes.mozfr.org/mailman/listinfo/tuppervim
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20190106/f3a4a769/attachment.html>
+
+From florent.fayolle69 at gmail.com  Sat Jan 12 22:26:15 2019
+From: florent.fayolle69 at gmail.com (Florent FAYOLLE)
+Date: Sat, 12 Jan 2019 22:26:15 +0100
+Subject: [tupperVim] Agapes Lyonnaises / Villeurbannaises le 14 janvier
+In-Reply-To: <af8517a0-08aa-a9d5-0201-aa674cea1478@gmail.com>
+References: <af8517a0-08aa-a9d5-0201-aa674cea1478@gmail.com>
+Message-ID: <b8f3f902-e20c-9db5-f39f-5908d9046f82@gmail.com>
+
+Bonsoir,
+
+Pour rappel, c'est lundi prochain !
+
+Bonne soirée,
+Florent
+
+Le 05/01/2019 à 10:27, Florent FAYOLLE a écrit :
+> Camarades Lyonnais·e·s, Villeurbannais·e·s et de la région, bonjour,
+>
+> J'ai le plaisir de vous annoncer le prochain atelier TupperVim qui aura
+> lieu le lundi 14 janvier prochain au Laboratoire Ouvert Villeurbannais
+> (LOV) :
+>
+>     • L'adresse : 21 place des Maisons Neuves, 69100 Villeurbanne
+>     • Le pad : https://pad.hadoly.fr/p/TupperVim-lyon-1901
+>
+>
+> Comme d'habitude, vous avez les informations pratiques dans le PAD.
+> Merci de vous inscrire et de noter ce que vous souhaitez amener.
+>
+> La recette est la même qu’à Paris (dixit Kazé) :
+>
+>      • de 19h à 20h, initiation pour les débutants & apéro pour les
+>         initiés, grâce à une technologie de parallélisation des tâches
+> que le
+>         monde entier nous envie depuis toujours ;
+>      • de 20h à 22h, enlarge your productivity — avec son lot de démos
+> et de présentations.
+>
+> D'ici là, portez-vous bien et passez de bonnes fêtes ! ;)
+>
+> Florent
+>
+>
+
+
+

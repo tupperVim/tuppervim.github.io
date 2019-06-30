@@ -1,0 +1,501 @@
+From nojhan at nojhan.net  Fri Mar  3 18:42:32 2017
+From: nojhan at nojhan.net (nojhan)
+Date: Fri, 3 Mar 2017 18:42:32 +0100
+Subject: [tupperVim] Design logo, stickers, tshirts
+In-Reply-To: <CAM+ya-A-MRXvrRC3eCgv-LepAoRF3Oe8Jt8DocaZYaxiouXa6Q@mail.gmail.com>
+References: <CAM+ya-A-MRXvrRC3eCgv-LepAoRF3Oe8Jt8DocaZYaxiouXa6Q@mail.gmail.com>
+Message-ID: <CAJRERJWdCRyeUC=gWb+OJz_e6139RtKv5WL19kRk7HP0vnuO+w@mail.gmail.com>
+
+J'ai pullrequesté une proposition :
+https://github.com/tupperVim/tuppervim.github.io/pull/129
+-- 
+nojhan
+
+2017-02-23 16:02 GMT+01:00 Matthieu Keller <keller.mdpa at gmail.com>:
+
+> Camarades vimistes,
+>
+> comme vous le savez sûrement, l?anniversaire des 5 ans de nos réunions
+> arrive.
+> Pour l'occasion nous souhaiterions réaliser des stickers en édition
+> limitée ainsi que des tshirts.
+>
+> Il est envisageable de changer complètement le logo, de le transformer
+> ou de le reprendre.
+>
+> Si vous vous sentez l'âme de graphisme n'hésitez pas à nous proposer
+> des idées de stickers, de logo ou autre.
+> N'hésitez pas a soumettre un maximum d'idée, promis personne ne se moquera.
+>
+> Merci de centraliser vos idées sur l'issue github suivante :
+> https://github.com/tupperVim/tuppervim.github.io/issues/124
+>
+> merci d'avance.
+>
+> --
+> maggick | \_o<
+> http://tuppervim.org
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> http://listes.mozfr.org/mailman/listinfo/tuppervim
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20170303/142087c1/attachment.html>
+
+From keller.mdpa at gmail.com  Tue Mar 14 11:09:23 2017
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Tue, 14 Mar 2017 11:09:23 +0100
+Subject: [tupperVim] Design logo, stickers, tshirts
+In-Reply-To: <CAJRERJWdCRyeUC=gWb+OJz_e6139RtKv5WL19kRk7HP0vnuO+w@mail.gmail.com>
+References: <CAM+ya-A-MRXvrRC3eCgv-LepAoRF3Oe8Jt8DocaZYaxiouXa6Q@mail.gmail.com>
+ <CAJRERJWdCRyeUC=gWb+OJz_e6139RtKv5WL19kRk7HP0vnuO+w@mail.gmail.com>
+Message-ID: <CAM+ya-B+u6gJyzKH846ziKgHOCpLZw5Daq=cTkY1yAAyTZ1C7A@mail.gmail.com>
+
+Camarades vimistes,
+
+Un sondage est en cours pour le choix du logo :
+
+https://framadate.org/9f5roQxBoOFKGPJJ
+
+ce nouveau logo sera déployé sur le site, on en imprimera des stickers
+et on le mettra sur le tshirt.
+
+Pour le tshirt, j'ai fait un second sondage avec ce que vous préférez
+voir dans le dos :
+
+https://framadate.org/jEqWtnHFND1bKzLM
+
+Votez!
+
+--
+maggick | \_o<
+http://tuppervim.org
+
+
+
+2017-03-03 18:42 GMT+01:00 nojhan <nojhan at nojhan.net>:
+> J'ai pullrequesté une proposition :
+> https://github.com/tupperVim/tuppervim.github.io/pull/129
+> --
+> nojhan
+>
+> 2017-02-23 16:02 GMT+01:00 Matthieu Keller <keller.mdpa at gmail.com>:
+>>
+>> Camarades vimistes,
+>>
+>> comme vous le savez sûrement, l?anniversaire des 5 ans de nos réunions
+>> arrive.
+>> Pour l'occasion nous souhaiterions réaliser des stickers en édition
+>> limitée ainsi que des tshirts.
+>>
+>> Il est envisageable de changer complètement le logo, de le transformer
+>> ou de le reprendre.
+>>
+>> Si vous vous sentez l'âme de graphisme n'hésitez pas à nous proposer
+>> des idées de stickers, de logo ou autre.
+>> N'hésitez pas a soumettre un maximum d'idée, promis personne ne se
+>> moquera.
+>>
+>> Merci de centraliser vos idées sur l'issue github suivante :
+>> https://github.com/tupperVim/tuppervim.github.io/issues/124
+>>
+>> merci d'avance.
+>>
+>> --
+>> maggick | \_o<
+>> http://tuppervim.org
+>>
+>> _______________________________________________
+>> tupperVim mailing list
+>> tupperVim at mozfr.org
+>> http://listes.mozfr.org/mailman/listinfo/tuppervim
+>
+>
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> http://listes.mozfr.org/mailman/listinfo/tuppervim
+>
+
+
+From smile.syban at gmail.com  Thu Mar 16 11:48:25 2017
+From: smile.syban at gmail.com (Sylvain Bannier)
+Date: Thu, 16 Mar 2017 11:48:25 +0100
+Subject: [tupperVim]
+	=?utf-8?q?Organisation_d=27un_tupperVim_=C3=A0_Nantes?=
+	=?utf-8?q?_=3F?=
+In-Reply-To: <CAO-FgQtTZ9+fySNKFms708Qp1=O6BidkEcbcwpq=4CbjMUPk=w@mail.gmail.com>
+References: <CAO-FgQtTZ9+fySNKFms708Qp1=O6BidkEcbcwpq=4CbjMUPk=w@mail.gmail.com>
+Message-ID: <CAO-FgQvUvz6a5uwZyE0UuonWL_Msxj6--HoKF9uWkMiGCd_UOQ@mail.gmail.com>
+
+Salut,
+
+quelques news de la déclinaison Nantaise :
+- meetup planifié au 18/04 :
+https://www.meetup.com/TupperVim-Nantes/events/238449186/ (à la fourchette)
+- reste à faire la com => twitter (@tupperVimNantes) / envoi au meetups
+proches / réseaux perso. Si vous connaissez des gens susceptibles d'être
+intéressés n'hésitez pas à faire tourner l'info :).
+
+J'ai repris la présentation de la page d'accueil de tuppervim.org, j'espère
+que l'auteur ne m'en voudra pas.
+Je n'ai pas encore fait de mailing list en me disant que meetup suffisait.
+Il y a toujours tupperVim at mozfr.org mais ça risque de polluer un peu la ML
+donc je n'en ai pas parlé.
+
+Si j'ai bien compris le principe chacun se débrouille pour amener un bout
+d'apéro en gros. Ca marche bien habituellement ou mieux vaut-il rechercher
+un sponsor ?
+
+Des conseils à nous donner sinon sur l'orga ou la com ?
+
+
+Sylvain Bannier / 02 40 08 68 04
+
+Le 23 février 2017 à 16:30, Sylvain Bannier <sylvain.bannier at smile.fr> a
+écrit :
+
+> Bonjour vimeuses et vimeux,
+>
+> Y'aurait-il parmi vous des Nantais ou assimilés ? Je n'ai malheureusement
+> jamais pu participer faute d'être à paris au bon moment mais j'aimerais
+> bien essayer d'organiser un tupperVim par ici.
+>
+> Je vois par exemple sur le site un certain @delapouite qui me semble
+> appartenir à cette espèce et j'ai dans mes relations quelques vimistes qui
+> seraient probablement de la partie.
+>
+> Le plan "config / « 6 trous » / greffon / défonceuse / mécréant" me parait
+> jouable en l'état sans trop d'adaptations et je peux faire le tour des
+> boites pour trouver des locaux susceptibles de nous héberger. Des conseils
+> particuliers à me donner ?
+>
+> sylvain @bannier
+>
+>
+>
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20170316/1d3484ba/attachment.html>
+
+From sylvain at opensource-expert.com  Fri Mar 17 09:29:56 2017
+From: sylvain at opensource-expert.com (Sylvain Viart)
+Date: Fri, 17 Mar 2017 09:29:56 +0100
+Subject: [tupperVim]
+ =?utf-8?q?Organisation_d=27un_tupperVim_=C3=A0_Nantes?=
+ =?utf-8?q?_=3F?=
+In-Reply-To: <CAO-FgQvUvz6a5uwZyE0UuonWL_Msxj6--HoKF9uWkMiGCd_UOQ@mail.gmail.com>
+References: <CAO-FgQtTZ9+fySNKFms708Qp1=O6BidkEcbcwpq=4CbjMUPk=w@mail.gmail.com>
+ <CAO-FgQvUvz6a5uwZyE0UuonWL_Msxj6--HoKF9uWkMiGCd_UOQ@mail.gmail.com>
+Message-ID: <ebd80d46-8ad4-77de-7aec-be501ec00cee@opensource-expert.com>
+
+Salut Sylvain,
+
+Je me suis inscrit pour vous espionner?
+Je n'ai toujours pas organisé notre #1.
+
+Le 16/03/2017 à 11:48, Sylvain Bannier a écrit :
+>
+> quelques news de la déclinaison Nantaise : 
+> - meetup planifié au 18/04
+> : https://www.meetup.com/TupperVim-Nantes/events/238449186/ (à la
+> fourchette)
+> - reste à faire la com => twitter (@tupperVimNantes) / envoi au
+> meetups proches / réseaux perso. Si vous connaissez des gens
+> susceptibles d'être intéressés n'hésitez pas à faire tourner l'info :).
+
+J'aurais tronqué un peu, que ça fasse moins à lire?
+
+
+>
+> Je n'ai pas encore fait de mailing list en me disant que meetup
+> suffisait. Il y a toujours tupperVim at mozfr.org
+> <mailto:tupperVim at mozfr.org> mais ça risque de polluer un peu la ML
+> donc je n'en ai pas parlé.
+
+Peut on demander la création de ML pour les groupes locaux ?
+Après y a tellement peu de trafic mail sur cette ML que c'est pas grave
+si 3 vimist de plus se mettent à échanger?
+
+> Si j'ai bien compris le principe chacun se débrouille pour amener un
+> bout d'apéro en gros. Ca marche bien habituellement ou mieux vaut-il
+> rechercher un sponsor ?
+
+Pour l'AGU3L, les gens apportent bien, j'ai aussi été a des rencontre
+autres où il était demander une participation financière. 5 à 10 ?, et
+tout était fourni.
+
+> Des conseils à nous donner sinon sur l'orga ou la com ?
+
+J'avais posté un mail déjà avec des pistes.
+On fait un framapad de kit de démarrage du TupperVim #1 ?
+
+J'ai poussé ton mail à un sysadmin à Nantes (ou dans ce coin, si je ne
+me trompe pas) ça peut l'intéresser?
+
+À suivre,
+Sylvain.
+
+
+-- 
+Sylvain Viart - DevOps système linux - freelance developer
+
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20170317/7186cb37/attachment.html>
+
+From smile.syban at gmail.com  Fri Mar 17 09:41:22 2017
+From: smile.syban at gmail.com (Sylvain Bannier)
+Date: Fri, 17 Mar 2017 09:41:22 +0100
+Subject: [tupperVim]
+	=?utf-8?q?Organisation_d=27un_tupperVim_=C3=A0_Nantes?=
+	=?utf-8?q?_=3F?=
+In-Reply-To: <ebd80d46-8ad4-77de-7aec-be501ec00cee@opensource-expert.com>
+References: <CAO-FgQtTZ9+fySNKFms708Qp1=O6BidkEcbcwpq=4CbjMUPk=w@mail.gmail.com>
+ <CAO-FgQvUvz6a5uwZyE0UuonWL_Msxj6--HoKF9uWkMiGCd_UOQ@mail.gmail.com>
+ <ebd80d46-8ad4-77de-7aec-be501ec00cee@opensource-expert.com>
+Message-ID: <CAO-FgQs1iLMTapp46Yn+Vx=1NiMJzG-ZibfOAhMz-WpNbxraOw@mail.gmail.com>
+
+Merci !
+
+J'ai échangé rapidement avec Matthieu Keller : il y a des solutions plus
+simples que ce que j'ai fait en partant sur meetup.com => utiliser la ML +
+pull request sur le site + compte twitter @tuppervim. On va migrer là
+dessus prochainement.
+
+Pour le lancement je ne sais pas si meetup n'apporte pas quand même de la
+visibilité (en tout cas sur Nantes). Du coup ça peut être une bonne
+solution de garder meetup ou eventbright pour les 1ers meetups en parallèle
+le temps de mettre en place l'autre organisation avec le 1er groupe de
+motivés.
+
+en tout cas je suis partant sur le framapad kit de démarrage tuppervim #1
+
+Sylvain Bannier / 02 40 08 68 04
+
+Le 17 mars 2017 à 09:29, Sylvain Viart <sylvain at opensource-expert.com> a
+écrit :
+
+> Salut Sylvain,
+>
+> Je me suis inscrit pour vous espionner?
+> Je n'ai toujours pas organisé notre #1.
+>
+> Le 16/03/2017 à 11:48, Sylvain Bannier a écrit :
+>
+>
+> quelques news de la déclinaison Nantaise :
+> - meetup planifié au 18/04 : https://www.meetup.com/
+> TupperVim-Nantes/events/238449186/ (à la fourchette)
+> - reste à faire la com => twitter (@tupperVimNantes) / envoi au meetups
+> proches / réseaux perso. Si vous connaissez des gens susceptibles d'être
+> intéressés n'hésitez pas à faire tourner l'info :).
+>
+>
+> J'aurais tronqué un peu, que ça fasse moins à lire?
+>
+>
+>
+> Je n'ai pas encore fait de mailing list en me disant que meetup suffisait.
+> Il y a toujours tupperVim at mozfr.org mais ça risque de polluer un peu la
+> ML donc je n'en ai pas parlé.
+>
+>
+> Peut on demander la création de ML pour les groupes locaux ?
+> Après y a tellement peu de trafic mail sur cette ML que c'est pas grave si
+> 3 vimist de plus se mettent à échanger?
+>
+> Si j'ai bien compris le principe chacun se débrouille pour amener un bout
+> d'apéro en gros. Ca marche bien habituellement ou mieux vaut-il rechercher
+> un sponsor ?
+>
+>
+> Pour l'AGU3L, les gens apportent bien, j'ai aussi été a des rencontre
+> autres où il était demander une participation financière. 5 à 10 ?, et tout
+> était fourni.
+>
+> Des conseils à nous donner sinon sur l'orga ou la com ?
+>
+>
+> J'avais posté un mail déjà avec des pistes.
+> On fait un framapad de kit de démarrage du TupperVim #1 ?
+>
+> J'ai poussé ton mail à un sysadmin à Nantes (ou dans ce coin, si je ne me
+> trompe pas) ça peut l'intéresser?
+>
+> À suivre,
+> Sylvain.
+>
+>
+> --
+> Sylvain Viart - DevOps système linux - freelance developer
+>
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> http://listes.mozfr.org/mailman/listinfo/tuppervim
+>
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20170317/5721b4c5/attachment.html>
+
+From sylvain at opensource-expert.com  Fri Mar 17 10:03:48 2017
+From: sylvain at opensource-expert.com (Sylvain Viart)
+Date: Fri, 17 Mar 2017 10:03:48 +0100
+Subject: [tupperVim]
+ =?utf-8?q?Organisation_d=27un_tupperVim_=C3=A0_Nantes?=
+ =?utf-8?q?_=3F?=
+In-Reply-To: <CAO-FgQs1iLMTapp46Yn+Vx=1NiMJzG-ZibfOAhMz-WpNbxraOw@mail.gmail.com>
+References: <CAO-FgQtTZ9+fySNKFms708Qp1=O6BidkEcbcwpq=4CbjMUPk=w@mail.gmail.com>
+ <CAO-FgQvUvz6a5uwZyE0UuonWL_Msxj6--HoKF9uWkMiGCd_UOQ@mail.gmail.com>
+ <ebd80d46-8ad4-77de-7aec-be501ec00cee@opensource-expert.com>
+ <CAO-FgQs1iLMTapp46Yn+Vx=1NiMJzG-ZibfOAhMz-WpNbxraOw@mail.gmail.com>
+Message-ID: <c4bb9bbd-6fb1-7b08-dcad-4dfd0e79272c@opensource-expert.com>
+
+
+Le 17/03/2017 à 09:41, Sylvain Bannier a écrit :
+> J'ai échangé rapidement avec Matthieu Keller : il y a des solutions
+> plus simples que ce que j'ai fait en partant sur meetup.com
+> <http://meetup.com> => utiliser la ML + pull request sur le site +
+> compte twitter @tuppervim. On va migrer là dessus prochainement.
+>
+> Pour le lancement je ne sais pas si meetup n'apporte pas quand même de
+> la visibilité (en tout cas sur Nantes). Du coup ça peut être une bonne
+> solution de garder meetup ou eventbright pour les 1ers meetups en
+> parallèle le temps de mettre en place l'autre organisation avec le 1er
+> groupe de motivés.
+>
+> en tout cas je suis partant sur le framapad kit de démarrage tuppervim #1
+
+Super, le premier qui fait le pad poste l'URL ici?
+
+À suivre,
+Sylvain.
+
+-- 
+Sylvain Viart - DevOps système linux - freelance developer
+
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20170317/c2801923/attachment.html>
+
+From nicolac76 at yahoo.fr  Tue Mar 21 17:53:06 2017
+From: nicolac76 at yahoo.fr (nico cornu)
+Date: Tue, 21 Mar 2017 16:53:06 +0000 (UTC)
+Subject: [tupperVim] Fabrication de t-shirts pour les 5 ans de TupperVim
+References: <954267066.1031166.1490115186993.ref@mail.yahoo.com>
+Message-ID: <954267066.1031166.1490115186993@mail.yahoo.com>
+
+Bonjour à tous.
+Lisez bien jusqu'au bout !
+Pour les 5 ans de TupperVim le 4 avril [1] nous vous avons préparé une surprise : un t-shirt aux couleurs de TupperVim.
+
+Grâce au super nouveau logo nous allons faire de supers t-shirts en coton 190 grammes gris. Pour voir les visuels http://tuppervim.org/t_shirt.html.
+
+Si vous en voulez un il faut payer d'avance la somme de 17? avant le 26 mars au soir ici : https://www.paypal.me/tuppervim/17
+
+Le versement sera sur mon compte Paypal personnel à mon nom "Nicolas Cornu" (aka alkino sur l'irc). Je vous confirmerais par mail.
+
+Vous devez préciser votre pseudo, votre ville, votre taille (S, M, L, XL, XXL) (si on vous connaît pas vous pouvez mettre votre numéro de téléphone au cas où).
+
+Aucun envoi postal ne sera fait.
+Pour la livraison vous devez venir aux 5 ans de tuppervim à Paris. Si vous êtes de Grenoble Vagrant les recevra courant avril.
+Si vous êtes sur Annecy, je pourrais livrer courant avril aussi.
+Pour toutes autres destinations venez sur l'irc : irc://irc.mozilla.org/#tuppervim qu'on essaye de trouver un arrangement. (ou répondez à ce mail).
+
+alkino pour TupperVim.
+
+[1] https://public.etherpad-mozilla.org/p/TupperVim-1704
+
+
+
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20170321/6c3b3087/attachment.html>
+
+From keller.mdpa at gmail.com  Mon Mar 27 14:43:03 2017
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Mon, 27 Mar 2017 14:43:03 +0200
+Subject: [tupperVim] Session des 5 ans
+Message-ID: <CAM+ya-CL_=KgJ6if4f8MTTGmb3ENAC5wR6r0tmBW3CW0Zc966g@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim d'avril sera un peu spécial.
+Il marquera le 5ème anniversaire de nos agapes !
+Nous vous attendons le premier mardi du mois, le 4 avril dans les locaux
+de Mozilla (Paris) de 19h30h à 22h.
+Nous serons dans la salle du 1er, la salle des fêtes et nous auront droit
+à diverse présentation en lieu et place de notre joyeux bordel habituel.
+Promis en mai on recommence comme d'habitude
+
+
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1704
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+ne
+saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
+le(s)
+numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+Bon maintenant il y a un vigile, donc il faut vraiment s'inscrire et il peut
+vous ouvrir la porte si vous arrivez pas trop en retard (on arrête pas
+le progrès).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards.
+
+--
+maggick | \_o<
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20170327/bd6af080/attachment.html>
+
+From florent.fayolle69 at gmail.com  Mon Mar 27 20:16:02 2017
+From: florent.fayolle69 at gmail.com (Florent FAYOLLE)
+Date: Mon, 27 Mar 2017 20:16:02 +0200
+Subject: [tupperVim] TupperVim ce samedi 1er avril aux JdLL (Lyon)
+Message-ID: <5ca5dcb2-d2e2-891d-a802-859abafcb5a6@gmail.com>
+
+Bonjour à tous,
+
+Qui annonce printemps annonce soleil, barbeuks, bibines, canards, JdLL
+et donc TupperVim !
+
+Si vous passez à Lyon, rendez-vous donc que ce samedi 1er avril, de
+16h30 à 18h30 à :
+
+     La Maison Pour Tous / Salle des Rancy, 249 rue Vendôme Lyon (métro
+Saxe-Gambetta - plan
+<https://www.openstreetmap.org/way/49680968#map=17/45.75572/4.84887>)
+
+Enfin, sachez que des gens bien interviennent à cette rencontre
+(plusieurs noms vous seront probablement familiers :)). Bref, les JdLL,
+c'est un bel évènement avec plus de 80 conférences et ateliers, des
+stands, un espace Do It Yourself, tous rigolos à voir.
+
+Le programme est ici : http://www.jdll.org/ <http://www.jdll.org/programme/>
+
+Bonne soirée !
+
+Florent
+
+PS : pas d'inscription préalable requise aux JdLL. Venez comme vous êtes
+! (sobres quand même !)
+
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20170327/7bd67be0/attachment.html>
+

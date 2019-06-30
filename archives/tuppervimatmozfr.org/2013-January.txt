@@ -1,0 +1,83 @@
+From kaze at mozilla.com  Fri Jan  4 11:07:17 2013
+From: kaze at mozilla.com (Fabien Cazenave)
+Date: Fri, 04 Jan 2013 11:07:17 +0100
+Subject: [tupperVim] =?utf-8?q?Session_de_F=C3=A9vrier_2013?=
+Message-ID: <50E6A9D5.2090706@mozilla.com>
+
+Chers camarades vimistes,
+
+une fois n?est pas coutume, on va essayer d?annoncer les prochaines 
+agapes Vimesques un mois à l?avance ! Du jamais vu dans ce projet !
+
+  ? règles du jeu : http://wiki.mozfr.org/TupperVim
+  ? inscriptions  : http://framadate.org/nqtfytxt6s1j6271
+  ? organisation  : https://etherpad.mozilla.org/TupperVim-1302
+
+Notez que la soirée d?hier, bien que fort sympathique (merci aux 
+participants !), a été la soirée la moins préparée de toute l?histoire 
+tupperVim : rien sur le pad, et personne ou presque n?avait anticipé une 
+présentation. Je crois qu?on a atteint là les limites du concept «soirée 
+tupperware» : il en a résulté un je-ne-sais-quoi d?amateurisme qui ne 
+saurait refléter durablement le niveau d?excellence auquel nous sommes 
+tous habitués.
+
+Comme c?est encore la période des bonnes résolutions de début d?année, 
+je vous propose d?essayer d?anticiper un peu mieux les prochaines agapes 
+en utilisant le pad :
+
+  ? soit pour proposer une présentation de plugin / astuce / autre ;
+  ? soit pour *demander* une présentation sur un sujet précis.
+
+Étant bien trop fainéant pour proposer une présentation, j?inaugure donc 
+cette section «Sujets Souhaités» avec fugitive.vim (qui va devenir 
+l?arlésienne de ces soirées ^^) et le prompt zsh. S?il y en a qui se 
+sentent aptes à présenter l?un de ces «sujets souhaités», merci de vous 
+signaler dans la section «Sujets Proposés».
+
+Merci à vous tous, qui faites de ces agapes mensuelles des rendez-vous à 
+la fois chaleureux et instructifs. Paix, amour et canetons pour toute 
+l?année 2013 !
+-- 
+:kazé
+
+
+From fabien at cazenave.cc  Fri Jan  4 11:25:41 2013
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Fri, 04 Jan 2013 11:25:41 +0100
+Subject: [tupperVim] =?utf-8?q?Session_de_F=C3=A9vrier_2013?=
+In-Reply-To: <50E6A9D5.2090706@mozilla.com>
+References: <50E6A9D5.2090706@mozilla.com>
+Message-ID: <50E6AE25.50306@cazenave.cc>
+
+On 04/01/13 11:07, Fabien Cazenave wrote:
+> une fois n?est pas coutume, on va essayer d?annoncer les prochaines
+> agapes Vimesques un mois à l?avance ! Du jamais vu dans ce projet !
+
+Tant que j?y suis je vais même en profiter pour donner la date, tiens?
+ça se passera le 7 février à 20h, toujours dans les locaux Mozilla du 43 
+rue d?Aboukir. Qu?on se le dise !
+-- 
+:kazé
+
+
+From hobbestigrou at erakis.im  Fri Jan  4 15:51:09 2013
+From: hobbestigrou at erakis.im (=?ISO-8859-1?Q?Natal_Ng=E9tal?=)
+Date: Fri, 4 Jan 2013 15:51:09 +0100
+Subject: [tupperVim] =?iso-8859-1?q?Session_de_F=E9vrier_2013?=
+In-Reply-To: <50E6AE25.50306@cazenave.cc>
+References: <50E6A9D5.2090706@mozilla.com> <50E6AE25.50306@cazenave.cc>
+Message-ID: <CANfeGsv7Q8myDfn1Mm+2yWESx=cVe=sTDA8z0wRoJaOwCzUJrw@mail.gmail.com>
+
+Le 4 janvier 2013 11:25, Fabien Cazenave <fabien at cazenave.cc> a écrit :
+> Tant que j?y suis je vais même en profiter pour donner la date, tiens?
+> ça se passera le 7 février à 20h, toujours dans les locaux Mozilla du 43 rue
+> d?Aboukir. Qu?on se le dise !
+Rien à voir, mais est-ce que il y a du monde qui vient au fosdem. Si
+oui on pourrait voir pour faire un petit quelque chose.
+
+
+--
+\0/ Hobbestigrou
+site web: erakis.im
+
+

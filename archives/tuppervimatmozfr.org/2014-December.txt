@@ -1,0 +1,717 @@
+From keller.mdpa at gmail.com  Wed Dec 10 18:11:10 2014
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Wed, 10 Dec 2014 18:11:10 +0100
+Subject: [tupperVim] =?iso-8859-1?q?Soir=E9e_de_d=E9cembre_2014_-_en_d=E9c?=
+	=?iso-8859-1?q?al=E9=2C_sur_git_et_=E0_la_bourre?=
+Message-ID: <CAM+ya-C3ROsO5sB1HHa9qLiByRDrUsvVSxNA7sg4UYMo47c-7g@mail.gmail.com>
+
+Camarades vimistes,
+Alors là c'est n'importe quoi :
+
+- La soirée aura lieu mardi prochain (le 16 décembre) eh oui déjà !
+- La soirée sera spéciale git (mais on garde le nom de soirée
+  tuppervim, on est comme ça).
+
+- on est pas encore sûr d'avoir la salle, on annulera au pire
+
+Bref en resumé :
+
+Le tuppervim aura donc lieu le mardi 16 décembre dans les locaux de Mozilla
+de 20h à 22h. Merci de vous annoncer sur le pad comme il se doit :
+
+  https://etherpad.mozilla.org/TupperVim-1412
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+ne saurais trop vous recommander d'arriver 15 min en *avance* et de pinguer
+les numéros présents sur le pad pour qu'on vienne vous ouvrir.
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+(un espace est dédié à cette question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l'événement
+dans votre agenda.
+
+D'ici là, soyez de bons citoyens : mettez un bonnet, prenez les transports
+en commun, les velib', les autolib', ne tuez pas de vieilles dames, donnez
+de l'amour aux canards !
+
+\_o<
+
+--
+
+maggick
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20141210/89eb19a0/attachment.html>
+
+From fabien at cazenave.cc  Thu Dec 11 15:40:47 2014
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Thu, 11 Dec 2014 15:40:47 +0100
+Subject: [tupperVim] =?utf-8?q?Soir=C3=A9e_de_d=C3=A9cembre_2014_-_en_d?=
+ =?utf-8?b?w6ljYWzDqSwgc3VyIGdpdCBldCDDoCBsYSBib3VycmU=?=
+In-Reply-To: <CAM+ya-C3ROsO5sB1HHa9qLiByRDrUsvVSxNA7sg4UYMo47c-7g@mail.gmail.com>
+References: <CAM+ya-C3ROsO5sB1HHa9qLiByRDrUsvVSxNA7sg4UYMo47c-7g@mail.gmail.com>
+Message-ID: <5489ACEF.60800@cazenave.cc>
+
+Ayé, on a un hôte pour mardi soir, en la personne de Sodan. Gloire lui 
+soit rendue ! \o/
+
+Ça sera donc bien le mardi 16 décembre à 20h. Merci de vous inscrire :
+
+     https://etherpad.mozilla.org/TupperVim-1412
+
+? et de viendre en masse, comme il se doit.
+
+La soirée étant consacrée à git, ça serait bien que l?on présente des 
+greffons Vim qui facilitent l?utilisation de Git, comme Fugitive par 
+exemple. Si vous utilisez ce genre de greffons, essayez de penser à une 
+présentation SVP !
+
+Paix, amour, canards.
+:kazé
+
+On 10/12/14 18:11, Matthieu Keller wrote:
+> Camarades vimistes,
+> Alors là c'est n'importe quoi :
+>
+> - La soirée aura lieu mardi prochain (le 16 décembre) eh oui déjà !
+> - La soirée sera spéciale git (mais on garde le nom de soirée
+>    tuppervim, on est comme ça).
+>
+> - on est pas encore sûr d'avoir la salle, on annulera au pire
+>
+> Bref en resumé :
+>
+> Le tuppervim aura donc lieu le mardi 16 décembre dans les locaux de Mozilla
+> de 20h à 22h. Merci de vous annoncer sur le pad comme il se doit :
+>
+>    https://etherpad.mozilla.org/TupperVim-1412
+>
+> La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+> ne saurais trop vous recommander d'arriver 15 min en *avance* et de pinguer
+> les numéros présents sur le pad pour qu'on vienne vous ouvrir.
+>
+> Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+> (un espace est dédié à cette question sur le pad).
+>
+> Un email de rappel sera probablement envoyé quelques jours/heures avant les
+> agapes. Mais je ne peux que fortement vous conseiller d'inscrire l'événement
+> dans votre agenda.
+>
+> D'ici là, soyez de bons citoyens : mettez un bonnet, prenez les transports
+> en commun, les velib', les autolib', ne tuez pas de vieilles dames, donnez
+> de l'amour aux canards !
+>
+> \_o<
+>
+> --
+>
+> maggick
+>
+
+
+From tozz at tozz.cc  Sat Dec 13 13:22:38 2014
+From: tozz at tozz.cc (TozZ)
+Date: Sat, 13 Dec 2014 13:22:38 +0100
+Subject: [tupperVim] =?utf-8?q?Commande_group=C3=A9e_Elitekeyboard?=
+Message-ID: <1b95b5d312da819e130669711b45cf0c@gavoty.net>
+
+Salut à tous,
+
+lors d'un précédent tupperVim, un gentil vimiste m'avait donné 
+l'opportunité d'essayer son Happy Hacking Professional 2. Les fêtes de 
+fin d'année me poussant à l'achat, je compte en commander un très 
+prochainement et souhaitait savoir si certains d'entre vous étaient 
+intéressés par un achat groupé.
+
+Le clavier est actuellement en promotion chez Elitekeyboard [1] (235 USD 
+au lieu de 260 USD soit 188.29?). Les frais de port vers la France sont 
+de : 56.56 USD soit 45.32?. Pour peux que nous soyons deux à commander 
+chez Elitekeyboard, le prix total d'un clavier (sans compter les 
+éventuels frais de douanes) seraient alors de : 210.95?.
+
+Je compte passer commande en fin de semaine prochaine, aussi faites-moi 
+part de votre intérêt d'ici là. Ou peut-être avez-vous d'autres 
+plans/recommandations, dans ce cas n'hésitez pas à m'en informer.
+
+À mardi,
+
+
+Théodore
+
+1. 
+https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400b
+
+
+From fabien at cazenave.cc  Sun Dec 14 15:49:21 2014
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Sun, 14 Dec 2014 15:49:21 +0100
+Subject: [tupperVim] =?utf-8?q?Commande_group=C3=A9e_Elitekeyboard?=
+In-Reply-To: <1b95b5d312da819e130669711b45cf0c@gavoty.net>
+References: <1b95b5d312da819e130669711b45cf0c@gavoty.net>
+Message-ID: <548DA371.5090406@cazenave.cc>
+
+Accessoire indispensable : ^^
+https://elitekeyboards.com/products.php?pid=hh_redesc
+
+Blague à part, c?est un excellent clavier qui vaut largement son prix, 
+mais attention à deux points :
+
+  ? les contacts sont capacitifs ? c?est souple, confortable, 
+indestructible, mais pas aussi « franc » qu?un contact Cherry ;
+
+  ? la disposition n?est pas tout-à-fait standard, cf. positions de 
+backtick (`), backslash (\), backspace/delete, control, et l?absence de 
+flèches en accès direct (parfait pour apprendre les mouvements en hjkl 
+et wbe dans Vim !).
+
+Notez aussi que si vous tapez avec une dispo non-qwerty, il y a un 
+modèle non-sérigraphié qui fera encore plus classe, pour le même prix ? 
+parfait pour apprendre à taper en dactylo.
+
+https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400bn
+
+:kazé
+
+On 13/12/14 13:22, TozZ wrote:
+> Salut à tous,
+>
+> lors d'un précédent tupperVim, un gentil vimiste m'avait donné
+> l'opportunité d'essayer son Happy Hacking Professional 2. Les fêtes de
+> fin d'année me poussant à l'achat, je compte en commander un très
+> prochainement et souhaitait savoir si certains d'entre vous étaient
+> intéressés par un achat groupé.
+>
+> Le clavier est actuellement en promotion chez Elitekeyboard [1] (235 USD
+> au lieu de 260 USD soit 188.29?). Les frais de port vers la France sont
+> de : 56.56 USD soit 45.32?. Pour peux que nous soyons deux à commander
+> chez Elitekeyboard, le prix total d'un clavier (sans compter les
+> éventuels frais de douanes) seraient alors de : 210.95?.
+>
+> Je compte passer commande en fin de semaine prochaine, aussi faites-moi
+> part de votre intérêt d'ici là. Ou peut-être avez-vous d'autres
+> plans/recommandations, dans ce cas n'hésitez pas à m'en informer.
+>
+> À mardi,
+>
+>
+> Théodore
+>
+> 1.
+> https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400b
+>
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> http://mozfr.org/mailman/listinfo/tuppervim
+
+
+From cdevienne at gmail.com  Mon Dec 15 23:47:24 2014
+From: cdevienne at gmail.com (Christophe de Vienne)
+Date: Mon, 15 Dec 2014 23:47:24 +0100
+Subject: [tupperVim] =?utf-8?q?Commande_group=C3=A9e_Elitekeyboard?=
+In-Reply-To: <548DA371.5090406@cazenave.cc>
+References: <1b95b5d312da819e130669711b45cf0c@gavoty.net>
+ <548DA371.5090406@cazenave.cc>
+Message-ID: <548F64FC.4010701@gmail.com>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Bonjour,
+
+Je profite du thread (pardon) pour poser une question clavier :
+est-ce que vous avez déjà testé/utilisé le kinesis advantage ?
+
+Christophe
+
+Le 14/12/2014 15:49, Fabien Cazenave a écrit :
+> Accessoire indispensable : ^^ 
+> https://elitekeyboards.com/products.php?pid=hh_redesc
+> 
+> Blague à part, c?est un excellent clavier qui vaut largement son
+> prix, mais attention à deux points :
+> 
+> ? les contacts sont capacitifs ? c?est souple, confortable, 
+> indestructible, mais pas aussi « franc » qu?un contact Cherry ;
+> 
+> ? la disposition n?est pas tout-à-fait standard, cf. positions de 
+> backtick (`), backslash (\), backspace/delete, control, et
+> l?absence de flèches en accès direct (parfait pour apprendre les
+> mouvements en hjkl et wbe dans Vim !).
+> 
+> Notez aussi que si vous tapez avec une dispo non-qwerty, il y a un 
+> modèle non-sérigraphié qui fera encore plus classe, pour le même
+> prix ? parfait pour apprendre à taper en dactylo.
+> 
+> https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400bn
+>
+> 
+> 
+> :kazé
+> 
+> On 13/12/14 13:22, TozZ wrote:
+>> Salut à tous,
+>> 
+>> lors d'un précédent tupperVim, un gentil vimiste m'avait donné 
+>> l'opportunité d'essayer son Happy Hacking Professional 2. Les
+>> fêtes de fin d'année me poussant à l'achat, je compte en
+>> commander un très prochainement et souhaitait savoir si certains
+>> d'entre vous étaient intéressés par un achat groupé.
+>> 
+>> Le clavier est actuellement en promotion chez Elitekeyboard [1]
+>> (235 USD au lieu de 260 USD soit 188.29?). Les frais de port vers
+>> la France sont de : 56.56 USD soit 45.32?. Pour peux que nous
+>> soyons deux à commander chez Elitekeyboard, le prix total d'un
+>> clavier (sans compter les éventuels frais de douanes) seraient
+>> alors de : 210.95?.
+>> 
+>> Je compte passer commande en fin de semaine prochaine, aussi
+>> faites-moi part de votre intérêt d'ici là. Ou peut-être avez-vous
+>> d'autres plans/recommandations, dans ce cas n'hésitez pas à m'en
+>> informer.
+>> 
+>> À mardi,
+>> 
+>> 
+>> Théodore
+>> 
+>> 1. 
+>> https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400b
+>>
+>>
+>>
+>>
+>> 
+_______________________________________________
+>> tupperVim mailing list tupperVim at mozfr.org 
+>> http://mozfr.org/mailman/listinfo/tuppervim
+> 
+> _______________________________________________ tupperVim mailing
+> list tupperVim at mozfr.org 
+> http://mozfr.org/mailman/listinfo/tuppervim
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJUj2T8AAoJEFATnylB+5mR+qwH/3eLqBaK1tUqAQFauCXWW1W7
+TeqL5Ke/EKFNj3V2T6RsoLj0InyOrUneYdZYWophsICwffnjC22BBr/ioWYPTOZB
+WokzbY83dg7y3R6+m6tGGxYbj0ij9K8XKWxSxPE/YP672o6tx9L65L2ssYzswHYG
+ue/O9rjKAvE/zw2niu1ZkksKI4fIUldbA/QIobjBwNoIJZ7MdRYykt7o/CW6zTXU
+ol0QauOPHYZdNy+cK+5zzy0GrfeIm9nEguqbmMxVPT6Bw8p27UZ8WuVXdq3x0LWo
+mELqicdvDFAPgGhd5B053NGw/sYTCU0zqYFtQpdJqYsind2mYnRK3UMNDtRIgCo=
+=XBrk
+-----END PGP SIGNATURE-----
+
+
+From fabien at cazenave.cc  Fri Dec 19 22:52:07 2014
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Fri, 19 Dec 2014 22:52:07 +0100
+Subject: [tupperVim] =?utf-8?q?une_id=C3=A9e_pour_live-twitter_les_agapes?=
+	=?utf-8?b?wqA/?=
+Message-ID: <54949E07.1000009@cazenave.cc>
+
+Canettes, canetons, bonsoir.
+
+Suite à nos agapes de mardi dernier (qui poutrèrent de l?ours, encore et 
+derechef), je me dis que ça pourrait être sympa de « live-twitter » 
+certaines astuces en temps réel. Reste à savoir comment on pourrait s?y 
+prendre.
+
+Évidemment, la première idée qui vient à l?esprit serait de prendre l?un 
+des participants, de lui filer un accès au compte @tupperVim, de 
+l?enchaîner à une chaise sans eau ni nourriture, et de lui ordonner de 
+twitter avec rapidité et précision chaque astuce pertinente qui passe. 
+En échange de quoi, on lui donne une cahuète par gazouillis et un coup 
+de pied par faute d?orthographe.
+
+Le défaut de cette approche naturelle c?est qu?elle ne refléterait pas 
+tout-à-fait le haut niveau de technicité qui nous caractérise. On doit 
+pouvoir faire plus « hype ».
+
+J?ai pensé à un bot IRC qu?on activerait pendant les agapes (et qui 
+aurait accès au compte @tupperVim), appelons-le « twitduck » pour 
+l?exemple. Voilà comment j?imagine l?utilisation :
+
+     alkino | twitduck: "cd -" pour revenir au précédent répertoire
+   twitduck | alkino: gazouillé
+     alkino | twitduck: "git co -" pour revenir à la branche précédente
+   twitduck | alkino: gazouillé
+       kaze | twitduck: ta mère c?est Nadine Morano, tu sens le poney,
+            | lorem ipsum dolor sit amet, consectetur adipiscing elit,
+            | sed do eiusmod tempor incididunt ut labore et dolore magna
+            | aliqua, va faire du LISP avec des poulpes.
+   twitduck | kaze: pas gazouillé, message trop long
+
+Est-ce que l?idée vous plaît ? Si oui, il va sans dire que je n?ai 
+jamais codé de bot IRC, et que je compte donc sur les plus malins 
+d?entre vous pour nous proposer ça. :-)
+
+Si vous avez d?autres idées pour live-twitter nos agapes, je suis 
+preneur aussi. Peut-être qu?un bout de serveur web ferait mieux 
+l?affaire, je n?en sais trop rien.
+
+\_o<
+-- 
+:kazé
+
+
+From fabien at cazenave.cc  Wed Dec 24 09:29:40 2014
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Wed, 24 Dec 2014 09:29:40 +0100
+Subject: [tupperVim] =?utf-8?q?Soir=C3=A9e*s*_de_janvier_2015?=
+Message-ID: <549A7974.6040704@cazenave.cc>
+
+Chers camarades Vimistes,
+
+c?est avec une remarquable avance que j?ai le plaisir de vous annoncer 
+nos prochaines agapes dans les locaux de Mozilla à Paris, le mardi 6 
+janvier 2015 de 20h à 22h. Merci de vous inscrire sur le pad :
+
+   https://etherpad.mozilla.org/TupperVim-1501
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, 
+il est vivement recommandé d'arriver 15 min en *avance* et de pinguer 
+les numéros présents sur le pad pour qu'on vienne vous ouvrir.
+
+Les gens bien penseront à apporter des trucs à grignoter, ou des trucs à 
+boire (l?hydratation c?est très important). Un espace est dédié à cette 
+question sur le pad.
+
+Ayant bien bossé sur la question récemment, je pourrai proposer une 
+présentation de l?auto-complétion dans Vim (notamment pour le JavaScript 
+? on ne se refait pas?).
+
+
+Bonus ! La magie de Noël aidant, on va /aussi/ avoir le plaisir de faire 
+une soirée Vim dans un endroit civilisé, à Lyon, le jeudi 8 janvier 2015 :
+
+   https://lite5.framapad.org/p/tupperVim
+
+Là ce n?est plus Mozilla qui reçoit mais l?ALDIL ? des gens bien, 
+puisque libristes et lyonnais. Pour cette soirée lyonnaise, la 
+bienséance requiert une inscription par courriel, voir le framapad 
+ci-dessus pour les détails.
+
+
+D?ici là, passez tous de bonnes fêtes : abusez comme il se doit de 
+canards, chocolats, pinards, et méfiez-vous des messes de Noël où seul 
+le maître de cérémonie a de quoi picoler.
+
+\_o<
+-- 
+:kazé
+
+
+From guyzmo+tuppervim at m0g.net  Tue Dec 30 22:41:22 2014
+From: guyzmo+tuppervim at m0g.net (guyzmo)
+Date: Tue, 30 Dec 2014 22:41:22 +0100
+Subject: [tupperVim]
+ =?iso-8859-1?q?une_id=E9e_pour_live-twitter_les_agape?=
+ =?iso-8859-1?q?s=A0=3F?=
+In-Reply-To: <54949E07.1000009@cazenave.cc>
+References: <54949E07.1000009@cazenave.cc>
+Message-ID: <20141230214122.GM24367@vilya.online.net>
+
+On Fri, Dec 19, 2014 at 10:52:07PM +0100, Fabien Cazenave wrote:
+[?]
+> Est-ce que l?idée vous plaît ? 
+
+boah pourquoi pas. C'est toujours drôle.
+
+> Si oui, il va sans dire que je n?ai jamais codé de bot IRC, et que je
+> compte donc sur les plus malins d?entre vous pour nous proposer ça. :-)
+
+supybot for the win.
+
+Si j'ai un peu de temps, je peux essayer de mettre ça en place.
+
+> Si vous avez d?autres idées pour live-twitter nos agapes, je suis preneur
+> aussi. Peut-être qu?un bout de serveur web ferait mieux l?affaire, je n?en
+> sais trop rien.
+
+ou sinon la commande "t".
+
+\_o<
+
+-- 
+Guyzmo
+
+
+From fabien at cazenave.cc  Tue Dec 30 23:04:00 2014
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Tue, 30 Dec 2014 23:04:00 +0100
+Subject: [tupperVim]
+ =?utf-8?q?une_id=C3=A9e_pour_live-twitter_les_agapes?=
+ =?utf-8?b?wqA/?=
+In-Reply-To: <20141230214122.GM24367@vilya.online.net>
+References: <54949E07.1000009@cazenave.cc>
+ <20141230214122.GM24367@vilya.online.net>
+Message-ID: <54A32150.1090809@cazenave.cc>
+
+On 30/12/14 22:41, guyzmo wrote:
+> supybot for the win.
+>
+> Si j'ai un peu de temps, je peux essayer de mettre ça en place.
+>
+
+Ah cool ça ! Mais vois d?abord avec Alkino STP, il a déjà commencé à 
+coder quelque chose.
+
+>> Si vous avez d?autres idées pour live-twitter nos agapes, je suis preneur
+>> aussi. Peut-être qu?un bout de serveur web ferait mieux l?affaire, je n?en
+>> sais trop rien.
+>
+> ou sinon la commande "t".
+>
+
+Gni ?
+
+-- 
+:kazé
+
+
+From guyzmo+tuppervim at m0g.net  Tue Dec 30 23:20:47 2014
+From: guyzmo+tuppervim at m0g.net (guyzmo)
+Date: Tue, 30 Dec 2014 23:20:47 +0100
+Subject: [tupperVim]
+ =?iso-8859-1?q?une_id=E9e_pour_live-twitter_les_agape?=
+ =?iso-8859-1?q?s=A0=3F?=
+In-Reply-To: <54A32150.1090809@cazenave.cc>
+References: <54949E07.1000009@cazenave.cc>
+ <20141230214122.GM24367@vilya.online.net>
+ <54A32150.1090809@cazenave.cc>
+Message-ID: <20141230222047.GN24367@vilya.online.net>
+
+On Tue, Dec 30, 2014 at 11:04:00PM +0100, Fabien Cazenave wrote:
+> On 30/12/14 22:41, guyzmo wrote:
+> >supybot for the win.
+> >
+> >Si j'ai un peu de temps, je peux essayer de mettre ça en place.
+> >
+> 
+> Ah cool ça ! Mais vois d?abord avec Alkino STP, il a déjà commencé à coder
+> quelque chose.
+
+il va encore nous faire un biniou en C++ qui va mettre des canards en
+orbite lancé par de petits robots !
+
+Alors que c'est tout cuit avec supybot: 
+
+    https://github.com/rubinlinux/supybot-twitter
+
+> >>Si vous avez d?autres idées pour live-twitter nos agapes, je suis preneur
+> >>aussi. Peut-être qu?un bout de serveur web ferait mieux l?affaire, je n?en
+> >>sais trop rien.
+> >ou sinon la commande "t".
+> Gni ?
+
+http://sferik.github.io/t/
+
+t update "coin meuh"
+
+> :kazé
+E488: Trailing characters
+
+-- 
+Guyzmo
+
+
+From fabien at cazenave.cc  Tue Dec 30 23:35:54 2014
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Tue, 30 Dec 2014 23:35:54 +0100
+Subject: [tupperVim]
+ =?utf-8?q?une_id=C3=A9e_pour_live-twitter_les_agapes?=
+ =?utf-8?b?wqA/?=
+In-Reply-To: <20141230222047.GN24367@vilya.online.net>
+References: <54949E07.1000009@cazenave.cc>
+ <20141230214122.GM24367@vilya.online.net> <54A32150.1090809@cazenave.cc>
+ <20141230222047.GN24367@vilya.online.net>
+Message-ID: <54A328CA.3080107@cazenave.cc>
+
+
+
+On 30/12/14 23:20, guyzmo wrote:
+> On Tue, Dec 30, 2014 at 11:04:00PM +0100, Fabien Cazenave wrote:
+>> On 30/12/14 22:41, guyzmo wrote:
+>>> supybot for the win.
+>>>
+>>> Si j'ai un peu de temps, je peux essayer de mettre ça en place.
+>>>
+>>
+>> Ah cool ça ! Mais vois d?abord avec Alkino STP, il a déjà commencé à coder
+>> quelque chose.
+>
+> il va encore nous faire un biniou en C++ qui va mettre des canards en
+> orbite lancé par de petits robots !
+>
+> Alors que c'est tout cuit avec supybot:
+>
+>      https://github.com/rubinlinux/supybot-twitter
+>
+
+C?est possible, mais les canards en orbite c?est classe ! ^^
+Vu qu?Alkino a commencé le dév, je le laisse voir s?il veut finir ou 
+réutiliser ça.
+
+>>>> Si vous avez d?autres idées pour live-twitter nos agapes, je suis preneur
+>>>> aussi. Peut-être qu?un bout de serveur web ferait mieux l?affaire, je n?en
+>>>> sais trop rien.
+>>> ou sinon la commande "t".
+>> Gni ?
+>
+> http://sferik.github.io/t/
+>
+> t update "coin meuh"
+>
+
+C?est multi-user-friendly, ça ?
+
+Je voudrais éviter de partager les identifiants de connexion du compte 
+@tupperVim à tout le monde, ou de demander aux deux/trois détenteurs de 
+ces identifiants de se taper tout le live-gazouillage ? d?où l?idée d?un 
+bot IRC.
+
+-- 
+:kazé
+
+
+From nicolac76 at yahoo.fr  Tue Dec 30 23:43:09 2014
+From: nicolac76 at yahoo.fr (nico cornu)
+Date: Tue, 30 Dec 2014 22:43:09 +0000 (UTC)
+Subject: [tupperVim]
+ =?utf-8?q?une_id=C3=A9e_pour_live-twitter_les_agapes?=
+ =?utf-8?b?wqA/?=
+In-Reply-To: <54A328CA.3080107@cazenave.cc>
+References: <54A328CA.3080107@cazenave.cc>
+Message-ID: <2038843515.2898869.1419979389707.JavaMail.yahoo@jws11159.mail.ir2.yahoo.com>
+
+Alors j'ai abandonné.
+Pour utiliser l'API twitter en lecture / écriture il faut donner son numéro de téléphone...
+Du coup j'ai tenté de reverse le truc pour me connecter à Twitter avec python-requests, j'y arrive mais je n'arrive pas à garder la connection. j'ai vite fait tenté de comprendre comment procédait weboob mais ça a trop changé depuis la dernière fois que j'ai mit le nez dedans. J'ai peur que ça me prenne trop de temps de comprendre.
+
+Du coup, libre à vous de reprendre le bouzin de 0. 
+
+     Le Mardi 30 décembre 2014 23h36, Fabien Cazenave <fabien at cazenave.cc> a écrit :
+   
+
+ 
+
+On 30/12/14 23:20, guyzmo wrote:
+> On Tue, Dec 30, 2014 at 11:04:00PM +0100, Fabien Cazenave wrote:
+>> On 30/12/14 22:41, guyzmo wrote:
+>>> supybot for the win.
+>>>
+>>> Si j'ai un peu de temps, je peux essayer de mettre ça en place.
+>>>
+>>
+>> Ah cool ça ! Mais vois d?abord avec Alkino STP, il a déjà commencé à coder
+>> quelque chose.
+>
+> il va encore nous faire un biniou en C++ qui va mettre des canards en
+> orbite lancé par de petits robots !
+>
+> Alors que c'est tout cuit avec supybot:
+>
+>      https://github.com/rubinlinux/supybot-twitter
+>
+
+C?est possible, mais les canards en orbite c?est classe ! ^^
+Vu qu?Alkino a commencé le dév, je le laisse voir s?il veut finir ou 
+réutiliser ça.
+
+>>>> Si vous avez d?autres idées pour live-twitter nos agapes, je suis preneur
+>>>> aussi. Peut-être qu?un bout de serveur web ferait mieux l?affaire, je n?en
+>>>> sais trop rien.
+>>> ou sinon la commande "t".
+>> Gni ?
+>
+> http://sferik.github.io/t/
+>
+> t update "coin meuh"
+>
+
+C?est multi-user-friendly, ça ?
+
+Je voudrais éviter de partager les identifiants de connexion du compte 
+@tupperVim à tout le monde, ou de demander aux deux/trois détenteurs de 
+ces identifiants de se taper tout le live-gazouillage ? d?où l?idée d?un 
+bot IRC.
+
+-- 
+:kazé
+
+_______________________________________________
+tupperVim mailing list
+tupperVim at mozfr.org
+http://mozfr.org/mailman/listinfo/tuppervim
+
+
+   
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20141230/586ed55c/attachment.html>
+
+From guyzmo+tuppervim at m0g.net  Wed Dec 31 08:51:51 2014
+From: guyzmo+tuppervim at m0g.net (Guyzmo)
+Date: Wed, 31 Dec 2014 08:51:51 +0100
+Subject: [tupperVim]
+ =?iso-8859-1?q?une_id=E9e_pour_live-twitter_les_agape?=
+ =?iso-8859-1?q?s=A0=3F?=
+In-Reply-To: <2038843515.2898869.1419979389707.JavaMail.yahoo@jws11159.mail.ir2.yahoo.com>
+ <54A328CA.3080107@cazenave.cc>
+Message-ID: <20141231075151.GO24367@vilya.online.net>
+
+On Tue, Dec 30, 2014 at 11:35:54PM +0100, Fabien Cazenave wrote:
+> On 30/12/14 23:20, guyzmo wrote:
+> >On Tue, Dec 30, 2014 at 11:04:00PM +0100, Fabien Cazenave wrote:
+> >>On 30/12/14 22:41, guyzmo wrote:
+> >>>supybot for the win.
+> >>>Si j'ai un peu de temps, je peux essayer de mettre ça en place.
+> >>Ah cool ça ! Mais vois d?abord avec Alkino STP, il a déjà commencé à coder
+> >>quelque chose.
+On Tue, Dec 30, 2014 at 10:43:09PM +0000, nico cornu wrote:
+> Alors j'ai abandonné.
+> Pour utiliser l'API twitter en lecture / écriture il faut donner son numéro de téléphone...
+> Du coup j'ai tenté de reverse le truc pour me connecter à Twitter avec python-requests, j'y arrive mais je n'arrive pas à garder la connection. j'ai vite fait tenté de comprendre comment procédait weboob mais ça a trop changé depuis la dernière fois que j'ai mit le nez dedans. J'ai peur que ça me prenne trop de temps de comprendre.
+> 
+> Du coup, libre à vous de reprendre le bouzin de 0. 
+
+
+> >il va encore nous faire un biniou en C++ qui va mettre des canards en
+> >orbite lancé par de petits robots !
+> >Alors que c'est tout cuit avec supybot:
+> >     https://github.com/rubinlinux/supybot-twitter
+> C?est possible, mais les canards en orbite c?est classe ! ^^
+> Vu qu?Alkino a commencé le dév, je le laisse voir s?il veut finir ou
+> réutiliser ça.
+
+    Bon beh, du coup je vais avoir besoin de l'API  key  pour  le compte
+twitter du tuppervim. J'ai déjà config un supybot, mais c'est la partie
+la plus importante du test. :-)
+
+    D'ici là je vais tester avec mon  tompte  test  (qui  s'appelle bien
+justement test0rburn0r).
+
+> >>>>Si vous avez d?autres idées pour live-twitter nos agapes, je suis preneur
+> >>>>aussi. Peut-être qu?un bout de serveur web ferait mieux l?affaire, je n?en
+> >>>>sais trop rien.
+> >>>ou sinon la commande "t".
+> >>Gni ?
+> >http://sferik.github.io/t/
+> >t update "coin meuh"
+> C?est multi-user-friendly, ça ?
+> Je voudrais éviter de partager les identifiants de connexion du compte
+> @tupperVim à tout le monde, ou de demander aux deux/trois détenteurs de ces
+> identifiants de se taper tout le live-gazouillage ? d?où l?idée d?un bot
+> IRC.
+
+    non, après sur le principe de twitter on peut chacun twitter avec un
+hashtag #tuppervim ou #canard et avoir  un  "bot"  twitter  qui retweete
+tous les tweets ainsi reçus.
+
+-- 
+Guyzmo
+
+

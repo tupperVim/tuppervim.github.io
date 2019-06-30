@@ -1,0 +1,73 @@
+From keller.mdpa at gmail.com  Mon Mar 18 11:17:40 2019
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Mon, 18 Mar 2019 11:17:40 +0100
+Subject: [tupperVim] Paris, agapes d'avril
+Message-ID: <CAM+ya-CZEHYNtq4pk4Puo=yw4OEpdE9ruTGP1TXPa54gxXFj_g@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim d'avril, le premier de 2019, est annoncé.
+Nous continuons notre tour des locaux et bureaux Parisiens.
+Il aura lieu le mercredi 10 avril dans les locaux de Sqreen
+23 Rue de Cléry, 75002 Paris de 19h à 22h
+
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1904
+
+C'est la première fois que nous nous rendrons dans les locaux de Sqreen,
+soyez sages :)
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l’évènement
+dans votre agenda.
+
+D’ici là, soyez de bons citoyens et donnez de l’amour aux canards.
+
+--
+maggick | \_o<
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20190318/0b8a2d23/attachment.html>
+
+From keller.mdpa at gmail.com  Mon Mar 18 15:56:57 2019
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Mon, 18 Mar 2019 15:56:57 +0100
+Subject: [tupperVim] Paris, agapes d'avril
+In-Reply-To: <CAM+ya-CZEHYNtq4pk4Puo=yw4OEpdE9ruTGP1TXPa54gxXFj_g@mail.gmail.com>
+References: <CAM+ya-CZEHYNtq4pk4Puo=yw4OEpdE9ruTGP1TXPa54gxXFj_g@mail.gmail.com>
+Message-ID: <CAM+ya-AO=XkuPDfQ+Rsp09Btf-UGKCcoR=xCFx6Rs0s_vNJ25w@mail.gmail.com>
+
+ERRATUM dans le lien du pad.
+Le pad est chez framasoft:
+https://mensuel.framapad.org/p/tuppervim-paris-1904
+
+-----------------
+
+Camarades vimistes,
+
+Le tuppervim d'avril, le premier de 2019, est annoncé.
+Nous continuons notre tour des locaux et bureaux Parisiens.
+Il aura lieu le mercredi 10 avril dans les locaux de Sqreen
+23 Rue de Cléry, 75002 Paris de 19h à 22h
+
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://mensuel.framapad.org/p/tuppervim-paris-1904
+
+C'est la première fois que nous nous rendrons dans les locaux de Sqreen,
+soyez sages :)
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l’évènement
+dans votre agenda.
+
+D’ici là, soyez de bons citoyens et donnez de l’amour aux canards.
+
+--
+maggick | \_o<
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20190318/81df59e5/attachment.html>
+

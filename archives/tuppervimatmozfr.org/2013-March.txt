@@ -1,0 +1,216 @@
+From endymion+vim at thetys-retz.net  Sat Mar  2 11:05:30 2013
+From: endymion+vim at thetys-retz.net (Vincent-Xavier JUMEL)
+Date: Sat, 2 Mar 2013 11:05:30 +0100
+Subject: [tupperVim] =?utf-8?q?Mod=C3=A8les_de_fichiers_en_fonction_de_r?=
+ =?utf-8?b?w6hnbGVz?=
+Message-ID: <20130302100530.GA27466@thetys-retz.net>
+
+Je crois que theo était venu avec un tuppervim contenant une astuce pour
+«pré-remplir» l'entête d'un fichier C ou perl. Le script vim détectait
+si c'était perl ou C.
+
+Bisous à celui qui me retrouve ça.
+
+-- 
+Vincent-Xavier JUMEL GPG Id: 0x2E14CE70 http://thetys-retz.net
+
+Rejoignez les 4938 adhérents de l'April http://www.april.org/adherer
+Parinux, logiciel libre à Paris : http://www.parinux.org
+
+
+From simon.chabot at chabotsi.fr  Sat Mar  2 12:04:57 2013
+From: simon.chabot at chabotsi.fr (Simon Chabot)
+Date: Sat, 2 Mar 2013 12:04:57 +0100
+Subject: [tupperVim]
+ =?iso-8859-1?q?Mod=E8les_de_fichiers_en_fonction_de_r?=
+ =?iso-8859-1?q?=E8gles?=
+In-Reply-To: <20130302100530.GA27466@thetys-retz.net>
+References: <20130302100530.GA27466@thetys-retz.net>
+Message-ID: <20130302110456.GC13730@chabotsi.no-ip.org>
+
+au BufNewFile *.py 0r ~/.vim/templates/python.py
+
+On Saturday 02 Mar 2013 à 11:05:30 (+0100), Vincent-Xavier JUMEL wrote :
+> Je crois que theo était venu avec un tuppervim contenant une astuce pour
+> «pré-remplir» l'entête d'un fichier C ou perl. Le script vim détectait
+> si c'était perl ou C.
+> 
+> Bisous à celui qui me retrouve ça.
+> 
+> -- 
+> Vincent-Xavier JUMEL GPG Id: 0x2E14CE70 http://thetys-retz.net
+
+-- 
+CHABOT Simon
+Université de Technologie de Compiègne
+GPG KeyID : B6DFD50C
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: signature.asc
+Type: application/pgp-signature
+Taille: 669 octets
+Desc: Digital signature
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20130302/653badcd/attachment.pgp>
+
+From nicolac76 at yahoo.fr  Sat Mar  2 12:26:10 2013
+From: nicolac76 at yahoo.fr (nico cornu)
+Date: Sat, 2 Mar 2013 11:26:10 +0000 (GMT)
+Subject: [tupperVim]
+ =?iso-8859-1?q?Mod=E8les_de_fichiers_en_fonction_de_r?=
+ =?iso-8859-1?q?=E8gles?=
+In-Reply-To: <20130302110456.GC13730@chabotsi.no-ip.org>
+References: <20130302100530.GA27466@thetys-retz.net>
+	<20130302110456.GC13730@chabotsi.no-ip.org>
+Message-ID: <1362223570.87854.YahooMailNeo@web133203.mail.ir2.yahoo.com>
+
+Bon ceci n'est pas testé mais marche en théorie pour tout type de fichier, et cherche dans tous les dossiers runtime ;)
+
+http://vpaste.net/2z3Sq
+
+On rajoute dans le .vimrc
+:autocmd BufNewFile * :call addFile()
+
+
+
+
+________________________________
+ De : Simon Chabot <simon.chabot at chabotsi.fr>
+À : tuppervim at mozfr.org 
+Envoyé le : Samedi 2 mars 2013 12h04
+Objet : Re: [tupperVim] Modèles de fichiers en fonction de règles
+ 
+au BufNewFile *.py 0r ~/.vim/templates/python.py
+
+On Saturday 02 Mar 2013 à 11:05:30 (+0100), Vincent-Xavier JUMEL wrote :
+> Je crois que theo était venu avec un tuppervim contenant une astuce pour
+> «pré-remplir» l'entête d'un fichier C ou perl. Le script vim détectait
+> si c'était perl ou C.
+> 
+> Bisous à celui qui me retrouve ça.
+> 
+> -- 
+> Vincent-Xavier JUMEL GPG Id: 0x2E14CE70 http://thetys-retz.net
+
+-- 
+CHABOT Simon
+Université de Technologie de Compiègne
+GPG KeyID : B6DFD50C
+
+_______________________________________________
+tupperVim mailing list
+tupperVim at mozfr.org
+http://mozfr.org/mailman/listinfo/tuppervim
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20130302/5648bca7/attachment.html>
+
+From Sylvain.Soliman+tuppervim at m4x.org  Sat Mar  2 13:11:07 2013
+From: Sylvain.Soliman+tuppervim at m4x.org (Sylvain Soliman)
+Date: Sat, 2 Mar 2013 13:11:07 +0100
+Subject: [tupperVim]
+ =?utf-8?q?Mod=C3=A8les_de_fichiers_en_fonction_de_r?=
+ =?utf-8?b?w6hnbGVz?=
+In-Reply-To: <20130302100530.GA27466@thetys-retz.net>
+References: <20130302100530.GA27466@thetys-retz.net>
+Message-ID: <20130302121107.GA58103@macbook-air.inria.fr>
+
+* Vincent-Xavier JUMEL <endymion+vim at thetys-retz.net>:
+> Je crois que theo était venu avec un tuppervim contenant une astuce pour
+> «pré-remplir» l'entête d'un fichier C ou perl. Le script vim détectait
+> si c'était perl ou C.
+
+Pas vraiment spécifique à ce problème, mais les différents systèmes de
+"snippets" (SnipMate et UtilSnips étant les deux plus utilisés à ma
+connaissance) font un peu ça (aussi).
+
+Par exemple le snippet #! sera expansé en fonction du type de fichier
+(perl, python, etc.), pour python les import et if __main__... sont aussi
+disponibles en quelques touches.
+
+Bref, pas vraiment la réponse à la question, mais une alternative que
+personnellement je trouve assez utile.
+
+        Sylvain
+
+-- 
+Sylvain Soliman <Sylvain.Soliman at m4x.org>   GnuPG Public Key: 0x0F53AF99
+Page personnelle                   http://contraintes.inria.fr/~soliman/
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: smime.p7s
+Type: application/x-pkcs7-signature
+Taille: 2911 octets
+Desc: non disponible
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20130302/d756ece6/attachment.bin>
+
+From fournier at lavabit.com  Sun Mar 17 13:59:34 2013
+From: fournier at lavabit.com (=?iso-8859-1?Q?Rapha=EBl?= Fournier-S'niehotta)
+Date: Sun, 17 Mar 2013 13:59:34 +0100
+Subject: [tupperVim] Vim sans hjkl
+Message-ID: <20130317125934.GA5747@danglard>
+
+Salut,
+
+On en a parlé au dernier TupperVim et c'est sorti dans mon agrégateur dans la
+foulée, un article sur "Vim sans hjkl", les bien-fondés de l'exercice et les
+moyens de survivre :
+  http://pbrisbin.com/posts/hard_mode
+
+J'y ai appris deux trois choses intéressantes, notamment sur la manipulation de
+texte en mode Ex (exemple : :2,7co . pour copier les lignes 2 à 7 ici).
+
+À bientôt,
+-- 
+Raphaël Fournier-S'niehotta
+www.raphaelfournier.net/about
+
+
+
+
+From Sylvain.Soliman+tuppervim at m4x.org  Sun Mar 17 15:26:49 2013
+From: Sylvain.Soliman+tuppervim at m4x.org (Sylvain Soliman)
+Date: Sun, 17 Mar 2013 15:26:49 +0100
+Subject: [tupperVim] Vim sans hjkl
+In-Reply-To: <20130317125934.GA5747@danglard>
+References: <20130317125934.GA5747@danglard>
+Message-ID: <20130317142649.GK93343@macbook-air.inria.fr>
+
+    Bonjour,
+
+* Raphaël Fournier-S'niehotta <fournier at lavabit.com>:
+> On en a parlé au dernier TupperVim et c'est sorti dans mon agrégateur dans la
+> foulée, un article sur "Vim sans hjkl", les bien-fondés de l'exercice et les
+> moyens de survivre :
+>   http://pbrisbin.com/posts/hard_mode
+
+Comme souvent, c'est chez Drew Neil, l'auteur de Practical Vim (affiliate
+link:
+http://www.amazon.fr/Practical-Vim-Edit-Speed-Thought/dp/1934356980%3FSubscriptionId%3DAKIAJIW2P6KKG3WCBMCA%26tag%3Dsoli05-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1934356980)
+que j'ai découvert le concept :
+
+http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/
+
+Personnellement, je remappe vers nop les triples répétitions (hhh, jjj, kkk,
+lll) mais c'est tout (enfin, les flèches aussi, bien sûr).
+
+> J'y ai appris deux trois choses intéressantes, notamment sur la manipulation de
+> texte en mode Ex (exemple : :2,7co . pour copier les lignes 2 à 7 ici).
+
+Là encore, on trouve ça et plus (notamment l'abbréviation de :copy en :t)
+chez Drew Neil :
+
+http://vimcasts.org/episodes/long-range-line-duplication/
+
+        Sylvain
+
+-- 
+Sylvain Soliman <Sylvain.Soliman at m4x.org>   GnuPG Public Key: 0x0F53AF99
+Page personnelle                   http://contraintes.inria.fr/~soliman/
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: smime.p7s
+Type: application/x-pkcs7-signature
+Taille: 2911 octets
+Desc: non disponible
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20130317/56937448/attachment.bin>
+

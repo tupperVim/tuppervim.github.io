@@ -1,0 +1,125 @@
+From keller.mdpa at gmail.com  Thu May  1 14:30:19 2014
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Thu, 1 May 2014 14:30:19 +0200
+Subject: [tupperVim] =?utf-8?q?_Soir=C3=A9e_de_mai_2014?=
+Message-ID: <CAM+ya-DarqDjR3Z+UVfqFrMazt5MucsQ-CsV12PPicSqR1eUdQ@mail.gmail.com>
+
+Camarades vimistes,
+
+Kaze ne sera pas parmi nous et ne peux donc pas organiser le tuppervim
+comme à son habitude.
+Néanmoins, les agapes auront lieu comme d'habitude le premier mardi du mois
+(mardi 6 mai) dans les locaux de Mozilla de 20h à 22h [1] (le choix de la
+salle n'est pas définitif pour l'instant c'est la grande salle du premier
+étage). Merci de vous annoncer sur le pad comme il se doit :
+
+  https://etherpad.mozilla.org/TupperVim-1405
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
+le 06 71 40 82 58 pour qu?on vienne vous ouvrir.
+
+Concernant la nourriture le futur est incertain on avisera.
+
+D?ici là, soyez de bons citoyens : prenez les transports en commun, les
+velib', les autolib', ne tuez pas de vieilles dames, donnez de l?amour aux
+canards et ne cassez pas tout le ternet avec des langages à la con hein !
+
+\_o<
+
+-- 
+[1] 16 bis boulevard Montmartre, Paris ? métro : Richelieu-Drouot
+Plus d?infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
+
+maggick
+  site web : maggick.github.io
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20140501/08c2a6c9/attachment.html>
+
+From cedric.dsm at gmail.com  Mon May  5 10:46:33 2014
+From: cedric.dsm at gmail.com (=?windows-1252?Q?C=E9dric_de_Saint_Martin?=)
+Date: Mon, 5 May 2014 10:46:33 +0200
+Subject: [tupperVim] =?windows-1252?q?Soir=E9e_de_mai_2014?=
+Message-ID: <2CD0CB74-9D94-41AF-98F9-3C41D68DFB15@gmail.com>
+
+Il semble que le précédent mail de maggick se soit perdu dans les interwebs. Encore une affaire de la NSA.
+En voici un nouvel envoi, pour bien en faire profiter tout le monde.
+
+
+Camarades vimistes,
+
+Kaze ne sera pas parmi nous et ne peux donc pas organiser le tuppervim
+comme à son habitude.
+Néanmoins, les agapes auront lieu comme d'habitude le premier mardi du mois
+(mardi 6 mai) dans les locaux de Mozilla de 20h à 22h [1] (le choix de la
+salle n'est pas définitif pour l'instant c'est la grande salle du premier
+étage). Merci de vous annoncer sur le pad comme il se doit :
+
+  https://etherpad.mozilla.org/TupperVim-1405
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
+le 06 71 40 82 58 pour qu?on vienne vous ouvrir.
+
+Concernant la nourriture le futur est incertain on avisera.
+
+D?ici là, soyez de bons citoyens : prenez les transports en commun, les
+velib', les autolib', ne tuez pas de vieilles dames, donnez de l?amour aux
+canards et ne cassez pas tout le ternet avec des langages à la con hein !
+
+\_o<
+
+From janx at linux.com  Fri May  2 20:45:43 2014
+From: janx at linux.com (jan keromnes)
+Date: Fri, 02 May 2014 18:45:43 -0000
+Subject: [tupperVim] =?utf-8?q?Soir=C3=A9e_de_mai_2014?=
+In-Reply-To: <CAM+ya-DarqDjR3Z+UVfqFrMazt5MucsQ-CsV12PPicSqR1eUdQ@mail.gmail.com>
+References: <CAM+ya-DarqDjR3Z+UVfqFrMazt5MucsQ-CsV12PPicSqR1eUdQ@mail.gmail.com>
+Message-ID: <CAA6PgK5HQqzEuxDqx__jkykDMOMNCsqKD23AAONKKTzp6iS1Kg@mail.gmail.com>
+
+Pour des raisons de sonorite, j'ai reserve "Apero", la salle du
+rez-de-chaussee derriere le babyfoot, au lieu de la grande salle du premier
+etage.
+
+A mardi !
+
+~ ~~ >o_/
+
+
+2014-05-01 14:30 GMT+02:00 Matthieu Keller <keller.mdpa at gmail.com>:
+
+> Camarades vimistes,
+>
+> Kaze ne sera pas parmi nous et ne peux donc pas organiser le tuppervim
+> comme à son habitude.
+> Néanmoins, les agapes auront lieu comme d'habitude le premier mardi du
+> mois (mardi 6 mai) dans les locaux de Mozilla de 20h à 22h [1] (le choix de
+> la salle n'est pas définitif pour l'instant c'est la grande salle du
+> premier étage). Merci de vous annoncer sur le pad comme il se doit :
+>
+>   https://etherpad.mozilla.org/TupperVim-1405
+>
+> La procédure pour se faire ouvrir la porte étant toujours aussi pénible,
+> je ne saurais trop vous recommander d?arriver 15 min en *avance* et de
+> pinguer le 06 71 40 82 58 pour qu?on vienne vous ouvrir.
+>
+> Concernant la nourriture le futur est incertain on avisera.
+>
+> D?ici là, soyez de bons citoyens : prenez les transports en commun, les
+> velib', les autolib', ne tuez pas de vieilles dames, donnez de l?amour aux
+> canards et ne cassez pas tout le ternet avec des langages à la con hein !
+>
+> \_o<
+>
+> --
+> [1] 16 bis boulevard Montmartre, Paris ? métro : Richelieu-Drouot
+> Plus d?infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
+>
+> maggick
+>   site web : maggick.github.io
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20140502/b13de9b0/attachment.html>
+

@@ -1,0 +1,401 @@
+From fabien at cazenave.cc  Tue Nov 21 12:46:21 2017
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Tue, 21 Nov 2017 12:46:21 +0100
+Subject: [tupperVim] coin
+Message-ID: <5615fd42-11c7-0666-9476-01e878c856c9@cazenave.cc>
+
+\_o<
+
+
+From hermitte at free.fr  Tue Nov 21 13:15:22 2017
+From: hermitte at free.fr (Luc Hermitte)
+Date: Tue, 21 Nov 2017 13:15:22 +0100 (CET)
+Subject: [tupperVim] coin
+In-Reply-To: <5615fd42-11c7-0666-9476-01e878c856c9@cazenave.cc>
+Message-ID: <293357132.326686592.1511266522223.JavaMail.root@zimbra60-e10.priv.proxad.net>
+
+Salut,
+
+Vous m'intriguez avec tous ces canards sur TupperVim.
+D'autant que pas très loin de chez moi, il y a un patelin du nom de Bram [1], en plein milieu du pays du Cassoulet. A se demander à quel point tout ceci est juste une coïncidence...
+
+[1] https://fr.wikipedia.org/wiki/Bram
+
+-- 
+Luc
+
+
+From fabien at cazenave.cc  Tue Nov 21 14:24:50 2017
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Tue, 21 Nov 2017 14:24:50 +0100
+Subject: [tupperVim] Session de novembre -- Grenoble
+Message-ID: <45fa4954-537e-43c4-7016-fad0e3ed534c@cazenave.cc>
+
+Les Grenoblois parlent aux Grenoblois !
+
+Le prochain atelier Vim aura lieu à Grenoble le mardi 28 novembre, de 
+20h à 22h.
+
+Comme d’habitude, on commencera dès 19h15 par un apéro pour les 
+chevronnés, ou une session d’initiation pour les débutants ; mais 
+contrairement à d’habitude, on ne fera pas ça au LOG : Sogilis a proposé 
+d’héberger notre atelier, ça va être l’occasion de rencontrer d’autres 
+gens et de mettre un peu de bordayle dans notre routine, ce qui ne fait 
+jamais de mal. :-)
+
+Je ne connais pas la capacité de la salle chez Sogilis, mais elle sera 
+probablement plus petite que celle du LOG. Mieux vaut donc s’inscrire 
+tôt sur le pad :
+
+https://public.etherpad-mozilla.org/p/TupperVim-Grenoble-1711
+
+Librement,
+
+:kazé
+\_o<
+
+
+From guyzmo+tuppervim at m0g.net  Tue Nov 21 14:29:35 2017
+From: guyzmo+tuppervim at m0g.net (Guyzmo)
+Date: Tue, 21 Nov 2017 14:29:35 +0100
+Subject: [tupperVim] coin
+In-Reply-To: <293357132.326686592.1511266522223.JavaMail.root@zimbra60-e10.priv.proxad.net>
+References: <5615fd42-11c7-0666-9476-01e878c856c9@cazenave.cc>
+ <293357132.326686592.1511266522223.JavaMail.root@zimbra60-e10.priv.proxad.net>
+Message-ID: <20171121132935.distmwofb47wphf2@BuGz.eclipse.m0g.net>
+
+🦆
+
+On Tue, Nov 21, 2017 at 01:15:22PM +0100, Luc Hermitte wrote:
+> Vous m'intriguez avec tous ces canards sur TupperVim.
+
+le canard, c'est sacré.
+
+> D'autant que pas très loin de chez moi, il y a un patelin du nom de Bram [1], en plein milieu du pays du Cassoulet. A se demander à quel point tout ceci est juste une coïncidence...
+
+le cassoulet aussi, c'est sacré ♥
+
+🦆🦆🦆
+
+-- 
+Guyzmo
+
+
+From julien at rolland.io  Tue Nov 21 21:49:36 2017
+From: julien at rolland.io (Julien Rolland)
+Date: Tue, 21 Nov 2017 21:49:36 +0100
+Subject: [tupperVim] Session de novembre -- Grenoble
+In-Reply-To: <45fa4954-537e-43c4-7016-fad0e3ed534c@cazenave.cc>
+References: <45fa4954-537e-43c4-7016-fad0e3ed534c@cazenave.cc>
+Message-ID: <74d4ea3f-5174-c0b0-6d90-8129bbe6e491@rolland.io>
+
+Hello !
+
+On 11/21/2017 14:24, Fabien Cazenave wrote:
+> Les Grenoblois parlent aux Grenoblois !
+>
+> Le prochain atelier Vim aura lieu à Grenoble le mardi 28 novembre, de 
+> 20h à 22h.
+>
+> Comme d’habitude, on commencera dès 19h15 par un apéro pour les 
+> chevronnés, ou une session d’initiation pour les débutants ; mais 
+> contrairement à d’habitude, on ne fera pas ça au LOG : Sogilis a 
+> proposé d’héberger notre atelier, ça va être l’occasion de rencontrer 
+> d’autres gens et de mettre un peu de bordayle dans notre routine, ce 
+> qui ne fait jamais de mal. :-)
+Intéressé mais pas sûr à 100% de venir, il y a de quoi ranger un vélo 
+dans l'atelier ?
+
+> \_o<
+
+🦆
+
+
+
+From lambret.victor at gmail.com  Wed Nov 22 09:39:07 2017
+From: lambret.victor at gmail.com (Victor Lambret)
+Date: Wed, 22 Nov 2017 09:39:07 +0100
+Subject: [tupperVim] Session de novembre -- Grenoble
+In-Reply-To: <74d4ea3f-5174-c0b0-6d90-8129bbe6e491@rolland.io>
+References: <45fa4954-537e-43c4-7016-fad0e3ed534c@cazenave.cc>
+ <74d4ea3f-5174-c0b0-6d90-8129bbe6e491@rolland.io>
+Message-ID: <CAMOX8M2jVOitA6=KTUL7H0UAAWo4Vm-JNv0OiNAPqJiNqsepvg@mail.gmail.com>
+
+Salut,
+
+Quelques infos à propos de la capacité de la salle de Sogilis : On peut
+tenir à une douzaine dans notre grande salle de réunion. Comme elle est
+vitrée façon aquarium et qu'il y a de la place autour on peut s'étendre en
+mettant des sièges à l'entrée pour optimiser. Il nous arrive de faire des
+réunions à une vingtaine pendant 1 heure avec des pizzas partout donc avec
+des geeks bien sages et des laptops ça devrait s'arranger.
+
+Concernant les vélos, l'intérieur est équipé de moquette donc si il pleut
+il faut protéger, sinon on pourra stocker en intérieur. On doit avoir un
+garage à vélo en sous-sol, en cherchant bien peut-être même que quelqu'un
+sait ou sont les clefs :p
+
+A mardi ! :-)
+
+
+Victor
+
+Le 21 novembre 2017 à 21:49, Julien Rolland <julien at rolland.io> a écrit :
+
+> Hello !
+>
+> On 11/21/2017 14:24, Fabien Cazenave wrote:
+>
+>> Les Grenoblois parlent aux Grenoblois !
+>>
+>> Le prochain atelier Vim aura lieu à Grenoble le mardi 28 novembre, de 20h
+>> à 22h.
+>>
+>> Comme d’habitude, on commencera dès 19h15 par un apéro pour les
+>> chevronnés, ou une session d’initiation pour les débutants ; mais
+>> contrairement à d’habitude, on ne fera pas ça au LOG : Sogilis a proposé
+>> d’héberger notre atelier, ça va être l’occasion de rencontrer d’autres gens
+>> et de mettre un peu de bordayle dans notre routine, ce qui ne fait jamais
+>> de mal. :-)
+>>
+> Intéressé mais pas sûr à 100% de venir, il y a de quoi ranger un vélo dans
+> l'atelier ?
+>
+>
+> \_o<
+>>
+>
+> 🦆
+>
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> https://listes.mozfr.org/mailman/listinfo/tuppervim
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20171122/7d55943d/attachment.html>
+
+From fabien at cazenave.cc  Wed Nov 22 18:00:34 2017
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Wed, 22 Nov 2017 18:00:34 +0100
+Subject: [tupperVim] Session de novembre -- Grenoble
+In-Reply-To: <CAMOX8M2jVOitA6=KTUL7H0UAAWo4Vm-JNv0OiNAPqJiNqsepvg@mail.gmail.com>
+References: <45fa4954-537e-43c4-7016-fad0e3ed534c@cazenave.cc>
+ <74d4ea3f-5174-c0b0-6d90-8129bbe6e491@rolland.io>
+ <CAMOX8M2jVOitA6=KTUL7H0UAAWo4Vm-JNv0OiNAPqJiNqsepvg@mail.gmail.com>
+Message-ID: <82f169d4-69c4-1c6e-a88e-e6cb260bc5ba@cazenave.cc>
+
+Ça s’annonce bien tout ça ! ^_^
+
+Je me joins à Julien pour la question des vélos : s’il y a un garage à 
+vélo, ça m’intéresse aussi. Sinon rien de grave, je prendrai le vélo qui 
+ne craint pas le vol et je l’attacherai dehors.
+
+:kazé
+
+
+From erwan at guyader.fr  Wed Nov 22 18:11:56 2017
+From: erwan at guyader.fr (Erwan Guyader)
+Date: Wed, 22 Nov 2017 18:11:56 +0100
+Subject: [tupperVim] Session de novembre -- Grenoble
+In-Reply-To: <82f169d4-69c4-1c6e-a88e-e6cb260bc5ba@cazenave.cc>
+References: <45fa4954-537e-43c4-7016-fad0e3ed534c@cazenave.cc>
+ <74d4ea3f-5174-c0b0-6d90-8129bbe6e491@rolland.io>
+ <CAMOX8M2jVOitA6=KTUL7H0UAAWo4Vm-JNv0OiNAPqJiNqsepvg@mail.gmail.com>
+ <82f169d4-69c4-1c6e-a88e-e6cb260bc5ba@cazenave.cc>
+Message-ID: <18708423-faa2-69a8-3c62-32520bb7c457@guyader.fr>
+
+Après vérification, on a bien la clé du local à vélo à l'extérieur du
+bâtiment.
+
+Du coup on pourra mettre des vélos dedans si besoin. S'il fait beau, il
+sera peut-être plus simple de monter les vélos et les stocker dans le
+bureau.
+
+Erwan
+
+
+On 22/11/2017 18:00, Fabien Cazenave wrote:
+> Ça s’annonce bien tout ça ! ^_^
+>
+> Je me joins à Julien pour la question des vélos : s’il y a un garage à
+> vélo, ça m’intéresse aussi. Sinon rien de grave, je prendrai le vélo
+> qui ne craint pas le vol et je l’attacherai dehors.
+>
+> :kazé
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> https://listes.mozfr.org/mailman/listinfo/tuppervim
+
+
+
+From julien at rolland.io  Thu Nov 23 13:01:10 2017
+From: julien at rolland.io (Julien Rolland)
+Date: Thu, 23 Nov 2017 13:01:10 +0100
+Subject: [tupperVim] Session de novembre -- Grenoble
+In-Reply-To: <18708423-faa2-69a8-3c62-32520bb7c457@guyader.fr>
+References: <45fa4954-537e-43c4-7016-fad0e3ed534c@cazenave.cc>
+ <74d4ea3f-5174-c0b0-6d90-8129bbe6e491@rolland.io>
+ <CAMOX8M2jVOitA6=KTUL7H0UAAWo4Vm-JNv0OiNAPqJiNqsepvg@mail.gmail.com>
+ <82f169d4-69c4-1c6e-a88e-e6cb260bc5ba@cazenave.cc>
+ <18708423-faa2-69a8-3c62-32520bb7c457@guyader.fr>
+Message-ID: <62566D52-EEC4-41FB-B56E-E58ACE12B98B@rolland.io>
+
+Parfait tout ça !
+
+> Le 22 nov. 2017 à 18:11, Erwan Guyader <erwan at guyader.fr> a écrit :
+> 
+> Après vérification, on a bien la clé du local à vélo à l'extérieur du
+> bâtiment.
+> 
+> Du coup on pourra mettre des vélos dedans si besoin. S'il fait beau, il
+> sera peut-être plus simple de monter les vélos et les stocker dans le
+> bureau.
+
+
+
+From keller.mdpa at gmail.com  Thu Nov 23 15:11:55 2017
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Thu, 23 Nov 2017 15:11:55 +0100
+Subject: [tupperVim] =?utf-8?q?Paris=2C_agapes_de_d=C3=A9cembre?=
+Message-ID: <CAM+ya-DtCfsxjziGCp8aEJq7G-6WAeHkbp5K50AZSMpfArn4zA@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim de décembre est annoncé :
+Il aura lieu le premier mardi du mois, le 4 décembre dans les locaux
+de Algolia (Paris) de 19h50 à 22h.
+L'apéro aura lieu de 19h15 à 19h50h.
+Un initiation aura lieu de 19h20 à 19h50h pour les débutants
+
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1712
+
+C'est la première fois que nous nous rendrons dans les locaux d'Algolia,
+soyez sages :)
+Il sera nécessaire d'arriver avant 20h car l'entrée du bâtiment sera fermée
+après.
+(Bien sûr il y aura une autre entrée mais ça sera pénible, essayez d'être à
+l'heure)
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l’évènement
+dans votre agenda.
+
+D’ici là, soyez de bons citoyens et donnez de l’amour aux canards.
+
+--
+maggick | \_o<
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20171123/d12f1813/attachment.html>
+
+From keller.mdpa at gmail.com  Thu Nov 23 15:43:16 2017
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Thu, 23 Nov 2017 15:43:16 +0100
+Subject: [tupperVim] =?utf-8?q?Paris=2C_agapes_de_d=C3=A9cembre?=
+In-Reply-To: <CAM+ya-DtCfsxjziGCp8aEJq7G-6WAeHkbp5K50AZSMpfArn4zA@mail.gmail.com>
+References: <CAM+ya-DtCfsxjziGCp8aEJq7G-6WAeHkbp5K50AZSMpfArn4zA@mail.gmail.com>
+Message-ID: <CAM+ya-DFvFuFLnnjPx4gOTnzBcGKu0Yk8iHubdgfKAgp3fzkew@mail.gmail.com>
+
+Le premier *lundi* du mois, le 4 décembre
+
+--
+maggick | \_o<
+http://tuppervim.org
+
+2017-11-23 15:11 GMT+01:00 Matthieu Keller <keller.mdpa at gmail.com>:
+
+> Camarades vimistes,
+>
+> Le tuppervim de décembre est annoncé :
+> Il aura lieu le premier mardi du mois, le 4 décembre dans les locaux
+> de Algolia (Paris) de 19h50 à 22h.
+> L'apéro aura lieu de 19h15 à 19h50h.
+> Un initiation aura lieu de 19h20 à 19h50h pour les débutants
+>
+> Merci de vous annoncer sur le pad comme il se doit :
+>
+> https://public.etherpad-mozilla.org/p/TupperVim-1712
+>
+> C'est la première fois que nous nous rendrons dans les locaux d'Algolia,
+> soyez sages :)
+> Il sera nécessaire d'arriver avant 20h car l'entrée du bâtiment sera
+> fermée après.
+> (Bien sûr il y aura une autre entrée mais ça sera pénible, essayez d'être
+> à l'heure)
+>
+> Un email de rappel sera probablement envoyé quelques jours/heures avant les
+> agapes. Mais je ne peux que fortement vous conseiller d'inscrire
+> l’évènement
+> dans votre agenda.
+>
+> D’ici là, soyez de bons citoyens et donnez de l’amour aux canards.
+>
+> --
+> maggick | \_o<
+> http://tuppervim.org
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20171123/d570983f/attachment.html>
+
+From erwan at guyader.fr  Wed Nov 29 20:08:03 2017
+From: erwan at guyader.fr (Erwan Guyader)
+Date: Wed, 29 Nov 2017 20:08:03 +0100
+Subject: [tupperVim] Session de novembre -- Grenoble
+In-Reply-To: <18708423-faa2-69a8-3c62-32520bb7c457@guyader.fr>
+References: <45fa4954-537e-43c4-7016-fad0e3ed534c@cazenave.cc>
+ <74d4ea3f-5174-c0b0-6d90-8129bbe6e491@rolland.io>
+ <CAMOX8M2jVOitA6=KTUL7H0UAAWo4Vm-JNv0OiNAPqJiNqsepvg@mail.gmail.com>
+ <82f169d4-69c4-1c6e-a88e-e6cb260bc5ba@cazenave.cc>
+ <18708423-faa2-69a8-3c62-32520bb7c457@guyader.fr>
+Message-ID: <cc899c91-84ea-d9f4-3d27-3e1c78a86af4@guyader.fr>
+
+Hello,
+
+quelqu'un a oublié son opinel hier soir. Il est toujours à Sogilis au
+cas où quelqu'un se manifesterait pour le récupérer.
+
+Bonne soirée,
+Erwan
+
+
+On 22/11/2017 18:11, Erwan Guyader wrote:
+> Après vérification, on a bien la clé du local à vélo à l'extérieur du
+> bâtiment.
+>
+> Du coup on pourra mettre des vélos dedans si besoin. S'il fait beau, il
+> sera peut-être plus simple de monter les vélos et les stocker dans le
+> bureau.
+>
+> Erwan
+>
+>
+> On 22/11/2017 18:00, Fabien Cazenave wrote:
+>> Ça s’annonce bien tout ça ! ^_^
+>>
+>> Je me joins à Julien pour la question des vélos : s’il y a un garage à
+>> vélo, ça m’intéresse aussi. Sinon rien de grave, je prendrai le vélo
+>> qui ne craint pas le vol et je l’attacherai dehors.
+>>
+>> :kazé
+>>
+>> _______________________________________________
+>> tupperVim mailing list
+>> tupperVim at mozfr.org
+>> https://listes.mozfr.org/mailman/listinfo/tuppervim
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> https://listes.mozfr.org/mailman/listinfo/tuppervim
+
+
+

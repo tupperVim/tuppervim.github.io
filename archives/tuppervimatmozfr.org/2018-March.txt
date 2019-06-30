@@ -1,0 +1,293 @@
+From keller.mdpa at gmail.com  Mon Mar  5 14:57:12 2018
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Mon, 5 Mar 2018 14:57:12 +0100
+Subject: [tupperVim] Paris, agapes de mars
+In-Reply-To: <CAM+ya-BzwE4qO3vnJ=eRrtW2iVS4XUT=dWruHdrgMabKUjH2+g@mail.gmail.com>
+References: <CAM+ya-BzwE4qO3vnJ=eRrtW2iVS4XUT=dWruHdrgMabKUjH2+g@mail.gmail.com>
+Message-ID: <CAM+ya-DBBL=KaF1WF0kJTMOe8Yp_37qz1-vhKe=p5z415sN8tA@mail.gmail.com>
+
+Chers camarades,
+
+le tuppervim Parisien de mars aura lieu demain chez inno3.
+On vous attends nombreux
+
+--
+maggick | \_o<
+http://tuppervim.org
+
+
+2018-02-08 10:40 GMT+01:00 Matthieu Keller <keller.mdpa at gmail.com>:
+
+> Camarades vimistes,
+>
+> Le tuppervim de mars, le premier de 2018, est annoncé :
+> Il aura lieu le premier mardi du mois, le 6 mars dans les locaux
+> de inno3 (Paris) de 19h50 à 22h.
+> L'apéro aura lieu de 19h0 à 19h50h.
+> Un initiation aura lieu de 19h20 à 19h50h pour les débutants
+>
+> Merci de vous annoncer sur le pad comme il se doit :
+>
+> https://public.etherpad-mozilla.org/p/TupperVim-1803
+>
+> C'est la première fois que nous nous rendrons dans les locaux d'inno3,
+> soyez sages :)
+>
+> Un email de rappel sera probablement envoyé quelques jours/heures avant les
+> agapes. Mais je ne peux que fortement vous conseiller d'inscrire
+> l’évènement
+> dans votre agenda.
+>
+> D’ici là, soyez de bons citoyens et donnez de l’amour aux canards.
+>
+> --
+> maggick | \_o<
+> http://tuppervim.org
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20180305/41ccadb7/attachment.html>
+
+From yoann.lecuyer at gmail.com  Mon Mar  5 15:16:24 2018
+From: yoann.lecuyer at gmail.com (Yoann Lecuyer)
+Date: Mon, 5 Mar 2018 15:16:24 +0100
+Subject: [tupperVim] Paris, agapes de mars
+In-Reply-To: <CAM+ya-DBBL=KaF1WF0kJTMOe8Yp_37qz1-vhKe=p5z415sN8tA@mail.gmail.com>
+References: <CAM+ya-BzwE4qO3vnJ=eRrtW2iVS4XUT=dWruHdrgMabKUjH2+g@mail.gmail.com>
+ <CAM+ya-DBBL=KaF1WF0kJTMOe8Yp_37qz1-vhKe=p5z415sN8tA@mail.gmail.com>
+Message-ID: <CAPZXbJnhR4Ac+4LerHeYoV3tbEGJ==NWv05oVwWc3bu6HWMcOw@mail.gmail.com>
+
+Salut.
+
+Dommage que ce soit encore un premier mardi du mois. Amusez vous bien.
+
+On 5 Mar 2018 14:58, "Matthieu Keller" <keller.mdpa at gmail.com> wrote:
+
+> Chers camarades,
+>
+> le tuppervim Parisien de mars aura lieu demain chez inno3.
+> On vous attends nombreux
+>
+> --
+> maggick | \_o<
+> http://tuppervim.org
+>
+>
+> 2018-02-08 10:40 GMT+01:00 Matthieu Keller <keller.mdpa at gmail.com>:
+>
+>> Camarades vimistes,
+>>
+>> Le tuppervim de mars, le premier de 2018, est annoncé :
+>> Il aura lieu le premier mardi du mois, le 6 mars dans les locaux
+>> de inno3 (Paris) de 19h50 à 22h.
+>> L'apéro aura lieu de 19h0 à 19h50h.
+>> Un initiation aura lieu de 19h20 à 19h50h pour les débutants
+>>
+>> Merci de vous annoncer sur le pad comme il se doit :
+>>
+>> https://public.etherpad-mozilla.org/p/TupperVim-1803
+>>
+>> C'est la première fois que nous nous rendrons dans les locaux d'inno3,
+>> soyez sages :)
+>>
+>> Un email de rappel sera probablement envoyé quelques jours/heures avant
+>> les
+>> agapes. Mais je ne peux que fortement vous conseiller d'inscrire
+>> l’évènement
+>> dans votre agenda.
+>>
+>> D’ici là, soyez de bons citoyens et donnez de l’amour aux canards.
+>>
+>> --
+>> maggick | \_o<
+>> http://tuppervim.org
+>>
+>
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> https://listes.mozfr.org/mailman/listinfo/tuppervim
+>
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20180305/d052794c/attachment.html>
+
+From carlier.jeremy at gmail.com  Mon Mar  5 15:26:20 2018
+From: carlier.jeremy at gmail.com (=?UTF-8?B?SsOpcsOpbXkgQ2FybGllcg==?=)
+Date: Mon, 05 Mar 2018 14:26:20 +0000
+Subject: [tupperVim] Paris, agapes de mars
+In-Reply-To: <CAPZXbJnhR4Ac+4LerHeYoV3tbEGJ==NWv05oVwWc3bu6HWMcOw@mail.gmail.com>
+References: <CAM+ya-BzwE4qO3vnJ=eRrtW2iVS4XUT=dWruHdrgMabKUjH2+g@mail.gmail.com>
+ <CAM+ya-DBBL=KaF1WF0kJTMOe8Yp_37qz1-vhKe=p5z415sN8tA@mail.gmail.com>
+ <CAPZXbJnhR4Ac+4LerHeYoV3tbEGJ==NWv05oVwWc3bu6HWMcOw@mail.gmail.com>
+Message-ID: <CAFjFktvtw+aegn67TB0pB9_9RWBCz3J8BtWeCDiNSnqhvkBHgg@mail.gmail.com>
+
+Hello,
+
+Pareil, je serais bien venu mais ça tombe un mardi et étant un grand fidèle
+au Parib.rb je ne peux donc malheureusement pas assister à ce meetup.
+
+Désolé avec espoir que celà puisse tomber un autre jour… ☹
+
+Le lun. 5 mars 2018 à 15:16, Yoann Lecuyer <yoann.lecuyer at gmail.com> a
+écrit :
+
+> Salut.
+>
+> Dommage que ce soit encore un premier mardi du mois. Amusez vous bien.
+>
+> On 5 Mar 2018 14:58, "Matthieu Keller" <keller.mdpa at gmail.com> wrote:
+>
+>> Chers camarades,
+>>
+>> le tuppervim Parisien de mars aura lieu demain chez inno3.
+>> On vous attends nombreux
+>>
+>> --
+>> maggick | \_o<
+>> http://tuppervim.org
+>>
+>>
+>> 2018-02-08 10:40 GMT+01:00 Matthieu Keller <keller.mdpa at gmail.com>:
+>>
+>>> Camarades vimistes,
+>>>
+>>> Le tuppervim de mars, le premier de 2018, est annoncé :
+>>> Il aura lieu le premier mardi du mois, le 6 mars dans les locaux
+>>> de inno3 (Paris) de 19h50 à 22h.
+>>> L'apéro aura lieu de 19h0 à 19h50h.
+>>> Un initiation aura lieu de 19h20 à 19h50h pour les débutants
+>>>
+>>> Merci de vous annoncer sur le pad comme il se doit :
+>>>
+>>> https://public.etherpad-mozilla.org/p/TupperVim-1803
+>>>
+>>> C'est la première fois que nous nous rendrons dans les locaux d'inno3,
+>>> soyez sages :)
+>>>
+>>> Un email de rappel sera probablement envoyé quelques jours/heures avant
+>>> les
+>>> agapes. Mais je ne peux que fortement vous conseiller d'inscrire
+>>> l’évènement
+>>> dans votre agenda.
+>>>
+>>> D’ici là, soyez de bons citoyens et donnez de l’amour aux canards.
+>>>
+>>> --
+>>> maggick | \_o<
+>>> http://tuppervim.org
+>>>
+>>
+>>
+>> _______________________________________________
+>> tupperVim mailing list
+>> tupperVim at mozfr.org
+>> https://listes.mozfr.org/mailman/listinfo/tuppervim
+>>
+>> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> https://listes.mozfr.org/mailman/listinfo/tuppervim
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20180305/7851baf7/attachment.html>
+
+From sylvain.bannier at gmail.com  Sun Mar  4 00:11:38 2018
+From: sylvain.bannier at gmail.com (sylvain bannier)
+Date: Sat, 03 Mar 2018 23:11:38 +0000
+Subject: [tupperVim] =?utf-8?q?R=C3=A9surection_du_TupperVim_=C3=A0_nantes?=
+	=?utf-8?q?_le_21/03?=
+Message-ID: <CAD_F93MHtkkfsoxF_7Ckpbpo5wMZ2Ct4EmX8N69++CXJ17HdYg@mail.gmail.com>
+
+Bonjoir,
+
+Après presque un an d'attente, le tuppervim est enfin de retour à Nantes :
+mercredi 21 mars 19h à la fourchette, 35 rue Crucy
+
+https://public.etherpad-mozilla.org/p/TupperVimNantes-21032018
+
+On a aussi gardé le meetup car les gens avaient trouvé ça pratique la
+dernière fois
+https://www.meetup.com/TupperVim-Nantes/events/248382653/
+
+Salutations distinguées
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20180303/e6453611/attachment.html>
+
+From fabien at cazenave.cc  Mon Mar 19 13:38:30 2018
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Mon, 19 Mar 2018 13:38:30 +0100
+Subject: [tupperVim] =?utf-8?q?Atelier_du_25_mars_=C3=A0_Lyon?=
+Message-ID: <77843ca5-a3c6-389f-22a7-4cf4e2603523@cazenave.cc>
+
+Bonjour,
+
+c’est à Lyon ce week-end qu’auront lieu les Journées du Logiciel Libre. 
+C’est un événement très sympa, avec un programme de conférence assez 
+complet, donc viendez-y nombreux !
+
+http://www.jdll.org/
+
+Accessoirement, c’est en clôture de cet événement que nous tiendrons 
+notre atelier lyonnais de mars, le dimanche 25 de 16h à 18h :
+
+http://www.jdll.org/events/tuppervim-5/
+
+Comme souvent, il serait bienvenu de s’inscrire, surtout pour celles et 
+ceux qui souhaitent demander ou proposer une présentation :
+
+https://public.etherpad-mozilla.org/p/TupperVim-Lyon-1803
+
+Contrairement aux dernières fois, je ne pourrai pas proposer de séance 
+d’initiation aux débutant·e·s avant cet atelier. Le cas échéant, pour 
+bien profiter de l’atelier on vous recommande de faire le vimtutor ou 
+d’aller pêcher des notions de Vim avant de venir, par exemple sur cette 
+page-là :
+
+http://fabi1cazenave.github.io/slides/2017-vim-ducklings/
+
+Paix, amour et canards. \_o<
+:kazé
+
+---
+Message written from my keyoard.io Model01. Yes, I have one.
+
+
+From keller.mdpa at gmail.com  Tue Mar 27 10:51:46 2018
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Tue, 27 Mar 2018 10:51:46 +0200
+Subject: [tupperVim] Paris, agapes d'avril
+Message-ID: <CAM+ya-Dxm6neHGXaeY_3vBYm6nVb_GOpCMnJ1FDh-ZwGQdzKqg@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim d'avril, le second de 2018, est annoncé.
+Nous continuons notre tour des locaux et bureaux Parisiens.
+Il aura lieu le (presque) premier mardi du mois, le 17 avril dans les locaux
+La Combe du Lion Vert 25 rue du Louvre Paris Île-de-France de 19h50 à 22h.
+L'apéro aura lieu de 19h0 à 19h50h.
+
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1804
+
+C'est la première fois que nous nous rendrons dans les locaux de La Combe
+du Lion Vert, soyez sages :)
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l’évènement
+dans votre agenda.
+
+D’ici là, soyez de bons citoyens et donnez de l’amour aux canards.
+
+--
+maggick | \_o<
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20180327/6689f2f0/attachment.html>
+

@@ -1,0 +1,132 @@
+From kaze at mozilla.com  Mon Dec  2 15:51:56 2013
+From: kaze at mozilla.com (Fabien Cazenave)
+Date: Mon, 02 Dec 2013 15:51:56 +0100
+Subject: [tupperVim] =?utf-8?q?Session_de_d=C3=A9cembre_2013?=
+Message-ID: <529C9E8C.8020308@mozilla.com>
+
+Canettes, canetons,
+
+il fait froid, il pleut et Paris c?est moche *mais* il y a les 
+calendriers de l?avent, les chocolats de Noël, les dindes de Noël, les 
+cuites de Noël et la soirée Vim de Noël. Alleluïa !
+
+Cela dit, comme la religion on s?en cogne au moins autant que les dates, 
+la soirée aura lieu le mardi 10 décembre et non le jour du solstice. 
+Ouais bah c?est comme ça, si y?en a un que ça défrise on le cloue sur 
+une porte, c?est ça aussi la magie de Noël.
+
+Comme d?habitude, ça commence à 20h, ça se passe dans les locaux Mozilla 
+[1], et il faut s?inscrire sur le framadate pour qu?on puisse préparer 
+la salle en conséquence.
+
+   http://framadate.org/studs.php?sondage=2s57la6ayy4vmoj4
+
+Je ne doute pas un seul instant que vous annoncerez à l?avance les 
+sujets que vous allez présenter sur l?etherpad  :
+
+   https://etherpad.mozilla.org/TupperVim-1312
+
+Attention : la soirée démarre à 20h pile et s?arrête au bout de deux 
+heures, donc mieux vaut arriver avec 5 min d?avance qu?une demi-heure de 
+retard. Évidemment, les plus motivés sont les bienvenus s?ils veulent 
+prolonger au-delà de 22h pour bricoler du Vim, des fichiers de config ou 
+du baby-foot.
+
+Par ailleurs, les codes de la porte d?entrée ont changé et il est 
+désormais rigoureusement interdit de les confier à qui que ce soit, 
+fût-ce des gens aussi recommandables que vous-mêmes. Il faudra donc 
+sonner à l?interphone (y?a une entrée ?Mozilla?) et se faire guider 
+jusqu?à la salle. Je pourrai faire le portier jusqu?à 20h, au-delà il 
+vous faudra compter sur la mansuétude de l?un des participants pour vous 
+ouvrir la porte.
+
+\_o<
+-- 
+[1] 16 bis boulevard Montmartre, Paris ? métro : Richelieu-Drouot
+Plus d?infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
+-- 
+:kazé
+
+
+From fabien at cazenave.cc  Mon Dec  2 15:59:14 2013
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Mon, 02 Dec 2013 15:59:14 +0100
+Subject: [tupperVim] =?utf-8?q?Session_de_d=C3=A9cembre_2013?=
+In-Reply-To: <529C9E8C.8020308@mozilla.com>
+References: <529C9E8C.8020308@mozilla.com>
+Message-ID: <529CA042.7010200@cazenave.cc>
+
+On 02/12/13 15:51, Fabien Cazenave wrote:
+> Comme d?habitude, ça commence à 20h, ça se passe dans les locaux Mozilla
+> [1], et il faut s?inscrire sur le framadate pour qu?on puisse préparer
+> la salle en conséquence.
+
+Et comme d?habitude, je me plante dans le copier/coller pour le lien du 
+framadate. Rhaaaaaaaa.
+
+     http://www.framadate.org/studs.php?sondage=bfgm5haw6qnfkjnu
+
+Paix, amour et canards.
+-- 
+:kazé
+
+
+From kaze at mozilla.com  Sat Dec 28 22:27:55 2013
+From: kaze at mozilla.com (Fabien Cazenave)
+Date: Sat, 28 Dec 2013 22:27:55 +0100
+Subject: [tupperVim] Session de janvier 2014
+Message-ID: <52BF425B.1040005@mozilla.com>
+
+Chers palmipèdes,
+
+celles et ceux d?entre vous qui auront survécu aux beuveries de fin 
+d?année sont bravement invités le mardi 7 janvier 2014, en nos bons 
+locaux Mozilla parisiens [1], pour une session tupperVim de 20h à 22h 
+(et plus si affinités).
+
+Dans un souci de simplification, je vous propose de renoncer au 
+traditionnel (mais néanmoins merdique) framadate et de vous inscrire 
+directement sur le pad :
+
+   https://etherpad.mozilla.org/TupperVim-1401
+
+Si vous cherchez une bonne résolution pour l?année 2014, voilà une 
+suggestion pas trop contraignante : versionner ses fichiers de 
+configuration et coller l?URL du dépôt sur le wiki, paf.
+
+   http://wiki.mozfr.org/TupperVim#Liens
+
+Bon réveillon à toutes et tous, à bientôt !
+\_o<
+
+-- 
+[1] 16 bis boulevard Montmartre, Paris ? métro : Richelieu-Drouot
+Demander les codes d?accès sur : irc://irc.mozilla.org/tupperVim
+Plus d?infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
+
+
+From endymion+vim at thetys-retz.net  Sat Dec 28 23:29:05 2013
+From: endymion+vim at thetys-retz.net (Vincent-Xavier JUMEL)
+Date: Sat, 28 Dec 2013 23:29:05 +0100
+Subject: [tupperVim] Session de janvier 2014
+In-Reply-To: <52BF425B.1040005@mozilla.com>
+References: <52BF425B.1040005@mozilla.com>
+Message-ID: <20131228222905.GA10665@thetys-retz.net>
+
+Le 28 décembre à 22:27 Fabien Cazenave a écrit
+> Si vous cherchez une bonne résolution pour l?année 2014, voilà une 
+> suggestion pas trop contraignante : versionner ses fichiers de 
+> configuration et coller l?URL du dépôt sur le wiki, paf.
+> 
+>    http://wiki.mozfr.org/TupperVim#Liens
+> 
+Doit-on également mettre son mot de passe YouPorn ?
+
+Paix, amour et canard !
+-- 
+Vincent-Xavier JUMEL GPG Id: 0x14ABB3F2 http://thetys-retz.net
+
+Rejoignez les 3679 adhérents de l'April http://www.april.org/adherer
+Parinux, logiciel libre à Paris : http://www.parinux.org
+
+

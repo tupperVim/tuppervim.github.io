@@ -1,0 +1,232 @@
+From fabien at cazenave.cc  Wed Sep  5 22:14:04 2018
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Wed, 5 Sep 2018 22:14:04 +0200
+Subject: [tupperVim] =?utf-8?q?Atelier_de_rentr=C3=A9e=2C_chez_Mozilla_Par?=
+	=?utf-8?b?aXPigK8h?=
+Message-ID: <2d8e7bcb-9f73-8a79-46d3-ccc45b2649eb@cazenave.cc>
+
+Canettes, canetons,
+
+c’est avec joie que je vous annonce que notre atelier Vim de rentrée se 
+tiendra dans les locaux parisiens de Mozilla, le mardi 11 septembre. 
+L’adresse n’a pas changé :
+
+16 bis boulevard Montmartre, Paris IXe (métro Richelieu-Drouot)
+
+Les règles sont plus strictes que par le passé chez Mozilla : finie la 
+petite salle en rez-de-chaussée, l’atelier aura lieu dans la grande 
+salle et l’apéro dans la « Cantina » attenante.
+
+Merci de vous annoncer sur le framapad :
+
+https://mensuel.framapad.org/p/tuppervim-paris-1809
+
+La recette reste la même :
+
+  • de 19h à 20h, initiation pour les débutants / apéro pour les initiés
+  • de 20h à 22h, enlarge your productivity
+
+Avis à ceux qui envisageraient un diaporama : la salle dispose d’un 
+pupitre vraiment top pour les présentations. ;-)
+
+À mardi !
+:kazé
+
+
+From yoann.lecuyer at gmail.com  Fri Sep 21 18:03:49 2018
+From: yoann.lecuyer at gmail.com (Yoann Lecuyer)
+Date: Fri, 21 Sep 2018 18:03:49 +0200
+Subject: [tupperVim] [gvim][mac] suppression de la bulle d'aide
+Message-ID: <CAPZXbJm_Jd4C4sNpoZ+gUK77tjaWYPbUTLxGBV86D3=Z8WothA@mail.gmail.com>
+
+Bonjour à tous,
+
+Jai une question sur la configuration de gvim sur Mac. Lorsque j'édite des
+fichier ruby lorsque ma souris hover des mots clefs, vim cherche pendant 10
+secondes en bloquant le thread pour m'afficher une bulle avec de l'aide. Ça
+me rend fou sachant que j'ai plus ou moins la même config sur linux et je
+n'ai pas ce problème. (Le seul plugin que j'ai c'est vim-rails)
+
+Je n'arrive pas à prendre un screenshot avec la pop-up alors je mettrai une
+photo (j'espère d'assez bonne qualité)
+
+Merci pour votre aide.
+Bon week-end
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20180921/b5b7a781/attachment-0001.html>
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: IMG_20180921_175805.jpg
+Type: image/jpeg
+Taille: 4090416 octets
+Desc: non disponible
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20180921/b5b7a781/attachment-0001.jpg>
+
+From y.mammar at gmail.com  Fri Sep 21 18:22:14 2018
+From: y.mammar at gmail.com (Y. Mammar)
+Date: Fri, 21 Sep 2018 18:22:14 +0200
+Subject: [tupperVim] [gvim][mac] suppression de la bulle d'aide
+In-Reply-To: <CAPZXbJm_Jd4C4sNpoZ+gUK77tjaWYPbUTLxGBV86D3=Z8WothA@mail.gmail.com>
+References: <CAPZXbJm_Jd4C4sNpoZ+gUK77tjaWYPbUTLxGBV86D3=Z8WothA@mail.gmail.com>
+Message-ID: <CANtBCrM6zkDfbx10xtD_wDNbjSSv42W9naXeD31fQpO2165frg@mail.gmail.com>
+
+Tu peux essayer ça? c'est ce qui a marché pour moi il me semble.
+https://stackoverflow.com/questions/26792255/hide-macvim-source-code-tooltips
+
+On Fri, Sep 21, 2018 at 6:18 PM Yoann Lecuyer <yoann.lecuyer at gmail.com>
+wrote:
+
+> Bonjour à tous,
+>
+> Jai une question sur la configuration de gvim sur Mac. Lorsque j'édite des
+> fichier ruby lorsque ma souris hover des mots clefs, vim cherche pendant 10
+> secondes en bloquant le thread pour m'afficher une bulle avec de l'aide. Ça
+> me rend fou sachant que j'ai plus ou moins la même config sur linux et je
+> n'ai pas ce problème. (Le seul plugin que j'ai c'est vim-rails)
+>
+> Je n'arrive pas à prendre un screenshot avec la pop-up alors je mettrai
+> une photo (j'espère d'assez bonne qualité)
+>
+> Merci pour votre aide.
+> Bon week-end
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> https://listes.mozfr.org/mailman/listinfo/tuppervim
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20180921/837a2d65/attachment.html>
+
+From hermitte at free.fr  Fri Sep 21 18:41:44 2018
+From: hermitte at free.fr (Luc Hermitte)
+Date: Fri, 21 Sep 2018 18:41:44 +0200 (CEST)
+Subject: [tupperVim] [gvim][mac] suppression de la bulle d'aide
+In-Reply-To: <CANtBCrM6zkDfbx10xtD_wDNbjSSv42W9naXeD31fQpO2165frg@mail.gmail.com>
+Message-ID: <290808351.1537659288.1537548104444.JavaMail.root@zimbra60-e10.priv.proxad.net>
+
+Hello,
+
+Le ftplugin standard de ruby positionne les /balloon/s de manière inconditionnelle si Vim les supporte.
+C'est effectivement assez pénible vu la faible ergonomie imposée par la chose.
+
+Ce qui est possible de faire: déposer dans ~/.vim/after/ftplugin/ruby.vim quelque chose comme
+
+  " non testé
+  if has('balloon_eval') && exists('+balloonexpr') " && !empty(&balloonexpr)
+    setlocal balloonexpr=
+  endif
+
+Idéalement, il faudrait déposer un ftplugin de remplacement dans ~/.vim/ftplugin qui positionne b:did_ftplugin, mais le ftplugin standard a beaucoup choses dedans qui peuvent s'avérer intéressantes.
+Ca mérite une demande d'évolution pour n'activer les balloons que si une option globale le permet
+
+--Luc
+
+
+From fabien at cazenave.cc  Mon Sep 24 23:43:14 2018
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Mon, 24 Sep 2018 23:43:14 +0200
+Subject: [tupperVim] =?utf-8?q?atelier_d=E2=80=99octobre_chez_Mozilla_Pari?=
+	=?utf-8?q?s?=
+Message-ID: <17dbc98e-9559-8b28-7ddf-d39465a5b239@cazenave.cc>
+
+Canettes, canetons,
+
+continuant sur notre lancée, notre prochain atelier parisien aura lieu 
+le mardi 2 octobre dans les locaux de Mozilla. L’adresse n’a pas changé :
+
+16 bis boulevard Montmartre, Paris IXe (métro Richelieu-Drouot)
+
+C’est Benjamin Bouvier qui nous invite ce mois-ci, grâce lui soit 
+rendue ! Comme le mois précédent, l’atelier aura lieu dans la grande 
+salle et l’apéro dans la « Cantina » attenante.
+
+Merci de vous annoncer sur le framapad :
+
+https://mensuel.framapad.org/p/tuppervim-paris-1810
+
+La recette reste immuable :
+
+  • de 19h à 20h, initiation pour les débutants & apéro pour les 
+initiés, grâce à une technologie de parallélisation des tâches que le 
+monde entier nous envie depuis toujours ;
+
+  • de 20h à 22h, enlarge your productivity — avec peut-être des bouts 
+de LSP dedans, si l’on en croit la rumeur… <https://langserver.org/>
+
+À mardi !
+:kazé
+
+
+From fabien at cazenave.cc  Fri Sep 28 21:35:10 2018
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Fri, 28 Sep 2018 21:35:10 +0200
+Subject: [tupperVim] =?utf-8?q?Ateliers_Lyonnais_=26_Grenoblois_d=E2=80=99?=
+	=?utf-8?q?octobre?=
+Message-ID: <a13cc1ba-115d-27a1-93d5-72409859d904@cazenave.cc>
+
+Ami·e·s lyonnais·e·s, camarades dauphinois·es,
+
+nous avons la joie d’annoncer des ateliers Vim dans nos contrées pour le 
+mois d’octobre :
+
+  • le jeudi 11 octobre au Laboratoire Ouvert Villeurbannais (LOV)
+    21 place des Maisons Neuves, 69100 Villeurbanne
+    https://pad.hadoly.fr/p/TupperVim-lyon-1810
+
+  • le mardi 16 octobre chez Sogilis
+    4 avenue Doyen Louis Weil, 38000 Grenoble
+    https://mensuel.framapad.org/p/tuppervim-grenoble-1810
+
+Vous trouverez les infos sur les etherpads respectifs. Merci de vous y 
+inscrire, pour que nos hôtes puissent s’adapter en conséquence.
+
+La recette est la même qu’à Paris :
+
+   • de 19h à 20h, initiation pour les débutants & apéro pour les
+initiés, grâce à une technologie de parallélisation des tâches que le
+monde entier nous envie depuis toujours ;
+
+   • de 20h à 22h, enlarge your productivity — avec son lot de démos et 
+de présentations.
+
+Les rumeurs faisant état d’une prolongation des ateliers grenoblois 
+jusqu’à la fermeture du dernier bar de la ville sont très exagérées. 
+Enfin, un peu exagérées. Bref, venez à vélo. :-)
+
+À très bientôt !
+:kazé
+
+
+
+From mildred at mildred.fr  Sat Sep 29 21:11:30 2018
+From: mildred at mildred.fr (Mildred Ki'Lya)
+Date: Sat, 29 Sep 2018 19:11:30 +0000
+Subject: [tupperVim]
+ =?utf-8?q?Ateliers_Lyonnais_=26_Grenoblois_d=E2=80=99?=
+ =?utf-8?q?octobre?=
+In-Reply-To: <a13cc1ba-115d-27a1-93d5-72409859d904@cazenave.cc>
+References: <a13cc1ba-115d-27a1-93d5-72409859d904@cazenave.cc>
+Message-ID: <20180929191130.76663db0@elayna.lan>
+
+On Fri, 28 Sep 2018 21:35:10 +0200
+Fabien Cazenave <fabien at cazenave.cc> wrote:
+
+> Ami·e·s lyonnais·e·s, camarades dauphinois·es,
+
+Juste pour le troll, le point milieu, c'est pour faciliter la lisibilité ?
+
+>   • le mardi 16 octobre chez Sogilis
+>     4 avenue Doyen Louis Weil, 38000 Grenoble
+>     https://mensuel.framapad.org/p/tuppervim-grenoble-1810
+
+Je vais être embêtante, mais j'ai une réunion sysadmin ce soir là avec Rézine, le FAI associatif et bio de Grenoble :) du coup je serais sur Grenoble mais pas là. Je passerait peut être après, si vous êtes encore là...
+
+En tout cas c'est super d'avoir prévenu à l'avance :) Une estimation du tuppervim d'après à Grenoble ?
+
+Salut
+
+Mildred
+
+

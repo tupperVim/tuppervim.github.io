@@ -1,0 +1,168 @@
+From keller.mdpa at gmail.com  Mon Feb  1 10:52:45 2016
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Mon, 1 Feb 2016 10:52:45 +0100
+Subject: [tupperVim] =?utf-8?q?Agapes_de_F=C3=A9vrier_=28Paris=29?=
+Message-ID: <CAM+ya-D+4u45XstmMD6JBWKtXBTMtmFavbQioOwoHY4ircCMFg@mail.gmail.com>
+
+Camarades vimistes,
+On est à la rache,
+d'ailleurs, le site vient de ré ouvrir :
+http://linuxfr.org/news/le-retour-de-la-methode-r-a-c-h-e
+
+le site est maintenant sur github et est hébergé sur une github page :
+https://github.com/la-rache/la-rache.com
+http://www.la-rache.com/
+Mais bref, revenons au sujet :
+
+C'est février, il n'y a que 29 jours (eh ouais année bissextile) alors faut
+se dépêcher.
+Le tuppervim de février arrive (en retard certes).
+Il aura lieu le mardi 09 février dans les locaux de Mozilla (Paris) de 20h
+à 22h.
+L'apéro aura lieu de 19h15 à 20h.
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1602
+<https://public.etherpad-mozilla.org/p/TupperVim-1602>
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
+le(s) numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+(un espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards !
+
+--
+maggick | \_o<
+(@matthieukeller)
+
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160201/41c20f28/attachment.html>
+
+From keller.mdpa at gmail.com  Mon Feb  8 17:08:59 2016
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Mon, 8 Feb 2016 17:08:59 +0100
+Subject: [tupperVim] =?utf-8?q?Agapes_de_F=C3=A9vrier_=28Paris=29_-_rappel?=
+Message-ID: <CAM+ya-APJWY6M2od+uJV=g+2JtQ=zgyP1V+X_T3qnRpuD_gY3Q@mail.gmail.com>
+
+Camarades vimistes,
+
+je vous rappel que le tuppervim de février aura lieu demain mardi 9 dans les
+locaux de Mozilla à Paris.
+Il n'est pas trop tard pour vous inscrire sur le pad et venir :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1602
+<https://public.etherpad-mozilla.org/p/TupperVim-1602>
+
+à demain
+
+------------------------------------
+Camarades vimistes,
+On est à la rache,
+d'ailleurs, le site vient de ré ouvrir :
+http://linuxfr.org/news/le-retour-de-la-methode-r-a-c-h-e
+
+le site est maintenant sur github et est hébergé sur une github page :
+https://github.com/la-rache/la-rache.com
+http://www.la-rache.com/
+Mais bref, revenons au sujet :
+
+C'est février, il n'y a que 29 jours (eh ouais année bissextile) alors faut
+se dépêcher.
+Le tuppervim de février arrive (en retard certes).
+Il aura lieu le mardi 09 février dans les locaux de Mozilla (Paris) de 20h
+à 22h.
+L'apéro aura lieu de 19h15 à 20h.
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1602
+<https://public.etherpad-mozilla.org/p/TupperVim-1602>
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
+le(s) numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+(un espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards !
+
+--
+maggick | \_o<
+(@matthieukeller)
+
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160208/f454cd83/attachment.html>
+
+From defmax at laposte.net  Fri Feb 12 18:55:47 2016
+From: defmax at laposte.net (defmax at laposte.net)
+Date: Fri, 12 Feb 2016 18:55:47 +0100 (CET)
+Subject: [tupperVim] Rapport du dernier meetup
+In-Reply-To: <1509967182.4313503.1455299665798.JavaMail.zimbra@laposte.net>
+Message-ID: <1400264305.4321721.1455299747412.JavaMail.zimbra@laposte.net>
+
+Salut à tous, 
+
+J'ai rédigé un micro-compte-rendu de la dernière soirée. 
+
+Il se trouve sur l'Etherpad. 
+https://public.etherpad-mozilla.org/p/TupperVim-1602 
+
+Numériquement vôtre, 
+
+Defmax 
+
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160212/0367cf93/attachment-0001.html>
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: 107225297.gif
+Type: image/gif
+Taille: 1215863 octets
+Desc: non disponible
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160212/0367cf93/attachment-0001.gif>
+
+From guillaumeseren at gmail.com  Tue Feb 16 15:42:30 2016
+From: guillaumeseren at gmail.com (Mr Guillaume Seren)
+Date: Tue, 16 Feb 2016 15:42:30 +0100
+Subject: [tupperVim] Rapport du dernier meetup
+In-Reply-To: <1400264305.4321721.1455299747412.JavaMail.zimbra@laposte.net>
+References: <1400264305.4321721.1455299747412.JavaMail.zimbra@laposte.net>
+Message-ID: <20160216144230.18855.19194@josekit>
+
+Quoting defmax at laposte.net (2016-02-12 18:55:47)
+> J'ai rédigé un micro-compte-rendu de la dernière soirée.
+> Il se trouve sur l'Etherpad.
+> https://public.etherpad-mozilla.org/p/TupperVim-1602
+Hello defmax,
+j'avais vu ton ajout sur l'etherpad tu as bien fais de nous prévenir sur la ML,
+maintenant il vas falloir que l'on appelle notre experte de l'accessibilité
+pour rendre ca plus lisible, non ?
+
+Merci de ton ajout en tout cas.
+
+
+Joseki.
+--------------------
+| Mr Guillaume Seren
+|
+| website: http://www.guillaumeseren.com/
+| github: https://github.com/GuillaumeSeren
+--------------------
+
+

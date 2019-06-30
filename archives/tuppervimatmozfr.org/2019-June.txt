@@ -1,0 +1,78 @@
+From keller.mdpa at gmail.com  Tue Jun 11 11:50:20 2019
+From: keller.mdpa at gmail.com (M K)
+Date: Tue, 11 Jun 2019 11:50:20 +0200
+Subject: [tupperVim] Paris, agapes de juin
+Message-ID: <CAM+ya-CshqqbL7-kkFray-Y=BaHVe7yr5Msai1r8LEojXHGqSQ@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim de juin aura lieu mardi 18 juin dans les locaux de BAM :
+48 bd des Batignolles
+
+Merci de vous annoncer sur le pad comme il se doit :
+https://mensuel.framapad.org/p/tuppervim-paris-1906
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l’évènement
+dans votre agenda.
+
+D’ici là, soyez de bons citoyens et donnez de l’amour aux canards.
+
+--
+maggick | \_o<
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20190611/870b1b0d/attachment.html>
+
+From julioprayer1 at gmail.com  Tue Jun 11 17:32:43 2019
+From: julioprayer1 at gmail.com (Julio Prayer)
+Date: Tue, 11 Jun 2019 15:32:43 +0000
+Subject: [tupperVim] =?utf-8?q?Grave_faille_de_s=C3=A9curit=C3=A9_Vim_/_Ne?=
+ =?utf-8?q?ovim?=
+Message-ID: <CAPPX_AHH6YYo=wd0fGZ6H7JoqASf+1Br2CYfQjUkL_+PUAuZ-g@mail.gmail.com>
+
+Bonjour chers TupperVimistes ;-)
+
+Je ne sais pas si vous avez vu passer la nouvelle, mais une grave faille de
+sécurité a été découverte dans Vim et Neovim
+https://thehackernews.com/2019/06/linux-vim-vulnerability.html
+
+Pensez à mettre à jour votre Neovim et Vim dans les plus brefs délais.
+
+Peut-être serait-il intéressant de Twitter ça sur
+https://twitter.com/tuppervim?lang=en (je n'ais pas Twitter).
+
+Sortez couvert ! ;-)
+
+Julio
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20190611/4462120a/attachment.html>
+
+From florent.mailman-mozfr at zeteo.me  Thu Jun 20 23:13:53 2019
+From: florent.mailman-mozfr at zeteo.me (Florent Fayolle)
+Date: Thu, 20 Jun 2019 23:13:53 +0200
+Subject: [tupperVim] TupperVim Lyonnais le jeudi 4 juillet
+Message-ID: <d73e59ff-f4e3-df33-2cbf-4c93b744558b@zeteo.me>
+
+Camarades Vimistes,
+
+Pour clôturer la saison, je vous annonce un TupperVim Lyonnais (ou
+plutôt Villeurbannais) le jeudi 4 juillet au Laboratoire Ouvert
+Villeurbannais, de 19h à 22h.
+
+Le détail est fourni à ce lien :
+
+https://www.aldil.org/events/tuppervim-3/
+
+N'oubliez pas de vous inscrire à ce lien :
+https://pad.hadoly.fr/p/TupperVim-lyon-1907
+
+Amicalibrement,
+
+Florent
+
+
+
+

@@ -1,0 +1,566 @@
+From keller.mdpa at gmail.com  Wed Feb 15 18:14:07 2017
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Wed, 15 Feb 2017 18:14:07 +0100
+Subject: [tupperVim] =?utf-8?q?Agapes_de_f=C3=A9vrier_-_Paris?=
+Message-ID: <CAM+ya-A4miG9BFm6gEDDnJ=S9OT0ZwQvxM_x67T4MLmcGq_G4Q@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim de février est annoncé :
+Il aura lieu le troisième mardi du mois, le 21 février dans les locaux
+de Mozilla (Paris) de 20h à 22h.
+L'apéro aura lieu de 19h15 à 20h.
+Un initiation aura lieu de 19h30 à 20h pour les débutants
+
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1702
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je ne
+saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer le(s)
+numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+Bon maintenant il y a un vigile, donc il faut vraiment s'inscrire et il peut
+vous ouvrir la porte si vous arrivez pas trop en retard (on arrête pas
+le progrès).
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
+espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards.
+
+--
+maggick | \_o<
+http://tuppervim.org
+
+
+From fabien at cazenave.cc  Thu Feb 23 15:43:36 2017
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Thu, 23 Feb 2017 15:43:36 +0100
+Subject: [tupperVim] Fwd: TupperVim chez 42?
+In-Reply-To: <CAE3PEbFyfngrOxZ9ozJ8aSY3YAYZkcCzFPvKf2oXw94+8MjnUw@mail.gmail.com>
+References: <CAE3PEbFyfngrOxZ9ozJ8aSY3YAYZkcCzFPvKf2oXw94+8MjnUw@mail.gmail.com>
+Message-ID: <72be572e-0b1c-82d0-0c5f-e0fac874f790@cazenave.cc>
+
+Bonjour les canetons,
+
+on nous propose de faire un atelier Vim chez 42. Qu?en pensez-vous ?
+
+\_o<
+</kazé>
+
+
+-------- Forwarded Message --------
+Subject: 	TupperVim chez 42?
+Date: 	Thu, 23 Feb 2017 13:13:25 +0100
+From: 	Thomas GIRAUD <giraudthomas38 at gmail.com>
+To: 	fabien at cazenave.cc
+
+
+
+Bonjour!
+J'ai participé au tupperVim pour la première fois le 21/02 à Paris, 
+l'évènement est cool et a parfaitement sa place à 42, j'en ai donc parlé 
+avec l'administration 42 et tout est ok! À voir maintenant si c'est 
+faisable avec vous, j'attends ta réponse avec impatience! Merci 
+d'avance, bonne journée !
+Thomas GIRAUD.
+
+
+From keller.mdpa at gmail.com  Thu Feb 23 16:02:50 2017
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Thu, 23 Feb 2017 16:02:50 +0100
+Subject: [tupperVim] Design logo, stickers, tshirts
+Message-ID: <CAM+ya-A-MRXvrRC3eCgv-LepAoRF3Oe8Jt8DocaZYaxiouXa6Q@mail.gmail.com>
+
+Camarades vimistes,
+
+comme vous le savez sûrement, l?anniversaire des 5 ans de nos réunions arrive.
+Pour l'occasion nous souhaiterions réaliser des stickers en édition
+limitée ainsi que des tshirts.
+
+Il est envisageable de changer complètement le logo, de le transformer
+ou de le reprendre.
+
+Si vous vous sentez l'âme de graphisme n'hésitez pas à nous proposer
+des idées de stickers, de logo ou autre.
+N'hésitez pas a soumettre un maximum d'idée, promis personne ne se moquera.
+
+Merci de centraliser vos idées sur l'issue github suivante :
+https://github.com/tupperVim/tuppervim.github.io/issues/124
+
+merci d'avance.
+
+--
+maggick | \_o<
+http://tuppervim.org
+
+
+From smile.syban at gmail.com  Thu Feb 23 16:34:19 2017
+From: smile.syban at gmail.com (Sylvain Bannier)
+Date: Thu, 23 Feb 2017 16:34:19 +0100
+Subject: [tupperVim]
+	=?utf-8?q?Organisation_d=27un_tupperVim_=C3=A0_Nantes?=
+	=?utf-8?q?_=3F?=
+In-Reply-To: <CAO-FgQtTZ9+fySNKFms708Qp1=O6BidkEcbcwpq=4CbjMUPk=w@mail.gmail.com>
+References: <CAO-FgQtTZ9+fySNKFms708Qp1=O6BidkEcbcwpq=4CbjMUPk=w@mail.gmail.com>
+Message-ID: <CAO-FgQtjs3-4B2+kL1waXs53+9YLmoYsm+j8f82dN5Vv3gNM3g@mail.gmail.com>
+
+Bonjour vimeuses et vimeux,
+
+Y'aurait-il parmi vous des Nantais ou assimilés ? Je n'ai malheureusement
+jamais pu participer faute d'être à paris au bon moment mais j'aimerais
+bien essayer d'organiser un tupperVim par ici.
+
+Je vois par exemple sur le site un certain @delapouite qui me semble
+appartenir à cette espèce et j'ai dans mes relations quelques vimistes qui
+seraient probablement de la partie.
+
+Le plan "config / « 6 trous » / greffon / défonceuse / mécréant" me parait
+jouable en l'état sans trop d'adaptations et je peux faire le tour des
+boites pour trouver des locaux susceptibles de nous héberger. Des conseils
+particuliers à me donner ?
+
+sylvain @bannier
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20170223/e17cfa0c/attachment.html>
+
+From keller.mdpa at gmail.com  Thu Feb 23 16:39:57 2017
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Thu, 23 Feb 2017 16:39:57 +0100
+Subject: [tupperVim]
+	=?utf-8?q?Organisation_d=27un_tupperVim_=C3=A0_Nantes?=
+	=?utf-8?q?_=3F?=
+In-Reply-To: <CAO-FgQtjs3-4B2+kL1waXs53+9YLmoYsm+j8f82dN5Vv3gNM3g@mail.gmail.com>
+References: <CAO-FgQtTZ9+fySNKFms708Qp1=O6BidkEcbcwpq=4CbjMUPk=w@mail.gmail.com>
+ <CAO-FgQtjs3-4B2+kL1waXs53+9YLmoYsm+j8f82dN5Vv3gNM3g@mail.gmail.com>
+Message-ID: <CAM+ya-BEDeJAnnWyp6FGEMkFa1v+sQthLG5Rkw6Xejqqx3ir8Q@mail.gmail.com>
+
+Hello Sylvain,
+
+> Le plan "config / « 6 trous » / greffon / défonceuse / mécréant" me parait
+> jouable en l'état sans trop d'adaptations
+
+En général on fait un tour de table où les participants propose une
+astuce, poste une question ou montre ce qu'il se rappel de la fois
+d'avant.
+Puis on fais quelques présentation à l'arrache d'outils/plugin/fonctionnalité.
+
+et après on mange de la bière et on bois du saucisson.
+
+voilà
+
+--
+
+Matthieu Keller
+ aka maggick
+
+
+2017-02-23 16:34 GMT+01:00 Sylvain Bannier <smile.syban at gmail.com>:
+> Bonjour vimeuses et vimeux,
+>
+> Y'aurait-il parmi vous des Nantais ou assimilés ? Je n'ai malheureusement
+> jamais pu participer faute d'être à paris au bon moment mais j'aimerais bien
+> essayer d'organiser un tupperVim par ici.
+>
+> Je vois par exemple sur le site un certain @delapouite qui me semble
+> appartenir à cette espèce et j'ai dans mes relations quelques vimistes qui
+> seraient probablement de la partie.
+>
+> Le plan "config / « 6 trous » / greffon / défonceuse / mécréant" me parait
+> jouable en l'état sans trop d'adaptations et je peux faire le tour des
+> boites pour trouver des locaux susceptibles de nous héberger. Des conseils
+> particuliers à me donner ?
+>
+> sylvain @bannier
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> http://listes.mozfr.org/mailman/listinfo/tuppervim
+>
+
+
+From keller.mdpa at gmail.com  Fri Feb 24 16:55:49 2017
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Fri, 24 Feb 2017 16:55:49 +0100
+Subject: [tupperVim] Agapes de mars - Paris
+Message-ID: <CAM+ya-CaXDyksXJiZ3dLNw4kO8q6dLBFtMP6dGc1Q7qeAn=qCw@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim de mars est annoncé :
+Il aura lieu le premier mardi du mois, le 7 février dans les locaux de Mozilla
+(Paris) de 20h à 22h.
+
+L'apéro aura lieu de 19h15 à 20h.
+Un initiation aura lieu de 19h30 à 20h pour les débutants.
+
+Merci de vous annoncer sur le pad comme il se doit :
+https://public.etherpad-mozilla.org/p/TupperVim-1703
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je ne
+saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer le(s)
+numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+
+De plus, un vigile vous demandera qui vous êtes dès l'entrée : inscrivez vous !
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
+espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards.
+
+--
+maggick | \_o<
+http://tuppervim.org
+
+
+From thomas.pabst at gmail.com  Fri Feb 24 17:11:41 2017
+From: thomas.pabst at gmail.com (Thomas PABST)
+Date: Fri, 24 Feb 2017 16:11:41 +0000
+Subject: [tupperVim] Agapes de mars - Paris
+In-Reply-To: <CAM+ya-CaXDyksXJiZ3dLNw4kO8q6dLBFtMP6dGc1Q7qeAn=qCw@mail.gmail.com>
+References: <CAM+ya-CaXDyksXJiZ3dLNw4kO8q6dLBFtMP6dGc1Q7qeAn=qCw@mail.gmail.com>
+Message-ID: <CAHZbcQM5x_Ucp2o3XvQwrcxkW+Yup2jO-zEi6D4n+C=dJA5ffA@mail.gmail.com>
+
+7 mars tu veux dire...
+
+Le ven. 24 févr. 2017 à 16:56, Matthieu Keller <keller.mdpa at gmail.com> a
+écrit :
+
+> Camarades vimistes,
+>
+> Le tuppervim de mars est annoncé :
+> Il aura lieu le premier mardi du mois, le 7 février dans les locaux de
+> Mozilla
+> (Paris) de 20h à 22h.
+>
+> L'apéro aura lieu de 19h15 à 20h.
+> Un initiation aura lieu de 19h30 à 20h pour les débutants.
+>
+> Merci de vous annoncer sur le pad comme il se doit :
+> https://public.etherpad-mozilla.org/p/TupperVim-1703
+>
+> La procédure pour se faire ouvrir la porte étant toujours aussi pénible,
+> je ne
+> saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
+> le(s)
+> numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+>
+> De plus, un vigile vous demandera qui vous êtes dès l'entrée : inscrivez
+> vous !
+>
+> Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+> (un
+> espace est dédié à La question sur le pad).
+>
+> Un email de rappel sera probablement envoyé quelques jours/heures avant les
+> agapes. Mais je ne peux que fortement vous conseiller d'inscrire
+> l?évènement
+> dans votre agenda.
+>
+> D?ici là, soyez de bons citoyens et donnez de l?amour aux canards.
+>
+> --
+> maggick | \_o<
+> http://tuppervim.org
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> http://listes.mozfr.org/mailman/listinfo/tuppervim
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20170224/4c75fb25/attachment.html>
+
+From keller.mdpa at gmail.com  Fri Feb 24 17:21:23 2017
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Fri, 24 Feb 2017 17:21:23 +0100
+Subject: [tupperVim] Agapes de mars - Paris
+In-Reply-To: <CAHZbcQM5x_Ucp2o3XvQwrcxkW+Yup2jO-zEi6D4n+C=dJA5ffA@mail.gmail.com>
+References: <CAM+ya-CaXDyksXJiZ3dLNw4kO8q6dLBFtMP6dGc1Q7qeAn=qCw@mail.gmail.com>
+ <CAHZbcQM5x_Ucp2o3XvQwrcxkW+Yup2jO-zEi6D4n+C=dJA5ffA@mail.gmail.com>
+Message-ID: <CAM+ya-CmfsiNxVXrWHXQXd03fe6Ch_fRAbNwcaPW9oOW+gTGBQ@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim de mars est annoncé :
+Il aura lieu le premier mardi du mois, le 7 mars dans les locaux de Mozilla
+(Paris) de 20h à 22h.
+
+L'apéro aura lieu de 19h15 à 20h.
+Un initiation aura lieu de 19h30 à 20h pour les débutants.
+
+Merci de vous annoncer sur le pad comme il se doit :
+https://public.etherpad-mozilla.org/p/TupperVim-1703
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je ne
+saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer le(s)
+numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+
+De plus, un vigile vous demandera qui vous êtes dès l'entrée : inscrivez vous !
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
+espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards.
+
+--
+maggick | \_o<
+http://tuppervim.org
+
+
+From sylvain at opensource-expert.com  Sat Feb 25 11:04:08 2017
+From: sylvain at opensource-expert.com (Sylvain Viart)
+Date: Sat, 25 Feb 2017 11:04:08 +0100
+Subject: [tupperVim]
+ =?utf-8?q?Organisation_d=27un_tupperVim_=C3=A0_Nantes?=
+ =?utf-8?q?_=3F?=
+In-Reply-To: <CAO-FgQtjs3-4B2+kL1waXs53+9YLmoYsm+j8f82dN5Vv3gNM3g@mail.gmail.com>
+References: <CAO-FgQtTZ9+fySNKFms708Qp1=O6BidkEcbcwpq=4CbjMUPk=w@mail.gmail.com>
+ <CAO-FgQtjs3-4B2+kL1waXs53+9YLmoYsm+j8f82dN5Vv3gNM3g@mail.gmail.com>
+Message-ID: <902b443f-1fd0-a066-0645-55691ac0f0a8@opensource-expert.com>
+
+Salut Sylvain,
+
+Tu as un chouette prénom !
+
+Le 23/02/2017 à 16:34, Sylvain Bannier a écrit :
+> Y'aurait-il parmi vous des Nantais ou assimilés ? Je n'ai
+> malheureusement jamais pu participer faute d'être à paris au bon
+> moment mais j'aimerais bien essayer d'organiser un tupperVim par ici.
+
+Je suis comme toi mais à Annecy.
+
+Je projette d'organiser un tupperVim, mais dans le contexte double d'un
+meetup Sysadmin, et d'un accueil de ce meetup dans le cadre de nos
+réunions de l'AGU3L notre LUG local.
+
+Donc je veux bien partager avec toi, l'expérience du #1 pour la première
+rencontre. Ma situation est que je suis vimeur de longue date et que
+sans doute mon auditoire sera en mode découverte newbee et/ou sysadmin.
+
+À suivre,
+Par liste, mail, ou tel, ou signaux unix?
+
+Sylvain.
+
+-- 
+Sylvain Viart - DevOps système linux - freelance developer
+
+
+
+
+From smile.syban at gmail.com  Sat Feb 25 11:35:13 2017
+From: smile.syban at gmail.com (Sylvain Bannier)
+Date: Sat, 25 Feb 2017 10:35:13 +0000
+Subject: [tupperVim]
+	=?utf-8?q?Organisation_d=27un_tupperVim_=C3=A0_Nantes?=
+	=?utf-8?q?_=3F?=
+In-Reply-To: <902b443f-1fd0-a066-0645-55691ac0f0a8@opensource-expert.com>
+References: <CAO-FgQtTZ9+fySNKFms708Qp1=O6BidkEcbcwpq=4CbjMUPk=w@mail.gmail.com>
+ <CAO-FgQtjs3-4B2+kL1waXs53+9YLmoYsm+j8f82dN5Vv3gNM3g@mail.gmail.com>
+ <902b443f-1fd0-a066-0645-55691ac0f0a8@opensource-expert.com>
+Message-ID: <CAO-FgQuB0mm0ZZdBf9u_Qx91D1qfMs6KMZpqduBuHHkWyxpuaA@mail.gmail.com>
+
+Oui clairement un beau prénom que tout le monde nous envie (les pauvres
+avec leurs prénoms nuls... Soyons humains et ne remuons pas le couteau dans
+la plaie).
+
+Avec plaisir pour ton retour. De mon côté je suis vimouilleur depuis 3 ans
+mais je pense que j'aurais majoritairement des vimiens patentés (je me
+trompe peut-être). Il y a une sorte d'événement local meetup en avril à
+Nantes, je vais essayer d'en profiter pour gagner un peu de visibilité
+(ahhhh le marketing...). Tu comptes utiliser meetup / eventbright ?
+
+Le sam. 25 févr. 2017 11:04, Sylvain Viart <sylvain at opensource-expert.com>
+a écrit :
+
+> Salut Sylvain,
+>
+> Tu as un chouette prénom !
+>
+> Le 23/02/2017 à 16:34, Sylvain Bannier a écrit :
+> > Y'aurait-il parmi vous des Nantais ou assimilés ? Je n'ai
+> > malheureusement jamais pu participer faute d'être à paris au bon
+> > moment mais j'aimerais bien essayer d'organiser un tupperVim par ici.
+>
+> Je suis comme toi mais à Annecy.
+>
+> Je projette d'organiser un tupperVim, mais dans le contexte double d'un
+> meetup Sysadmin, et d'un accueil de ce meetup dans le cadre de nos
+> réunions de l'AGU3L notre LUG local.
+>
+> Donc je veux bien partager avec toi, l'expérience du #1 pour la première
+> rencontre. Ma situation est que je suis vimeur de longue date et que
+> sans doute mon auditoire sera en mode découverte newbee et/ou sysadmin.
+>
+> À suivre,
+> Par liste, mail, ou tel, ou signaux unix?
+>
+> Sylvain.
+>
+> --
+> Sylvain Viart - DevOps système linux - freelance developer
+>
+>
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> http://listes.mozfr.org/mailman/listinfo/tuppervim
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20170225/cf6ddd7f/attachment.html>
+
+From sylvain at opensource-expert.com  Sat Feb 25 12:16:14 2017
+From: sylvain at opensource-expert.com (Sylvain Viart)
+Date: Sat, 25 Feb 2017 12:16:14 +0100
+Subject: [tupperVim]
+ =?utf-8?q?Organisation_d=27un_tupperVim_=28=C3=A0_Nan?=
+ =?utf-8?q?tes=2C_=C3=A0_Annecy=29_comment_faire_son_=231_=28comming_out?=
+ =?utf-8?q?=29?=
+In-Reply-To: <CAO-FgQuB0mm0ZZdBf9u_Qx91D1qfMs6KMZpqduBuHHkWyxpuaA@mail.gmail.com>
+References: <CAO-FgQtTZ9+fySNKFms708Qp1=O6BidkEcbcwpq=4CbjMUPk=w@mail.gmail.com>
+ <CAO-FgQtjs3-4B2+kL1waXs53+9YLmoYsm+j8f82dN5Vv3gNM3g@mail.gmail.com>
+ <902b443f-1fd0-a066-0645-55691ac0f0a8@opensource-expert.com>
+ <CAO-FgQuB0mm0ZZdBf9u_Qx91D1qfMs6KMZpqduBuHHkWyxpuaA@mail.gmail.com>
+Message-ID: <77366367-d028-7425-4526-00fd688f3a2a@opensource-expert.com>
+
+Sylvain,
+
+Le 25/02/2017 à 11:35, Sylvain Bannier a écrit :
+
+> Avec plaisir pour ton retour. De mon côté je suis vimouilleur depuis 3
+> ans mais je pense que j'aurais majoritairement des vimiens patentés
+> (je me trompe peut-être).
+
+Alors, créons un wiki, ou un pad peut-être, pour y construire la feuille
+de route de :
+   
+
+    "comment forker votre tupperVim?" ?
+
+
+:save tupperVim_maVille.vim
+
+> Il y a une sorte d'événement local meetup en avril à Nantes, je vais
+> essayer d'en profiter pour gagner un peu de visibilité (ahhhh le
+> marketing...).
+
+J'ai un pote sysadmin sur Nantes, je lui ai forwardé ton mail, pour voir
+si ça l'intéresse.
+Tu peux me partager ton événement local, je lui transmettrai aussi.
+
+On a commencé aussi des séances de partage entre sysadmin en webinar ou
+à peu près? (owncloud, ansible, etc.), à voir comment on peut répliquer,
+ou étendre. Y a plein d'autre piste.
+Le format TupperVim est très proche de ce qu'on fait en asso à l'AGU3L,
+notamment sur la partie bière et saucisson !
+
+> Tu comptes utiliser meetup / eventbright ?
+
+J'ai acheté (~18?) un groupe meetup pour 6 mois, c'est payant, pour mes
+événement mais, j'ai pas encore organisé de rencontre.
+
+https://www.meetup.com/AGU3L-Annecy-Sysadmin-Group/
+
+Les développeurs du coin et les adminsys ou libristes ce sont déjà
+inscrit ça marche, je n'ai fait aucune pub encore.
+Des nouveaux membres sont déjà venu à l'asso hors du meetup, car il n'a
+pas encore eu lieu?
+Mais ils ont découvert notre asso, par le biais du meetup.
+
+Je ne connaissait pas : https://www.eventbrite.fr/
+merci.
+
+Après, côté pub locale, mettre dans les agendas de par exemple :
+
+  * http://www.agendadulibre.org/
+  * Transition citoyenne <http://www.transitioncitoyenne.org/> locale,
+    car nous sommes dans des valeurs proches du libre :
+    http://transitioncitoyennesemnoz.org/
+  * La liste tupperVim : tuppervim at mozfr.org
+  * Et localement j'ai aussi trouvé, par notre ML de l'asso :
+    http://www.savoiemontblanc-solidaires.org/
+    c'est de L'économie sociale et solidaire, pareil, partage des
+    valeurs, et dans le cadre de mon asso aussi.
+  * Toute asso de libre dont tu te sens proche? (Après tout Vim est un
+    charityware?)
+
+
+Les meetup ont un taux de participation faible (par rapport aux
+inscrits) mais le plaisir c'est dans la qualité, pas dans la masse! ;-)
+
+Voilà des indices, après c'est en fonction des goûts et des objectifs de
+chacun.
+
+À suivre,
+Sylvain.
+
+-- 
+Sylvain Viart - DevOps système linux - freelance developer
+
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20170225/c6f3fff1/attachment.html>
+
+From fabien at cazenave.cc  Mon Feb 27 15:46:00 2017
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Mon, 27 Feb 2017 15:46:00 +0100
+Subject: [tupperVim]
+ =?utf-8?q?Organisation_d=27un_tupperVim_=C3=A0_Nantes?=
+ =?utf-8?q?_=3F?=
+In-Reply-To: <902b443f-1fd0-a066-0645-55691ac0f0a8@opensource-expert.com>
+References: <CAO-FgQtTZ9+fySNKFms708Qp1=O6BidkEcbcwpq=4CbjMUPk=w@mail.gmail.com>
+ <CAO-FgQtjs3-4B2+kL1waXs53+9YLmoYsm+j8f82dN5Vv3gNM3g@mail.gmail.com>
+ <902b443f-1fd0-a066-0645-55691ac0f0a8@opensource-expert.com>
+Message-ID: <c7835413-700e-e9c9-3b5b-e8a452362f12@cazenave.cc>
+
+Bonjour,
+
+On 25/02/17 11:04, Sylvain Viart wrote:
+> Le 23/02/2017 à 16:34, Sylvain Bannier a écrit :
+>> Y'aurait-il parmi vous des Nantais ou assimilés ? Je n'ai
+>> malheureusement jamais pu participer faute d'être à paris au bon
+>> moment mais j'aimerais bien essayer d'organiser un tupperVim par ici.
+>
+> Je suis comme toi mais à Annecy.
+>
+> Je projette d'organiser un tupperVim, mais dans le contexte double d'un
+> meetup Sysadmin, et d'un accueil de ce meetup dans le cadre de nos
+> réunions de l'AGU3L notre LUG local.
+>
+
+étant Grenoblois (et animateur de la plupart des sessions sur Paris / 
+Lyon / Grenoble), je pourrais envisager de venir faire un tour à Annecy 
+pour la première itération. Ça serait quand ton meetup ?
+
+Si tu t?attends à avoir beaucoup de n00bs, j?ai une présentation pour 
+débutants à rôder (qui est plutôt pas mal passée à Paris) :
+
+http://fabi1cazenave.github.io/slides/2017-vim-ducklings/
+
+Accessoirement, on devrait avoir une session tupperVim pendant les 
+prochains JDLL, début avril, à Lyon ? peut-être que tu pourrais venir y 
+faire un tour, et voir comment ça se passe ?
+
+http://www.jdll.org/
+
+</kazé>
+
+

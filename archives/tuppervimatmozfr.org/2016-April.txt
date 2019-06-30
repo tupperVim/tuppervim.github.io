@@ -1,0 +1,483 @@
+From sianedzochine at gmail.com  Tue Apr  5 11:53:50 2016
+From: sianedzochine at gmail.com (Vince Dovergne)
+Date: Tue, 5 Apr 2016 11:53:50 +0200
+Subject: [tupperVim] =?utf-8?q?Inscription_=C3=A9v=C3=A9nement_TupperVim_s?=
+	=?utf-8?q?ur_Lille?=
+Message-ID: <CAHTo4Cn_mZsd3SRv74VUmZTJRV=PqAPaLF_UvuZPq_yWMou3ag@mail.gmail.com>
+
+Bonjour,
+
+Le pad https://public.etherpad-mozilla.org/p/TupperVim-Lille-1602 renvoi
+sur un ancien événement sur Paris, comment s'inscrit-on pour l'événement
+sur Lille ?
+
+Cdt,
+
+Aurélien
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160405/ee3145aa/attachment.html>
+
+From keller.mdpa at gmail.com  Tue Apr  5 11:57:55 2016
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Tue, 5 Apr 2016 11:57:55 +0200
+Subject: [tupperVim]
+	=?utf-8?q?Inscription_=C3=A9v=C3=A9nement_TupperVim_s?=
+	=?utf-8?q?ur_Lille?=
+In-Reply-To: <CAHTo4Cn_mZsd3SRv74VUmZTJRV=PqAPaLF_UvuZPq_yWMou3ag@mail.gmail.com>
+References: <CAHTo4Cn_mZsd3SRv74VUmZTJRV=PqAPaLF_UvuZPq_yWMou3ag@mail.gmail.com>
+Message-ID: <CAM+ya-Ce0G4XfvbfTm1_mK5jhvfK3xKJ_p7PX9RLKPcY=B6gjQ@mail.gmail.com>
+
+Hello Aurélien/Vince,
+
+le lien correct semble être :
+https://public.etherpad-mozilla.org/p/TupperVim-Lille-1604
+(puisque l'on est en avril)
+
+see you,
+
+maggick
+@matthieukeller
+
+
+From thomas.pabst at gmail.com  Wed Apr  6 17:05:49 2016
+From: thomas.pabst at gmail.com (Thomas PABST)
+Date: Wed, 06 Apr 2016 15:05:49 +0000
+Subject: [tupperVim] Stickers Lafayette
+Message-ID: <CAHZbcQMePcnZR041R72WPvZCMi6LdwCeH=XhOVerNRT6g=u_xw@mail.gmail.com>
+
+Bonjour à tous,
+
+Hier lors du tuppervim, j'ai parlé des stikers concernant le clavier
+Lafayette. J'ai eu un retour de l'imprimeur. Pour avoir un prix, Il faut
+donner le nombre de stickers que l'on voudrait commander.
+
+Je vous propose de repondre à ce mail en donnant le nombre de stickers que
+vous voulez.
+
+Vous pouvez voir les layouts light & dark en pièce jointe.
+
+Je commence,
+
+Thomas Pabst: dark 10, light 2
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160406/39df9108/attachment-0001.html>
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: FRENCH QWERTY lafayette.pdf
+Type: application/pdf
+Taille: 251975 octets
+Desc: non disponible
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160406/39df9108/attachment-0001.pdf>
+
+From sylvain at opensource-expert.com  Thu Apr  7 08:37:24 2016
+From: sylvain at opensource-expert.com (Sylvain Viart)
+Date: Thu, 7 Apr 2016 08:37:24 +0200
+Subject: [tupperVim] =?utf-8?q?Pr=C3=A9sentation_vim_toute_faite_=3F?=
+Message-ID: <57060024.4090801@opensource-expert.com>
+
+Salut,
+
+On me demande de faire une présentation Vim pour un LUG (Linux User
+Group) sur Genève.
+
+Avez vous du matériel, d'une présentation déjà faite, et open-source ?
+
+Je suis très chargé, et je ne vois pas quand je pourrais fabriquer ça,
+dans un délai raisonnable.
+
+À suivre,
+Sylvain.
+
+-- 
+Sylvain Viart - Consultant informatique système linux	
+
+
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: signature.asc
+Type: application/pgp-signature
+Taille: 836 octets
+Desc: OpenPGP digital signature
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160407/fbb40245/attachment.sig>
+
+From sylvain at opensource-expert.com  Thu Apr  7 10:37:44 2016
+From: sylvain at opensource-expert.com (Sylvain Viart)
+Date: Thu, 7 Apr 2016 10:37:44 +0200
+Subject: [tupperVim] =?utf-8?q?Pr=C3=A9sentation_vim_toute_faite_=3F?=
+In-Reply-To: <CAM+ya-DqD5g+yVeG-vB+=_K99SBGjNLy1jzz=Xe98qd9gn2o9w@mail.gmail.com>
+References: <57060024.4090801@opensource-expert.com>
+ <CAM+ya-DqD5g+yVeG-vB+=_K99SBGjNLy1jzz=Xe98qd9gn2o9w@mail.gmail.com>
+Message-ID: <57061C58.8010501@opensource-expert.com>
+
+Merci Matthieu, j'irai faire un tour, sur IRC: Canal IRC : #tupperVim
+<irc://irc.mozilla.org/tupperVim> sur irc.mozilla.org?
+
+Si vous voyez des trucs qui peuvent me servir, postez ici. Je prendrai,
+et je donnerai aussi, évidemment. ;-)
+Anglais ou Français, aucune différence, je traduirai.
+
+Sylvain.
+
+Le 07/04/2016 09:51, Matthieu Keller a écrit :
+> Hello,
+>
+> je n'ai pas connaissance d'une telle présentation
+> mais, je t'invite à nous rejoindre sur le canal IRC
+> plus approprié pour les discussion.
+>
+>
+> --
+> maggick
+
+-- 
+Sylvain Viart - Consultant informatique système linux
+
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160407/699f8b0f/attachment.html>
+
+From guillaumeseren at gmail.com  Thu Apr  7 11:05:22 2016
+From: guillaumeseren at gmail.com (Mr Guillaume Seren)
+Date: Thu, 07 Apr 2016 11:05:22 +0200
+Subject: [tupperVim] =?utf-8?q?Pr=C3=A9sentation_vim_toute_faite_=3F?=
+In-Reply-To: <57061C58.8010501@opensource-expert.com>
+References: <57060024.4090801@opensource-expert.com>
+ <CAM+ya-DqD5g+yVeG-vB+=_K99SBGjNLy1jzz=Xe98qd9gn2o9w@mail.gmail.com>
+ <57061C58.8010501@opensource-expert.com>
+Message-ID: <20160407090522.23065.38638@josekit>
+
+Bonjour Sylvain,
+Quoting Sylvain Viart (2016-04-07 10:37:44)
+> Merci Matthieu, j'irai faire un tour, sur IRC: Canal IRC : #tupperVim sur
+> irc.mozilla.org?
+N'oublie pas de te signaler ou de pingger Mathieu (maggick) en arrivant :)
+
+> Si vous voyez des trucs qui peuvent me servir, postez ici. Je prendrai, et je
+> donnerai aussi, évidemment. ;-)
+Tu as les archives des tuppervim ou je pense qu'il y a de quoi faire,
+mais je ne pense pas quoi qu'il y ai une prèsentation *toute prete*.
+Voila les liens archives sont en bas de pages http://tuppervim.org/
+
+> Anglais ou Français, aucune différence, je traduirai.
+Après si tu cherche des ressources sur un sujet plus précis de vim on doit
+pouvoir t'aiguiller, donne plus d'infos.
+
+
+Guillaume (Joseki)
+--------------------
+| Mr Guillaume Seren
+|
+| website: http://www.guillaumeseren.com/
+| github: https://github.com/GuillaumeSeren
+--------------------
+
+
+From sylvain at opensource-expert.com  Thu Apr  7 12:41:36 2016
+From: sylvain at opensource-expert.com (Sylvain Viart)
+Date: Thu, 7 Apr 2016 12:41:36 +0200
+Subject: [tupperVim] =?utf-8?q?Pr=C3=A9sentation_vim_toute_faite_=3F?=
+In-Reply-To: <20160407090522.23065.38638@josekit>
+References: <57060024.4090801@opensource-expert.com>
+ <CAM+ya-DqD5g+yVeG-vB+=_K99SBGjNLy1jzz=Xe98qd9gn2o9w@mail.gmail.com>
+ <57061C58.8010501@opensource-expert.com> <20160407090522.23065.38638@josekit>
+Message-ID: <57063960.4030004@opensource-expert.com>
+
+Merci Guillaume,
+
+>> Anglais ou Français, aucune différence, je traduirai.
+> Après si tu cherche des ressources sur un sujet plus précis de vim on doit
+> pouvoir t'aiguiller, donne plus d'infos.
+
+Non, j'ai rien de précis, j'ai dis je fais du vim depuis 1995, et je kife !
+
+On m'a dit viens faire une présentation.
+Mais ça se prépare une présentation?
+
+Sans doute, présentation de l'éditeur modal.
+Puis customisation pour avoir un IDE like pour les dev, ou teaser pour
+faire saliver, donner de l'envie d'aller suivre un cours d'aqua-ponney. :-P
+
+Voilà à suivre,
+Sylvain.
+
+-- 
+Sylvain Viart - Consultant informatique système linux
+
+
+
+From nicolac76 at yahoo.fr  Thu Apr  7 12:45:58 2016
+From: nicolac76 at yahoo.fr (nico cornu)
+Date: Thu, 7 Apr 2016 10:45:58 +0000 (UTC)
+Subject: [tupperVim] =?utf-8?q?Pr=C3=A9sentation_vim_toute_faite_=3F?=
+In-Reply-To: <57063960.4030004@opensource-expert.com>
+References: <57063960.4030004@opensource-expert.com>
+Message-ID: <1394157999.1424575.1460025958784.JavaMail.yahoo@mail.yahoo.com>
+
+Salut,
+J'ai déjà fait une présentation de vim de manière générale. Le but était de montrer que oui vim est utilisable et pas juste un less amélioré.
+
+J'ai fait que de la démo. J'avais des dossiers avec des fichiers pour présenter divers points. Expliquer les modes, :make, le spellcheck, les "cib" et consorts, etc.
+Et à la fin j'ai conseillé aux gens de faire le vimtutor. J'ai tenu 45 minutes comme ça. 
+
+Je sais pas si lire des slides sur des commandes vim soit vraiment excitant.
+Vimesquement votre,
+Nicolas.
+ 
+
+    Le Jeudi 7 avril 2016 12h41, Sylvain Viart <sylvain at opensource-expert.com> a écrit :
+ 
+
+ Merci Guillaume,
+
+>> Anglais ou Français, aucune différence, je traduirai.
+> Après si tu cherche des ressources sur un sujet plus précis de vim on doit
+> pouvoir t'aiguiller, donne plus d'infos.
+
+Non, j'ai rien de précis, j'ai dis je fais du vim depuis 1995, et je kife !
+
+On m'a dit viens faire une présentation.
+Mais ça se prépare une présentation?
+
+Sans doute, présentation de l'éditeur modal.
+Puis customisation pour avoir un IDE like pour les dev, ou teaser pour
+faire saliver, donner de l'envie d'aller suivre un cours d'aqua-ponney. :-P
+
+Voilà à suivre,
+Sylvain.
+
+-- 
+Sylvain Viart - Consultant informatique système linux
+
+
+_______________________________________________
+tupperVim mailing list
+tupperVim at mozfr.org
+http://mozfr.org/mailman/listinfo/tuppervim
+
+
+  
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160407/8a310904/attachment.html>
+
+From sylvain at opensource-expert.com  Thu Apr  7 13:38:23 2016
+From: sylvain at opensource-expert.com (Sylvain Viart)
+Date: Thu, 7 Apr 2016 13:38:23 +0200
+Subject: [tupperVim] =?utf-8?q?Pr=C3=A9sentation_vim_toute_faite_=3F?=
+In-Reply-To: <1394157999.1424575.1460025958784.JavaMail.yahoo@mail.yahoo.com>
+References: <57063960.4030004@opensource-expert.com>
+ <1394157999.1424575.1460025958784.JavaMail.yahoo@mail.yahoo.com>
+Message-ID: <570646AF.7060703@opensource-expert.com>
+
+Merci Nicolas,
+
+Le 07/04/2016 12:45, nico cornu a écrit :
+> J'ai déjà fait une présentation de vim de manière générale. Le but
+> était de montrer que oui vim est utilisable et pas juste un less amélioré.
+>
+> J'ai fait que de la démo. J'avais des dossiers avec des fichiers pour
+> présenter divers points. Expliquer les modes, :make, le spellcheck,
+> les "cib" et consorts, etc.
+>
+> Et à la fin j'ai conseillé aux gens de faire le vimtutor. J'ai tenu 45
+> minutes comme ça.
+>
+> Je sais pas si lire des slides sur des commandes vim soit vraiment
+> excitant.
+
+
+Donc, c'est une démo sans "présentation". Tu as conservé les exercices
+et les étapes que tu proposais ?
+Peut être un pense bête du fil que tu voulais suivre ?
+
+Faudrait peut être juste faire un pad  et augmenter chacun de nos idées?
+
+Sans que ce soit de "lire des slides de commande" ça peut servir de base
+de présentation. Effectivement avec démonstration / ou vidéo screencast?
+
+Qu'entends tu par cib ?
+Les éditions + motion sur des objets vim ?
+
+  * |cib/ciB|: Change the text inside the current set of parenthesis ()
+    or braces {}, respectively.
+
+Mais plus à discuter sur IRC j'imagine.
+
+S'il te reste du matériel pour la présentation, je suis preneur.
+
+Merci.
+Sylvain.
+
+
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160407/2107ba3d/attachment.html>
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: signature.asc
+Type: application/pgp-signature
+Taille: 836 octets
+Desc: OpenPGP digital signature
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160407/2107ba3d/attachment.sig>
+
+From keller.mdpa at gmail.com  Tue Apr 19 15:17:38 2016
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Tue, 19 Apr 2016 15:17:38 +0200
+Subject: [tupperVim] Agapes de mai (Paris)
+Message-ID: <CAM+ya-D5GJO8CObiZXnXsAP7cw8oY7MrNkH2oCuMgjBd40c-nA@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim de Mai est prêt :
+Il aura lieu le second mardi du mois, le 10 mai dans les locaux de Mozilla
+(Paris) de 20h à 22h.
+L'apéro aura lieu de 19h15 à 20h.
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1605
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je ne
+saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer le(s)
+numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
+espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards et profitez du
+soleil (ça va pas durer) !
+
+--
+maggick | \_o<
+(@matthieukeller)
+
+http://tuppervim.org
+
+
+From julioprayer1 at gmail.com  Tue Apr 26 13:25:53 2016
+From: julioprayer1 at gmail.com (Julio Prayer)
+Date: Tue, 26 Apr 2016 13:25:53 +0200
+Subject: [tupperVim] =?utf-8?q?Proposer_le_Lafayette_au_minist=C3=A8re_de_?=
+	=?utf-8?q?la_culture_pour_remplacer_l=27Azerty?=
+Message-ID: <CAPPX_AExeamncVLrwvknE7y7hq31JBkNL5F=sqB5CqKUEgVw5w@mail.gmail.com>
+
+Bonjour amis vimistes et lafayetiens !
+
+L'Afnor est en train de réfléchir à normaliser un clavier adapté à la
+langue française? Il faudrait le proposer le Lafayette !
+
+http://www.culturecommunication.gouv.fr/Politiques-ministerielles/Langue-francaise-et-langues-de-France/Politiques-de-la-langue/Langues-et-numerique/Les-technologies-de-la-langue-et-la-normalisation/Vers-une-norme-francaise-pour-les-claviers-informatiques
+
+@ bientôt dans une TupperVim,
+
+Julio
+
+
+From keller.mdpa at gmail.com  Tue Apr 26 16:49:49 2016
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Tue, 26 Apr 2016 16:49:49 +0200
+Subject: [tupperVim] Agapes d'avril Grenoble - demain 27 avril
+Message-ID: <CAM+ya-CQkFbtzwU7q9w5exES5dEB1i45o9QrcD-AzLoKYbBBEg@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim de d'avril de Grenoble est demain :
+Il aura lieu demain le 27 avril dans les locaux du Log de 20h à 22h.
+L'apéro aura lieu de 19h15 à 20h.
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-Grenoble-1604
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
+espace est dédié à La question sur le pad).
+
+Cet e-mail est l'e-mail de rappel et d'annonce à la fois, on s'organise
+comme on peut hein ;)
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards et profitez du
+soleil (ça va pas durer) !
+
+--
+maggick | \_o<
+(@matthieukeller)
+
+http://tuppervim.org
+
+
+From guillaumeseren at gmail.com  Wed Apr 27 10:43:28 2016
+From: guillaumeseren at gmail.com (Mr Guillaume Seren)
+Date: Wed, 27 Apr 2016 10:43:28 +0200
+Subject: [tupperVim]
+ =?utf-8?q?Proposer_le_Lafayette_au_minist=C3=A8re_de_?=
+ =?utf-8?q?la_culture_pour_remplacer_l=27Azerty?=
+In-Reply-To: <CAPPX_AExeamncVLrwvknE7y7hq31JBkNL5F=sqB5CqKUEgVw5w@mail.gmail.com>
+References: <CAPPX_AExeamncVLrwvknE7y7hq31JBkNL5F=sqB5CqKUEgVw5w@mail.gmail.com>
+Message-ID: <20160427084328.22277.53616@josekit>
+
+Hello Julio,
+Quoting Julio Prayer (2016-04-26 13:25:53)
+> L'Afnor est en train de réfléchir à normaliser un clavier adapté à la
+> langue française? Il faudrait le proposer le Lafayette !
+Je pense que c'est une bonne idée, mais que l'on devrais avoir l'avis de Kaze
+sur la question car il me semble qui souhaitait apporter des modifications.
+
+En tout les cas, cela donne de la visibilité au projet ce qui est bien.
+
+
+A+
+Joseki
+--------------------
+| Mr Guillaume Seren
+|
+| website: http://www.guillaumeseren.com/
+| github: https://github.com/GuillaumeSeren
+--------------------
+
+
+From sylvain at opensource-expert.com  Wed Apr 27 10:59:52 2016
+From: sylvain at opensource-expert.com (Sylvain Viart)
+Date: Wed, 27 Apr 2016 10:59:52 +0200
+Subject: [tupperVim]
+ =?utf-8?q?Proposer_le_Lafayette_au_minist=C3=A8re_de_?=
+ =?utf-8?q?la_culture_pour_remplacer_l=27Azerty?=
+In-Reply-To: <20160427084328.22277.53616@josekit>
+References: <CAPPX_AExeamncVLrwvknE7y7hq31JBkNL5F=sqB5CqKUEgVw5w@mail.gmail.com>
+ <20160427084328.22277.53616@josekit>
+Message-ID: <57207F88.2080602@opensource-expert.com>
+
+Salut,
+
+
+On 27/04/2016 10:43, Mr Guillaume Seren wrote:
+> Hello Julio,
+> Quoting Julio Prayer (2016-04-26 13:25:53)
+>> L'Afnor est en train de réfléchir à normaliser un clavier adapté à la
+>> langue française? Il faudrait le proposer le Lafayette !
+> Je pense que c'est une bonne idée, mais que l'on devrais avoir l'avis de Kaze
+> sur la question car il me semble qui souhaitait apporter des modifications.
+>
+> En tout les cas, cela donne de la visibilité au projet ce qui est bien.
+
+Voyez aussi avec les gens de bépo.fr.
+pas le même clavier mais à voir ce qu'ils savent.
+
+bépo n'est pas vim friendly?
+
+Voilà je passe l'info c'est tout.
+Faudra que je teste ce qwerty Lafayette !
+
+azerty est réputé le pire layout jamais inventé? :-P
+
+À suivre,
+Sylvain.
+
+-- 
+Sylvain Viart - Consultant informatique système linux
+
+
+

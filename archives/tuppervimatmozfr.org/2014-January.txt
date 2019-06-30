@@ -1,0 +1,25 @@
+From fabien at mozilla.com  Thu Jan 30 16:00:41 2014
+From: fabien at mozilla.com (Fabien Cazenave)
+Date: Thu, 30 Jan 2014 16:00:41 +0100
+Subject: [tupperVim] =?utf-8?q?Session_de_f=C3=A9vrier_2014?=
+Message-ID: <52EA6919.9010708@mozilla.com>
+
+Canettes, canetons,
+
+encore et derechef, les agapes tupperVim se tiendront le premier mardi 
+du mois dans nos bureaux Mozilla parisiens [1], c?est-à-dire le 4 
+février de 20h à 22h :
+
+   https://etherpad.mozilla.org/TupperVim-1402
+
+Comme l?interphone ne fonctionne pas dans notre salle de réunion, plutôt 
+que de sonner à la porte, le mieux sera de me pinguer directement sur 
+mon GSM : 07 89 58 38 50.
+
+D?ici là, si vous me cherchez je serai au Beer Event du FOSDEM !
+\_o<
+--
+[1] 16 bis boulevard Montmartre, Paris ? métro : Richelieu-Drouot
+Plus d?infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
+
+

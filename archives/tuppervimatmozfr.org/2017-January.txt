@@ -1,0 +1,288 @@
+From keller.mdpa at gmail.com  Wed Jan  4 16:25:42 2017
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Wed, 4 Jan 2017 16:25:42 +0100
+Subject: [tupperVim] Tuppervim de janvier - Paris
+Message-ID: <CAM+ya-Cxd5fOqye83KdTZUwe3yk0arMGk_nW-R__D=kxMkMaPg@mail.gmail.com>
+
+Camarades vimistes,
+
+Le premier tuppervim de l'année est prêt :
+Il aura lieu le troisième mardi du mois, le17 novembre dans les locaux
+de Mozilla (Paris) de 20h à 22h.
+L'apéro aura lieu de 19h15 à 20h.
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1701
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je ne
+saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer le(s)
+numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+Bon maintenant il y a un vigile, donc il faut vraiment s'inscrire et il peut
+vous ouvrir la porte si vous arrivez pas trop en retard (on arrête pas
+le progrès).
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
+espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards.
+
+--
+maggick | \_o<
+(@matthieukeller)
+
+http://tuppervim.org
+
+
+From keller.mdpa at gmail.com  Wed Jan  4 16:33:05 2017
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Wed, 4 Jan 2017 16:33:05 +0100
+Subject: [tupperVim] Tuppervim de janvier - Paris - erratum
+Message-ID: <CAM+ya-AsFUx9br9J3E65+ypHHn47B28N25maJXbs=QO0rJx_ow@mail.gmail.com>
+
+Une petite erreur s'est glissée dans mon mail précédent.
+La date du tuppervim de janvier est le 17 *janvier* et non le 17 novembre.
+
+Merci à alkino pour son attention.
+Ci-dessous le mail corrigé:
+
+Camarades vimistes,
+
+Le premier tuppervim de l'année est prêt :
+Il aura lieu le troisième mardi du mois, le17 janvier dans les locaux
+de Mozilla (Paris) de 20h à 22h.
+L'apéro aura lieu de 19h15 à 20h.
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1701
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je ne
+saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer le(s)
+numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+Bon maintenant il y a un vigile, donc il faut vraiment s'inscrire et il peut
+vous ouvrir la porte si vous arrivez pas trop en retard (on arrête pas
+le progrès).
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
+espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards.
+
+--
+maggick | \_o<
+(@matthieukeller)
+
+http://tuppervim.org
+
+
+From florent.fayolle69 at gmail.com  Sat Jan 14 15:06:34 2017
+From: florent.fayolle69 at gmail.com (Florent FAYOLLE)
+Date: Sat, 14 Jan 2017 15:06:34 +0100
+Subject: [tupperVim] =?utf-8?q?Premier_TupperRust_de_l=27histoire_=C3=A0_L?=
+	=?utf-8?q?yon?=
+Message-ID: <f21d67a3-44c5-84dc-6eac-193d8791db07@gmail.com>
+
+Messieurs dames, bonjour,
+
+le jour du 2 février de l'an 2017 (ou an 41 après VI) verra le premier
+TupperRust de l'histoire inauguré. Cet évènement, comme son nom
+l'indique, ne concerne pas (neo)vim, mais le langage Rust
+<https://www.rust-lang.org> créé et développé par Mozilla et la communauté.
+
+Le format de cet évènement s'articule en deux parties :
+
+  * une présentation d'une heure par l'intervenant invité ;
+  * des revues de code sur la base du volontariat : un membre du public
+    expose un bout de code écrit en Rust et le public le commente / pose
+    des questions. C?est un moment propice pour apprendre plein de
+    bonnes pratiques !
+
+Pour cette session, nous avons le plaisir d'accueillir Ivan Enderlin qui
+travaille sur Tagua VM (https://tagua.io), une machine virtuelle PHP
+expérimentale écrite en Rust pour prévenir une grande partie des
+vulnérabilités de la machine virtuelle classique.*
+*
+
+Venez donc nombreux le 2 février de 19h à 21h à :
+
+    la Maison pour Tous des Rancy
+    249 Rue Vendôme
+<https://www.openstreetmap.org/node/2932341346#map=17/45.75520/4.84906>
+(métro Saxe-Gambetta)
+    69003 Lyon
+
+Et merci de vous inscrire sur ce framapad pour indiquer votre présence :
+https://public.etherpad-mozilla.org/p/TupperRust-lyon-1702
+
+À bientôt !
+
+Florent
+
+PS : Nous recherchons un logo pour l'évènement. N'hésitez pas à voter
+pour votre préféré ou à proposer le vôtre sur ce sondage :
+https://framadate.org/1eW7ccgahfVDo2Jo
+
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20170114/7cfa4363/attachment.html>
+
+From ivan.enderlin at hoa-project.net  Sat Jan 14 15:52:15 2017
+From: ivan.enderlin at hoa-project.net (Ivan Enderlin)
+Date: Sat, 14 Jan 2017 15:52:15 +0100
+Subject: [tupperVim]
+	=?utf-8?q?Premier_TupperRust_de_l=27histoire_=C3=A0_L?=
+	=?utf-8?q?yon?=
+In-Reply-To: <f21d67a3-44c5-84dc-6eac-193d8791db07@gmail.com>
+References: <f21d67a3-44c5-84dc-6eac-193d8791db07@gmail.com>
+Message-ID: <498edf8a-8a3c-9895-2535-7241a61a55bb@hoa-project.net>
+
+Hello à tous :-),
+
+Je me permets de corriger le lien pour les curieux qui voudraient 
+cliquer dessus : http://tagua.io/ !
+
+Merci et bonne inscription à tous !
+
+
+On 14.01.17 15:06, Florent FAYOLLE wrote:
+>
+> Messieurs dames, bonjour,
+>
+> le jour du 2 février de l'an 2017 (ou an 41 après VI) verra le premier 
+> TupperRust de l'histoire inauguré. Cet évènement, comme son nom 
+> l'indique, ne concerne pas (neo)vim, mais le langage Rust 
+> <https://www.rust-lang.org> créé et développé par Mozilla et la 
+> communauté.
+>
+> Le format de cet évènement s'articule en deux parties :
+>
+>   * une présentation d'une heure par l'intervenant invité ;
+>   * des revues de code sur la base du volontariat : un membre du
+>     public expose un bout de code écrit en Rust et le public le
+>     commente / pose des questions. C?est un moment propice pour
+>     apprendre plein de bonnes pratiques !
+>
+> Pour cette session, nous avons le plaisir d'accueillir Ivan Enderlin 
+> qui travaille sur Tagua VM (https://tagua.io), une machine virtuelle 
+> PHP expérimentale écrite en Rust pour prévenir une grande partie des 
+> vulnérabilités de la machine virtuelle classique.*
+> *
+>
+> Venez donc nombreux le 2 février de 19h à 21h à :
+>
+>     la Maison pour Tous des Rancy
+> 249 Rue Vendôme 
+> <https://www.openstreetmap.org/node/2932341346#map=17/45.75520/4.84906> 
+> (métro Saxe-Gambetta)
+>     69003 Lyon
+>
+> Et merci de vous inscrire sur ce framapad pour indiquer votre présence 
+> : https://public.etherpad-mozilla.org/p/TupperRust-lyon-1702
+>
+> À bientôt !
+>
+> Florent
+>
+> PS : Nous recherchons un logo pour l'évènement. N'hésitez pas à voter 
+> pour votre préféré ou à proposer le vôtre sur ce sondage : 
+> https://framadate.org/1eW7ccgahfVDo2Jo
+>
+
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20170114/19901250/attachment.html>
+
+From keller.mdpa at gmail.com  Mon Jan 16 11:43:21 2017
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Mon, 16 Jan 2017 11:43:21 +0100
+Subject: [tupperVim] Tuppervim de janvier - Paris - rappel
+Message-ID: <CAM+ya-DvY3Wq2MBZkAFVZ3LO9hh7jQ=41EQM8Ro_se1pG0=Obw@mail.gmail.com>
+
+le tuppervim de Janvier à Paris c'est demain.
+Ceci est un mail de rappel cordial et manuel.
+
+Ci-dessous le mail original :
+-------------------
+
+Une petite erreur s'est glissée dans mon mail précédent.
+La date du tuppervim de janvier est le 17 *janvier* et non le 17 novembre.
+
+Merci à alkino pour son attention.
+Ci-dessous le mail corrigé:
+
+Camarades vimistes,
+
+Le premier tuppervim de l'année est prêt :
+Il aura lieu le troisième mardi du mois, le17 janvier dans les locaux de Mozilla
+(Paris) de 20h à 22h.
+L'apéro aura lieu de 19h15 à 20h.
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1701
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je ne
+saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer le(s)
+numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+Nous avons maintenant un vigile, l'inscription est d'autant plus nécessaire, par
+contre, il pourrait vous ouvrir la porte si vous arrivez pas trop en retard (on
+arrête pas le progrès).
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
+espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards.
+
+--
+maggick | \_o<
+(@matthieukeller)
+
+http://tuppervim.org
+
+
+From d.merej at gmail.com  Sun Jan 22 16:57:00 2017
+From: d.merej at gmail.com (Dimitri Merejkowsky)
+Date: Sun, 22 Jan 2017 16:57:00 +0100
+Subject: [tupperVim] Ma newsletter
+Message-ID: <CADQAdv0OfwaRm_1JDvrvngX=JPOsyVnyp8pFsqGXsmpEdGv7XQ@mail.gmail.com>
+
+Salut les gens,
+
+Une toute petite auto-promo vite fait.
+
+Je viens de créer une newsletter.
+
+Les détails ici:
+
+https://dmerej.info/blog/post/introducing-dmerej-newsletter/
+
+Si vous me suivez déjà sur IRC ou twitter c'est a priori pas la peine de
+vous inscrire :)
+
+
+Pour info, dans les cartons j'ai:
+
+   - Un gros article sur TDD
+   - Et mes notes sur le dernier tuppervim parisien
+
+
+PS: le code qui envoie le mail a été écrit par mes soins et avec amour,
+donc si vous vous sentez une åme de bêta-testeur, n'hésitez pas ;)
+
+À +
+
+Dimitri
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20170122/b703db8d/attachment.html>
+

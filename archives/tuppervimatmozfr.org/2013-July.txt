@@ -1,0 +1,43 @@
+From nicolac76 at yahoo.fr  Wed Jul 31 22:12:17 2013
+From: nicolac76 at yahoo.fr (nico cornu)
+Date: Wed, 31 Jul 2013 21:12:17 +0100 (BST)
+Subject: [tupperVim] =?iso-8859-1?q?Rencontre_d=27=E9t=E9?=
+Message-ID: <1375301537.20066.YahooMailNeo@web133205.mail.ir2.yahoo.com>
+
+Chers vimeurs, chères vimeuses,
+On avait discuté d'une rencontre estivalière lors du précédent tuppervim et sur IRC. Nous arrivons en Août et rien n'as encore été fait. Nous avons donc connu un mois de juillet sans tuppervim. Dur, n'est il pas ?
+Je propose donc d'y remédier. Sous quelles formes ? Point ne sais je.
+Rencontre dans un bar ? Agapes (ce mot si cher à kaze) dans un square / parc ? 
+
+Le jeudi soir pour garder nos coutumes, le week-end comme c'est les vacances ?
+
+Bref, je ne fais que soumettre des propositions dans l'espoir d'un débat riche et respectueux.
+
+Cordialement,
+Alkino
+
+PS : Pour ceux qui s'ennuient, un petit vimgolf de ma composition :
+
+###########
+
+Paris
+Grenoble
+Toulouse
+Nice
+Lyon
+Marseille
+Lille
+
+###########
+5. Avpr
+6. Cnevf
+7. Gbhybhfr
+1. Teraboyr
+3. Ylba
+2. Yvyyr
+4. Znefrvyyr
+###########
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20130731/4f4b0f8f/attachment.html>
+

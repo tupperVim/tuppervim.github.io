@@ -1,0 +1,234 @@
+From keller.mdpa at gmail.com  Mon May  9 15:00:30 2016
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Mon, 9 May 2016 15:00:30 +0200
+Subject: [tupperVim] Agapes de mai (Paris) - Rappel
+Message-ID: <CAM+ya-B_mtPL3GHm2KQ9LEcvhrh8L5LzgCdRqkoXB5mW3y6rOQ@mail.gmail.com>
+
+Camarades vimistes,
+
+le tuppervim de Mai à Paris c'est demain.
+Ceci est un mail de rappel cordial et manuel.
+
+Ci-dessous le mail original :
+-------------------
+Le tuppervim de Mai est prêt :
+Il aura lieu le second mardi du mois, le 10 mai dans les locaux de Mozilla
+(Paris) de 20h à 22h.
+L'apéro aura lieu de 19h15 à 20h.
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1605
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je ne
+saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer le(s)
+numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
+espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards et profitez du
+soleil (ça va pas durer) !
+
+--
+maggick | \_o<
+(@matthieukeller)
+
+http://tuppervim.org
+
+
+From florent.fayolle69 at gmail.com  Tue May 24 13:50:55 2016
+From: florent.fayolle69 at gmail.com (Florent Fayolle)
+Date: Tue, 24 May 2016 13:50:55 +0200
+Subject: [tupperVim] TupperVim Lyonnais le 1er juin
+Message-ID: <CADhHXT7xMyPhYZ8d6bVy_wMrmX_=kikUo4EwG7kkW3LruSP=bw@mail.gmail.com>
+
+Camarades Vimistes,
+
+Le prochain TupperVim Lyonnais se fera le mercredi *1er juin *à partir de
+20h dans les locaux de l'Épitech, au 156 rue Paul Bert, Lyon.
+
+*Important* : contrairement à ce qui était marqué jusqu'à la semaine
+dernière sur le site de l'agenda du libre, le prochain TupperVim aura lieu
+à cette date (le 1er juin) et non pas le 25 mai.
+
+Merci de vous annoncer sur le pad comme il se doit :
+https://public.etherpad-mozilla.org/p/TupperVim-Lyon-1606
+
+Comme à notre habitude, chacun ramène grignottes et boissons pour qui
+voudra participer à l'apéro qui suit.
+
+Pour plus d'informations, vous pouvez vous référer au site des TupperVim :
+http://tuppervim.org/
+
+D'ici là, soyez sages et prenez soin de vos tulipes.
+
+--
+
+Florent
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160524/57847287/attachment.html>
+
+From sylvain at opensource-expert.com  Wed May 25 08:32:36 2016
+From: sylvain at opensource-expert.com (Sylvain Viart)
+Date: Wed, 25 May 2016 08:32:36 +0200
+Subject: [tupperVim] =?utf-8?q?customisation_Vim_en_IDE_o=C3=B9_est_mon_i?=
+	=?utf-8?b?X0NUUkwtTiA/?=
+Message-ID: <57454704.2040700@opensource-expert.com>
+
+Salut,
+
+Comme on est un peu loin, je mail?
+
+J'ai installé à peu près ce qui est dans cet article:
+
+https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/
+
+
+Mais, j'y perds ma complétion manuelle i_CTRL-P i_CTRL-N parfois?
+
+Pour compléter un mot dans un nom de fichier par exemple:
+
+/etc/power<i_ctrl-N>
+
+je voudrais qu'il aille me cherche comme d'hab un mot dans le fichier :
+"powerdns" dans le cas présent? qui s'y trouve évidemment.
+
+Mais, comme il s'agit d'une config pour un serveur distant en salt, le
+dossier ne se trouve pas, lui, sur le serveur où j'édite.
+
+Donc, si vous êtes plus avancé que moi dans la bidouille de ces modes de
+complétion, je veux bien une piste.
+
+Comment je fais pour avoir ce bon vieux i_CTRL-N, aussi ?
+
+Sylvain.
+
+-- 
+Sylvain Viart - Consultant informatique système linux
+
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160525/29920b30/attachment.html>
+
+From keller.mdpa at gmail.com  Fri May 27 10:55:37 2016
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Fri, 27 May 2016 10:55:37 +0200
+Subject: [tupperVim] Agapes de juin
+Message-ID: <CAM+ya-CR-5U8jTiXaC2AjyqsffQbWreu92U+zV5eAuRRp4uAmA@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim de juin est prêt :
+Il aura lieu le premier mardi du mois, le 07 juin dans les locaux de Mozilla
+(Paris) de 20h à 22h.
+L'apéro aura lieu de 19h15 à 20h.
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1606
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je ne
+saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer le(s)
+numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
+espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards et profitez du
+soleil (quel soleil ?) !
+
+--
+maggick | \_o<
+(@matthieukeller)
+
+http://tuppervim.org
+
+
+From sylvain at opensource-expert.com  Mon May 30 10:20:31 2016
+From: sylvain at opensource-expert.com (Sylvain Viart)
+Date: Mon, 30 May 2016 10:20:31 +0200
+Subject: [tupperVim]
+ =?utf-8?q?customisation_Vim_en_IDE_o=C3=B9_est_mon_i?=
+ =?utf-8?b?X0NUUkwtTiA/?=
+In-Reply-To: <595369033.341494374.1464160979508.JavaMail.root@zimbra60-e10.priv.proxad.net>
+References: <595369033.341494374.1464160979508.JavaMail.root@zimbra60-e10.priv.proxad.net>
+Message-ID: <574BF7CF.7020306@opensource-expert.com>
+
+Salut Luc,
+
+Le 25/05/2016 09:22, Luc Hermitte a écrit :
+> /etc/power<i_ctrl-N>
+>
+> je voudrais qu'il aille me cherche comme d'hab un mot dans le fichier
+> : "powerdns" dans le cas présent? qui s'y trouve évidemment.
+
+Sans tout attirail que j'ai loadé, ça fonctionnait?
+
+> Le comportement de i_CTRL-N peut être altéré s'il y a remappage (peu s'y amusent, et cela se vérifie avec `:verbose imap <c-n>`), ou si l'option 'complete' a été altérée (on peut toujours faire un `verbose set complete` pour trouver le coupable).
+:verbose imap <c-n>
+Aucun mappage trouvé
+
+:verbose set complete
+complete=.,w,b,u,t,i
+
+Qui veut dire:
+        .       scan the current buffer ( 'wrapscan' is ignored)
+        w       scan buffers from other windows
+        b       scan other loaded buffers that are in the buffer list
+        u       scan the unloaded buffers that are in the buffer list
+        t       same as "]"
+        ]       tag completion
+        i       scan current and included files
+
+
+:verbose set cfu
+completefunc=youcompleteme#Complete
+        Modifié la dernière fois dans
+~/.vim/bundle/YouCompleteMe/autoload/youcompleteme.vim
+
+> Après, si powerdns est dans le fichier courant (ou dans un endroit indiqué par 'complete'), cela devrait marcher. Si powerdns est un fichier local, c'est i_CTRL-X_CTRL-F qu'il faudrait plutôt utiliser.
+
+oui, je maîtrise i_CTRL-X et consort.
+Et non, le fichier local n'existe pas.
+
+Je vais du coup regarder plus intensément ce que fait youcompleteme
+
+Qui pourrait-être le coupable de la désactivation partielle de i_ctrl-N
+
+:verbose imap
+i  <C-Space>   * <C-X><C-O><C-P>
+        Modifié la dernière fois dans
+~/.vim/bundle/YouCompleteMe/autoload/youcompleteme.vim
+i  <Nul>         <C-Space>
+        Modifié la dernière fois dans
+~/.vim/bundle/YouCompleteMe/autoload/youcompleteme.vim
+i  <Up>        * pumvisible() ? "\<C-P>" : "\<Up>"
+        Modifié la dernière fois dans
+~/.vim/bundle/YouCompleteMe/autoload/youcompleteme.vim
+i  <S-Tab>     * pumvisible() ? "\<C-P>" : "\<S-Tab>"
+        Modifié la dernière fois dans
+~/.vim/bundle/YouCompleteMe/autoload/youcompleteme.vim
+i  <Down>      * pumvisible() ? "\<C-N>" : "\<Down>"
+        Modifié la dernière fois dans
+~/.vim/bundle/YouCompleteMe/autoload/youcompleteme.vim
+i  <Tab>       * pumvisible() ? "\<C-N>" : "\<Tab>"
+        Modifié la dernière fois dans
+~/.vim/bundle/YouCompleteMe/autoload/youcompleteme.vim
+
+Merci pour les pistes?
+Sylvain.
+
+-- 
+Sylvain Viart - Consultant informatique système linux
+
+
+
+

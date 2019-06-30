@@ -1,0 +1,410 @@
+From thomas.pabst at gmail.com  Sat Sep  5 13:28:48 2015
+From: thomas.pabst at gmail.com (Thomas PABST)
+Date: Sat, 5 Sep 2015 13:28:48 +0200
+Subject: [tupperVim] gq motion => quelque chose ne va pas !
+Message-ID: <CAHZbcQPyF5sHEBBvr6rLvPKQ4TUrtWTRAtq2FniyBbmvvM_chg@mail.gmail.com>
+
+Bonjour aux vimistes,
+
+J'ai un problème où je m'arache un peu les cheveux !
+
+Lorsque je sélécionne un paragraphe et que je souhaite le re formater  à 80
+colonnes avec gq, il se produit une chose bizare !
+lorque qu'un ligne termine par une virgule, la ligne suivante s'indente !
+
+Aurriez vous une idée de la raison ?
+
+
+\chapter{Editorial} : Par Albert Camus.
+>
+> En attendant, il est permis de penser qu'il y a quelque indécence à
+> célébrer
+> ainsi une découverte, qui se met d'abord au service de la plus formidable
+> rage
+> de destruction dont l'homme ait fait preuve depuis des siècles. Que dans un
+> monde livré à tous les déchirements de la violence, incapable d'aucun
+> contrôle,
+>       indifférent à la justice et au simple bonheur des hommes, la science
+> se
+>       consacre au meurtre organisé, personne sans doute, à moins
+> d'idéalisme
+>       impénitent, ne songera à s'en étonner.
+>
+
+
+Merci à vous.
+
+-----------------------------------------------------
+Thomas PABST
+thomas.pabst at gmail.com
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150905/c4954d88/attachment.html>
+
+From florent.fayolle69 at gmail.com  Sat Sep  5 13:41:11 2015
+From: florent.fayolle69 at gmail.com (Florent FAYOLLE)
+Date: Sat, 5 Sep 2015 13:41:11 +0200
+Subject: [tupperVim] gq motion => quelque chose ne va pas !
+In-Reply-To: <CAHZbcQPyF5sHEBBvr6rLvPKQ4TUrtWTRAtq2FniyBbmvvM_chg@mail.gmail.com>
+References: <CAHZbcQPyF5sHEBBvr6rLvPKQ4TUrtWTRAtq2FniyBbmvvM_chg@mail.gmail.com>
+Message-ID: <55EAD4D7.30704@gmail.com>
+
+Salut,
+
+Question naïve : as-tu essayé de voir ce que ça donnait en lançant vim 
+sans vimrc ? Si je ne dis pas de bêtise,  en lançant cette commande : 
+|vim -u NONE|
+
+Florent
+
+Le 05/09/2015 13:28, Thomas PABST a écrit :
+> Bonjour aux vimistes,
+>
+> J'ai un problème où je m'arache un peu les cheveux !
+>
+> Lorsque je sélécionne un paragraphe et que je souhaite le re formater  
+> à 80 colonnes avec gq, il se produit une chose bizare !
+> lorque qu'un ligne termine par une virgule, la ligne suivante s'indente !
+>
+> Aurriez vous une idée de la raison ?
+>
+>
+>     \chapter{Editorial} : Par Albert Camus.
+>
+>     En attendant, il est permis de penser qu'il y a quelque indécence
+>     à célébrer
+>     ainsi une découverte, qui se met d'abord au service de la plus
+>     formidable rage
+>     de destruction dont l'homme ait fait preuve depuis des siècles.
+>     Que dans un
+>     monde livré à tous les déchirements de la violence, incapable
+>     d'aucun contrôle,
+>           indifférent à la justice et au simple bonheur des hommes, la
+>     science se
+>           consacre au meurtre organisé, personne sans doute, à moins
+>     d'idéalisme
+>           impénitent, ne songera à s'en étonner.
+>
+>
+>
+> Merci à vous.
+>
+> -----------------------------------------------------
+> Thomas PABST
+> thomas.pabst at gmail.com <mailto:thomas.pabst at gmail.com>
+>
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> http://mozfr.org/mailman/listinfo/tuppervim
+
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150905/39481106/attachment.html>
+
+From thomas.pabst at gmail.com  Sat Sep  5 14:22:39 2015
+From: thomas.pabst at gmail.com (Thomas PABST)
+Date: Sat, 5 Sep 2015 14:22:39 +0200
+Subject: [tupperVim] gq motion => quelque chose ne va pas !
+In-Reply-To: <55EAD4D7.30704@gmail.com>
+References: <CAHZbcQPyF5sHEBBvr6rLvPKQ4TUrtWTRAtq2FniyBbmvvM_chg@mail.gmail.com>
+ <55EAD4D7.30704@gmail.com>
+Message-ID: <CAHZbcQN_R94TfOa1xUuX9jAp6JHv65P20TJrgvFeLrPAF8R9eg@mail.gmail.com>
+
+Effectivement le problème ne se pose pas.
+Quand j'ai lu Practical Vim by Drew Neil, une des première chose qu'il a
+dite,  c'est de tester sans vimrc au moindre problème ! Je n'y pense jamais.
+
+Par contre c'est surprenant !
+
+J'ai commenter les lignes suiavntes de mon vimrc:
+source ~/.vim/global.vim
+source ~/.vim/map.vim
+source ~/.vim/file.vim
+source ~/.vim/dev.vim
+source ~/.vim/function.vim
+
+Puis j'ai décommenter au fur et à mesure une lige après l'autre. Ils sont
+tous décommenté à présent et le problème ne se pose plus !
+
+
+
+
+-----------------------------------------------------
+Thomas PABST
+thomas.pabst at gmail.com
+
+Le 5 septembre 2015 13:41, Florent FAYOLLE <florent.fayolle69 at gmail.com> a
+écrit :
+
+> Salut,
+>
+> Question naïve : as-tu essayé de voir ce que ça donnait en lançant vim
+> sans vimrc ? Si je ne dis pas de bêtise,  en lançant cette commande : |vim
+> -u NONE|
+>
+> Florent
+>
+>
+> Le 05/09/2015 13:28, Thomas PABST a écrit :
+>
+> Bonjour aux vimistes,
+>
+> J'ai un problème où je m'arache un peu les cheveux !
+>
+> Lorsque je sélécionne un paragraphe et que je souhaite le re formater  à
+> 80 colonnes avec gq, il se produit une chose bizare !
+> lorque qu'un ligne termine par une virgule, la ligne suivante s'indente !
+>
+> Aurriez vous une idée de la raison ?
+>
+>
+> \chapter{Editorial} : Par Albert Camus.
+>>
+>> En attendant, il est permis de penser qu'il y a quelque indécence à
+>> célébrer
+>> ainsi une découverte, qui se met d'abord au service de la plus formidable
+>> rage
+>> de destruction dont l'homme ait fait preuve depuis des siècles. Que dans
+>> un
+>> monde livré à tous les déchirements de la violence, incapable d'aucun
+>> contrôle,
+>>       indifférent à la justice et au simple bonheur des hommes, la
+>> science se
+>>       consacre au meurtre organisé, personne sans doute, à moins
+>> d'idéalisme
+>>       impénitent, ne songera à s'en étonner.
+>>
+>
+>
+> Merci à vous.
+>
+> -----------------------------------------------------
+> Thomas PABST
+> thomas.pabst at gmail.com
+>
+>
+> _______________________________________________
+> tupperVim mailing listtupperVim at mozfr.orghttp://mozfr.org/mailman/listinfo/tuppervim
+>
+>
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> http://mozfr.org/mailman/listinfo/tuppervim
+>
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150905/1cd714b4/attachment.html>
+
+From sylvain at opensource-expert.com  Sun Sep  6 11:26:20 2015
+From: sylvain at opensource-expert.com (Sylvain Viart)
+Date: Sun, 6 Sep 2015 11:26:20 +0200
+Subject: [tupperVim] gq motion => quelque chose ne va pas !
+In-Reply-To: <CAHZbcQN_R94TfOa1xUuX9jAp6JHv65P20TJrgvFeLrPAF8R9eg@mail.gmail.com>
+References: <CAHZbcQPyF5sHEBBvr6rLvPKQ4TUrtWTRAtq2FniyBbmvvM_chg@mail.gmail.com>
+ <55EAD4D7.30704@gmail.com>
+ <CAHZbcQN_R94TfOa1xUuX9jAp6JHv65P20TJrgvFeLrPAF8R9eg@mail.gmail.com>
+Message-ID: <55EC06BC.5040809@opensource-expert.com>
+
+Bonjour,
+
+quel est la valeur de formatoptions ?
+
+:echo &fo
+:he 'formatoptions'
+:he fo-table
+
+Je l'utilise pour formater le code, ça doit être un alignement de
+paramètres de fonctions.
+
+Sylvain.
+
+-- 
+Sylvain Viart - Consultant informatique système linux
+
+
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: signature.asc
+Type: application/pgp-signature
+Taille: 836 octets
+Desc: OpenPGP digital signature
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150906/e58ade71/attachment.sig>
+
+From keller.mdpa at gmail.com  Mon Sep  7 09:21:56 2015
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Mon, 7 Sep 2015 09:21:56 +0200
+Subject: [tupperVim] =?utf-8?q?Agapes_de_rentr=C3=A9e_-_rappel?=
+Message-ID: <CAM+ya-CXVKf=BABt+M+vx-Nh3hgSUBYF_ro2a_iaczo5iJrugw@mail.gmail.com>
+
+Hello,
+
+je vous rappelle que le Tuppervim de septembre c'est demain.
+Nous somme actuellement 15 inscrits sur le pad, mais il n'est pas
+trop tard. Vous pouvez toujours vous inscrire et venir.
+
+à demain,
+
+-------------------------------------------------
+
+Camarades vimistes,
+
+C'est la rentrée pour tous, Le tuppervim de septembre arrive.
+Il aura donc lieu le mardi 8 septembre dans les locaux de Mozilla de 20h à
+22h.
+L'apéro aura lieu de 19h15 à 20h.
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://etherpad.mozilla.org/TupperVim-1509
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
+les numéros présents sur le pad pour qu?on vienne vous ouvrir.
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+(un espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens : prenez les transports
+en commun, buvez de l'eau, mangez des pommes, changez régulièrement
+vos mots de passe et donnez de l?amour aux canards !
+
+--
+maggick | \_o<
+Velociraptor | \_x<
+
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150907/96dcef95/attachment.html>
+
+From pierre-yves.david at ens-lyon.org  Tue Sep  8 18:52:34 2015
+From: pierre-yves.david at ens-lyon.org (Pierre-Yves David)
+Date: Tue, 08 Sep 2015 09:52:34 -0700
+Subject: [tupperVim] gq motion => quelque chose ne va pas !
+In-Reply-To: <CAHZbcQPyF5sHEBBvr6rLvPKQ4TUrtWTRAtq2FniyBbmvvM_chg@mail.gmail.com>
+References: <CAHZbcQPyF5sHEBBvr6rLvPKQ4TUrtWTRAtq2FniyBbmvvM_chg@mail.gmail.com>
+Message-ID: <55EF1252.50901@ens-lyon.org>
+
+
+
+On 09/05/2015 04:28 AM, Thomas PABST wrote:
+> Bonjour aux vimistes,
+>
+> J'ai un problème où je m'arache un peu les cheveux !
+>
+> Lorsque je sélécionne un paragraphe et que je souhaite le re formater  à
+> 80 colonnes avec gq, il se produit une chose bizare !
+> lorque qu'un ligne termine par une virgule, la ligne suivante s'indente !
+
+Généralement, les problèmes d'indentation étrange sont le fait de 
+smartindent qui est en fait plutot dumbindent.
+
+N'aurais tu pas configuré quelque part ?
+
+-- 
+Pierre-Yves David
+
+
+From keller.mdpa at gmail.com  Tue Sep 29 13:38:37 2015
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Tue, 29 Sep 2015 13:38:37 +0200
+Subject: [tupperVim] Agapes d'otctobre
+Message-ID: <CAM+ya-Ae4VF0eTuXEHz_YquhM032P0qyyWTfYTUqd8BOKgeXEw@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim d'octobre arrive.
+Il aura lieu le mardi 6 octobre dans les locaux de Mozilla de 20h à 22h.
+L'apéro aura lieu de 19h15 à 20h.
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://etherpad.mozilla.org/TupperVim-1510
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
+les numéros présents sur la porte pour qu?on vienne vous ouvrir.
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+(un espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens : prenez les transports
+en commun, buvez de l'eau, mangez des pommes, changez régulièrement
+vos mots de passe et donnez de l?amour aux canards !
+
+--
+maggick | \_o<
+Velociraptor | \_x<
+
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150929/11b772b2/attachment.html>
+
+From keller.mdpa at gmail.com  Tue Sep 29 13:40:53 2015
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Tue, 29 Sep 2015 13:40:53 +0200
+Subject: [tupperVim] Grenoble - Agapes d'octobre
+Message-ID: <CAM+ya-A5mmNL2qzt5HyK+dmqsMbwY8QicrCx5efaGfyOy9rSdw@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim d'octobre arrive également à Grenoble.
+Il aura lieu le mercredi 14 octobre de 20h à 22h dans les locaux du LOG 45
+Rue Nicolas Chorier.
+L'apéro aura lieu de 19h15 à 20h.
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://etherpad.mozilla.org/TupperVim-grenoble-1510
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+(un espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens : prenez les transports
+en commun, buvez de l'eau, mangez des pommes, changez régulièrement
+vos mots de passe et donnez de l?amour aux canards !
+
+--
+maggick | \_o<
+Velociraptor | \_x<
+
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150929/a77fc883/attachment.html>
+
+From florent.fayolle69 at gmail.com  Tue Sep 29 23:02:44 2015
+From: florent.fayolle69 at gmail.com (Florent FAYOLLE)
+Date: Tue, 29 Sep 2015 23:02:44 +0200
+Subject: [tupperVim] =?iso-8859-1?q?Rappel_=3A_Tuppervim_=E0_Lyon_demain_?=
+ =?iso-8859-1?q?=28mercredi=29?=
+Message-ID: <560AFC74.6060108@gmail.com>
+
+Bonjour à tous,
+
+un petit rappel pour ceux qui l'ont oublié : le prochain TupperVim sur 
+Lyon aura lieu demain (mercredi 30 septembre) de 20h00 à 22h00 (et plus 
+pour l'apéro) dans les locaux d'Épitech :
+
+     156 rue Paul Bert, Lyon 3ème.
+
+Le pad : https://etherpad.mozilla.org/TupperVim-lyon-1509
+
+Florent
+
+

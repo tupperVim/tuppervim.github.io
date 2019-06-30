@@ -1,0 +1,328 @@
+From keller.mdpa at gmail.com  Tue Aug 12 15:37:10 2014
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Tue, 12 Aug 2014 15:37:10 +0200
+Subject: [tupperVim] =?utf-8?q?_Soir=C3=A9e_de_septembre_2014?=
+Message-ID: <CAM+ya-CPHAWOB_U3mmZ2Fvz5d6Nd7eHCNf2J=PK0FpS1UqWLfQ@mail.gmail.com>
+
+Camarades vimistes,
+
+Après cette pause estival avec un temps d?automne, les agapes reprennent et
+auront lieu contrairement à d'habitude le premier LUNDI du mois
+(lundi 1 septembre) dans les locaux de Mozilla de 20h à 22h. Merci de vous
+annoncer sur le pad comme il se doit :
+
+  https://etherpad.mozilla.org/TupperVim-1409
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
+les numéros présents sur le pad pour qu?on vienne vous ouvrir.
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+(un espace est dédié à cette question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?événement
+
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens : prenez les transports en commun, les
+velib', les autolib', ne tuez pas de vieilles dames, donnez de l?amour aux
+canards !
+
+\_o<
+
+--
+
+maggick
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20140812/ad256491/attachment.html>
+
+From etienne.crombez at gmail.com  Tue Aug 12 21:53:34 2014
+From: etienne.crombez at gmail.com (Etienne CROMBEZ)
+Date: Tue, 12 Aug 2014 21:53:34 +0200
+Subject: [tupperVim] =?utf-8?q?Soir=C3=A9e_de_septembre_2014?=
+In-Reply-To: <CAM+ya-CPHAWOB_U3mmZ2Fvz5d6Nd7eHCNf2J=PK0FpS1UqWLfQ@mail.gmail.com>
+References: <CAM+ya-CPHAWOB_U3mmZ2Fvz5d6Nd7eHCNf2J=PK0FpS1UqWLfQ@mail.gmail.com>
+Message-ID: <CAJX_iYNVf2_W4DwLZ8J7YgStm7HDDifGCkus2fWSB2XaFQ1Fnw@mail.gmail.com>
+
+Sur le wiki, c'est le mardi 2, sur le pad c'est le lundi 1, c'est laquelle
+la bonne date ?
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20140812/8790e928/attachment.html>
+
+From nicolac76 at yahoo.fr  Tue Aug 12 22:17:29 2014
+From: nicolac76 at yahoo.fr (nico cornu)
+Date: Tue, 12 Aug 2014 21:17:29 +0100
+Subject: [tupperVim] =?iso-8859-1?q?Soir=E9e_de_septembre_2014?=
+In-Reply-To: <CAJX_iYNVf2_W4DwLZ8J7YgStm7HDDifGCkus2fWSB2XaFQ1Fnw@mail.gmail.com>
+References: <CAM+ya-CPHAWOB_U3mmZ2Fvz5d6Nd7eHCNf2J=PK0FpS1UqWLfQ@mail.gmail.com>
+ <CAJX_iYNVf2_W4DwLZ8J7YgStm7HDDifGCkus2fWSB2XaFQ1Fnw@mail.gmail.com>
+Message-ID: <1407874649.46513.YahooMailNeo@web133201.mail.ir2.yahoo.com>
+
+Salut,
+
+ça a été corrigé aujourd'hui ;)
+
+http://wiki.mozfr.org/TupperVim
+
+Vimement Votre
+
+
+
+Le Mardi 12 août 2014 21h53, Etienne CROMBEZ <etienne.crombez at gmail.com> a écrit :
+ 
+
+
+Sur le wiki, c'est le mardi 2, sur le pad c'est le lundi 1, c'est laquelle la bonne date ?
+
+_______________________________________________
+tupperVim mailing list
+tupperVim at mozfr.org
+http://mozfr.org/mailman/listinfo/tuppervim
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20140812/eb002ed8/attachment.html>
+
+From tom at leloop.org  Mon Aug 25 23:54:01 2014
+From: tom at leloop.org (ToM)
+Date: Mon, 25 Aug 2014 23:54:01 +0200
+Subject: [tupperVim] Edit your Changelog like a boss
+Message-ID: <53FBB079.2040008@leloop.org>
+
+L'été dernier, le vrai avec du soleil, pas comme cette année, nous
+étions sur le toit de la Gare XP, et je me sentais tout petit en vous
+écoutant aligner les astuces qui tuent.
+
+C'est donc tout penaud que je vous ai présenté la manière dont je
+configure vim pour éditer un fichier Changelog. À ma grande surprise, ma
+Défonceuse a surpris et enchanté l'assemblée, j'étais donc un grand, je
+pouvais draguer en boîte avec mon t-shirt Rick Astley sans rougir.
+
+Enfin, j'aurais pu, si j'avais été foutu de dire pourquoi des fois ça
+fonctionne et des fois pas. C'est aujourd'hui chose faite, le fautif
+était le paquet vim-tiny, et avec la documentation qui va bien ce petit
+empaffé ne peut plus cacher son manque de bonne volonté !
+
+  https://wiki.leloop.org/index.php/Howto:Remplir_le_Changelog#vim
+
+
+A l'année prochaine !
+
+-- 
+ToM
+
+
+From keller.mdpa at gmail.com  Sun Aug 31 11:13:45 2014
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Sun, 31 Aug 2014 11:13:45 +0200
+Subject: [tupperVim] =?utf-8?q?Soir=C3=A9e_de_septembre_2014_-_demain?=
+Message-ID: <CAM+ya-CZuEZJDnOxj39GN-G2kjerdFy5YYjhqkLn6bUgqwSTNQ@mail.gmail.com>
+
+Camarades vimistes,
+Pour rappel, la soirée tupperVIm de septembre aura lieu DEMAIN soir:
+
+Après cette pause estival avec un temps d?automne, les agapes reprennent et
+auront lieu contrairement à d'habitude le premier LUNDI du mois
+(lundi 1 septembre) dans les locaux de Mozilla de 20h à 22h. Merci de vous
+annoncer sur le pad comme il se doit :
+
+  https://etherpad.mozilla.org/TupperVim-1409
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
+les numéros présents sur le pad pour qu?on vienne vous ouvrir.
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+(un espace est dédié à cette question sur le pad).
+
+D?ici là, soyez de bons citoyens : prenez les transports en commun, les
+velib', les autolib', ne tuez pas de vieilles dames, donnez de l?amour aux
+canards !
+
+\_o<
+
+--
+
+maggick
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20140831/4b522114/attachment.html>
+
+From nicolac76 at yahoo.fr  Sun Aug 31 17:20:06 2014
+From: nicolac76 at yahoo.fr (nico cornu)
+Date: Sun, 31 Aug 2014 16:20:06 +0100
+Subject: [tupperVim]
+ =?iso-8859-1?q?Oyez=A0!_Oyez=A0!_C=27est_le_Tuppervim?=
+ =?iso-8859-1?q?_de_l=27=E9t=E9=A0!?=
+In-Reply-To: <20140725165146.GA32084@vilya.m0g.net>
+References: <20140725165146.GA32084@vilya.m0g.net>
+Message-ID: <1409498406.74575.YahooMailNeo@web133202.mail.ir2.yahoo.com>
+
+Heu tu t'es loupé non ?
+
+C'était le mois dernier ça.
+
+
+
+Le Dimanche 31 août 2014 16h57, Guyzmo <guyzmo at leloop.org> a écrit :
+ 
+
+
+Très chers utilisateurs du meilleur éditeur jamais inventé,
+
+    l'été dernier, alors que certains sont partis  en  vacances[1], ceux
+qui n'ont pas eu cette chance ont profité  de  l'été  pour  se  faire un
+barbe-cul sur le toit du batiment où était, alors, hébergé Le Loop.
+
+    C'est pourquoi il suffit d'une fois pour démarrer une  tradition, et
+donc en discutant avec certains au loop ou au tuppervim,  nous  est venu
+l'envie d'organiser à nouveau un Tuppervim de l'été !
+
+    Ainsi, ramenez merguez, chipos et autres trucs[2]  qui  se grillent,
+ou pas[3]. Et ce sera alors l'occasion de manger en bonne compagnie,
+d'évangéliser des loopiots qui rêvent de mieux connaître vim mais n'ont
+pas encore compris la beauté de la chose.
+
+Pour conclure, les agapes auront lieu au Loop, en extérieur[4], au:
+
+  20 rue de Reuilly 75012 Paris
+  https://wiki.leloop.org/index.php/Acc%C3%A8s
+
+    Comme je ne sais pas ce que je ferai, ni où je serai  à  cette date,
+je propose à l'ami Darnuria de prendre  le  relai  et  d'être  le maître
+de cérémonie de cette soirée.
+
+Comme d'habitude:
+
+    https://etherpad.mozilla.org/TupperVim-1408
+
+Amour et ZZ,
+
+[1] glandeurs!
+[2] genre tofu pour les végétariens ? :)
+[3] genre du fromage et de la bière
+[4] à partir de 22h, il est demandé de baisser d'un ton ou de continuer
+    dans le hackerspace.
+
+-- 
+Guyzmo
+Néo-albionien perfide
+
+_______________________________________________
+tupperVim mailing list
+tupperVim at mozfr.org
+http://mozfr.org/mailman/listinfo/tuppervim
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20140831/83e2acdd/attachment.html>
+
+From tom at leloop.org  Sun Aug 31 18:16:58 2014
+From: tom at leloop.org (ToM)
+Date: Sun, 31 Aug 2014 18:16:58 +0200
+Subject: [tupperVim]
+ =?utf-8?q?Oyez=C2=A0!_Oyez=C2=A0!_C=27est_le_Tuppervi?=
+ =?utf-8?b?bSBkZSBsJ8OpdMOpwqAh?=
+In-Reply-To: <1409498406.74575.YahooMailNeo@web133202.mail.ir2.yahoo.com>
+References: <20140725165146.GA32084@vilya.m0g.net>
+ <1409498406.74575.YahooMailNeo@web133202.mail.ir2.yahoo.com>
+Message-ID: <54034A7A.4010600@leloop.org>
+
+Le 31/08/2014 17:20, nico cornu a écrit :
+> Heu tu t'es loupé non ?
+> 
+> C'était le mois dernier ça.
+
+Non c'est toi qui réponds un mois après, espèce d'aoûtien !
+
+Pourquoi ton client mail te fait croire que ce message a été écrit ce 31
+août, je ne sais pas, nous l'avons bien reçu en juillet.
+
+  https://lists.leloop.org/pipermail/leloop/2014-July/001995.html
+                                                 ^^^^
+
+-- 
+ToM
+
+
+From fabien at cazenave.cc  Sun Aug 31 18:17:04 2014
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Sun, 31 Aug 2014 18:17:04 +0200
+Subject: [tupperVim]
+ =?utf-8?q?Oyez=C2=A0!_Oyez=C2=A0!_C=27est_le_Tuppervi?=
+ =?utf-8?b?bSBkZSBsJ8OpdMOpwqAh?=
+In-Reply-To: <1409498406.74575.YahooMailNeo@web133202.mail.ir2.yahoo.com>
+References: <20140725165146.GA32084@vilya.m0g.net>
+ <1409498406.74575.YahooMailNeo@web133202.mail.ir2.yahoo.com>
+Message-ID: <54034A80.8000507@cazenave.cc>
+
+C?est ma faute : je viens juste de trouver ce message dans la file 
+d?attente de la mailing-list (après deux mois sans réseau?) et je l?ai 
+validé avant d?avoir compris qu?il était obsolète. Désolé pour le bruit, 
+la confusion? et surtout pour vous avoir fait rater le message de Guyzmo 
+en temps et heure.
+
+Je me flagelle en éditant mon ~/.vimrc sous Emacs. :-(
+
+;kazé
+
+On 31/08/14 17:20, nico cornu wrote:
+> Heu tu t'es loupé non ?
+>
+> C'était le mois dernier ça.
+>
+>
+>
+> Le Dimanche 31 août 2014 16h57, Guyzmo <guyzmo at leloop.org> a écrit :
+>
+>
+>
+> Très chers utilisateurs du meilleur éditeur jamais inventé,
+>
+>      l'été dernier, alors que certains sont partis  en  vacances[1], ceux
+> qui n'ont pas eu cette chance ont profité  de  l'été  pour  se  faire un
+> barbe-cul sur le toit du batiment où était, alors, hébergé Le Loop.
+>
+>      C'est pourquoi il suffit d'une fois pour démarrer une  tradition, et
+> donc en discutant avec certains au loop ou au tuppervim,  nous  est venu
+> l'envie d'organiser à nouveau un Tuppervim de l'été !
+>
+>      Ainsi, ramenez merguez, chipos et autres trucs[2]  qui  se grillent,
+> ou pas[3]. Et ce sera alors l'occasion de manger en bonne compagnie,
+> d'évangéliser des loopiots qui rêvent de mieux connaître vim mais n'ont
+> pas encore compris la beauté de la chose.
+>
+> Pour conclure, les agapes auront lieu au Loop, en extérieur[4], au:
+>
+>    20 rue de Reuilly 75012 Paris
+>    https://wiki.leloop.org/index.php/Acc%C3%A8s
+>
+>      Comme je ne sais pas ce que je ferai, ni où je serai  à  cette date,
+> je propose à l'ami Darnuria de prendre  le  relai  et  d'être  le maître
+> de cérémonie de cette soirée.
+>
+> Comme d'habitude:
+>
+>      https://etherpad.mozilla.org/TupperVim-1408
+>
+> Amour et ZZ,
+>
+> [1] glandeurs!
+> [2] genre tofu pour les végétariens ? :)
+> [3] genre du fromage et de la bière
+> [4] à partir de 22h, il est demandé de baisser d'un ton ou de continuer
+>      dans le hackerspace.
+>
+>
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> http://mozfr.org/mailman/listinfo/tuppervim
+>
+
+-- 
+:kazé
+
+

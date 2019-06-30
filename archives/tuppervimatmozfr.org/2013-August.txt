@@ -1,0 +1,138 @@
+From guyzmo+tuppervim at m0g.net  Fri Aug  2 13:19:28 2013
+From: guyzmo+tuppervim at m0g.net (guyzmo)
+Date: Fri, 2 Aug 2013 13:19:28 +0200
+Subject: [tupperVim] =?iso-8859-1?q?Rencontre_d=27=E9t=E9?=
+In-Reply-To: <1375301537.20066.YahooMailNeo@web133205.mail.ir2.yahoo.com>
+References: <1375301537.20066.YahooMailNeo@web133205.mail.ir2.yahoo.com>
+Message-ID: <20130802111928.GB5505@vilya.m0g.net>
+
+On Wed, Jul 31, 2013 at 09:12:17PM +0100, nico cornu wrote:
+> On avait discuté d'une rencontre estivalière lors du précédent tuppervim et sur IRC. 
+> Nous arrivons en Août et rien n'as encore été fait.
+> Nous avons donc connu un mois de juillet sans tuppervim. Dur, n'est il pas ?
+> Je propose donc d'y remédier. Sous quelles formes ? Point ne sais je.
+> Rencontre dans un bar ? Agapes (ce mot si cher à kaze) dans un square / parc ? 
+
+    je suis pas contre, on peut aussi envisager  de  faire  ça  au loop,
+peut-être qu'en demandant gentilment on pourra obtenir de  faire  ça sur
+le toit avec un barbeuk.
+
+> Le jeudi soir pour garder nos coutumes, le week-end comme c'est les vacances ?
+
+Je n'ai point de préférence, il faudrait voir les dispos de chacun.
+
+> Bref, je ne fais que soumettre des propositions dans l'espoir d'un débat riche et respectueux.
+
+Il me semble qu'il y a de l'echo par ici :-)
+
+-- 
+Guyzmo
+
+
+From fabien at cazenave.cc  Fri Aug  2 18:21:19 2013
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Fri, 02 Aug 2013 18:21:19 +0200
+Subject: [tupperVim] =?utf-8?b?UmVuY29udHJlIGQnw6l0w6k=?=
+In-Reply-To: <20130802111928.GB5505@vilya.m0g.net>
+References: <1375301537.20066.YahooMailNeo@web133205.mail.ir2.yahoo.com>
+	<20130802111928.GB5505@vilya.m0g.net>
+Message-ID: <51FBDC7F.6010704@cazenave.cc>
+
+On 02/08/13 13:19, guyzmo wrote:
+> On Wed, Jul 31, 2013 at 09:12:17PM +0100, nico cornu wrote:
+>> Le jeudi soir pour garder nos coutumes, le week-end comme c'est les vacances ?
+>
+> Je n'ai point de préférence, il faudrait voir les dispos de chacun.
+>
+
+Framadate ?
+http://www.framadate.org/studs.php?sondage=rcvg8juzbttjpgfn
+
+Pour simplifier je propose qu?on considère qu?en semaine, ça serait 
+forcément en soirée ; et que le week-end, ça peut être n?importe quand.
+Il sera bien temps de définir l?horaire quand on saura quel jour les 
+gens sont disponibles. :-)
+
+Paix, amour et canetons.
+-- 
+:kazé
+
+
+From maggick.mk at gmail.com  Sat Aug 10 19:37:49 2013
+From: maggick.mk at gmail.com (maggick)
+Date: Sat, 10 Aug 2013 19:37:49 +0200
+Subject: [tupperVim] =?utf-8?b?UmVuY29udHJlIGQnw6l0w6k=?=
+In-Reply-To: <51FBDC7F.6010704@cazenave.cc>
+References: <1375301537.20066.YahooMailNeo@web133205.mail.ir2.yahoo.com>
+	<20130802111928.GB5505@vilya.m0g.net>
+	<51FBDC7F.6010704@cazenave.cc>
+Message-ID: <52067A6D.6020801@gmail.com>
+
+On 08/02/2013 06:21 PM, Fabien Cazenave wrote:
+> On 02/08/13 13:19, guyzmo wrote:
+>> On Wed, Jul 31, 2013 at 09:12:17PM +0100, nico cornu wrote:
+>>> Le jeudi soir pour garder nos coutumes, le week-end comme c'est les 
+>>> vacances ?
+>>
+>> Je n'ai point de préférence, il faudrait voir les dispos de chacun.
+>>
+>
+> Framadate ?
+> http://www.framadate.org/studs.php?sondage=rcvg8juzbttjpgfn
+>
+> Pour simplifier je propose qu?on considère qu?en semaine, ça serait 
+> forcément en soirée ; et que le week-end, ça peut être n?importe quand.
+> Il sera bien temps de définir l?horaire quand on saura quel jour les 
+> gens sont disponibles. :-)
+>
+> Paix, amour et canetons.
+
+Bon le framadate a parlé.
+le jour retenu est le lundi 12 !
+oui dans 48h !
+
+comment on organise le reste ?
+
+plop,
+
+maggick
+
+
+From kaze at mozilla.com  Mon Aug 26 16:05:05 2013
+From: kaze at mozilla.com (Fabien Cazenave)
+Date: Mon, 26 Aug 2013 16:05:05 +0200
+Subject: [tupperVim] Session de septembre 2013
+Message-ID: <521B6091.2060404@mozilla.com>
+
+Canettes, canetons,
+
+l?été tirant à sa fin, c?est avec une joie non dissimulée que je vous 
+convie à la prochaine soirée Vim le jeudi 5 septembre dans les locaux 
+Mozilla [1].
+
+Comme d?habitude, il faut s?inscrire sur le framadate pour qu?on puisse 
+préparer la salle en conséquence *mais* ce coup-ci on peut préciser 
+l?horaire souhaité pour le début des hostilités : 19h ou 20h (sachant 
+qu?une session dure en moyenne 3h)
+
+   http://framadate.org/studs.php?sondage=2s57la6ayy4vmoj4
+
+? et comme d?habitude (ou pas), merci d?annoncer les sujets que vous 
+allez présenter sur l?etherpad :
+
+   https://etherpad.mozilla.org/TupperVim-1309
+
+Pour les ceusses qui ne connaissent pas encore les usages :
+  ? on peut viendre sans avoir rien à présenter ;
+  ? on peut présenter quelque chose sans avoir préparé de slides ;
+  ? on peut inviter d?autres canettes / canetons ;
+  ? les utilisateurs d?éditeurs inférieurs (?mécréants?) sont bienvenus ;
+  ? les offrandes liquides sont bienvenues également.
+
+\_o<
+-- 
+[1] 16 bis boulevard Montmartre, Paris ? métro : Richelieu-Drouot
+Demander les codes d?accès sur : irc://irc.mozilla.org/tupperVim
+Plus d?infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
+
+

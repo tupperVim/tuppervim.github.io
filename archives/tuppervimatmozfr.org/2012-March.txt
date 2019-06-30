@@ -1,0 +1,30 @@
+From kaze at mozilla.com  Fri Mar 30 10:33:07 2012
+From: kaze at mozilla.com (Fabien Cazenave)
+Date: Fri, 30 Mar 2012 10:33:07 +0200
+Subject: [tupperVim] Session du 3/04/2012
+Message-ID: <4F756FC3.1080609@mozilla.com>
+
+Bonjour les nerds !
+
+J?inaugure cette liste de diffusion (gracieusement hébergée par les 
+moules de mozfr) pour vous prévenir de la prochaine tenue tupperVim, le 
+3 Avril à 19h, dans les locaux Mozilla à Paris.
+
+Oui, c?est mardi prochain, dans 4 jours. Il faut savoir que l?ensemble 
+du projet tupperVim est organisé sur la méthode de La Rache?, et qu?il 
+serait complètement fou d?y déroger, ne serait-ce qu?une fois.
+
+Le principe du « viendez nombreux mais disez-le » s?applique toujours :
+http://www.doodle.com/xctip27qecqd3mhk
+
+Un pad pour annoncer (ou pas) ce que vous souhaitez présenter :
+https://etherpad.mozilla.org/TupperVim-1204
+
+Et pour ceux qui ne connaîtraient pas encore le concept, l?essentiel est 
+résumé sur ce pad :
+https://etherpad.mozilla.org/TupperVim
+
+À mardi !
+:wq
+
+

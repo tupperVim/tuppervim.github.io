@@ -1,0 +1,239 @@
+From keller.mdpa at gmail.com  Mon Oct  5 13:43:41 2015
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Mon, 5 Oct 2015 13:43:41 +0200
+Subject: [tupperVim] =?utf-8?q?Agapes_d=E2=80=99octobre_-_Rappel?=
+Message-ID: <CAM+ya-BAa49qd=yG8w_K1J6AFd-hXpHFzwFzcPvzx_UOUKREpg@mail.gmail.com>
+
+Les agapes d'octobre à Paris c'est demain !
+Actuellement 9 inscrits (dont 2 « maybe »).
+
+----------------------------------------
+
+Camarades vimistes,
+
+Le tuppervim d'octobre arrive.
+Il aura lieu le mardi 6 octobre dans les locaux de Mozilla de 20h à 22h.
+L'apéro aura lieu de 19h15 à 20h.
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://etherpad.mozilla.org/TupperVim-1510
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
+les numéros présents sur la porte pour qu?on vienne vous ouvrir.
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+(un espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens : prenez les transports
+en commun, buvez de l'eau, mangez des pommes, changez régulièrement
+vos mots de passe et donnez de l?amour aux canards !
+
+--
+maggick | \_o<
+Velociraptor | \_x<
+
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20151005/91a0ce3c/attachment.html>
+
+From keller.mdpa at gmail.com  Mon Oct  5 16:26:51 2015
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Mon, 5 Oct 2015 16:26:51 +0200
+Subject: [tupperVim] Lille - Agapes d'octobre
+Message-ID: <CAM+ya-BMUxD7OfKDmWfhdggzqao7gDCf63tmafeA9gFN6NTXbw@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim d'octobre arrive également à Lille.
+Il aura lieu le jeudi 15 octobre de 20h à 22h dans les locaux du Mutualab
+19 rue Nicolas Leblanc.
+
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://etherpad.mozilla.org/TupperVim-Lille-1510
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+(un espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens : prenez les transports
+en commun, buvez de l'eau, mangez des pommes, changez régulièrement
+vos mots de passe et donnez de l?amour aux canards !
+
+--
+maggick | \_o<
+Velociraptor | \_x<
+
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20151005/5e1e30ee/attachment.html>
+
+From sylvain at opensource-expert.com  Mon Oct  5 17:19:46 2015
+From: sylvain at opensource-expert.com (Sylvain Viart)
+Date: Mon, 5 Oct 2015 17:19:46 +0200
+Subject: [tupperVim] Annecy ?
+In-Reply-To: <CAM+ya-BMUxD7OfKDmWfhdggzqao7gDCf63tmafeA9gFN6NTXbw@mail.gmail.com>
+References: <CAM+ya-BMUxD7OfKDmWfhdggzqao7gDCf63tmafeA9gFN6NTXbw@mail.gmail.com>
+Message-ID: <56129512.3090701@opensource-expert.com>
+
+Salut,
+
+Y a t-il des tupper vimistes intéressés aux environs d'Annecy ?
+
+Où faire un tel appel ?
+
+À suivre.
+Sylvain.
+
+-- 
+Sylvain Viart - Consultant informatique système linux
+
+
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: signature.asc
+Type: application/pgp-signature
+Taille: 836 octets
+Desc: OpenPGP digital signature
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20151005/6f2a7110/attachment.sig>
+
+From keller.mdpa at gmail.com  Tue Oct  6 10:12:17 2015
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Tue, 6 Oct 2015 10:12:17 +0200
+Subject: [tupperVim] Annecy ?
+In-Reply-To: <56129512.3090701@opensource-expert.com>
+References: <CAM+ya-BMUxD7OfKDmWfhdggzqao7gDCf63tmafeA9gFN6NTXbw@mail.gmail.com>
+ <56129512.3090701@opensource-expert.com>
+Message-ID: <CAM+ya-BxiQnDH-ND6w=djG0fhU_aNHJPVG7ehuTC+Fb81M-ErA@mail.gmail.com>
+
+Hello Sylvain,
+
+apparemment il n'y a pas eu de réponse à ta question.
+je ne sais pas s'il y a des vimistes intéressés.
+Mais tu peux venir en discuter sur irc :
+
+#tupperVim <irc://irc.mozilla.org/tupperVim> sur irc.mozilla.org
+
+à plus,
+
+Matthieu Keller aka maggick
+  e-mail: keller.mdpa at gmail.com
+  website: www.matthieukeller.com
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20151006/c3946a64/attachment.html>
+
+From sylvain at opensource-expert.com  Tue Oct  6 15:09:37 2015
+From: sylvain at opensource-expert.com (Sylvain Viart)
+Date: Tue, 6 Oct 2015 15:09:37 +0200
+Subject: [tupperVim] Annecy ?
+In-Reply-To: <CAM+ya-BxiQnDH-ND6w=djG0fhU_aNHJPVG7ehuTC+Fb81M-ErA@mail.gmail.com>
+References: <CAM+ya-BMUxD7OfKDmWfhdggzqao7gDCf63tmafeA9gFN6NTXbw@mail.gmail.com>
+ <56129512.3090701@opensource-expert.com>
+ <CAM+ya-BxiQnDH-ND6w=djG0fhU_aNHJPVG7ehuTC+Fb81M-ErA@mail.gmail.com>
+Message-ID: <5613C811.9000301@opensource-expert.com>
+
+
+On 06/10/2015 10:12, Matthieu Keller wrote:
+> Mais tu peux venir en discuter sur irc :
+>
+> #tupperVim <irc://irc.mozilla.org/tupperVim> sur irc.mozilla.org
+> <http://irc.mozilla.org>
+
+
+Avec plaisir, à plus, merci.
+
+À suivre,
+Sylvain.
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20151006/4769517d/attachment.html>
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: signature.asc
+Type: application/pgp-signature
+Taille: 836 octets
+Desc: OpenPGP digital signature
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20151006/4769517d/attachment.sig>
+
+From admin at caio-corro.fr  Wed Oct  7 22:41:27 2015
+From: admin at caio-corro.fr (Caio Filippo Corro)
+Date: Wed, 7 Oct 2015 22:41:27 +0200
+Subject: [tupperVim] =?utf-8?q?Mapper_le_retour_=C3=A0_la_ligne_=3F?=
+Message-ID: <56158377.3060303@caio-corro.fr>
+
+Salut,
+
+au TupperVim d'hier quelqu'un a suggéré de mapper la touche Esc sur Caps 
+Lock pour éviter une tendinite du petit doigt : setxkbmap -option 
+caps:escape
+(que l'on peut mettre dans ~/.config/autostart/bidule.desktop si comme 
+moi vous utilisez Gnome Shell ou autre WM bien hype mais pas trop 
+undergound quand même)
+
+C'est très pratique...mais est ce que quelqu'un sait si on peut binder 
+les touches suivantes :
+  - retour à la ligne (entrée)
+  - suppr
+  - delete
+?
+
+Genre sur ctrl+espace pour retour à la ligne ? (parce que cette touche 
+est aussi loin que les flèches directionnelles sur mon 14 pouces).
+à priori c'est pas possible dans vim : 
+http://stackoverflow.com/questions/26666050/how-to-map-ctrl-p-to-ctrl-space-on-vim-sshd-using-mac-terminal
+Mais peut être au niveau du système ?
+
+Merci !
+Caio
+
+
+
+From keller.mdpa at gmail.com  Tue Oct 27 10:46:26 2015
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Tue, 27 Oct 2015 10:46:26 +0100
+Subject: [tupperVim] Agapes de novembre (Paris)
+Message-ID: <CAM+ya-C2+-_gjVc-bhxiebtQxcXpH2VK52KOdajptV_L--z+vQ@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim de novembre arrive avec le froid et le changement d'heure.
+Il aura lieu le mardi 3 novembre dans les locaux de Mozilla (Paris) de 20h
+à 22h.
+L'apéro aura lieu de 19h15 à 20h.
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1511
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
+les numéros présents sur la porte pour qu?on vienne vous ouvrir.
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+(un espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards !
+
+--
+maggick | \_o<
+(@matthieukeller)
+
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20151027/11afc03e/attachment.html>
+
