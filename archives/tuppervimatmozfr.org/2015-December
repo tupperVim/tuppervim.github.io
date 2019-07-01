@@ -1,0 +1,478 @@
+From keller.mdpa at gmail.com  Tue Dec  1 19:44:09 2015
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Tue, 1 Dec 2015 19:44:09 +0100
+Subject: [tupperVim] =?utf-8?q?Rappel_=3A_Agapes_de_d=C3=A9cembre_=28Paris?=
+	=?utf-8?q?=29?=
+Message-ID: <CAM+ya-D8-HJuqdyMRn1_zXibj8ekzy1S_z2W=_EmYxR6Uo3ULA@mail.gmail.com>
+
+Hello,
+
+Petit mail de rappel pour le Tuppervim de ce soir.
+
+--
+maggick
+
+Send from my iThing
+On Nov 23, 2015 17:22, "Matthieu Keller" <keller.mdpa at gmail.com> wrote:
+
+> Camarades vimistes,
+>
+> Le tuppervim de décembre arrive avec le froid (le vrai cette fois).
+> Il aura lieu le mardi 1 décembre dans les locaux de Mozilla (Paris) de 20h
+> à 22h.
+> L'apéro aura lieu de 19h15 à 20h.
+> Merci de vous annoncer sur le pad comme il se doit :
+>
+> https://public.etherpad-mozilla.org/p/TupperVim-1512
+>
+> La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+> ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
+> les numéros présents sur la porte pour qu?on vienne vous ouvrir.
+>
+> Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+> (un espace est dédié à La question sur le pad).
+>
+> Un email de rappel sera probablement envoyé quelques jours/heures avant les
+> agapes. Mais je ne peux que fortement vous conseiller d'inscrire
+> l?évènement
+> dans votre agenda.
+>
+> D?ici là, soyez de bons citoyens et donnez de l?amour aux canards !
+>
+> --
+> maggick | \_o<
+> (@matthieukeller)
+>
+> http://tuppervim.org
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20151201/691262a8/attachment.html>
+
+From fabien at cazenave.cc  Fri Dec  4 22:24:36 2015
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Fri, 4 Dec 2015 22:24:36 +0100
+Subject: [tupperVim] Qwerty Lafayette
+Message-ID: <56620494.4020000@cazenave.cc>
+
+Bonsoir,
+
+pour ceux qui l?ignorent encore, j?utilise depuis quelques années un 
+Qwerty modifié pour le français. Quelques personnes me l?ayant demandé, 
+j?ai fini par en faire une page ouèbe :
+
+  http://fabi1cazenave.github.io/qwerty-lafayette/
+
+Nos assemblées comportent quelques utilisateurs du Qwerty Lafayette, 
+parmi lesquels il y a quelques privilégiés qui disposent d?une version « 
+beta » qui date? de presque deux ans, mais que je n?ai jamais publiée. 
+La honte et l?opprobre s?abattent sur moi. :-(
+
+Je voudrais donc réparer cette injustice et faire de cette beta la 
+nouvelle version « officielle ». Voilà quelles sont les principales 
+différences :
+
+  ? le tréma mort (¨) passe sur la touche ], pour éviter les touches 
+mortes en majuscule (source de confusion) ;
+  ? le symbole Euro (?) passe sur la touche 5 pour mieux coller aux 
+claviers Qwerty récents ;
+  ? les flèches ???? passent sur les touches HJKL ? /Vim powwa!/
+  ? AltGr+Espace fait désormais? Espace, au lieu de Échapp, pour être 
+plus intuitif.
+
+   http://fabi1cazenave.github.io/qwerty-lafayette/#beta
+
+La principale raison pour laquelle je n?avais pas publié ce layout, 
+c?est que la nouvelle position du tréma mort est discutable : un poil 
+trop excentrée à mon goût, mais selon certains utilisateurs (Kinou, 
+Julio et d?autres) c?est plus intuitif de ne pas avoir de touches mortes 
+en shift ? et je crois que c?est bien de sacrifier un poil d?ergonomie 
+si on gagne en facilité.
+
+Si vous avez un avis sur la question, ou d?autres suggestions pour ce 
+layout, n?hésitez pas : ML, IRC ou github. Je viens d?ouvrir une 
+poule-raquette :
+
+   https://github.com/fabi1cazenave/qwerty-lafayette/pull/8/files
+
+L?autre raison c?est qu?il faudrait que je fasse une mise à jour des 
+pilotes Windows et MacOSX. Je pourrais m?installer une VM pour Windows, 
+mais pour OSX j?ai besoin d?un coup de main (je n?ai plus de MacBook à 
+disposition). Y a-t-il quelqu?un ici qui puisse aider ? Il suffit de 
+patcher des fichiers XML, c?est un poil relou mais assez simple?
+
+\_o<
+:kazé
+
+
+From fabien at cazenave.cc  Mon Dec  7 00:43:11 2015
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Mon, 7 Dec 2015 00:43:11 +0100
+Subject: [tupperVim] Qwerty Lafayette
+In-Reply-To: <56620494.4020000@cazenave.cc>
+References: <56620494.4020000@cazenave.cc>
+Message-ID: <5664C80F.8060804@cazenave.cc>
+
+Voilà la dernière beta à jour, après un week-end studieux :
+http://fabi1cazenave.github.io/qwerty-lafayette/#beta
+
+Les notes de version sont dans la poule-raquette :
+https://github.com/fabi1cazenave/qwerty-lafayette/pull/8
+
+Pour les plus aventureux, il y a désormais un patch pour appliquer le 
+Lafayette à tout votre système, et donc de pouvoir activer et configurer 
+votre disposition de clavier avec les outils Gnome & co.
+https://gist.github.com/fabi1cazenave/2171d69d3d8d6e298225
+
+(désolé pour les non-Linuxiens, je n?ai rien pour eux pour l?instant)
+
+Paix, amour et canards aux testeurs. \_o<
+:kazé
+
+
+From dtarcz at gmail.com  Sun Dec 13 17:20:23 2015
+From: dtarcz at gmail.com (David)
+Date: Sun, 13 Dec 2015 17:20:23 +0100
+Subject: [tupperVim] Bonjour la liste :)
+Message-ID: <566D9AC7.4080401@gmail.com>
+
+Salut,
+
+je suis content d'avoir rejoint cette liste,
+et peut-être dans quelques temps organiser
+une réunion TupperVim à Narbonne...
+
+En tout cas j'ai débuté une formation de
+codeur et j'ai bien l'intention de me lancer
+à 100% dans vim pour pratiquer cette activité !
+
+Merci à vous d'exister et de mettre à
+disposition toutes ces ressources !
+
+-- 
+David
+_Amour Paix Joie_
+
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: signature.asc
+Type: application/pgp-signature
+Taille: 473 octets
+Desc: OpenPGP digital signature
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20151213/77b0eecf/attachment.sig>
+
+From delapouite at gmail.com  Wed Dec 16 08:01:46 2015
+From: delapouite at gmail.com (Delapouite)
+Date: Wed, 16 Dec 2015 08:01:46 +0100
+Subject: [tupperVim] Vimawesome cherche un majordome
+Message-ID: <CAGQ884_Quetoy-MFLWPv_vF5HX9xyfotp09VmYEfLGrS_Whqsg@mail.gmail.com>
+
+Salut !
+
+Si certains utilisent http://vimawesome.com, vous avez du vous rendre
+compte que cette belle liste de plugins vim est à la ramasse depuis
+plusieurs mois faute d'amour.
+
+Récemment, les proprios ont enfin donné un signe de vie. Mieux encore, ils
+nous proposent de reprendre le flambeau !
+
+https://github.com/divad12/vim-awesome/commit/760247aedbaa7b7514a2a4d9bc3b4259caf1aa0a
+
+Si quelqu'un n'est pas trop débordé et a envie de participé à l'aventure,
+ce projet peut être sauvé. Et puis pour éviter de remettre le fardeau sur
+les épaules d'une seule personne, je suis convaincu que par la suite il
+pourra compter sur l'aide ponctuelle des tuppervimistes.
+
+A votre bon c?ur !
+
+Delapouite
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20151216/e37d6c13/attachment.html>
+
+From guillaumeseren at gmail.com  Thu Dec 17 11:01:12 2015
+From: guillaumeseren at gmail.com (Mr Guillaume Seren)
+Date: Thu, 17 Dec 2015 11:01:12 +0100
+Subject: [tupperVim] Vimawesome cherche un majordome
+In-Reply-To: <CAGQ884_Quetoy-MFLWPv_vF5HX9xyfotp09VmYEfLGrS_Whqsg@mail.gmail.com>
+References: <CAGQ884_Quetoy-MFLWPv_vF5HX9xyfotp09VmYEfLGrS_Whqsg@mail.gmail.com>
+Message-ID: <20151217100112.15808.19712@josekit>
+
+Quoting Delapouite (2015-12-16 08:01:46)
+> Si certains utilisent http://vimawesome.com, vous avez du vous rendre compte
+> que cette belle liste de plugins vim est à la ramasse depuis plusieurs mois
+> faute d'amour.
+Effectivement le projet est stoppe mais l'auteur a de l'humour:
+"This project is currently looking for a maintainer! Please email emacs at vimawesome.com if you are interested."
+
+> Récemment, les proprios ont enfin donné un signe de vie. Mieux encore, ils nous
+> proposent de reprendre le flambeau !
+Pour ma part je pense que l'idée est intéressante, mais bon comme tous les
+annuaires de modules existants cela demande pas mal de taf pour le maintenir a
+jour, encore plus aujourd'hui avec la distinction de module vim ou neovim only.
+
+
+Joseki.
+
+
+From fabien at cazenave.cc  Thu Dec 17 13:01:27 2015
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Thu, 17 Dec 2015 13:01:27 +0100
+Subject: [tupperVim] Qwerty Lafayette
+In-Reply-To: <CAHZbcQMAjQ4O56hV+CqPOrSUwkvWM0aX+0AbuwiSLwNsL2iSUg@mail.gmail.com>
+References: <56620494.4020000@cazenave.cc> <5664C80F.8060804@cazenave.cc>
+ <CAHZbcQMAjQ4O56hV+CqPOrSUwkvWM0aX+0AbuwiSLwNsL2iSUg@mail.gmail.com>
+Message-ID: <5672A417.50509@cazenave.cc>
+
+Salut Thomas,
+
+non, je n?ai pas fait d?étiquettes. Ça serait pratique, effectivement, 
+surtout pour les claviers Qwerty-US comme le tien? Je réponds à la ML 
+pour inclure :kevlarcade dans la conversation, il voulait des étiquettes 
+lui aussi.
+
+Je réfléchis à voix haute?
+Idéalement il faudrait trois types de stickers :
+
+  ? 5 étiquettes pleine taille pour ,; / .: / ? / ^« / ¨»
+au moins en blanc sur fond noir pour les claviers noirs
+(+ éventuellement en noir sur fond transparent pour les TypeMatrix)
+
+  ? des petites étiquettes en bleu (?) sur fond transparent pour les 
+caractères de la touche morte (au moins pour les principaux) : ??? ° ? æ 
+é è ù ? à < > ?
+
+  ? des petites étiquettes en blanc sur fond noir pour la couche AltGr
+(+ éventuellement en noir sur fond transparent pour les TypeMatrix)
+
+Je n?ai jamais utilisé d?étiquettes de clavier, je ne sais pas combien 
+ça coûterait d?en faire fabriquer spécifiquement pour le Lafayette. Il y 
+a des sites comme http://www.4keyboard.com/ qui sont spécialisés sur la 
+question, mais si tu as des solutions alternatives je suis preneur.
+
+Le plus important, ça serait les 5 étiquettes pleine taille, àmha. Il 
+est possible qu?un fournisseur spécialisé préfère produire des planches 
+de sticker pour *toutes* les touches? bref, à voir.
+
+Paix, amour et canetons aux Lafayettistes.
+:kazé
+
+On 17/12/15 03:17, Thomas PABST wrote:
+> Bonjour Fabien,
+>
+> J'ai acquis un thinkpad x230 qwerty  en occasion. Je dois changer mes
+> habitudes et apprendre qwerty. Mais pourquoi ne pas passer directement à
+> lafayette ! J'ai pensé mettre/créer des étiquettes ! Mais je me
+> demandais si tu en avais déjà fait ?
+>
+> Et que la force soit avec vim
+>
+> Thomas
+
+
+From thomas.pabst at gmail.com  Thu Dec 17 13:06:40 2015
+From: thomas.pabst at gmail.com (Thomas PABST)
+Date: Thu, 17 Dec 2015 12:06:40 +0000
+Subject: [tupperVim] Qwerty Lafayette
+In-Reply-To: <5672A417.50509@cazenave.cc>
+References: <56620494.4020000@cazenave.cc> <5664C80F.8060804@cazenave.cc>
+ <CAHZbcQMAjQ4O56hV+CqPOrSUwkvWM0aX+0AbuwiSLwNsL2iSUg@mail.gmail.com>
+ <5672A417.50509@cazenave.cc>
+Message-ID: <CAHZbcQPhdT+M-cxLs9KnWugH0=qhaTAcdwpx5QeFZ6_1U-PD-A@mail.gmail.com>
+
+Je galèrai hier soir avec le clavier, mais il semblerait que ce soit un
+QWERTY GB je pensais que la touche entrée sur deux étages étai de la norme
+ainsi ! La touche double quote se situe au niveau du 2 et j'ai un symbole
+euro sur la touche 4
+
+Le jeu. 17 déc. 2015 13:01, Fabien Cazenave <fabien at cazenave.cc> a écrit :
+
+> Salut Thomas,
+>
+> non, je n?ai pas fait d?étiquettes. Ça serait pratique, effectivement,
+> surtout pour les claviers Qwerty-US comme le tien? Je réponds à la ML
+> pour inclure :kevlarcade dans la conversation, il voulait des étiquettes
+> lui aussi.
+>
+> Je réfléchis à voix haute?
+> Idéalement il faudrait trois types de stickers :
+>
+>   ? 5 étiquettes pleine taille pour ,; / .: / ? / ^« / ¨»
+> au moins en blanc sur fond noir pour les claviers noirs
+> (+ éventuellement en noir sur fond transparent pour les TypeMatrix)
+>
+>   ? des petites étiquettes en bleu (?) sur fond transparent pour les
+> caractères de la touche morte (au moins pour les principaux) : ??? ° ? æ
+> é è ù ? à < > ?
+>
+>   ? des petites étiquettes en blanc sur fond noir pour la couche AltGr
+> (+ éventuellement en noir sur fond transparent pour les TypeMatrix)
+>
+> Je n?ai jamais utilisé d?étiquettes de clavier, je ne sais pas combien
+> ça coûterait d?en faire fabriquer spécifiquement pour le Lafayette. Il y
+> a des sites comme http://www.4keyboard.com/ qui sont spécialisés sur la
+> question, mais si tu as des solutions alternatives je suis preneur.
+>
+> Le plus important, ça serait les 5 étiquettes pleine taille, àmha. Il
+> est possible qu?un fournisseur spécialisé préfère produire des planches
+> de sticker pour *toutes* les touches? bref, à voir.
+>
+> Paix, amour et canetons aux Lafayettistes.
+> :kazé
+>
+> On 17/12/15 03:17, Thomas PABST wrote:
+> > Bonjour Fabien,
+> >
+> > J'ai acquis un thinkpad x230 qwerty  en occasion. Je dois changer mes
+> > habitudes et apprendre qwerty. Mais pourquoi ne pas passer directement à
+> > lafayette ! J'ai pensé mettre/créer des étiquettes ! Mais je me
+> > demandais si tu en avais déjà fait ?
+> >
+> > Et que la force soit avec vim
+> >
+> > Thomas
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20151217/0cd62f9d/attachment.html>
+
+From fabien at cazenave.cc  Thu Dec 17 13:31:46 2015
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Thu, 17 Dec 2015 13:31:46 +0100
+Subject: [tupperVim] New maintainer for VimAwesome.com?
+Message-ID: <5672AB32.7070507@cazenave.cc>
+
+Hi,
+
+my name is Fabien Cazenave, I?m a web developer and Vim evangelist.
+
+I see you?re looking for a new maintainer for VimAwesome:
+https://github.com/divad12/vim-awesome
+
+I?d like to propose to maintain it if you don?t have time any more for 
+it. There are a few talented web devs in the Vim meetups that I organize 
+every two weeks in France (CC?ed), so I?m confident that we could do a 
+good job maintaining your baby in the long term.
+
+I?ll have a week off between 2015-12-27 and 2016-01-03, during which I 
+could spend some time to work on VA to ease the transition.
+
+Let me know what you think. Cheers!
+
+:wq
+
+
+From fabien at cazenave.cc  Thu Dec 17 13:37:26 2015
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Thu, 17 Dec 2015 13:37:26 +0100
+Subject: [tupperVim] Qwerty Lafayette
+In-Reply-To: <CAHZbcQPhdT+M-cxLs9KnWugH0=qhaTAcdwpx5QeFZ6_1U-PD-A@mail.gmail.com>
+References: <56620494.4020000@cazenave.cc> <5664C80F.8060804@cazenave.cc>
+ <CAHZbcQMAjQ4O56hV+CqPOrSUwkvWM0aX+0AbuwiSLwNsL2iSUg@mail.gmail.com>
+ <5672A417.50509@cazenave.cc>
+ <CAHZbcQPhdT+M-cxLs9KnWugH0=qhaTAcdwpx5QeFZ6_1U-PD-A@mail.gmail.com>
+Message-ID: <5672AC86.1030801@cazenave.cc>
+
+Effectivement ça ressemble à un Qwerty GB ton truc. Condoléances. ;-)
+
+Du coup tu peux peut-être t?en sortir en achetant plusieurs planches de 
+stickers (fond noir) :
+  ? une planche qwerty-us pour la ligne des chiffres
+  ? une planche qwertz (allemande) pour <> ,; .:
+
+Pour les deux touches qui restent (^«) (¨») je ne sais pas s?il y a une 
+solution toute prête?
+
+:k
+
+On 17/12/15 13:06, Thomas PABST wrote:
+> Je galèrai hier soir avec le clavier, mais il semblerait que ce soit un
+> QWERTY GB je pensais que la touche entrée sur deux étages étai de la
+> norme ainsi ! La touche double quote se situe au niveau du 2 et j'ai un
+> symbole euro sur la touche 4
+>
+>
+> Le jeu. 17 déc. 2015 13:01, Fabien Cazenave <fabien at cazenave.cc> a écrit :
+>
+>     Salut Thomas,
+>
+>     non, je n?ai pas fait d?étiquettes. Ça serait pratique, effectivement,
+>     surtout pour les claviers Qwerty-US comme le tien? Je réponds à la ML
+>     pour inclure :kevlarcade dans la conversation, il voulait des étiquettes
+>     lui aussi.
+>
+>     Je réfléchis à voix haute?
+>     Idéalement il faudrait trois types de stickers :
+>
+>        ? 5 étiquettes pleine taille pour ,; / .: / ? / ^« / ¨»
+>     au moins en blanc sur fond noir pour les claviers noirs
+>     (+ éventuellement en noir sur fond transparent pour les TypeMatrix)
+>
+>        ? des petites étiquettes en bleu (?) sur fond transparent pour les
+>     caractères de la touche morte (au moins pour les principaux) : ??? ° ? æ
+>     é è ù ? à < > ?
+>
+>        ? des petites étiquettes en blanc sur fond noir pour la couche AltGr
+>     (+ éventuellement en noir sur fond transparent pour les TypeMatrix)
+>
+>     Je n?ai jamais utilisé d?étiquettes de clavier, je ne sais pas combien
+>     ça coûterait d?en faire fabriquer spécifiquement pour le Lafayette. Il y
+>     a des sites comme http://www.4keyboard.com/ qui sont spécialisés sur la
+>     question, mais si tu as des solutions alternatives je suis preneur.
+>
+>     Le plus important, ça serait les 5 étiquettes pleine taille, àmha. Il
+>     est possible qu?un fournisseur spécialisé préfère produire des planches
+>     de sticker pour *toutes* les touches? bref, à voir.
+>
+>     Paix, amour et canetons aux Lafayettistes.
+>     :kazé
+>
+>     On 17/12/15 03:17, Thomas PABST wrote:
+>      > Bonjour Fabien,
+>      >
+>      > J'ai acquis un thinkpad x230 qwerty  en occasion. Je dois changer mes
+>      > habitudes et apprendre qwerty. Mais pourquoi ne pas passer
+>     directement à
+>      > lafayette ! J'ai pensé mettre/créer des étiquettes ! Mais je me
+>      > demandais si tu en avais déjà fait ?
+>      >
+>      > Et que la force soit avec vim
+>      >
+>      > Thomas
+>
+
+
+From fabien at cazenave.cc  Fri Dec 18 09:45:46 2015
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Fri, 18 Dec 2015 09:45:46 +0100
+Subject: [tupperVim] Qwerty Lafayette
+In-Reply-To: <5664C80F.8060804@cazenave.cc>
+References: <56620494.4020000@cazenave.cc> <5664C80F.8060804@cazenave.cc>
+Message-ID: <5673C7BA.20300@cazenave.cc>
+
+Ayé, les pilotes Windows et Linux sont estampillés v0.5 :
+
+http://fabi1cazenave.github.io/qwerty-lafayette/#download
+
+Pour la version MacOSX je ne peux malheureusement pas tester. Il y a une 
+poule-raquette en cours, avec des instructions pour les valeureux 
+testeurs qui voudraient filer un coup de main :
+
+https://github.com/fabi1cazenave/qwerty-lafayette/pull/21
+
+Je bosse aussi sur un script d?installation « system-wide » pour Linux 
+(histoire de pouvoir lister la dispo dans les outils desktop, 
+notamment). Il y a un ticket et un gist en cours :
+
+https://github.com/fabi1cazenave/qwerty-lafayette/issues/15
+
+? ainsi qu?un bug en cours, car il semblerait que ce patch pose souci 
+avec les versions récentes de XKB (au moins avec Arch) :
+
+https://github.com/fabi1cazenave/qwerty-lafayette/issues/6
+
+Là encore, toute aide est bienvenue. :-)
+
+:kazé
+
+

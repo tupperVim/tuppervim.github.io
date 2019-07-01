@@ -1,0 +1,151 @@
+From d.merej at gmail.com  Wed Oct  5 20:36:16 2016
+From: d.merej at gmail.com (Dimitri Merejkowsky)
+Date: Wed, 5 Oct 2016 20:36:16 +0200
+Subject: [tupperVim] Offre d'emploi
+Message-ID: <CADQAdv01qWGWNDwqB8UoU-G=5hz1zRstkgOoTxVOFhrgLwQNOg@mail.gmail.com>
+
+Bonjour,
+
+En accord avec kaze (merci à lui ! ), je me permets de poster une offre
+d'emploi venant de ma nouvelle boîte (et aussi vu le nombre de geeks C++ /
+JS présents au tuppervim d'hier ...):
+
+http://stackoverflow.com/jobs/125874/software-engineer-c-plus-plus-js-tanker
+
+
+Hésitez pas à me contacter (dimitri at tanker.io) si vous voulez plus d'infos
+et/ou à faire tourner l'annonce dans vos contacts.
+
+Sur ce, un grand bravo aux courageux tuppervimistes qui ont présenté des
+trucs hier soir, c'était top, et à la prochaine!
+
+--
+
+Dimitri
+
+:wq
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20161005/aaa44abb/attachment.html>
+
+From hermitte at free.fr  Mon Oct 10 01:10:31 2016
+From: hermitte at free.fr (Luc Hermitte)
+Date: Mon, 10 Oct 2016 01:10:31 +0200 (CEST)
+Subject: [tupperVim] "Debriefing" tuppervim d'octobre (Was: Tuppervim
+ d'automne - Paris)
+In-Reply-To: <CAM+ya-CqwJtOJpNsetGLsPoaUuL49VHktuCrCtc1HJKKfenC5w@mail.gmail.com>
+Message-ID: <1444985486.42092515.1476054631328.JavaMail.root@zimbra60-e10.priv.proxad.net>
+
+Salut, 
+
+C'est un peu tard, mais voici quelques remarques suite au dernier tuppervim auquel j'ai eu la chance d'assister.
+
+* De la sélection des paramètres avec kakoune 
+
+Tout d'abord, merci Alex pour avoir regardé comment sélectionner un paramètre avec kakoune.
+De ce que j'observe, et si j'ai bien suivi, chaque sélection est plus ou moins unique dans la mesure où une regex détaillant comment séparer deux paramètres est employée. Mon expérience sur le sujet me fait dire que nous avons besoin de plus que des regex pour une solution marchant dans tous les cas. Celle que j'emploie s'appuie p.ex. sur `searchpair()` pour faire le boulot et nous permettre de traiter sans réfléchir des choses comme 
+
+  f(make_unique<T>(a,f(x)), what(ever(z),y))
+
+(Je m'en sort donc avec `vi,` pour sélectionner un paramètre grâce à un plugin)
+
+
+* VimL VS vimscript
+
+Au sujet de ce débat excessivement pertinent, la doc officielle parle de "Vim scripts" qui sont écrits en "Vim script language". Certains semblent associer VimL à github qui emploie ce tag. J'emploie ce terme depuis bien plus longtemps dans mes souvenirs -- p.ex. ça fait un paquet de temps que j'utilise "VimL" dans la syntaxe des templates de mu-template.
+
+http://stackoverflow.com/questions/4398312/vimscript-or-viml 
+
+
+* A propos de la découvrabilité des raccourcis avec spacemacs et neovim, j'ai trouvé un plugin expérimental pour sauver des mécréants : https://github.com/hecal3/vim-leader-guide
+
+(En plus, l'auteur s'est posé les questions des sujets qui me turlipinaient: les mappings déjà existants, et les <Plug> mappings. A surveiller en ce qui me concerne.)
+
+
+* Je me souviens de la parenthèse de delapouite (c'est bien ça?) au sujet des bottages en touche de Christian B. sur les demandes d'évolution/correction de scripts accompagnant Vim.
+
+Si je me souviens bien de l'exemple pris (que je n'ai pas réussi à retrouver :(), l'OP critique que 
+
+  /**
+   * commentaire
+   */
+
+n'apparaisse pas avec la couleur des commentaires. Pour le coup, cette fiche de bug démontre que la meilleure personne pour réagir est bien le mainteneur du script. En effet, en C++, `/**` introduit des commentaires Doxygen, et la première ligne est une _brief line_. Ainsi le fait qu'elle soit d'une autre couleur n'est pas un bug, mais un(e?) feature. Là, il faut renvoyer sur la doc relative à doxygen, ou à l'intégration de doxygen dans vim, ou comment ajuster des colorschemes -- à supposer que l'OP soit dans un langage où Doxygen s'applique. Est-ce que Christian ou d'autres mainteneurs proches du pouvoir central auraient pu savoir tout ça ? Ce n'est pas si sûr.
+
+Sur le fond, le mainteneur du script est bien la personne la mieux placée pour traiter la fiche d'anomalie.
+Sur la forme. Là, effectivement, c'est une autre histoire. On pourrait commencer par impliquer sur github les mainteneurs de scripts qui sont toujours vivants...
+
+
+* autochdir par projet/tab
+
+Au sujet de comment faire des :lcd automatiquement pour chaque projet. Tout d'abord, merci pour les liens pour les deux articles. 
+Ensuite, cela implique un workflow où l'on fait attention à avoir un onglet par projet, et ainsi un répertoire (local) par onglet.
+
+Dans mon workflow, je charge régulièrement des fichiers qui proviennent de projets tiers pour ne serait-ce que lire directement dans un fichier d'en-tête (.h en C&C++) ce qu'il y a dedans à côté du code du projet courant. Une application type: sur un héritage, je recopie la doc des fonctions que je supplante (chose non prioritaire dans ma TODO list de lh-cpp/:Overide). J'ai aussi régulièrement des fichiers de plusieurs composants appartenant à un même projet.
+
+Au temps dire que l'emploi d'onglets me parait peu ergonomique ici -- sans parler que je n'ai jamais vraiment pris la peine d'explorer cette fonctionnalité (la seule vraie raison qui fait que je ne procède pas ainsi: ce n'est pas dans mes habitudes).
+
+Je suis parti depuis le temps dans une autre direction: la possibilité d'identifier des fichiers appartenant à des projets qui ont des options différentes. Le soucis est que les options dans vim ont une portée technique (global, fenêtre, buffer, onglet), et pas vraiment sémantique (projet). Cela fait ainsi quelques semaines que j'ai initié un truc tordu: des variables p:roject_specific. De là, il m'a été facile d'introduire une fonctionnalité de type autochdir pour chaque projet.
+
+Pour tout buffer devant appartenir au projet toto, il faut exécuter dans son contexte:
+  :Project --define toto
+
+Et mettre 
+  let g:lh#project = { 'autochdir' : 1 }
+
+Il me reste encore à rajouter une option pour avoir des --define automatiques pour les fichiers sous gestionnaire de sources (git, hg, svn) pour que cela soit vraiment simple à utiliser.
+
+Il y a un bon côté usine à gaz, il faut bien le dire, mais j'espère ainsi me simplifier la vie pour basculer le mode de compilation (release, debug, sanatisation, ...) des composants et autres bibliothèques que je compile -- je cherche à simplifier d'autres usines à gaz.
+
+https://github.com/LucHermitte/lh-vim-lib/blob/project/doc/Project.md (branche expérimentale "project")
+
+
+Voilà.
+
+Merci encore pour l'organisation de ces événements.
+
+-- 
+Luc Hermitte
+
+
+From keller.mdpa at gmail.com  Tue Oct 11 10:42:41 2016
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Tue, 11 Oct 2016 10:42:41 +0200
+Subject: [tupperVim] Tuppervim de novembre - Paris
+Message-ID: <CAM+ya-AgK2Nn6_QptNPhfB8_Tf2usjRVL6snWxGCJj-adzPi5Q@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim de novembre est prêt :
+Il aura lieu le second mardi du mois, le 08 novembre dans les locaux
+de Mozilla
+(Paris) de 20h à 22h.
+L'apéro aura lieu de 19h15 à 20h.
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1611
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je ne
+saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer le(s)
+numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+Bon maintenant il y a un vigile, donc il faut vraiment s'inscrire et il peut
+vous ouvrir la porte si vous arrivez pas trop en retard (on arrête pas
+le progrès).
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
+espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards et
+couvrez vous, Winter is coming.
+
+--
+maggick | \_o<
+(@matthieukeller)
+
+http://tuppervim.org
+
+

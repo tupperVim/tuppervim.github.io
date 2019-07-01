@@ -1,0 +1,181 @@
+From keller.mdpa at gmail.com  Thu Apr  9 13:46:11 2015
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Thu, 9 Apr 2015 13:46:11 +0200
+Subject: [tupperVim] agapes de mai 2015
+Message-ID: <CAM+ya-B0zXjUwWdj=uT_qQxbPgbkgeBDAUn1J58s3bGu=Rkppw@mail.gmail.com>
+
+Camarades vimistes,
+
+Fort en avance, nous organisons le tuppervim de mai le premier mardi du
+mois.
+Le tuppervim aura donc lieu le mardi 05 mai dans les locaux de Mozilla
+de 20h à 22h.
+L'apéro aura lieu de 19h30 à 20h
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://etherpad.mozilla.org/TupperVim-1505
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
+les numéros présents sur le pad pour qu?on vienne vous ouvrir.
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+(un espace est dédié à cette question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?événement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens : prenez les transports
+en commun, buvez de l'eau, mangez des pommes, changez régulièrement
+vos mots de passe et donnez de l?amour aux canards !
+
+\_o<
+Velociraptor | \_x<
+
+--
+
+maggick
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150409/65c0cdb4/attachment.html>
+
+From fabien at cazenave.cc  Mon Apr 13 21:21:28 2015
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Mon, 13 Apr 2015 21:21:28 +0200
+Subject: [tupperVim] agapes de mai 2015
+In-Reply-To: <CAM+ya-B0zXjUwWdj=uT_qQxbPgbkgeBDAUn1J58s3bGu=Rkppw@mail.gmail.com>
+References: <CAM+ya-B0zXjUwWdj=uT_qQxbPgbkgeBDAUn1J58s3bGu=Rkppw@mail.gmail.com>
+Message-ID: <552C1738.9070604@cazenave.cc>
+
+Canettes, canetons,
+
+les plus assidus d?entre vous l?auront remarqué : le traditionnel tour 
+de table de début de session prend de plus en plus de temps, et on a de 
+plus en plus de mal à empêcher Kinou de sortir son vatatat.
+
+L?avantage certain, c?est que plus personne n?a grand-chose à préparer.
+L?inconvénient c?est que les astuces sont de plus en plus « velues ».
+Pire, si jamais quelqu?un avait préparé une présentation (mouahahahaha 
+le noob !), on manquerait de temps ? surtout dans le format actuel où on 
+boucle les agapes à 22h.
+
+Comme nous sommes des oufs malades, nous n?avons peur de rien ? et 
+surtout pas de changer une formule qui a fait ses preuves. Aussi, voilà 
+ce que je voudrais vous proposer pour notre soirée de mai :
+
+  1/ le tour de table sera réservé aux *débutants* et à ceux qui ont 
+préparé une présentation (voir §3). On dit bonjour, on donne son pseudo 
+et *éventuellement* on balance une astuce *simple* ou une annonce de 
+présentation. Celui qui vient ramener sa fraise avec une astuce trop 
+complexe est privé de bière.
+
+  2/ la liste au Père Noël. Les utilisateurs demandent de l?aide pour un 
+point précis (e.g. ?comment afficher les espaces en fin de ligne ??, 
+?comment réindenter le code HTML ??, etc?), on liste les sujets et on 
+répond à ceux qu?on peut ? on garde les autres pour le mois d?après.
+
+  3/ les présentations. Comme d?hab, sauf qu?on aura un peu plus de 
+temps. J?en profite pour rappeler que les présentations peuvent aussi 
+être des trucs un peu didactiques pour expliquer proprement le 
+fonctionnement d?un aspect particulier de Vim (registres, quick list, 
+text objects?). On rappellera également que les présentations peuvent 
+porter sur des sujets autres que Vim (ligne de commande, notamment).
+
+  4/ si on a du rab de temps : VimGolf. Parce qu?il faut une bonne 
+excuse à ceux qui ont un compte twitter et un interpréteur Ruby.
+
+Qu?en pensez-vous ? Les suggestions sont les bienvenues. On essaiera ça 
+le mois prochain, donc si vous voulez inviter des débutant·e·s c?est le 
+moment ou jamais !
+
+Paix et amour aux palmipèdes de bonne volonté.
+\_o<
+
+:kazé
+
+
+From fabien at cazenave.cc  Tue Apr 14 17:10:21 2015
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Tue, 14 Apr 2015 17:10:21 +0200
+Subject: [tupperVim] Suggestions
+Message-ID: <552D2DDD.4070500@cazenave.cc>
+
+Camarades Vimistes, estimés palmipèdes,
+
+dans le souci permanent d?excellence qui nous caractérise, nous avons 
+démarré un etherpad pour suggérer des évolutions / changements / 
+améliorations de nos rendez-vous mensuels.
+
+   https://etherpad.mozilla.org/TupperVim-suggestions
+
+Sur ce pad vous trouverez plusieurs pistes d?améliorations, du genre :
+  ? faire l?apéro *avant* plutôt que pendant (adopté le mois dernier)
+  ? écourter le tour de table (à tester le mois prochain)
+  ? réduire le bruit de fond et/ou le niveau de troll (désolé ! -_-')
+  ? faire des soirées à thèmes (Git, CLI, LaTeX, JavaScript, Python?)
+
+Vos suggestions seront examinées avec attention. Comme on n?est pas des 
+Américains, on a *aussi* le droit de râler sans rien proposer : s?il y a 
+des choses qui vous ont déplu, dites-le sur le pad.
+
+Le format de nos réunions est assez libre pour pouvoir évoluer 
+facilement, nous essaierons de mettre en ?uvre les suggestions les plus 
+populaires / pertinentes au fur et à mesure.
+
+Merci à tous !
+\_o<
+
+
+From keller.mdpa at gmail.com  Tue Apr 28 14:48:55 2015
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Tue, 28 Apr 2015 14:48:55 +0200
+Subject: [tupperVim] agapes de mai 2015 - rappel
+Message-ID: <CAM+ya-AWiV1j0T80Vy8P8QLrPE4xPqtj619Ejsda_8CKU8u15A@mail.gmail.com>
+
+Tuppervim de Mai c'est dans une semaine.
+Profitez des ponts, venez au Tuppervim !
+
+N'oubliez pas les remarques et recommandations de père Kazé :
+http://mozfr.org/pipermail/tuppervim/2015-April/000156.html
+
+À mardi !
+------------------------------------------------
+
+
+Camarades vimistes,
+
+Fort en avance, nous organisons le tuppervim de mai le premier mardi du
+mois.
+Le tuppervim aura donc lieu le mardi 05 mai dans les locaux de Mozilla
+de 20h à 22h.
+L'apéro aura lieu de 19h30 à 20h
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://etherpad.mozilla.org/TupperVim-1505
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
+les numéros présents sur le pad pour qu?on vienne vous ouvrir.
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+(un espace est dédié à cette question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?événement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens : prenez les transports
+en commun, buvez de l'eau, mangez des pommes, changez régulièrement
+vos mots de passe et donnez de l?amour aux canards !
+
+\_o<
+Velociraptor | \_x<
+
+--
+
+maggick
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150428/2e8e952e/attachment.html>
+

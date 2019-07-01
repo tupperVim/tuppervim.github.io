@@ -1,0 +1,28 @@
+From pierre-yves.david at logilab.fr  Fri Sep  7 13:26:22 2012
+From: pierre-yves.david at logilab.fr (Pierre-Yves David)
+Date: Fri, 7 Sep 2012 13:26:22 +0200
+Subject: [tupperVim] coloration syntaxique PEP8 pour vim
+Message-ID: <20120907112622.GA6427@crater1.logilab.fr>
+
+Hello
+
+J'ai publié une version standalone de ma coloration pep8 présenté en
+aout.
+
+https://bitbucket.org/marmoute/vim-pep8colors
+
+C'est une peu cru, mais c'est fait.
+
+-- 
+Pierre-Yves David
+
+http://www.logilab.fr/
+
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: signature.asc
+Type: application/pgp-signature
+Taille: 198 octets
+Desc: Digital signature
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20120907/5a7fb8a0/attachment.pgp>
+

@@ -1,0 +1,219 @@
+From fabien at cazenave.cc  Wed Jul  4 15:24:41 2012
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Wed, 04 Jul 2012 15:24:41 +0200
+Subject: [tupperVim] Session de Juillet 2012
+Message-ID: <4FF44419.8090604@cazenave.cc>
+
+Très chers nerds,
+
+toujours plus à La Rache?, je vous propose une session tupperVim demain 
+jeudi à 20h, dans les nouveaux locaux Mozilla :
+
+     43 rue d?Aboukir, Paris 2ème (métro : Sentier)
+
+Logiquement la porte principale dispose d?une ouverture jour (= le 
+bouton [P]) mais okazou, vous pouvez passer sur le chan #tupperVim pour 
+que je vous donne le code de la porte d?entrée.
+
+Vous pouvez proposer des sujets (#oupas) sur ce pad :
+https://etherpad.mozilla.org/TupperVim-1207
+
+À demain !
+-- 
+:wq
+
+
+From clochix at clochix.net  Fri Jul  6 11:37:46 2012
+From: clochix at clochix.net (Clochix)
+Date: Fri, 6 Jul 2012 11:37:46 +0200
+Subject: [tupperVim] Session de Juillet 2012
+In-Reply-To: <4FF44419.8090604@cazenave.cc>
+References: <4FF44419.8090604@cazenave.cc>
+Message-ID: <20120706093746.GE11055@couac.clochix.net>
+
+Hello,
+
+Merci Kazé et MsTeshi pour l'organisation, les présentes et présents
+pour leur présence, c'était awesome !!!!!!
+
+On mercredi 04 juil. 2012 à 15:24:41 (+0200), Fabien Cazenave wrote:
+> Vous pouvez proposer des sujets (#oupas) sur ce pad :
+> https://etherpad.mozilla.org/TupperVim-1207
+
+On essaie de formaliser le CR du pad pour faire une billet sur le blog
+Frenchmoz, histoire de montrer ce qu'on fait ?
+
+Clochix
+
+
+
+From fabien at cazenave.cc  Fri Jul  6 13:15:04 2012
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Fri, 06 Jul 2012 13:15:04 +0200
+Subject: [tupperVim] Session de Juillet 2012
+In-Reply-To: <20120706093746.GE11055@couac.clochix.net>
+References: <4FF44419.8090604@cazenave.cc>
+	<20120706093746.GE11055@couac.clochix.net>
+Message-ID: <4FF6C8B8.7010901@cazenave.cc>
+
+On 06/07/12 11:37, Clochix wrote:
+> Hello,
+>
+> Merci Kazé et MsTeshi pour l'organisation, les présentes et présents
+> pour leur présence, c'était awesome !!!!!!
+>
+
+Haha, je confirme : encore et derechef, nous vainquîmes ! \o/
+
+Merci à Nicolas pour sa présentation de Git. Comme quoi, y?a des 
+utilisateurs Emacs qui gagnent à être connus ! Dans la foulée, ça 
+pourrait être opportun de présenter Fugitive le mois prochain? un 
+volontaire ?
+
+https://github.com/tpope/vim-fugitive/
+
+
+> On mercredi 04 juil. 2012 à 15:24:41 (+0200), Fabien Cazenave wrote:
+>> Vous pouvez proposer des sujets (#oupas) sur ce pad :
+>> https://etherpad.mozilla.org/TupperVim-1207
+>
+> On essaie de formaliser le CR du pad pour faire une billet sur le blog
+> Frenchmoz, histoire de montrer ce qu'on fait ?
+>
+> Clochix
+>
+
+Faisab?, mais qui s?y colle ? Et on publierait ça sur quel blog ?
+http://tech.mozfr.org/ ou http://blog.mozfr.org/ ?
+
+Dans les deux cas ça arrivera en page d?accueil sur MozFR de toute 
+facon. On peut commencer à rédiger sur le pad : 
+https://etherpad.mozilla.org/TupperVim
+
+J?en profite pour rappeler l?URL de la page ouiki :
+http://wiki.mozfr.org/TupperVim
+
+-- 
+:kazé
+
+
+From fabien at cazenave.cc  Fri Jul  6 13:26:18 2012
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Fri, 06 Jul 2012 13:26:18 +0200
+Subject: [tupperVim] =?utf-8?q?Horaires_des_soir=C3=A9es_Vim?=
+Message-ID: <4FF6CB5A.6040609@cazenave.cc>
+
+Chers tous,
+
+la soirée tupperVim d?hier était d?un format un peu différent de 
+d?habitude : jeudi 20h au lieu de mardi 19h, et buffet froid à la place 
+des pizzas. Est-ce que ça vous conviendrait pour les séances à venir ?
+
+En ce qui me concerne c?est positif, je n?y vois (quasiment) que des 
+avantages. Si personne n?y voit d?objection, on pourrait en faire 
+l?horaire habituel de nos soirées mensuelles ?
+
+-- 
+:kazé
+
+
+From fpoulain at metrodore.fr  Fri Jul  6 14:45:26 2012
+From: fpoulain at metrodore.fr (=?ISO-8859-1?B?RnJhbudvaXM=?= Poulain)
+Date: Fri, 6 Jul 2012 14:45:26 +0200
+Subject: [tupperVim] =?iso-8859-1?q?Horaires_des_soir=E9es_Vim?=
+In-Reply-To: <4FF6CB5A.6040609@cazenave.cc>
+References: <4FF6CB5A.6040609@cazenave.cc>
+Message-ID: <20120706144526.43dbd6df@foehn.lix.polytechnique.fr>
+
+Salut,
+
+Le Fri, 06 Jul 2012 13:26:18 +0200,
+Fabien Cazenave <fabien at cazenave.cc> a écrit :
+
+> En ce qui me concerne c?est positif, je n?y vois (quasiment) que des 
+> avantages. Si personne n?y voit d?objection, on pourrait en faire 
+> l?horaire habituel de nos soirées mensuelles ?
+
+Perso ça me convient. Merci à toi et Mozilla pour l'acceuil.
+
+François
+
+-- 
+François Poulain <fpoulain at metrodore.fr>
+
+
+From clochix at clochix.net  Fri Jul  6 14:47:24 2012
+From: clochix at clochix.net (Clochix)
+Date: Fri, 6 Jul 2012 14:47:24 +0200
+Subject: [tupperVim] Session de Juillet 2012
+In-Reply-To: <4FF6C8B8.7010901@cazenave.cc>
+References: <4FF44419.8090604@cazenave.cc>
+	<20120706093746.GE11055@couac.clochix.net>
+	<4FF6C8B8.7010901@cazenave.cc>
+Message-ID: <20120706124724.GF11055@couac.clochix.net>
+
+Hello,
+
+On vendredi 06 juil.  2012 à 13:15:04 (+0200), Fabien Cazenave wrote:
+> Dans la foulée, ça pourrait être opportun de présenter Fugitive le
+> mois prochain? un volontaire ?
+
+Pour info, Drew Neil (qui fait un atelier Vim le 20 juillet à Paris,
+110£ pour 3h :S) a écrit plusieurs articles sur Fugitive :
+http://vimcasts.org/episodes/archive
+
+> Faisab?, mais qui s?y colle ? Et on publierait ça sur quel blog ?
+> http://tech.mozfr.org/ ou http://blog.mozfr.org/ ?
+
+Peu importe, tech si c'est technique, blog si c'est la vie de la
+communauté.
+
+> Dans les deux cas ça arrivera en page d?accueil sur MozFR de toute
+> facon. On peut commencer à rédiger sur le pad :
+> https://etherpad.mozilla.org/TupperVim
+
+Pierron et moi-même avons déjà commencé à mettre au propre les notes
+d'hier soir, sur le Pad ad hoc.
+
+Clochix
+
+
+
+From fabien at cazenave.cc  Fri Jul 20 12:11:12 2012
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Fri, 20 Jul 2012 12:11:12 +0200
+Subject: [tupperVim] =?utf-8?q?Session_d=E2=80=99Ao=C3=BBt_2012?=
+Message-ID: <50092EC0.6030708@cazenave.cc>
+
+Canettes, Canetons,
+
+je vous propose une session tupperVim jeudi 9 août à 20h, dans les 
+nouveaux locaux Mozilla :
+
+     43 rue d?Aboukir, Paris 2ème (métro : Sentier)
+
+Rappel : la porte principale dispose d?une ouverture jour (= le bouton 
+[P]) mais okazou, vous pouvez passer sur le chan #tupperVim pour que je 
+vous donne le code de la porte d?entrée. Il y a un interphone ?Mozilla? 
+dans le hall, c?est pas ratable.
+
+Le concept que le monde entier nous envie est sur le wiki MozFR :
+http://wiki.mozfr.org/TupperVim
+
+Comme à la dernière session on a eu une présentation bien sympathique de 
+Git (merci encore à Nicolas !), peut-être que ça serait l?occase que 
+quelqu?un présente le greffon fugitive.vim ?
+http://www.vim.org/scripts/script.php?script_id=2975
+
+Si quelqu?un se sent de présenter fugitive.vim ou n?importe quoi 
+d?autre, qu?il l?annonce sur ce pad : (#oupas)
+https://etherpad.mozilla.org/TupperVim-1208
+
+Comme toujours, merci d?annoncer votre venue sur ce framadate, histoire 
+de caler les grignottes et les sels minéraux :
+http://framadate.org/vx8zrauy4y67tzjg
+
+-- 
+:wq
+
+

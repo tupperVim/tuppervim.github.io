@@ -1,0 +1,670 @@
+From sylvain at opensource-expert.com  Sat Jan  2 11:42:39 2016
+From: sylvain at opensource-expert.com (Sylvain Viart)
+Date: Sat, 2 Jan 2016 11:42:39 +0100
+Subject: [tupperVim] text (pre)processor
+Message-ID: <5687A99F.6050602@opensource-expert.com>
+
+Salut Vimers,
+
+Bonne année messieurs, y a t-il des Vimeuse(s) ?
+
+Donc question manipulation de texte. Soit keyword anglais: text processor.
+
+Peut-être connaissez vous les (pre)processeurs genre m4, cpp ou gpp, php
+à la rigueur?
+ou encore plus proches de vim, sed, et perl -p, etc?
+
+Je me demandais donc en cette nouvelle année 2016, existe t-il un outil
+proche de ce que je veux accomplir:
+
+Inclure des fragments de code dans mon code, depuis un répertoire des
+fragments que j'ai amoureusement collectés ou mitonnés.
+
+J'ai rédigé un exemple en bash:
+
+Mettons que mon fragment soit une fonction die() proche de ce que fait perl:
+
+die() {
+
+  echo "$*"
+
+  exit 1
+
+}
+
+
+et que j'ai un shell script plus vaste:
+
+#!/bin/bash
+echo 'some code here'
+
+# auto_include_code: die
+# donnera avec un make build ou autre action une inclusion ci-dessous:
+die() {
+
+    echo "$*"
+
+    exit 1
+
+}
+
+echo 'some more code using die()'
+
+if [[ -z "$1" ]]
+
+then
+
+    die "missing argument1"
+
+fi
+
+exit 0
+
+Vous voyez le genre ? J'ai un code, dans lequel j'inclus, j'importe un
+fragment. Avez vous connaissance d'outils qui automatisent ce
+comportement ou d'ensemble de macro qui feraient un peu ça ?
+
+J'ai en projet d'écrire mon propre processeur de texte, mais est-ce bien
+nécessaire ? Au delà de l'aspect parfaitement ludique. ;-)
+
+Voilà,
+À suivre.
+Sylvain.
+
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: signature.asc
+Type: application/pgp-signature
+Taille: 836 octets
+Desc: OpenPGP digital signature
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160102/f8967fe4/attachment.sig>
+
+From sylvain at opensource-expert.com  Sun Jan  3 06:14:23 2016
+From: sylvain at opensource-expert.com (Sylvain Viart)
+Date: Sun, 3 Jan 2016 06:14:23 +0100
+Subject: [tupperVim] text (pre)processor
+In-Reply-To: <5687CDD2.8010709@rolland.io>
+References: <5687A99F.6050602@opensource-expert.com>
+ <5687CDD2.8010709@rolland.io>
+Message-ID: <5688AE2F.6070800@opensource-expert.com>
+
+Salut,
+
+On 02/01/2016 14:17, Julien Rolland wrote:
+> On 01/02/2016 11:42 AM, Sylvain Viart wrote:
+>> Vous voyez le genre ? J'ai un code, dans lequel j'inclus, j'importe un
+>> fragment. Avez vous connaissance d'outils qui automatisent ce
+>> comportement ou d'ensemble de macro qui feraient un peu ça ?
+> Des snippets ? https://github.com/garbas/vim-snipmate ?
+
+Alors, oui tout à fait. Ça pourrait être ça. Mais comme c'est tellement
+facile de faire ses propres fragments de code en vim, voire même en vi
+mode, je n'avais pas penser à cette approche.
+
+À une époque, ancestrale peut être? ça s'écrivait en vim scirpt:
+
+imap ;if if() {<cr>}<esc>?if(?e<cr>a
+
+(par exemple?)
+
+C'est une excellent suggestion toutefois, merci Julien, mais je pensais
+plus à des mini lib (macro ou fonctions), qu'à des templates de code. Et
+pouvoir magicalement les mettre à jour via une sorte de référence
+embarqué, ou externe?
+
+Je vais néanmoins creuser cette voie qui va peut-être me conduire à une
+réponse?
+
+Cordialement,
+Sylvain.
+
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: signature.asc
+Type: application/pgp-signature
+Taille: 836 octets
+Desc: OpenPGP digital signature
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160103/e6c94017/attachment.sig>
+
+From thomas.pabst at gmail.com  Mon Jan  4 11:22:57 2016
+From: thomas.pabst at gmail.com (Thomas PABST)
+Date: Mon, 4 Jan 2016 11:22:57 +0100
+Subject: [tupperVim] Qwerty Lafayette
+In-Reply-To: <5673C7BA.20300@cazenave.cc>
+References: <56620494.4020000@cazenave.cc> <5664C80F.8060804@cazenave.cc>
+ <5673C7BA.20300@cazenave.cc>
+Message-ID: <CAHZbcQOVTCDgXdN2Kn_n7=NuuO6c2gDxZq4LsS3WmWHu8Mzugw@mail.gmail.com>
+
+Bonjour Fabien et aux tuppervimistes,
+
+J'ai pris la liberté de contacter
+
+*THE BEST KEYBOARD STICKERS WWW.4KEYBOARD.COM <http://WWW.4KEYBOARD.COM>
+concernant le layout qwerty lafayette.*
+Bonne nouvelle, il nous propose deux layouts light and dark !
+
+Ils souhaitent un retour d'expériences, commentaires pour le valider.
+
+Pour moi il semble bien, mais il manque les touches secondaires
+
+
+
+-----------------------------------------------------
+Thomas PABST
+thomas.pabst at gmail.com
+
+Le 18 décembre 2015 à 09:45, Fabien Cazenave <fabien at cazenave.cc> a écrit :
+
+> Ayé, les pilotes Windows et Linux sont estampillés v0.5 :
+>
+> http://fabi1cazenave.github.io/qwerty-lafayette/#download
+>
+> Pour la version MacOSX je ne peux malheureusement pas tester. Il y a une
+> poule-raquette en cours, avec des instructions pour les valeureux testeurs
+> qui voudraient filer un coup de main :
+>
+> https://github.com/fabi1cazenave/qwerty-lafayette/pull/21
+>
+> Je bosse aussi sur un script d?installation « system-wide » pour Linux
+> (histoire de pouvoir lister la dispo dans les outils desktop, notamment).
+> Il y a un ticket et un gist en cours :
+>
+> https://github.com/fabi1cazenave/qwerty-lafayette/issues/15
+>
+> ? ainsi qu?un bug en cours, car il semblerait que ce patch pose souci avec
+> les versions récentes de XKB (au moins avec Arch) :
+>
+> https://github.com/fabi1cazenave/qwerty-lafayette/issues/6
+>
+> Là encore, toute aide est bienvenue. :-)
+>
+>
+> :kazé
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> http://mozfr.org/mailman/listinfo/tuppervim
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160104/f7cee97b/attachment-0001.html>
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: FRENCH QWERTY lafayette.pdf
+Type: application/pdf
+Taille: 227627 octets
+Desc: non disponible
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160104/f7cee97b/attachment-0001.pdf>
+
+From guillaumeseren at gmail.com  Mon Jan  4 13:47:02 2016
+From: guillaumeseren at gmail.com (Mr Guillaume Seren)
+Date: Mon, 04 Jan 2016 13:47:02 +0100
+Subject: [tupperVim] Qwerty Lafayette
+In-Reply-To: <CAHZbcQOVTCDgXdN2Kn_n7=NuuO6c2gDxZq4LsS3WmWHu8Mzugw@mail.gmail.com>
+References: <56620494.4020000@cazenave.cc> <5664C80F.8060804@cazenave.cc>
+ <5673C7BA.20300@cazenave.cc>
+ <CAHZbcQOVTCDgXdN2Kn_n7=NuuO6c2gDxZq4LsS3WmWHu8Mzugw@mail.gmail.com>
+Message-ID: <20160104124702.29808.43552@josekit>
+
+Quoting Thomas PABST (2016-01-04 11:22:57)
+> J'ai pris la liberté de contacter THE BEST KEYBOARD STICKERS WWW.4KEYBOARD.COM 
+> concernant le layout qwerty lafayette.
+Super nouvelle ca !
+
+> Pour moi il semble bien, mais il manque les touches secondaires
+Apparemment il les touches extras / AltGr ne sont pas présentes je pense,
+que cela doit être possible de "rentrer" les touches Extras mais je ne suis pas
+sur pour AltGr.
+
+Une fois le design finalise on pourrait organiser une commande groupée.
+
+
+Guillaume.
+--------------------
+| Mr Guillaume Seren
+|
+| website: http://www.guillaumeseren.com/
+| github: https://github.com/GuillaumeSeren
+--------------------
+
+
+From thomas.pabst at gmail.com  Mon Jan  4 18:35:14 2016
+From: thomas.pabst at gmail.com (Thomas PABST)
+Date: Mon, 4 Jan 2016 18:35:14 +0100
+Subject: [tupperVim] Qwerty Lafayette
+In-Reply-To: <20160104124702.29808.43552@josekit>
+References: <56620494.4020000@cazenave.cc> <5664C80F.8060804@cazenave.cc>
+ <5673C7BA.20300@cazenave.cc>
+ <CAHZbcQOVTCDgXdN2Kn_n7=NuuO6c2gDxZq4LsS3WmWHu8Mzugw@mail.gmail.com>
+ <20160104124702.29808.43552@josekit>
+Message-ID: <CAHZbcQMaqGwP9xigqWnRN2vxkBFTuMjqSPHxe6T4F+YRpzTC7Q@mail.gmail.com>
+
+Voici la nouvelle version !
+J'attends vos retour.
+
+On me demande si l'étoile de la touche morte doit être rouge ! ?
+
+-----------------------------------------------------
+Thomas PABST
+thomas.pabst at gmail.com
+
+Le 4 janvier 2016 à 13:47, Mr Guillaume Seren <guillaumeseren at gmail.com> a
+écrit :
+
+> Quoting Thomas PABST (2016-01-04 11:22:57)
+> > J'ai pris la liberté de contacter THE BEST KEYBOARD STICKERS
+> WWW.4KEYBOARD.COM
+> > concernant le layout qwerty lafayette.
+> Super nouvelle ca !
+>
+> > Pour moi il semble bien, mais il manque les touches secondaires
+> Apparemment il les touches extras / AltGr ne sont pas présentes je pense,
+> que cela doit être possible de "rentrer" les touches Extras mais je ne
+> suis pas
+> sur pour AltGr.
+>
+> Une fois le design finalise on pourrait organiser une commande groupée.
+>
+>
+> Guillaume.
+> --------------------
+> | Mr Guillaume Seren
+> |
+> | website: http://www.guillaumeseren.com/
+> | github: https://github.com/GuillaumeSeren
+> --------------------
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> http://mozfr.org/mailman/listinfo/tuppervim
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160104/17c6d659/attachment-0001.html>
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: FRENCH QWERTY lafayette2.pdf
+Type: application/pdf
+Taille: 251975 octets
+Desc: non disponible
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160104/17c6d659/attachment-0001.pdf>
+
+From admin at caio-corro.fr  Tue Jan  5 10:14:31 2016
+From: admin at caio-corro.fr (Caio Filippo Corro)
+Date: Tue, 05 Jan 2016 10:14:31 +0100
+Subject: [tupperVim] Qwerty Lafayette
+Message-ID: <gyhnxa5ps6cggu2j0512kl4h.1451985271773@email.android.com>
+
+Je pense qu'on s'en fou, non ?Le 4 janv. 2016 18:35, Thomas PABST <thomas.pabst at gmail.com> a écrit :
+>
+> Voici la nouvelle version ! 
+> J'attends vos retour.
+>
+> On me demande si l'étoile de la touche morte doit être rouge ! ? 
+>
+> -----------------------------------------------------
+> Thomas PABST
+> thomas.pabst at gmail.com
+>
+> Le 4 janvier 2016 à 13:47, Mr Guillaume Seren <guillaumeseren at gmail.com> a écrit :
+>>
+>> Quoting Thomas PABST (2016-01-04 11:22:57)
+>> > J'ai pris la liberté de contacter THE BEST KEYBOARD STICKERS WWW.4KEYBOARD.COM
+>> > concernant le layout qwerty lafayette.
+>> Super nouvelle ca !
+>>
+>> > Pour moi il semble bien, mais il manque les touches secondaires
+>> Apparemment il les touches extras / AltGr ne sont pas présentes je pense,
+>> que cela doit être possible de "rentrer" les touches Extras mais je ne suis pas
+>> sur pour AltGr.
+>>
+>> Une fois le design finalise on pourrait organiser une commande groupée.
+>>
+>>
+>> Guillaume.
+>> --------------------
+>> | Mr Guillaume Seren
+>> |
+>> | website: http://www.guillaumeseren.com/
+>> | github: https://github.com/GuillaumeSeren
+>> --------------------
+>>
+>> _______________________________________________
+>> tupperVim mailing list
+>> tupperVim at mozfr.org
+>> http://mozfr.org/mailman/listinfo/tuppervim
+>
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160105/bd813676/attachment.html>
+
+From keller.mdpa at gmail.com  Thu Jan  7 16:36:52 2016
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Thu, 7 Jan 2016 16:36:52 +0100
+Subject: [tupperVim] Agapes de Janvier (Paris)
+Message-ID: <CAM+ya-BdSMzrvJHyy3_zK=Nn0kBicepG6tTupL1F2WgRxrJ_BQ@mail.gmail.com>
+
+Camarades vimistes,
+
+Bonne année !
+Quels sont vos résolutions pour 2016 ?
+Désactiver les flèches ? désactiver hjkl pendant un mois ?
+Moi passer du client gmail à mutt (offlineimap, notmuch)
+un peu comme Steve Losh :
+http://stevelosh.com/blog/2012/10/the-homely-mutt/
+Mais bref, revenons au sujet :
+
+C'est 2016, le tuppervim de janvier arrive (en retard certes).
+Il aura lieu le mardi 19 janvier dans les locaux de Mozilla (Paris) de 20h
+à 22h.
+L'apéro aura lieu de 19h15 à 20h.
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://public.etherpad-mozilla.org/p/TupperVim-1601
+
+La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
+le(s) numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+
+Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
+(un espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards !
+
+--
+maggick | \_o<
+(@matthieukeller)
+
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160107/eef72bfc/attachment.html>
+
+From keller.mdpa at gmail.com  Fri Jan  8 15:21:56 2016
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Fri, 8 Jan 2016 15:21:56 +0100
+Subject: [tupperVim] =?utf-8?q?Agapes_de_Janvier_=C3=A0_Lyon?=
+Message-ID: <CAM+ya-DjASRiME+YPN64PT1=yR-M=CBsDS1AbKVEzaER-bkwSg@mail.gmail.com>
+
+Camarades vimistes,
+Le tuppervim Lyonnais est prévu pour le samedi 30 janvier,
+de 16h à 18h toutes les informations sur le site
+http://tuppervim.org
+
+Merci de vous annoncer sur le pad comme il se doit :
+https://public.etherpad-mozilla.org/p/TupperVim-Lyon-1601
+
+Concernant la nourriture (apéro à 18h),on ramène ce qu'on souhaite manger
+(un espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards !
+
+--
+maggick | \_o<
+(@matthieukeller)
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160108/06f02def/attachment.html>
+
+From guillaumeseren at gmail.com  Fri Jan  8 15:40:08 2016
+From: guillaumeseren at gmail.com (Mr Guillaume Seren)
+Date: Fri, 08 Jan 2016 15:40:08 +0100
+Subject: [tupperVim] Agapes de Janvier (Paris)
+In-Reply-To: <CAM+ya-BdSMzrvJHyy3_zK=Nn0kBicepG6tTupL1F2WgRxrJ_BQ@mail.gmail.com>
+References: <CAM+ya-BdSMzrvJHyy3_zK=Nn0kBicepG6tTupL1F2WgRxrJ_BQ@mail.gmail.com>
+Message-ID: <20160108144008.13073.45675@josekit>
+
+Quoting Matthieu Keller (2016-01-07 16:36:52)
+> Camarades vimistes,
+Hello !
+
+> Bonne année !
+Bonne année !
+
+> Quels sont vos résolutions pour 2016 ?
+Certainement tester coreOs.
+
+> Moi passer du client gmail à mutt (offlineimap, notmuch)
+> un peu comme Steve Losh :
+> http://stevelosh.com/blog/2012/10/the-homely-mutt/
+Je trouve alot plus stable et performant sur des grosses bases de mails,
+après c'est il faut tester pour voir la différence -> https://github.com/pazz/alot
+
+> C'est 2016, le tuppervim de janvier arrive (en retard certes).
+> Il aura lieu le mardi 19 janvier dans les locaux de Mozilla (Paris) de 20h à
+> 22h.
+> L'apéro aura lieu de 19h15 à 20h.
+> Merci de vous annoncer sur le pad comme il se doit :
+Je me suis inscrit.
+
+
+Guillaume.
+--------------------
+| Mr Guillaume Seren
+|
+| website: http://www.guillaumeseren.com/
+| github: https://github.com/GuillaumeSeren
+--------------------
+
+
+From julien at rolland.io  Fri Jan  8 16:36:06 2016
+From: julien at rolland.io (Julien Rolland)
+Date: Fri, 08 Jan 2016 16:36:06 +0100
+Subject: [tupperVim] Agapes de Janvier (Paris)
+In-Reply-To: <20160108153201.15626.90993@josekit>
+References: <CAM+ya-BdSMzrvJHyy3_zK=Nn0kBicepG6tTupL1F2WgRxrJ_BQ@mail.gmail.com>
+ <20160108144008.13073.45675@josekit>
+ <e24d8df4035b0d123bbde1eedadd7982@rolland.io>
+ <20160108153201.15626.90993@josekit>
+Message-ID: <3bce2ebe5df0f7d26eb41534998930f5@rolland.io>
+
+Le 2016-01-08 16:32, Mr Guillaume Seren a écrit :
+> Quoting Julien Rolland (2016-01-08 15:56:58)
+>> Le 2016-01-08 15:40, Mr Guillaume Seren a écrit :
+>> >> Moi passer du client gmail à mutt (offlineimap, notmuch)
+>> >> un peu comme Steve Losh :
+>> >> http://stevelosh.com/blog/2012/10/the-homely-mutt/
+>> > Je trouve alot plus stable et performant sur des grosses bases de
+>> > mails,
+>> > après c'est il faut tester pour voir la différence ->
+>> > https://github.com/pazz/alot
+>> 
+>> Si tu utilises la version patched avec la sidebar, il y a un bug connu 
+>> :
+>> chaque mouvement implique un refresh + recompute de chaque mbox c'est 
+>> à
+>> dire qu'il recalcul de nombre de mail unseen ce qui est pas génial.
+>> Bug fix: ne pas utiliser la sidebar
+>> Bug fix2: mettre un ticker qui refresh toutes les n secondes la 
+>> sidebar
+>> 
+>> 
+>> Julien
+> Salut,
+> Je pense que tu as oublier de mettre la liste en copie.
+
+En effet :)
+
+> 
+> Guillaume.
+
+
+From guillaumeseren at gmail.com  Fri Jan  8 17:43:05 2016
+From: guillaumeseren at gmail.com (Mr Guillaume Seren)
+Date: Fri, 08 Jan 2016 17:43:05 +0100
+Subject: [tupperVim] Qwerty Lafayette
+In-Reply-To: <gyhnxa5ps6cggu2j0512kl4h.1451985271773@email.android.com>
+References: <gyhnxa5ps6cggu2j0512kl4h.1451985271773@email.android.com>
+Message-ID: <20160108164305.15626.90925@josekit>
+
+Quoting Caio Filippo Corro (2016-01-05 10:14:31)
+> Je pense qu'on s'en fou, non ?
+Et bien c'est une étoile rouge, sur le README du github,
+après c'est peut être plus cher si on doit ajouter de la couleur.
+
+
+Guillaume.
+
+
+From public at benj.me  Fri Jan  8 18:23:17 2016
+From: public at benj.me (B)
+Date: Fri, 08 Jan 2016 18:23:17 +0100
+Subject: [tupperVim] =?iso-8859-1?q?Agapes_de_Janvier_=E0_Lyon?=
+In-Reply-To: <CAM+ya-DjASRiME+YPN64PT1=yR-M=CBsDS1AbKVEzaER-bkwSg@mail.gmail.com>
+References: <CAM+ya-DjASRiME+YPN64PT1=yR-M=CBsDS1AbKVEzaER-bkwSg@mail.gmail.com>
+Message-ID: <1452273797.3907762.486693706.03BF2B74@webmail.messagingengine.com>
+
+Notez que c'est à l'EPN des Rancy (*249 rue Vendôme, Lyon 3*),  dans le 3ème, comme le site l'indique, mais pas le mail :-)
+
+Je rajoute aussi à la page d'inscription.
+
+Cheers, bbouvier
+
+On Fri, Jan 8, 2016, at 15:21, Matthieu Keller wrote:
+> Camarades vimistes,
+>
+>
+> Le tuppervim Lyonnais est prévu pour le samedi 30 janvier,
+>
+> de 16h à 18h toutes les informations sur le site
+>
+> http://tuppervim.org
+>
+>
+Merci de vous annoncer sur le pad comme il se doit :
+
+> https://public.etherpad-mozilla.org/p/TupperVim-Lyon-1601
+
+Concernant la nourriture (apéro à 18h),on ramène ce qu'on souhaite
+manger (un espace est dédié à La question sur le pad).
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant
+les agapes. Mais je ne peux que fortement vous conseiller d'inscrire
+l?évènement dans votre agenda.
+
+D?ici là, soyez de bons citoyens et donnez de l?amour aux canards !
+
+--
+maggick | \_o<
+(@matthieukeller)
+
+> http://tuppervim.org
+> 
+> _________________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> http://mozfr.org/mailman/listinfo/tuppervim
+ 
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160108/111f33ee/attachment.html>
+
+From vince at caboulot.org  Sat Jan  9 15:09:15 2016
+From: vince at caboulot.org (Vincent)
+Date: Sat, 9 Jan 2016 15:09:15 +0100
+Subject: [tupperVim] Prochain tuppervim lyonnais
+In-Reply-To: <mailman.9.1452337204.6266.tuppervim@mozfr.org>
+References: <mailman.9.1452337204.6266.tuppervim@mozfr.org>
+Message-ID: <5691148B.8080505@caboulot.org>
+
+Bonjour et bonne année à tous et à toutes,
+
+Les camarades vimistes caladois de la Cagull seront bien occupés par 
+leur atelier au Repair Café (cf 
+http://www.cagull.fr/prochaine-rencontre/) précisément au même moment 
+que le prochain tuppervim lyonnais. Dommage.
+
+S'il est plus épuisant de se réunir un soir de jour ouvré qu'en fin de 
+semaine, la probabilité d'y trouver un créneau libre est quand même plus 
+grande. Ce changement d'horaire et de lieu est-il exceptionnel ou 
+définitif ?
+
+Librement,
+
+Vincent
+
+
+
+
+From florent.fayolle69 at gmail.com  Sat Jan  9 15:12:51 2016
+From: florent.fayolle69 at gmail.com (Florent FAYOLLE)
+Date: Sat, 9 Jan 2016 15:12:51 +0100
+Subject: [tupperVim] Prochain tuppervim lyonnais
+In-Reply-To: <5691148B.8080505@caboulot.org>
+References: <mailman.9.1452337204.6266.tuppervim@mozfr.org>
+ <5691148B.8080505@caboulot.org>
+Message-ID: <56911563.8070302@gmail.com>
+
+Bonjour,
+
+Il est exceptionnel. Il aura lieu lors des expériences numériques :
+http://epn.salledesrancy.com/experiences-numeriques/
+
+Les autres sessions, en temps normal, continueront de se dérouler des 
+mercredis soirs à l'Épitech de Lyon.
+
+Bonne journée,
+
+Florent
+
+Le 01/09/2016 03:09 PM, Vincent a écrit :
+> Bonjour et bonne année à tous et à toutes,
+>
+> Les camarades vimistes caladois de la Cagull seront bien occupés par 
+> leur atelier au Repair Café (cf 
+> http://www.cagull.fr/prochaine-rencontre/) précisément au même moment 
+> que le prochain tuppervim lyonnais. Dommage.
+>
+> S'il est plus épuisant de se réunir un soir de jour ouvré qu'en fin de 
+> semaine, la probabilité d'y trouver un créneau libre est quand même 
+> plus grande. Ce changement d'horaire et de lieu est-il exceptionnel ou 
+> définitif ?
+>
+> Librement,
+>
+> Vincent
+>
+>
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> http://mozfr.org/mailman/listinfo/tuppervim
+
+
+
+From julien at rolland.io  Thu Jan 14 23:18:33 2016
+From: julien at rolland.io (Julien Rolland)
+Date: Thu, 14 Jan 2016 22:18:33 +0000
+Subject: [tupperVim] Agapes de Janvier (Paris)
+In-Reply-To: <3bce2ebe5df0f7d26eb41534998930f5@rolland.io>
+References: <CAM+ya-BdSMzrvJHyy3_zK=Nn0kBicepG6tTupL1F2WgRxrJ_BQ@mail.gmail.com>
+ <20160108144008.13073.45675@josekit>
+ <e24d8df4035b0d123bbde1eedadd7982@rolland.io>
+ <20160108153201.15626.90993@josekit>
+ <3bce2ebe5df0f7d26eb41534998930f5@rolland.io>
+Message-ID: <20160114221833.GB15415@dev>
+
+Hello,
+
+On 08/01/16 16:36, Julien Rolland wrote:
+> Bug fix2: mettre un ticker qui refresh toutes les n secondes la sidebar
+
+Si ca intéresse :
+https://github.com/xunien/mutt/blob/master/debian/patches/misc/sidebar-refresh.patch
+
+o/
+
+

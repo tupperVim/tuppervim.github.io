@@ -1,0 +1,789 @@
+From kinou at kinouchou.org  Tue Feb  5 20:02:25 2013
+From: kinou at kinouchou.org (kinou)
+Date: Tue, 05 Feb 2013 20:02:25 +0100
+Subject: [tupperVim] =?utf-8?q?Session_de_F=C3=A9vrier_2013?=
+In-Reply-To: <50E6A9D5.2090706@mozilla.com>
+References: <50E6A9D5.2090706@mozilla.com>
+Message-ID: <51115741.7060306@kinouchou.org>
+
+Salut à tous,
+je rappelle qu'il est important de s'inscrire pour la prochaine session.
+Si vous n'êtes pas sûrs de venir mettez plutôt un point d'interrogation 
+à côté de votre nom au lieu de ne pas vous inscrire du tout ça permettra 
+de prévoir un peu plus facilement les quantités pour les repas.
+Les commandes pour le repas se feront jeudi matin alors inscrivez-vous 
+rapidement.
+
+bises
+kinou
+
+Le 04/01/2013 11:07, Fabien Cazenave a écrit :
+> Chers camarades vimistes,
+>
+> une fois n?est pas coutume, on va essayer d?annoncer les prochaines
+> agapes Vimesques un mois à l?avance ! Du jamais vu dans ce projet !
+>
+>   ? règles du jeu : http://wiki.mozfr.org/TupperVim
+>   ? inscriptions  : http://framadate.org/nqtfytxt6s1j6271
+>   ? organisation  : https://etherpad.mozilla.org/TupperVim-1302
+>
+> Notez que la soirée d?hier, bien que fort sympathique (merci aux
+> participants !), a été la soirée la moins préparée de toute l?histoire
+> tupperVim : rien sur le pad, et personne ou presque n?avait anticipé une
+> présentation. Je crois qu?on a atteint là les limites du concept «soirée
+> tupperware» : il en a résulté un je-ne-sais-quoi d?amateurisme qui ne
+> saurait refléter durablement le niveau d?excellence auquel nous sommes
+> tous habitués.
+>
+> Comme c?est encore la période des bonnes résolutions de début d?année,
+> je vous propose d?essayer d?anticiper un peu mieux les prochaines agapes
+> en utilisant le pad :
+>
+>   ? soit pour proposer une présentation de plugin / astuce / autre ;
+>   ? soit pour *demander* une présentation sur un sujet précis.
+>
+> Étant bien trop fainéant pour proposer une présentation, j?inaugure donc
+> cette section «Sujets Souhaités» avec fugitive.vim (qui va devenir
+> l?arlésienne de ces soirées ^^) et le prompt zsh. S?il y en a qui se
+> sentent aptes à présenter l?un de ces «sujets souhaités», merci de vous
+> signaler dans la section «Sujets Proposés».
+>
+> Merci à vous tous, qui faites de ces agapes mensuelles des rendez-vous à
+> la fois chaleureux et instructifs. Paix, amour et canetons pour toute
+> l?année 2013 !
+
+
+
+From endymion at thetys-retz.net  Tue Feb  5 22:55:41 2013
+From: endymion at thetys-retz.net (Vincent-Xavier JUMEL)
+Date: Tue, 5 Feb 2013 22:55:41 +0100
+Subject: [tupperVim] =?utf-8?q?Session_de_F=C3=A9vrier_2013?=
+In-Reply-To: <50E6A9D5.2090706@mozilla.com>
+References: <50E6A9D5.2090706@mozilla.com>
+Message-ID: <20130205215541.GA25951@thetys-retz.net>
+
+Le 04 janvier à 11:07 Fabien Cazenave a écrit
+> Chers camarades vimistes,
+> 
+> une fois n?est pas coutume, on va essayer d?annoncer les prochaines 
+> agapes Vimesques un mois à l?avance ! Du jamais vu dans ce projet !
+> 
+>   ? règles du jeu : http://wiki.mozfr.org/TupperVim
+>   ? inscriptions  : http://framadate.org/nqtfytxt6s1j6271
+>   ? organisation  : https://etherpad.mozilla.org/TupperVim-1302
+> 
+Je ne serais malheureusement pas des votres depuis que je sais que PoLuX
+fait une présentation.
+
+N'oubliez pas les canettes (ou canetonnes, je ne sais pas.)
+-- 
+Vincent-Xavier JUMEL GPG Id: 0x2E14CE70 http://thetys-retz.net
+
+Rejoignez les 4938 adhérents de l'April http://www.april.org/adherer
+Parinux, logiciel libre à Paris : http://www.parinux.org
+
+
+From guillaume.turri at gmail.com  Thu Feb  7 19:40:05 2013
+From: guillaume.turri at gmail.com (Guillaume Turri)
+Date: Thu, 7 Feb 2013 19:40:05 +0100
+Subject: [tupperVim] =?iso-8859-1?q?Session_de_F=E9vrier_2013?=
+In-Reply-To: <20130205215541.GA25951@thetys-retz.net>
+References: <50E6A9D5.2090706@mozilla.com>
+	<20130205215541.GA25951@thetys-retz.net>
+Message-ID: <CADsWkMqyH1Kh8FQ5WqffjfkSz4J=8Y3o0fog5A6R6EdLwn1SVA@mail.gmail.com>
+
+Bonjour
+On est 2 devant la porte exterieur, avec un mauvais digicode. Est ce que
+quelqun peut quelque chose pour nous ?
+Merci
+Le 6 févr. 2013 12:35, "Vincent-Xavier JUMEL" <endymion at thetys-retz.net> a
+écrit :
+>
+> Le 04 janvier à 11:07 Fabien Cazenave a écrit
+> > Chers camarades vimistes,
+> >
+> > une fois n?est pas coutume, on va essayer d?annoncer les prochaines
+> > agapes Vimesques un mois à l?avance ! Du jamais vu dans ce projet !
+> >
+> >   ? règles du jeu : http://wiki.mozfr.org/TupperVim
+> >   ? inscriptions  : http://framadate.org/nqtfytxt6s1j6271
+> >   ? organisation  : https://etherpad.mozilla.org/TupperVim-1302
+> >
+> Je ne serais malheureusement pas des votres depuis que je sais que PoLuX
+> fait une présentation.
+>
+> N'oubliez pas les canettes (ou canetonnes, je ne sais pas.)
+> --
+> Vincent-Xavier JUMEL GPG Id: 0x2E14CE70 http://thetys-retz.net
+>
+> Rejoignez les 4938 adhérents de l'April http://www.april.org/adherer
+> Parinux, logiciel libre à Paris : http://www.parinux.org
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> http://mozfr.org/mailman/listinfo/tuppervim
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20130207/0a8eaeb2/attachment.html>
+
+From fabien at cazenave.cc  Thu Feb  7 19:55:46 2013
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Thu, 07 Feb 2013 19:55:46 +0100
+Subject: [tupperVim] =?utf-8?q?Session_de_F=C3=A9vrier_2013?=
+In-Reply-To: <CADsWkMqyH1Kh8FQ5WqffjfkSz4J=8Y3o0fog5A6R6EdLwn1SVA@mail.gmail.com>
+References: <50E6A9D5.2090706@mozilla.com>
+	<20130205215541.GA25951@thetys-retz.net>
+	<CADsWkMqyH1Kh8FQ5WqffjfkSz4J=8Y3o0fog5A6R6EdLwn1SVA@mail.gmail.com>
+Message-ID: <5113F8B2.6080605@cazenave.cc>
+
+On 07/02/13 19:40, Guillaume Turri wrote:
+> Bonjour
+> On est 2 devant la porte exterieur, avec un mauvais digicode. Est ce que
+> quelqun peut quelque chose pour nous ?
+> Merci
+
+Je n?ai vu personne dehors? Êtes-vous bien au 43 rue d?Aboukir ?
+
+-- 
+:kazé
+
+
+From cdevienne at gmail.com  Thu Feb  7 20:56:51 2013
+From: cdevienne at gmail.com (Christophe de Vienne)
+Date: Thu, 07 Feb 2013 20:56:51 +0100
+Subject: [tupperVim] =?utf-8?q?Session_de_F=C3=A9vrier_2013?=
+In-Reply-To: <5113F8B2.6080605@cazenave.cc>
+References: <50E6A9D5.2090706@mozilla.com>
+	<20130205215541.GA25951@thetys-retz.net>
+	<CADsWkMqyH1Kh8FQ5WqffjfkSz4J=8Y3o0fog5A6R6EdLwn1SVA@mail.gmail.com>
+	<5113F8B2.6080605@cazenave.cc>
+Message-ID: <51140703.50603@gmail.com>
+
+Bonsoir,
+
+Contre-temps de dernière heure :-(
+
+Ça devait être ma première, ça ne sera rien du tout /o\
+
+Toutes mes excuses pour l'organisateur, j'espère ne pas avoir de souci 
+la prochaine fois.
+
+Christophe
+(@cmdevienne)
+
+
+Le 07/02/2013 19:55, Fabien Cazenave a écrit :
+> On 07/02/13 19:40, Guillaume Turri wrote:
+>> Bonjour
+>> On est 2 devant la porte exterieur, avec un mauvais digicode. Est ce que
+>> quelqun peut quelque chose pour nous ?
+>> Merci
+>
+> Je n?ai vu personne dehors? Êtes-vous bien au 43 rue d?Aboukir ?
+>
+
+
+
+From clochix at clochix.net  Thu Feb 14 15:38:09 2013
+From: clochix at clochix.net (Clochix)
+Date: Thu, 14 Feb 2013 15:38:09 +0100
+Subject: [tupperVim] coder
+Message-ID: <20130214143808.GG5252@couac.clochix.net>
+
+hjkl,
+
+Un échange a eu lieu récemment sur IRC proposant de coupler les
+prochains tupperVim avec des bidouillonthons (je laisse l?auteur de la
+proposition la développer ici).
+
+Je pensais pour ma part à publier certaines astuces citées lors des
+sessions, pourquoi pas sous la forme de Gists sur Github.
+
+Que diriez-vous de créer une organisation tupperVim sur Github qui
+permettrait d?entretenir collectivement le résultat des travaux des
+bidouillonthons et de publier des astuces sous forme de Gists ?
+
+Proposition : mandater Le Père Fondateur pour ouvrir un compte tupperVim
+sur Github et le transformer en organisation.
+
+hjkl,
+Clochix
+
+-- 
+Envoyé depuis des Logiciels Libres (Vim, Mutt, Exim4, Debian GNU/Linux)
+
+
+From hobbestigrou at erakis.im  Fri Feb 15 12:15:52 2013
+From: hobbestigrou at erakis.im (=?ISO-8859-1?Q?Natal_Ng=E9tal?=)
+Date: Fri, 15 Feb 2013 12:15:52 +0100
+Subject: [tupperVim] coder
+In-Reply-To: <20130214143808.GG5252@couac.clochix.net>
+References: <20130214143808.GG5252@couac.clochix.net>
+Message-ID: <CANfeGstmbgz1MDvEm85giHajHeWQ31OSpNGfr0zT+HB7R3r42Q@mail.gmail.com>
+
+Le 14 février 2013 15:38, Clochix <clochix at clochix.net> a écrit :
+> Un échange a eu lieu récemment sur IRC proposant de coupler les
+> prochains tupperVim avec des bidouillonthons (je laisse l?auteur de la
+> proposition la développer ici).
+Ah oui, ça peut être sympa, je pense.
+
+> Je pensais pour ma part à publier certaines astuces citées lors des
+> sessions, pourquoi pas sous la forme de Gists sur Github.
+Cool.
+
+> Que diriez-vous de créer une organisation tupperVim sur Github qui
+> permettrait d?entretenir collectivement le résultat des travaux des
+> bidouillonthons et de publier des astuces sous forme de Gists ?
+Ah oui, ça serait vraiment bien je pense, très bonne idée.
+
+-- 
+\0/ Hobbestigrou
+site web: erakis.im
+
+
+From fabien at cazenave.cc  Tue Feb 19 15:29:54 2013
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Tue, 19 Feb 2013 15:29:54 +0100
+Subject: [tupperVim] coder
+In-Reply-To: <20130214143808.GG5252@couac.clochix.net>
+References: <20130214143808.GG5252@couac.clochix.net>
+Message-ID: <51238C62.3090904@cazenave.cc>
+
+On 14/02/13 15:38, Clochix wrote:
+> Un échange a eu lieu récemment sur IRC proposant de coupler les
+> prochains tupperVim avec des bidouillonthons (je laisse l?auteur de la
+> proposition la développer ici).
+>
+
+L?idée vient de Marmoute (c?est pour ça qu?elle est bien). Je vous 
+propose d?expérimenter ça lors de la prochaine séance, le 14/03/2013 de 
+18h à 20h ? i.e. juste avant nos agapes mensuelles.
+
+Bien évidemment, aucune obligation : vous pouvez vous contenter 
+d?arriver à 20h comme d?habitude. Mais si l?idée de bidouiller des bouts 
+de scripts Vim vous plaît, viendez deux heures plus tôt.
+
+Je laisse le soin à Marmoute d?exposer le concept.
+
+
+> Je pensais pour ma part à publier certaines astuces citées lors des
+> sessions, pourquoi pas sous la forme de Gists sur Github.
+>
+> Que diriez-vous de créer une organisation tupperVim sur Github qui
+> permettrait d?entretenir collectivement le résultat des travaux des
+> bidouillonthons et de publier des astuces sous forme de Gists ?
+>
+> Proposition : mandater Le Père Fondateur pour ouvrir un compte tupperVim
+> sur Github et le transformer en organisation.
+>
+
+Hop : https://github.com/tupperVim/
+Pour ceux qui veulent faire partie de cette organisation @tupperVim, 
+passez-moi votre identifiant github sur le canal IRC pour que je puisse 
+vous ajouter.
+
+Au passage, on a aussi un @tupperVim sur identi.ca et twitter depuis 
+peu. Je m?en sers pour retouiter des infos vimesques? Ça serait bien que 
+chacun puisse envoyer des tips sur ce compte. En attendant une procédure 
+plus « calée », je vous propose d?utiliser le canal IRC : tous les 
+messages qui tiennent en 140 caractères et qui sont précédés d?un « 
+@tupperVim » seront envoyés sur le compte identi.ca, qui réplique sur le 
+compte twitter.
+
+\_o<
+-- 
+:kazé
+
+
+From bernard at pratz.net  Tue Feb 19 16:19:50 2013
+From: bernard at pratz.net (Bernard `Guyzmo` Pratz)
+Date: Tue, 19 Feb 2013 16:19:50 +0100
+Subject: [tupperVim] coder
+In-Reply-To: <51238C62.3090904@cazenave.cc>
+References: <20130214143808.GG5252@couac.clochix.net>
+	<51238C62.3090904@cazenave.cc>
+Message-ID: <20130219151950.GG25286@vilya.m0g.net>
+
+Ehlo tuppervim,
+
+On Tue, Feb 19, 2013 at 03:29:54PM +0100, Fabien Cazenave wrote:
+> On 14/02/13 15:38, Clochix wrote:
+> >Un échange a eu lieu récemment sur IRC proposant de coupler les
+> >prochains tupperVim avec des bidouillonthons (je laisse l?auteur de la
+> >proposition la développer ici).
+> L?idée vient de Marmoute (c?est pour ça qu?elle est bien). Je vous propose
+> d?expérimenter ça lors de la prochaine séance, le 14/03/2013 de 18h à 20h ?
+> i.e. juste avant nos agapes mensuelles.
+
+J'ai un plugin que j'ai succintement présenté lors de la dernière séance,
+qui s'appelle yaposting script qui permet de mieux formatter les mails 
+envoyés (une vraie justification, avec un alinéa configurable, réduction 
+et reformatage des quotes, remise en ordre des niveuax de réponse, et même
+la possibilité de reformater les mails type outlook).
+
+Le truc, c'est que ce plugin, je l'ai pondu il y a plus de 10 ans avant
+que je sache vraiment programmer (et avant que vim supporte de vrais
+langages). Et donc il est en Perl.
+
+Donc bref, j'ai entrepris il y a quelques temps une réécriture complète
+du script en python, sauf que j'ai craqué après avoir galéré à essayer
+de modifier le buffer vim à partir du plugin. Entre les bugs utf-8, le
+buffer qui se modifie pas comme je m'y attends et les capacités de
+débuggage des scripts python qui s'approchent du néant...
+
+Je propose donc pour un prochain bidouillonthons de s'attaquer à ce
+plugin pour faire en sorte que cette nouvelle version puisse sortir et
+en éradiquer le code perl ! Biensûr, sous couvert de coder sur ce
+script, ce serait un bon workshop sur "comment coder un script python
+qui modifie le buffer de vim".
+
+> \_o<
+
+*PAN*!
+
+-- 
+Bernard
+
+
+From hobbestigrou at erakis.im  Tue Feb 19 16:44:02 2013
+From: hobbestigrou at erakis.im (=?ISO-8859-1?Q?Natal_Ng=E9tal?=)
+Date: Tue, 19 Feb 2013 16:44:02 +0100
+Subject: [tupperVim] coder
+In-Reply-To: <20130219151950.GG25286@vilya.m0g.net>
+References: <20130214143808.GG5252@couac.clochix.net>
+	<51238C62.3090904@cazenave.cc>
+	<20130219151950.GG25286@vilya.m0g.net>
+Message-ID: <CANfeGssfafiXFuc3gD7kYhPHvi0seQT-1FV1AR=-+i5F1N3idw@mail.gmail.com>
+
+Le 19 février 2013 16:19, Bernard `Guyzmo` Pratz <bernard at pratz.net> a écrit :
+> J'ai un plugin que j'ai succintement présenté lors de la dernière séance,
+> qui s'appelle yaposting script qui permet de mieux formatter les mails
+> envoyés (une vraie justification, avec un alinéa configurable, réduction
+> et reformatage des quotes, remise en ordre des niveuax de réponse, et même
+> la possibilité de reformater les mails type outlook).
+Ah intéressant ça.
+
+> Le truc, c'est que ce plugin, je l'ai pondu il y a plus de 10 ans avant
+> que je sache vraiment programmer (et avant que vim supporte de vrais
+> langages). Et donc il est en Perl.
+On débute tous, c'est normal. C'est un vrai langage Perl et il est pas si mal.
+
+> Donc bref, j'ai entrepris il y a quelques temps une réécriture complète
+> du script en python, sauf que j'ai craqué après avoir galéré à essayer
+> de modifier le buffer vim à partir du plugin. Entre les bugs utf-8, le
+> buffer qui se modifie pas comme je m'y attends et les capacités de
+> débuggage des scripts python qui s'approchent du néant...
+Oui, ça peut être embêtant lorsqu'on arrive pas à faire ce qu'on souhaite.
+
+> Je propose donc pour un prochain bidouillonthons de s'attaquer à ce
+> plugin pour faire en sorte que cette nouvelle version puisse sortir et
+> en éradiquer le code perl ! Biensûr, sous couvert de coder sur ce
+> script, ce serait un bon workshop sur "comment coder un script python
+> qui modifie le buffer de vim".
+Ah oui, ça m'intéresse, si j'arrive à aider un peu en tous cas.
+
+-- 
+\0/ Hobbestigrou
+site web: erakis.im
+
+
+From Sylvain.Soliman+tuppervim at m4x.org  Tue Feb 19 22:35:39 2013
+From: Sylvain.Soliman+tuppervim at m4x.org (Sylvain Soliman)
+Date: Tue, 19 Feb 2013 22:35:39 +0100
+Subject: [tupperVim] coder
+In-Reply-To: <20130219151950.GG25286@vilya.m0g.net>
+References: <20130214143808.GG5252@couac.clochix.net>
+	<51238C62.3090904@cazenave.cc>
+	<20130219151950.GG25286@vilya.m0g.net>
+Message-ID: <20130219213539.GG60387@macbook-air.inria.fr>
+
+    Bonsoir Liste, enchanté,
+
+  premier post ici, vimiste depuis longtemps, s'il est de tradition de se
+présenter plus, dites-le moi? d'autant plus que je ne serai pas présent à
+la prochaine réunion, pour causes de vacances scolaires.
+
+* Bernard `Guyzmo` Pratz <bernard at pratz.net>:
+> J'ai un plugin que j'ai succintement présenté lors de la dernière séance,
+> qui s'appelle yaposting script qui permet de mieux formatter les mails
+> envoyés
+[?]
+> Donc bref, j'ai entrepris il y a quelques temps une réécriture complète
+> du script en python
+[?]
+> Je propose donc pour un prochain bidouillonthons de s'attaquer à ce
+> plugin pour faire en sorte que cette nouvelle version puisse sortir et
+> en éradiquer le code perl ! Biensûr, sous couvert de coder sur ce
+> script, ce serait un bon workshop sur "comment coder un script python
+> qui modifie le buffer de vim".
+
+  Vu que je ne serai pas là, je ne peux que vous souhaiter à tous de bien
+vous amuser, mais ceci dit, un truc me turlupine?
+
+> (une vraie justification, avec un alinéa configurable, réduction
+> et reformatage des quotes, remise en ordre des niveuax de réponse, et même
+> la possibilité de reformater les mails type outlook).
+
+  Quitte à se débarrasser de Perl, et dans une démarche bidouillatoire,
+pourquoi ne pas tout faire en vimscript ?
+
+  En fait, en regardant le script actuel, le seul endroit où il y a du Perl
+c'est la justification. Mais un coup de formatoptions+=2, l'alinéa collé au
+début de la première ligne, la seconde ligne collée à gauche, un autoindent
+sur la largeur visée, et une réindentation du paragraphe par la marge
+gauche, ça doit marcher à peu près. Et ça évite de dépendre d'une option de
+compilation, surtout pour un sujet où la performance ne devrait pas être un
+souci.
+
+  Par ailleurs, définir un nouvel objet texte pour les paragraphes indentés
+est un bon exercice de vimscript (cf.
+http://vim.wikia.com/wiki/Creating_new_text_objects par exemple) et fait de
+la fonction TakeOut un simple 'cip[snip]' (en supposant que l'on a
+réutilisé 'p' pour le nouvel objet paragraphe).
+
+  Bref, il me semble qu'il y a aussi de quoi faire sans aller vers Python.
+[ben oui, de même que je suis plutôt CtrlP que Command-T, j'ai une petite
+tendance à préférer le vimscript « pur » quand je peux, notamment pour des
+raisons de portabilité]
+
+  Au pire, ça donnera peut-être des idées pour une prochaine séance de
+codage?
+
+        Sylvain
+        pas sûr de ne pas être totalement hors-sujet
+        mais même pas peur :P
+
+-- 
+Sylvain Soliman <Sylvain.Soliman at m4x.org>   GnuPG Public Key: 0x0F53AF99
+Page personnelle                   http://contraintes.inria.fr/~soliman/
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: smime.p7s
+Type: application/x-pkcs7-signature
+Taille: 2872 octets
+Desc: non disponible
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20130219/a074dc3e/attachment.bin>
+
+From bernard at pratz.net  Wed Feb 20 11:34:49 2013
+From: bernard at pratz.net (Bernard `Guyzmo` Pratz)
+Date: Wed, 20 Feb 2013 11:34:49 +0100
+Subject: [tupperVim] coder
+In-Reply-To: <20130219213539.GG60387@macbook-air.inria.fr>
+References: <20130214143808.GG5252@couac.clochix.net>
+	<51238C62.3090904@cazenave.cc>
+	<20130219151950.GG25286@vilya.m0g.net>
+	<20130219213539.GG60387@macbook-air.inria.fr>
+Message-ID: <20130220103449.GH25286@vilya.m0g.net>
+
+Hello,
+
+On Tue, Feb 19, 2013 at 10:35:39PM +0100, Sylvain Soliman wrote:
+> * Bernard `Guyzmo` Pratz <bernard at pratz.net>:
+[?]
+> > (une vraie justification, avec un alinéa configurable, réduction et
+> > reformatage des quotes, remise en ordre des niveuax de réponse, et
+> > même la possibilité de reformater les mails type outlook).
+>   Quitte à se débarrasser de Perl, et dans une démarche
+>   bidouillatoire, pourquoi ne pas tout faire en vimscript ?
+
+je suis ni pour, ni contre, bien au contraire.
+
+>   En fait, en regardant le script actuel, le seul endroit où il y a du Perl
+> c'est la justification. Mais un coup de formatoptions+=2, l'alinéa collé au
+> début de la première ligne, la seconde ligne collée à gauche, un autoindent
+> sur la largeur visée, et une réindentation du paragraphe par la marge
+> gauche, ça doit marcher à peu près. Et ça évite de dépendre d'une option de
+> compilation, surtout pour un sujet où la performance ne devrait pas être un
+> souci.
+
+    Mais quand je parle de justification, c'est une réelle justification
+avec marges fixes de chaque côté. On aime ou on aime pas,  car  le  côté
+rajouter des espaces pour faire de l'alignement gauche *et* droite n'est
+pas du goût de tous. Toutefois,  je  trouve  ça  beaucoup  plus  élégant 
+qu'un presqu'alignement à 80 colonnes.
+
+    L'avantage que je verrais à coder ça  en  python,  serait  aussi  de
+donner plus de flexibilité dans le choix de l'algorithme de  répartition
+des espaces. Car actuellement, tout ce qui est  fait  c'est  insérer  un
+espace entre chaque mot à partir  de  la  droite  jusqu'à  atteindre  la
+longueur de ligne désirée. Mais on pourrait aussi partir du  centre,  ou
+de la gauche, répartir un mot sur deux etc..
+
+    S'il existe une technique vimscript qui serait moins lourde pour  ce
+faire, je n'ai rien contre.  Mais  j'avais  bien  entendu  chercher  les
+manières les plus simples d'y arriver  avant  d'entreprendre  une  telle
+chose et je n'avais, alors, rien trouvé de concluant.
+
+>   Par ailleurs, définir un nouvel objet texte pour les paragraphes indentés
+> est un bon exercice de vimscript (cf.
+> http://vim.wikia.com/wiki/Creating_new_text_objects par exemple) et fait de
+> la fonction TakeOut un simple 'cip[snip]' (en supposant que l'on a
+> réutilisé 'p' pour le nouvel objet paragraphe).
+
+    Par  contre,  apprendre  de  nouvelles  méthodes  pour  retirer  des 
+paragraphes internes aux  quotes, je  suis  preneur.  Ma  méthode  étant
+quelque peu bourrine, iirc, je compte  le  nombre  de  quote  sign  pour
+connaître le niveau de quote, je les retire tous, et là je peux détecter
+le paragraphe, pour le reformater ou le retirer.
+
+>   Bref, il me semble qu'il y a aussi de quoi faire sans aller vers Python.
+> [ben oui, de même que je suis plutôt CtrlP que Command-T, j'ai une petite
+> tendance à préférer le vimscript « pur » quand je peux, notamment pour des
+> raisons de portabilité]
+
+    Pour le coup, je ne suis pas adminsys, et je n'ai pas à utiliser ou
+configurer vim sur 42 mille serveurs. Je me  sens  moins  concerné  par
+cette problématique là. Je préfère avoir le support d'un max de langages
+et pouvoir choisir les plugins qui me conviennent sur des critères de
+fonctionnalité, d'ergonomie et de stabilité.
+
+>o_/
+
+-- 
+zmo
+
+
+From hobbestigrou at erakis.im  Wed Feb 20 11:54:29 2013
+From: hobbestigrou at erakis.im (=?ISO-8859-1?Q?Natal_Ng=E9tal?=)
+Date: Wed, 20 Feb 2013 11:54:29 +0100
+Subject: [tupperVim] coder
+In-Reply-To: <20130220103449.GH25286@vilya.m0g.net>
+References: <20130214143808.GG5252@couac.clochix.net>
+	<51238C62.3090904@cazenave.cc>
+	<20130219151950.GG25286@vilya.m0g.net>
+	<20130219213539.GG60387@macbook-air.inria.fr>
+	<20130220103449.GH25286@vilya.m0g.net>
+Message-ID: <CANfeGstFi=L1LatdMxTiLBakaOOQ8jn-JyT0V8_Y0mYUoXcBDw@mail.gmail.com>
+
+Le 20 février 2013 11:34, Bernard `Guyzmo` Pratz <bernard at pratz.net> a écrit :
+>     Pour le coup, je ne suis pas adminsys, et je n'ai pas à utiliser ou
+> configurer vim sur 42 mille serveurs. Je me  sens  moins  concerné  par
+> cette problématique là. Je préfère avoir le support d'un max de langages
+> et pouvoir choisir les plugins qui me conviennent sur des critères de
+> fonctionnalité, d'ergonomie et de stabilité.
+Je suis malgré tout d'accord avec Sylvain, bien que je ne suis pas un
+admin sys, je préfère les plugins en vimscripts pure.
+
+--
+\0/ Hobbestigrou
+site web: erakis.im
+
+
+From bernard at pratz.net  Wed Feb 20 12:21:45 2013
+From: bernard at pratz.net (Bernard `Guyzmo` Pratz)
+Date: Wed, 20 Feb 2013 12:21:45 +0100
+Subject: [tupperVim] troller
+In-Reply-To: <CANfeGstFi=L1LatdMxTiLBakaOOQ8jn-JyT0V8_Y0mYUoXcBDw@mail.gmail.com>
+References: <20130214143808.GG5252@couac.clochix.net>
+	<51238C62.3090904@cazenave.cc>
+	<20130219151950.GG25286@vilya.m0g.net>
+	<20130219213539.GG60387@macbook-air.inria.fr>
+	<20130220103449.GH25286@vilya.m0g.net>
+	<CANfeGstFi=L1LatdMxTiLBakaOOQ8jn-JyT0V8_Y0mYUoXcBDw@mail.gmail.com>
+Message-ID: <20130220112145.GI25286@vilya.m0g.net>
+
+On Wed, Feb 20, 2013 at 11:54:29AM +0100, Natal Ngétal wrote:
+> Le 20 février 2013 11:34, Bernard `Guyzmo` Pratz <bernard at pratz.net> a écrit :
+> >     Pour le coup, je ne suis pas adminsys, et je n'ai pas à utiliser ou
+> > configurer vim sur 42 mille serveurs. Je me  sens  moins  concerné  par
+> > cette problématique là. Je préfère avoir le support d'un max de langages
+> > et pouvoir choisir les plugins qui me conviennent sur des critères de
+> > fonctionnalité, d'ergonomie et de stabilité.
+> Je suis malgré tout d'accord avec Sylvain, bien que je ne suis pas un
+> admin sys, je préfère les plugins en vimscripts pure.
+
+Ah, mais moi je suis pour le mariage de tous les langages et le
+métissage de tous les langages ! 
+
+Non à l'exclusion des codes en ruby ou python !
+Non à l'intolérance contre les langages impurs !
+Oui au polylinguisme ! Oui au mariage pour tous !
+
+hm... pardon, je m'égare...
+puis de toutes façons, vive les autodafés des codes écrits en Perl.
+
+*PAN*!
+
+-- 
+Guyzmo
+
+
+From fpoulain at metrodore.fr  Wed Feb 20 12:47:55 2013
+From: fpoulain at metrodore.fr (=?ISO-8859-1?B?RnJhbudvaXM=?= Poulain)
+Date: Wed, 20 Feb 2013 12:47:55 +0100
+Subject: [tupperVim] coder
+In-Reply-To: <20130220103449.GH25286@vilya.m0g.net>
+References: <20130214143808.GG5252@couac.clochix.net>
+	<51238C62.3090904@cazenave.cc>
+	<20130219151950.GG25286@vilya.m0g.net>
+	<20130219213539.GG60387@macbook-air.inria.fr>
+	<20130220103449.GH25286@vilya.m0g.net>
+Message-ID: <20130220124755.14606059@mage.lix.polytechnique.fr>
+
+Salut,
+
+Le Wed, 20 Feb 2013 11:34:49 +0100,
+Bernard `Guyzmo` Pratz <bernard at pratz.net> a écrit :
+
+> Car actuellement, tout ce qui est  fait  c'est  insérer  un
+> espace entre chaque mot à partir  de  la  droite  jusqu'à  atteindre
+> la longueur de ligne désirée. Mais on pourrait aussi partir du
+> centre,  ou de la gauche, répartir un mot sur deux etc..
+
+Une contrainte typographique supplémentaire qui peut influer le choix :
+éviter les alignements verticaux d'espaces, pour ne pas donner illusion
+de colonnes dans le paragraphe.
+
+François
+
+-- 
+François Poulain <fpoulain at metrodore.fr>
+
+
+From Sylvain.Soliman+tuppervim at m4x.org  Wed Feb 20 13:39:34 2013
+From: Sylvain.Soliman+tuppervim at m4x.org (Sylvain Soliman)
+Date: Wed, 20 Feb 2013 13:39:34 +0100
+Subject: [tupperVim] coder
+In-Reply-To: <20130220124755.14606059@mage.lix.polytechnique.fr>
+References: <20130214143808.GG5252@couac.clochix.net>
+	<51238C62.3090904@cazenave.cc>
+	<20130219151950.GG25286@vilya.m0g.net>
+	<20130219213539.GG60387@macbook-air.inria.fr>
+	<20130220103449.GH25286@vilya.m0g.net>
+	<20130220124755.14606059@mage.lix.polytechnique.fr>
+Message-ID: <20130220123934.GA52306@chambolle.inria.fr>
+
+    Bonjour,
+
+* Bernard `Guyzmo` Pratz <bernard at pratz.net>:
+> Mais quand je parle de justification, c'est une réelle justification avec
+> marges fixes de chaque côté.
+
+Ah oui, je n'avais pas vraiment réalisé qu'il s'agissait de véritable
+justification?
+
+> S'il existe une technique vimscript qui serait moins lourde pour  ce
+> faire, je n'ai rien contre.  Mais  j'avais  bien  entendu chercher  les
+> manières les plus simples d'y arriver  avant  d'entreprendre une  telle
+> chose et je n'avais, alors, rien trouvé de concluant.
+
+Avais-tu cherché dans $VIMRUNTIME/macros/ ? (voir ci-dessous)
+
+* François Poulain <fpoulain at metrodore.fr>:
+> Une contrainte typographique supplémentaire qui peut influer le choix :
+> éviter les alignements verticaux d'espaces, pour ne pas donner illusion
+> de colonnes dans le paragraphe.
+
+Je n'ai pas eu la curiosité de lire en détail (je ne suis pas un grand
+justificateur), mais
+
+:runtime macros/justify.vim
+
+n'est-il pas une bonne base de départ ?
+
+        Sylvain
+
+-- 
+Sylvain Soliman <Sylvain.Soliman at m4x.org>   GnuPG Public Key: 0x0F53AF99
+Page personnelle                   http://contraintes.inria.fr/~soliman/
+-------------- section suivante --------------
+Une pièce jointe autre que texte a été nettoyée...
+Nom: smime.p7s
+Type: application/x-pkcs7-signature
+Taille: 2872 octets
+Desc: non disponible
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20130220/0194d2cd/attachment.bin>
+
+From bernard at pratz.net  Wed Feb 20 14:51:44 2013
+From: bernard at pratz.net (Bernard `Guyzmo` Pratz)
+Date: Wed, 20 Feb 2013 14:51:44 +0100
+Subject: [tupperVim] coder
+In-Reply-To: <20130220123934.GA52306@chambolle.inria.fr>
+References: <20130214143808.GG5252@couac.clochix.net>
+	<51238C62.3090904@cazenave.cc>
+	<20130219151950.GG25286@vilya.m0g.net>
+	<20130219213539.GG60387@macbook-air.inria.fr>
+	<20130220103449.GH25286@vilya.m0g.net>
+	<20130220124755.14606059@mage.lix.polytechnique.fr>
+	<20130220123934.GA52306@chambolle.inria.fr>
+Message-ID: <20130220135144.GL25286@vilya.m0g.net>
+
+On Wed, Feb 20, 2013 at 01:39:34PM +0100, Sylvain Soliman wrote:
+> * Bernard `Guyzmo` Pratz <bernard at pratz.net>:
+
+> > S'il existe une technique vimscript qui serait moins lourde pour  ce
+> > faire, je n'ai rien contre.   Mais  j'avais  bien  entendu  chercher
+> > les manières les plus simples d'y arriver avant  d'entreprendre  une
+> > telle  chose  et  je  n'avais,  alors,  rien  trouvé  de  concluant.
+
+> Avais-tu cherché dans $VIMRUNTIME/macros/ ?
+> Je n'ai pas eu la curiosité de lire en détail (je ne suis pas un grand
+> justificateur), mais
+> :runtime macros/justify.vim
+> n'est-il pas une bonne base de départ ?
+
+possiblement.  Ma mémoire de carassius auratus auratus ne me  permettant
+pas de me souvenir de ce qui m'a amené à tenter de bidouiller un  machin
+mélangeant du perl et du vimscript dans ces temps reculé  du  début  des
+années 2000, je ne saurais dire si, à l'époque, j'avais effectivement vu
+ce script et décidé de le refaire ou si j'étais simplement passé à côté.
+
+Toutefois, bien qu'il mette relativement intelligemment les espaces pour
+la  justification  ( notamment  avec  une  préférence  pour  après   les
+caractères de ponctuation ), et qu'il supporte aussi le reformattage  de
+pragraphes préfixés avec,  notamment,  un  ou  plusieurs  caractères  de
+quote.
+
+Je remarque qu'il  n'est  pas  possible  de  faire  une  indentation  en
+début  de  paragraphe,  qu'il   reformate   la   dernière   ligne   d'un
+paragraphe, même s'il n'y a que deux mots dessus, et il ne fait  que  de
+la justification ligne à ligne, il ne va pas  réarranger  le  paragraphe
+complet pour qu'il ne dépasse pas 72 lignes et soit justifié.
+
+Mais ce dernier point peut se faire en quelques commandes[1] qu'on  peut
+ensuite mapper (il y a évidemment les options wrap  et  textwidth,  mais
+même malgré cela il est facile de dépasser la limite):
+
+  gqap          « pour reformater le paragraphe courant à textwidth cols
+  vip:Justify   « pour justifier le paragraphe courant
+
+[1] http://vimdoc.sourceforge.net/htmldoc/usr_25.html
+
+Toutefois, je pense que recoder la fonction  de  justification  dans  un
+langage adapté tel que  python  ou  ruby  permettrait  d'avoir  plus  de
+flexibilité dans la méthode de justification, d'indentation etc..
+
+Et surtout, il y a une feature que j'avais dans mon script originel  qui
+sera moins aisée à recoder en vimscript pure, c'est le  reformattage  de
+mail OE, avec phrase de citation en 5 lignes, un préfixe absurde et  pas
+homogénéisé, pas de préfixe de citations sur les lignes  citées,  et  la
+citation après la réponse...
+
+En tous cas, merci sylvain de cette petite trouvaille,
+
+-- 
+Guyzmo
+
+
+From Sylvain.Soliman+tuppervim at m4x.org  Wed Feb 20 15:30:36 2013
+From: Sylvain.Soliman+tuppervim at m4x.org (Sylvain Soliman)
+Date: Wed, 20 Feb 2013 15:30:36 +0100
+Subject: [tupperVim] coder
+In-Reply-To: <20130220135144.GL25286@vilya.m0g.net>
+References: <20130214143808.GG5252@couac.clochix.net>
+	<51238C62.3090904@cazenave.cc>
+	<20130219151950.GG25286@vilya.m0g.net>
+	<20130219213539.GG60387@macbook-air.inria.fr>
+	<20130220103449.GH25286@vilya.m0g.net>
+	<20130220124755.14606059@mage.lix.polytechnique.fr>
+	<20130220123934.GA52306@chambolle.inria.fr>
+	<20130220135144.GL25286@vilya.m0g.net>
+Message-ID: <20130220143036.GC52306@chambolle.inria.fr>
+
+* Bernard `Guyzmo` Pratz <bernard at pratz.net>:
+> Toutefois, je pense que recoder la fonction  de  justification  dans  un
+> langage adapté tel que  python  ou  ruby  permettrait  d'avoir  plus  de
+> flexibilité dans la méthode de justification, d'indentation etc..
+
+Oui, et puis c'e

@@ -1,0 +1,172 @@
+From raphael at fournier-sniehotta.fr  Mon Apr  7 11:09:58 2014
+From: raphael at fournier-sniehotta.fr (=?iso-8859-1?Q?Rapha=EBl?= Fournier-S'niehotta)
+Date: Mon, 7 Apr 2014 11:09:58 +0200
+Subject: [tupperVim] New Meetup Group:  Vim Paris
+Message-ID: <20140407090700.GA19126@danglard.l2ti.univ-paris13.fr>
+
+Juste un message pour vous transférer l'annonce de la création d'un "Meetup Vim
+Paris" reçue récemment. 
+
+  http://www.meetup.com/Vim-Paris/t/wg2_l4/?gj=ej1b
+
+Il faudrait peut-être leur dire que le concept existe déjà, ils n'ont pas dû
+avoir vent des tuppervim (à moins que Tuppervim soit à capacité maximale dans sa
+config actuelle).
+
+À bientôt,
+-- 
+Raphaël Fournier-S'niehotta
+http://raphael.fournier-sniehotta.fr/apropos
+
+
+
+From fabien at cazenave.cc  Mon Apr  7 11:20:03 2014
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Mon, 07 Apr 2014 11:20:03 +0200
+Subject: [tupperVim] New Meetup Group:  Vim Paris
+In-Reply-To: <20140407090700.GA19126@danglard.l2ti.univ-paris13.fr>
+References: <20140407090700.GA19126@danglard.l2ti.univ-paris13.fr>
+Message-ID: <53426DC3.9080409@cazenave.cc>
+
+On 07/04/14 11:09, Raphaël Fournier-S'niehotta wrote:
+>
+> Juste un message pour vous transférer l'annonce de la création d'un "Meetup Vim
+> Paris" reçue récemment.
+>
+>    http://www.meetup.com/Vim-Paris/t/wg2_l4/?gj=ej1b
+>
+> Il faudrait peut-être leur dire que le concept existe déjà, ils n'ont pas dû
+> avoir vent des tuppervim (à moins que Tuppervim soit à capacité maximale dans sa
+> config actuelle).
+>
+> À bientôt,
+>
+
+Je viens de laisser un message sur cette page. Méfiez-vous des 
+imitations ! :-)
+
+À demain.
+-- 
+:kazé
+
+
+From fabien at cazenave.cc  Mon Apr  7 17:39:58 2014
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Mon, 07 Apr 2014 17:39:58 +0200
+Subject: [tupperVim] =?utf-8?q?Soir=C3=A9e_d=E2=80=99avril_2014?=
+In-Reply-To: <532F353B.1020201@mozilla.com>
+References: <532F353B.1020201@mozilla.com>
+Message-ID: <5342C6CE.4030604@cazenave.cc>
+
+Je viens d?apprendre que le budget grignotes de Mozilla est supprimé. 
+Pour la soirée de demain, il va donc falloir que ceux qui le peuvent 
+apportent des trucs à boire et manger. À l?ancienne. :-)
+
+J?ai ajouté une section « grignotes » à la fin du pad :
+
+   https://etherpad.mozilla.org/TupperVim-1404
+
+Comme d?hab, les bouteilles seront appréciées à leur juste valeur. ^^
+S?il y en a qui savent cuisiner, c?est le moment de nous impressionner !
+Inversement, n?hésitez pas à venir quand même si vous n?avez pas le 
+temps d?apporter quelque chose. On survivra. :-)
+
+Désolé pour l?avertissement tardif, on fera mieux la prochaine fois.
+À demain soir !
+-- 
+:kazé
+
+
+From etienne.crombez at gmail.com  Mon Apr  7 17:51:07 2014
+From: etienne.crombez at gmail.com (Etienne CROMBEZ)
+Date: Mon, 7 Apr 2014 17:51:07 +0200
+Subject: [tupperVim] =?utf-8?q?Soir=C3=A9e_d=E2=80=99avril_2014?=
+In-Reply-To: <5342C6CE.4030604@cazenave.cc>
+References: <532F353B.1020201@mozilla.com> <5342C6CE.4030604@cazenave.cc>
+Message-ID: <CAJX_iYM5_q9XVUZZew-9hG_qNGDOKWdM7vDTPEA4JR0dMSqO4A@mail.gmail.com>
+
+Ça va m'être compliqué de ramener qqch.
+Ne peut-on pas se cotiser et commander un truc ?
+
+
+Le 7 avril 2014 17:39, Fabien Cazenave <fabien at cazenave.cc> a écrit :
+
+> Je viens d?apprendre que le budget grignotes de Mozilla est supprimé. Pour
+> la soirée de demain, il va donc falloir que ceux qui le peuvent apportent
+> des trucs à boire et manger. À l?ancienne. :-)
+>
+> J?ai ajouté une section « grignotes » à la fin du pad :
+>
+>   https://etherpad.mozilla.org/TupperVim-1404
+>
+> Comme d?hab, les bouteilles seront appréciées à leur juste valeur. ^^
+> S?il y en a qui savent cuisiner, c?est le moment de nous impressionner !
+> Inversement, n?hésitez pas à venir quand même si vous n?avez pas le temps
+> d?apporter quelque chose. On survivra. :-)
+>
+> Désolé pour l?avertissement tardif, on fera mieux la prochaine fois.
+> À demain soir !
+> --
+> :kazé
+>
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> http://mozfr.org/mailman/listinfo/tuppervim
+>
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://mozfr.org/pipermail/tuppervim/attachments/20140407/5d0b999d/attachment.html>
+
+From fabien at cazenave.cc  Mon Apr  7 22:01:22 2014
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Mon, 07 Apr 2014 22:01:22 +0200
+Subject: [tupperVim] =?utf-8?q?Soir=C3=A9e_d=E2=80=99avril_2014?=
+In-Reply-To: <CAJX_iYM5_q9XVUZZew-9hG_qNGDOKWdM7vDTPEA4JR0dMSqO4A@mail.gmail.com>
+References: <532F353B.1020201@mozilla.com> <5342C6CE.4030604@cazenave.cc>
+ <CAJX_iYM5_q9XVUZZew-9hG_qNGDOKWdM7vDTPEA4JR0dMSqO4A@mail.gmail.com>
+Message-ID: <53430412.9070707@cazenave.cc>
+
+Je crois que c?est un peu tard pour s?organiser de la sorte. C?est pour 
+ça que je propose que ceux qui le peuvent s?annoncent sur le pad, pour 
+qu?ils puissent prévoir un peu large.
+
+Cela dit, j?ai une proposition un peu provinciale à vous soumettre : un 
+bon vieux ?from?n?pif?, ça vous dit ? Pour tous ceux qui veulent 
+participer de, disons, 5?, je peux  peux aller acheter du fromage et du 
+vin. Je viens d?ajouter une option pour ça tout en bas du pad :
+
+   https://etherpad.mozilla.org/TupperVim-1404
+
+Je suis vraiment désolé de vous prévenir si tard, je n?ai appris ça que 
+cet après-midi. En même temps, sans une bonne dose d?improvisation, ça 
+ne serait plus tout-à-fait une soirée tupperVim hein ! :-)
+
+:kazé
+
+On 07/04/14 17:51, Etienne CROMBEZ wrote:
+> Ça va m'être compliqué de ramener qqch.
+> Ne peut-on pas se cotiser et commander un truc ?
+>
+>
+> Le 7 avril 2014 17:39, Fabien Cazenave <fabien at cazenave.cc> a écrit :
+>
+>> Je viens d?apprendre que le budget grignotes de Mozilla est supprimé. Pour
+>> la soirée de demain, il va donc falloir que ceux qui le peuvent apportent
+>> des trucs à boire et manger. À l?ancienne. :-)
+>>
+>> J?ai ajouté une section « grignotes » à la fin du pad :
+>>
+>>    https://etherpad.mozilla.org/TupperVim-1404
+>>
+>> Comme d?hab, les bouteilles seront appréciées à leur juste valeur. ^^
+>> S?il y en a qui savent cuisiner, c?est le moment de nous impressionner !
+>> Inversement, n?hésitez pas à venir quand même si vous n?avez pas le temps
+>> d?apporter quelque chose. On survivra. :-)
+>>
+>> Désolé pour l?avertissement tardif, on fera mieux la prochaine fois.
+>> À demain soir !
+>> --
+>> :kazé
+
+

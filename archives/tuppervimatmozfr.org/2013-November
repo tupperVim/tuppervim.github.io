@@ -1,0 +1,143 @@
+From kaze at mozilla.com  Mon Nov  4 12:45:01 2013
+From: kaze at mozilla.com (Fabien Cazenave)
+Date: Mon, 04 Nov 2013 12:45:01 +0100
+Subject: [tupperVim] Session de Novembre : *mardi* 12/11
+Message-ID: <527788BD.9060304@mozilla.com>
+
+Chers camarades vimistes,
+
+suite au mini-sondage effectué, on va modifier les horaires des soirées 
+tupperVim : elles auront lieu le premier *mardi* de chaque mois (et non 
+plus le jeudi) et surtout, elles seront limitées dans le temps ? deux 
+heures, pas une minute de plus.
+
+Comme je suis une merde et que j?ai laissé filer le calendrier 
+(vacances?), je vous donne rendez-vous mardi 12 novembre à 20h tapantes 
+chez Mozilla [1]. Merci de vous annoncer sur le framadate :
+
+http://www.framadate.org/studs.php?sondage=z1616jlbikt2lykd
+
+La limitation de durée à deux heures a pour objectif de gagner en 
+densité. Le principe est le suivant :
+
+  ? début des agapes à 20h *pile* ? ceux qui arrivent avant sont les 
+bienvenus pour aider à la mise en place, boire une(s) binouse(s), 
+discuter de Vim ou autre ;
+
+  ? pendant les 2h d?atelier, on se focalise sur Vim et on limite les 
+trolls / hors-sujets ? ça va être très difficile, notamment pour moi, 
+mais j?ai confiance en notre détermination collective ;
+
+  ? à 22h, on éteint l?écran de présentation ? on peut continuer à 
+discuter et à picoler, les plus enthousiastes peuvent en profiter pour 
+bosser ensemble sur un projet de plugin, s?échanger des bouts de config 
+ou demander des précisions sur une des présentations, mais s?il reste 
+des présentations techniques on les reporte à la session d?après.
+
+Pour essayer d?être aussi efficace que possible durant ces deux heures, 
+je ne saurai trop vous recommander d?annoncer vos présentations sur le pad :
+
+https://etherpad.mozilla.org/TupperVim-1311
+
+À mardi !
+\_o<
+
+--
+[1] 16 bis boulevard Montmartre, Paris ? métro : Richelieu-Drouot
+Demander les codes d?accès sur : irc://irc.mozilla.org/tupperVim
+Plus d?infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
+
+
+
+From jean at fsfeurope.org  Wed Nov 13 10:57:04 2013
+From: jean at fsfeurope.org (Nicolas JEAN)
+Date: Wed, 13 Nov 2013 10:57:04 +0100
+Subject: [tupperVim] MutterWare #2
+Message-ID: <52834CF0.4030009@kolab.fsfeurope.org>
+
+Salut (Tupper)Vimistes,
+
+Je vous écris pour vous proposer un petit Tupper-meeting ou meeting-Ware supplémentaire.
+
+Utilisateurs de mutt à haut niveau et depuis des années, débutant ou
+même fervent défenseur d'un autre client mail, vous êtes tous invités à
+venir en discuter, apprendre et comparer nos usages de cet outil.
+
+C'est quand ?
+Mardi 19 novembre, à partir de 20h !
+
+C'est où ?
+Chez vous, dans les locaux de Mozilla
+
+C'est comment ?
+La première édition s'est faite en petit comité, nous espérons ramener
+quelques personnes de plus cette fois
+
+Faites-moi signe par retour de mail si vous êtes intéressés !
+La liste des participants et plus d'information :
+     https://wiki.fsfe.org/groups/Paris/Mutterware
+
+Libremutterment,
+Nico
+
+
+
+From jean at fsfeurope.org  Wed Nov 13 11:10:46 2013
+From: jean at fsfeurope.org (Nicolas JEAN)
+Date: Wed, 13 Nov 2013 11:10:46 +0100
+Subject: [tupperVim] MutterWare #2
+In-Reply-To: <52834CF0.4030009@kolab.fsfeurope.org>
+References: <52834CF0.4030009@kolab.fsfeurope.org>
+Message-ID: <52835026.9090908@kolab.fsfeurope.org>
+
+Autant pour moi, confusion dans l'adresse :/
+Ce sera bien 16 bis boulevard Montmartre, 75009 Paris !
+
+
+On 13/11/2013 10:57, Nicolas JEAN wrote:
+> Salut (Tupper)Vimistes,
+>
+> Je vous écris pour vous proposer un petit Tupper-meeting ou 
+> meeting-Ware supplémentaire.
+>
+> Utilisateurs de mutt à haut niveau et depuis des années, débutant ou
+> même fervent défenseur d'un autre client mail, vous êtes tous invités à
+> venir en discuter, apprendre et comparer nos usages de cet outil.
+>
+> C'est quand ?
+> Mardi 19 novembre, à partir de 20h !
+>
+> C'est où ?
+> Chez vous, dans les locaux de Mozilla
+>
+> C'est comment ?
+> La première édition s'est faite en petit comité, nous espérons ramener
+> quelques personnes de plus cette fois
+>
+> Faites-moi signe par retour de mail si vous êtes intéressés !
+> La liste des participants et plus d'information :
+>     https://wiki.fsfe.org/groups/Paris/Mutterware
+>
+> Libremutterment,
+> Nico
+>
+
+
+
+From hobbestigrou at erakis.eu  Wed Nov 13 14:05:59 2013
+From: hobbestigrou at erakis.eu (Natal =?iso-8859-1?Q?Ng=E9tal?=)
+Date: Wed, 13 Nov 2013 14:05:59 +0100
+Subject: [tupperVim] MutterWare #2
+In-Reply-To: <52835026.9090908@kolab.fsfeurope.org>
+References: <52834CF0.4030009@kolab.fsfeurope.org>
+ <52835026.9090908@kolab.fsfeurope.org>
+Message-ID: <20131113130559.GA14742@hobbestigrou-desktop>
+
+On 11/13/13 11:10, Nicolas JEAN wrote:
+> Autant pour moi, confusion dans l'adresse :/
+> Ce sera bien 16 bis boulevard Montmartre, 75009 Paris !
+Intéressant, si je suis disponible, je vais venir. Je suis un
+utilisateur de mutt dont je suis très content et assez fan, mais je
+l'utilise très mal malheureusement.
+
+

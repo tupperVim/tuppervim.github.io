@@ -1,0 +1,188 @@
+From fabien at cazenave.cc  Mon Jul  9 19:49:21 2018
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Mon, 9 Jul 2018 19:49:21 +0200
+Subject: [tupperVim] Agapes de Grenoble
+Message-ID: <f8f22489-e585-73a0-ce3c-f1cc7eb5013f@cazenave.cc>
+
+Bonsoir,
+
+Erwan « taratatach » Guyader et moi-même vous proposons un atelier Vim à 
+Grenoble, ce mercredi 11 juillet. Comme d’habitude :
+
+  • apéro dès 19h30 pour les confirmés ou initiation pour les débutants
+  • présentations vimesques de 20h à 22h
+
+Ça se passera chez Sogilis, 4 avenue Doyen Louis Weil à Grenoble, tout 
+proche de l’arrêt de tram Palais de Justice / Gare.
+
+https://www.openstreetmap.org/node/403759993#map=18/45.19195/5.71284&layers=T
+
+Les contributions de toutes sortes seront bienvenues : présentations Vim 
+(ou Git, ou ligne de commande…), grignotes, binouses…
+
+Je sais que c’est déjà tard mais ça serait bien urbain de s’inscrire sur 
+l’etherpad :
+
+https://public.etherpad-mozilla.org/p/TupperVim-grenoble-1807
+
+S’il y en a que ça intéresse je peux apporter mon keyboard.io, mais 
+faudra pas se plaindre si on parle (trop) de claviers. :-)
+
+\_o<
+:kazé
+
+
+From shanti at mildred.fr  Wed Jul 11 23:13:56 2018
+From: shanti at mildred.fr (=?ISO-8859-1?Q?Shanti_Bouchez-Mongard=E9?=)
+Date: Wed, 11 Jul 2018 21:13:56 +0000
+Subject: [tupperVim] Agapes de Grenoble
+In-Reply-To: <f8f22489-e585-73a0-ce3c-f1cc7eb5013f@cazenave.cc>
+References: <f8f22489-e585-73a0-ce3c-f1cc7eb5013f@cazenave.cc>
+Message-ID: <76F00FDF-2C6F-416F-B6F4-D38EE813E39A@mildred.fr>
+
+Snif, j'étais pas là... J'ai vu le mail trop tard.
+
+J'en profite pour passer le bonsoir à tout le monde. Et la prochaine fois c'est possible de prévenir un peu plus tôt?
+
+Bisous
+
+Mildred
+
+Le 9 juillet 2018 17:49:21 GMT+00:00, Fabien Cazenave <fabien at cazenave.cc> a écrit :
+>Bonsoir,
+>
+>Erwan « taratatach » Guyader et moi-même vous proposons un atelier Vim
+>à 
+>Grenoble, ce mercredi 11 juillet. Comme d’habitude :
+>
+>  • apéro dès 19h30 pour les confirmés ou initiation pour les débutants
+>  • présentations vimesques de 20h à 22h
+>
+>Ça se passera chez Sogilis, 4 avenue Doyen Louis Weil à Grenoble, tout 
+>proche de l’arrêt de tram Palais de Justice / Gare.
+>
+>https://www.openstreetmap.org/node/403759993#map=18/45.19195/5.71284&layers=T
+>
+>Les contributions de toutes sortes seront bienvenues : présentations
+>Vim 
+>(ou Git, ou ligne de commande…), grignotes, binouses…
+>
+>Je sais que c’est déjà tard mais ça serait bien urbain de s’inscrire
+>sur 
+>l’etherpad :
+>
+>https://public.etherpad-mozilla.org/p/TupperVim-grenoble-1807
+>
+>S’il y en a que ça intéresse je peux apporter mon keyboard.io, mais 
+>faudra pas se plaindre si on parle (trop) de claviers. :-)
+>
+>\_o<
+>:kazé
+>
+>_______________________________________________
+>tupperVim mailing list
+>tupperVim at mozfr.org
+>https://listes.mozfr.org/mailman/listinfo/tuppervim
+
+-- 
+Envoyé de mon appareil Android avec Courriel K-9 Mail. Veuillez excuser ma brièveté.
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20180711/dd9827de/attachment.html>
+
+From erwan at guyader.fr  Mon Jul 16 14:18:29 2018
+From: erwan at guyader.fr (Erwan Guyader)
+Date: Mon, 16 Jul 2018 14:18:29 +0200
+Subject: [tupperVim] Agapes de Grenoble
+In-Reply-To: <76F00FDF-2C6F-416F-B6F4-D38EE813E39A@mildred.fr>
+References: <f8f22489-e585-73a0-ce3c-f1cc7eb5013f@cazenave.cc>
+ <76F00FDF-2C6F-416F-B6F4-D38EE813E39A@mildred.fr>
+Message-ID: <bb45ea2030d8f73bdd277f042ffd2d96@guyader.fr>
+
+Hello Shanti, 
+
+je suis désolé on s'y ai pris à l'arrache et c'est encore plus dommage
+qu'on connaissait la date une bonne semaine à l'avance quand même :/.
+Promis la prochaine fois on s'y prend plus tôt ! :)
+
+À tout bientôt,
+Erwan 
+
+Le 11-07-2018 23:13, Shanti Bouchez-Mongardé via tupperVim a écrit :
+
+> Snif, j'étais pas là... J'ai vu le mail trop tard.
+> 
+> J'en profite pour passer le bonsoir à tout le monde. Et la prochaine fois c'est possible de prévenir un peu plus tôt?
+> 
+> Bisous
+> 
+> Mildred
+> 
+> Le 9 juillet 2018 17:49:21 GMT+00:00, Fabien Cazenave <fabien at cazenave.cc> a écrit : 
+> 
+>> Bonsoir,
+>> 
+>> Erwan « taratatach » Guyader et moi-même vous proposons un atelier Vim à 
+>> Grenoble, ce mercredi 11 juillet. Comme d'habitude :
+>> 
+>> * apéro dès 19h30 pour les confirmés ou initiation pour les débutants
+>> * présentations vimesques de 20h à 22h
+>> 
+>> Ça se passera chez Sogilis, 4 avenue Doyen Louis Weil à Grenoble, tout 
+>> proche de l'arrêt de tram Palais de Justice / Gare.
+>> 
+>> https://www.openstreetmap.org/node/403759993#map=18/45.19195/5.71284&layers=T
+>> 
+>> Les contributions de toutes sortes seront bienvenues : présentations Vim 
+>> (ou Git, ou ligne de commande...), grignotes, binouses...
+>> 
+>> Je sais que c'est déjà tard mais ça serait bien urbain de s'inscrire sur 
+>> l'etherpad :
+>> 
+>> https://public.etherpad-mozilla.org/p/TupperVim-grenoble-1807
+>> 
+>> S'il y en a que ça intéresse je peux apporter mon keyboard.io, mais 
+>> faudra pas se plaindre si on parle (trop) de claviers. :-)
+>> 
+>> \_o<
+>> :kazé
+>> 
+>> -------------------------
+>> 
+>> tupperVim mailing list
+>> tupperVim at mozfr.org
+>> https://listes.mozfr.org/mailman/listinfo/tuppervim
+> 
+> -- 
+> Envoyé de mon appareil Android avec Courriel K-9 Mail. Veuillez excuser ma brièveté.
+> _______________________________________________
+> tupperVim mailing list
+> tupperVim at mozfr.org
+> https://listes.mozfr.org/mailman/listinfo/tuppervim
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20180716/ac925b0d/attachment.html>
+
+From fabien at cazenave.cc  Sun Jul 29 23:33:30 2018
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Sun, 29 Jul 2018 23:33:30 +0200
+Subject: [tupperVim] =?utf-8?q?BBQ_=C3=A0_Grenoble?=
+Message-ID: <124f01f4-fb6a-c49f-f103-1f196c8b2ba1@cazenave.cc>
+
+Dauphinoises, Dauphinois,
+
+encore plus à l’arrache que d’habitude, on se propose de faire un petit 
+barbecue entre vimistes et libristes au LOG, à Grenoble, mardi 31/07 
+(oui, dans moins de deux jours…) dès 19h30.
+
+Comme d’hab, chacun apporte des boissons et/ou des grignotes — sauf que 
+là, on peut *aussi* apporter des trucs à faire griller sur le BBQ. :-)
+
+Et comme d’hab, on a prévu un petit Etherpad pour s’annoncer :
+
+https://public.etherpad-mozilla.org/p/BBQ-TupperVim-grenoble-1807
+
+À mardi !
+:kazé
+
+

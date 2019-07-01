@@ -1,0 +1,120 @@
+From endymion+org at thetys-retz.net  Wed Aug  8 11:07:49 2012
+From: endymion+org at thetys-retz.net (Vincent-Xavier JUMEL)
+Date: Wed, 8 Aug 2012 11:07:49 +0200
+Subject: [tupperVim] Du mail en ligne de commande dans une interface convi
+Message-ID: <20120808090749.GA27602@thetys-retz.net>
+
+Yo, pour ceux qui ont envie de tester, je sais que ce n'est pas lié
+directement à Vim (longue vie à son auteur)
+
+Un trio à investiguer :
+offlineimap + notmuch + alot
+
+Le premier récupère vos mails (éventuellement en continu lorsque vous
+êtes connecté), le second leur affecte des tags (mais stockés dans une
+base de donnée) et le troisième vous permet de lire les courriels, d'y
+répondre, d'y réaffecter des tags, etc ?
+
+Je ne sais pas encore si notmuch peux affecter des tags « intelligent »
+de façon automatique.
+
+Sinon, y'a mutt-kz que je n'ai toujours pas pris le temps d'utiliser.
+
+Références :
+https://github.com/pazz/alot
+http://offlineimap.org/
+http://notmuchmail.org/
+-- 
+Vincent-Xavier JUMEL GPG Id: 0x2E14CE70 http://thetys-retz.net
+
+Rejoignez les 4938 adhérents de l'April http://www.april.org/adherer
+Parinux, logiciel libre à Paris : http://www.parinux.org
+
+
+From kaze at mozilla.com  Tue Aug 21 15:32:56 2012
+From: kaze at mozilla.com (Fabien Cazenave)
+Date: Tue, 21 Aug 2012 15:32:56 +0200
+Subject: [tupperVim] Session de Septembre 2012
+Message-ID: <50338E08.8000304@mozilla.com>
+
+Très chers nerds,
+
+les prochaines agapes tupperVim auront lieu jeudi 6 septembre à 20h, 
+dans les locaux Mozilla d?Aboukir :
+
+     43 rue d?Aboukir, Paris 2ème (métro : Sentier)
+
+Le concept reste le même :
+
+  ? règles du jeu : http://wiki.mozfr.org/TupperVim
+  ? inscriptions  : http://framadate.org/rqrzswb73b2e42yb
+  ? organisation  : https://etherpad.mozilla.org/TupperVim-1208
+
+Pour cette session je vous propose deux possibilités :
+
+  ? on fait comme d?hab (méthode de La Rache?) : chacun arrive avec un 
+sujet, auquel cas je relance l?idée d?une présentation de fugitive.vim 
+et/ou d?un mécréant et/ou de tout autre sujet de votre choix ;
+
+  ? on se dit que c?est la rentrée, qu?on part tous sur de super bonnes 
+résolutions, qu?on va devenir über-productifs en l?espace de deux heures 
+: auquel cas, on pourrait orienter la soirée sur Org-mode (version 
+Emacs, vim-orgmode et vimOrganizer) et les outils similaires (e.g. 
+TaskWarrior, vimWiki?).
+
+Kinou, Alex, vous seriez dispo pour présenter Org-mode et VimOrganizer ?
+Les autres, donnez votre avis par mail ou sur #tupperVim, et on fera le 
+contraire lors de la soirée du 6 septembre.
+
+À bientôt !
+-- 
+:wq
+
+
+From kinou at kinouchou.org  Tue Aug 21 18:42:30 2012
+From: kinou at kinouchou.org (kinou)
+Date: Tue, 21 Aug 2012 18:42:30 +0200
+Subject: [tupperVim] Session de Septembre 2012
+In-Reply-To: <50338E08.8000304@mozilla.com>
+References: <50338E08.8000304@mozilla.com>
+Message-ID: <5033BA76.8050006@kinouchou.org>
+
+Salut,
+présente le 6 et ok pour une présentation org-mode pour emacs
+
+kinou
+
+Le 21/08/2012 15:32, Fabien Cazenave a écrit :
+> Très chers nerds,
+>
+> les prochaines agapes tupperVim auront lieu jeudi 6 septembre à 20h,
+> dans les locaux Mozilla d?Aboukir :
+>
+>      43 rue d?Aboukir, Paris 2ème (métro : Sentier)
+>
+> Le concept reste le même :
+>
+>   ? règles du jeu : http://wiki.mozfr.org/TupperVim
+>   ? inscriptions  : http://framadate.org/rqrzswb73b2e42yb
+>   ? organisation  : https://etherpad.mozilla.org/TupperVim-1208
+>
+> Pour cette session je vous propose deux possibilités :
+>
+>   ? on fait comme d?hab (méthode de La Rache?) : chacun arrive avec un
+> sujet, auquel cas je relance l?idée d?une présentation de fugitive.vim
+> et/ou d?un mécréant et/ou de tout autre sujet de votre choix ;
+>
+>   ? on se dit que c?est la rentrée, qu?on part tous sur de super bonnes
+> résolutions, qu?on va devenir über-productifs en l?espace de deux heures
+> : auquel cas, on pourrait orienter la soirée sur Org-mode (version
+> Emacs, vim-orgmode et vimOrganizer) et les outils similaires (e.g.
+> TaskWarrior, vimWiki?).
+>
+> Kinou, Alex, vous seriez dispo pour présenter Org-mode et VimOrganizer ?
+> Les autres, donnez votre avis par mail ou sur #tupperVim, et on fera le
+> contraire lors de la soirée du 6 septembre.
+>
+> À bientôt !
+
+
+

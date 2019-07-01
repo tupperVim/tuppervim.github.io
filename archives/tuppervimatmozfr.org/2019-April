@@ -1,0 +1,108 @@
+From keller.mdpa at gmail.com  Thu Apr 25 11:20:49 2019
+From: keller.mdpa at gmail.com (Matthieu Keller)
+Date: Thu, 25 Apr 2019 11:20:49 +0200
+Subject: [tupperVim] Paris, agapes de mai
+Message-ID: <CAM+ya-DiWkEkrsQFtREhUARXKfM0tkmHgUn8xf7uZD01yxmnmg@mail.gmail.com>
+
+Camarades vimistes,
+
+Le tuppervim de mai aura lieu mardi 14 mai dans les locaux
+de Inno³ 137 Bd de Magenta 75010 Paris.
+
+Merci de vous annoncer sur le pad comme il se doit :
+
+https://mensuel.framapad.org/p/tuppervim-paris-1905
+
+Un email de rappel sera probablement envoyé quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l’évènement
+dans votre agenda.
+
+D’ici là, soyez de bons citoyens et donnez de l’amour aux canards.
+
+--
+maggick | \_o<
+http://tuppervim.org
+-------------- section suivante --------------
+Une pièce jointe HTML a été nettoyée...
+URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20190425/7306b6c9/attachment.html>
+
+From fabien at cazenave.cc  Sat Apr 27 00:21:16 2019
+From: fabien at cazenave.cc (Fabien Cazenave)
+Date: Sat, 27 Apr 2019 00:21:16 +0200
+Subject: [tupperVim] =?utf-8?q?D=C3=A9mozillification?=
+Message-ID: <e5eed85d-0dc2-27da-331c-cd0f2d7ee17c@cazenave.cc>
+
+Canettes, canetons,
+
+c’est désormais officiel, Mozilla a annoncé qu’ils abandonnent IRC pour 
+leurs besoins internes et que les serveurs IRC seront bientôt fermés :
+
+> In the next small number of months, Mozilla intends to deprecate IRC as our primary synchronous-text communications platform, stand up a replacement and decommission irc.mozilla.org soon afterwards.
+
+http://exple.tive.org/blarg/2019/04/26/synchronous-text/
+
+On va donc migrer prochainement à Freenode pour l’IRC. Deux solutions 
+sont envisagées :
+
+  • on crée notre propre canal #tupperVim sur Freenode ;
+  • on rejoint le canal #vim-fr.
+
+Les gens de #vim-fr (une vingtaine de participants) sont chauds pour 
+qu’on fusionne nos deux canaux. L’activité de ce canal est assez faible, 
+et les gens de #vim-fr sont conscients du fait qu’ils vont probablement 
+être submergés par nous (et les HS dont nous sommes coutumiers ^_^) si 
+on les rejoint. Et ça leur va bien.
+
+Alkino a proposé un sondage pour qu’on puisse en décider ensemble :
+
+https://framadate.org/UKOS5xqcMLTXivoK
+
+Dans la foulée, je propose qu’on quitte aussi mozfr.org pour 
+l’hébergement de cette liste de diffusion et qu’on crée une framaliste. 
+Ça fait quelque temps que les soucis techniques de mozfr nous cassent 
+les noix, et ce qu’il reste de la communauté Mozilla francophone a 
+probablement autre chose à faire que de s’occuper de notre ML.
+
+Bien évidemment, si quelqu’un a une meilleure idée pour IRC ou la ML, on 
+est preneurs !
+
+C’est un peu un déchirement pour moi qui ai initié ce projet tupperVim 
+alors que j’étais employé Mozilla, et qui ai gardé un lien affectif très 
+fort avec cette communauté ; mais objectivement, ça fait déjà un moment 
+qu’on constate que nos ateliers Vim n’ont plus aucun lien avec Mozilla, 
+et il est plus que temps de se tourner vers d’autres solutions pour nos 
+outils.
+
+Puisse le Grand Palmipède nous guider dans cette transition.
+\_o<
+
+:kazé
+
+
+From hobbestigrou at erakis.eu  Mon Apr 29 14:23:29 2019
+From: hobbestigrou at erakis.eu (Natal =?iso-8859-1?Q?Ng=E9tal?=)
+Date: Mon, 29 Apr 2019 14:23:29 +0200
+Subject: [tupperVim] =?iso-8859-1?q?D=E9mozillification?=
+In-Reply-To: <e5eed85d-0dc2-27da-331c-cd0f2d7ee17c@cazenave.cc>
+References: <e5eed85d-0dc2-27da-331c-cd0f2d7ee17c@cazenave.cc>
+Message-ID: <20190429122329.GA3197@dhcp-208-106.arn.redhat.com>
+
+On 04/27/19 00:21, Fabien Cazenave wrote:
+> Les gens de #vim-fr (une vingtaine de participants) sont chauds pour qu’on
+> fusionne nos deux canaux. L’activité de ce canal est assez faible, et les
+> gens de #vim-fr sont conscients du fait qu’ils vont probablement être
+> submergés par nous (et les HS dont nous sommes coutumiers ^_^) si on les
+> rejoint. Et ça leur va bien.
+Oui très partant et conscient de l'activité qui va être plus grande. Je
+pense que c'est une très bonne chose, donc je suis totalement pour la
+fusion.
+
+> C’est un peu un déchirement pour moi qui ai initié ce projet tupperVim alors
+> que j’étais employé Mozilla, et qui ai gardé un lien affectif très fort avec
+> cette communauté ; mais objectivement, ça fait déjà un moment qu’on constate
+> que nos ateliers Vim n’ont plus aucun lien avec Mozilla, et il est plus que
+> temps de se tourner vers d’autres solutions pour nos outils.
+> https://listes.mozfr.org/mailman/listinfo/tuppervim
+Je suis comprends que pour toi ça ne soit pas facile.
+
+
