@@ -6,31 +6,31 @@ Message-ID: <515B393E.3080103@cazenave.cc>
 
 Bonsoir,
 
-la session d?avril se tiendra le jeudi 11 mars à 20h dans les nouveaux 
+la session d?avril se tiendra le jeudi 11 mars Ã  20h dans les nouveaux 
 locaux Mozilla [1]. Non seulement ils sont magnifiques, mais on va enfin 
-avoir *plein* de place, ! C?est entre le Hard Rock Café et l?Indiana, 
+avoir *plein* de place, ! C?est entre le Hard Rock CafÃ© et l?Indiana, 
 logiquement c?est pas ratable. Contactez-moi en /query sur le canal IRC 
-pour que je vous donne les codes d?accès.
+pour que je vous donne les codes d?accÃ¨s.
 
 Merci de vous inscrire sur le framadate, le 10/04 au plus tard :
    http://framadate.org/xko74vsu5x6ocryi
 
-? et d?annoncer les sujets que vous allez présenter sur l?etherpad :
+? et d?annoncer les sujets que vous allez prÃ©senter sur l?etherpad :
    https://etherpad.mozilla.org/TupperVim-1304
 
 Comme le mois dernier, l?irremplacable Marmoute propose un atelier de 2h 
 pour coder autour de Vim avant nos traditionnelles agapes. Les plus 
-motivés d?entre vous sont donc attendus dès 18h à Mozilla.
+motivÃ©s d?entre vous sont donc attendus dÃ¨s 18h Ã  Mozilla.
 
-(perso, j?aimerais bien une séance de rattrapage mutt pour cet atelier? 
-Hugo, ça serait possible ?)
+(perso, j?aimerais bien une sÃ©ance de rattrapage mutt pour cet atelier? 
+Hugo, Ã§a serait possible ?)
 
-hjkl à tous <3
-:kazé
+hjkl Ã  tous <3
+:kazÃ©
 
 --
-[1] 16 bis boulevard Montmartre, Paris ? métro : Richelieu-Drouot
-Demander les codes d?accès sur : irc://irc.mozilla.org/tupperVim
+[1] 16 bis boulevard Montmartre, Paris ? mÃ©tro : Richelieu-Drouot
+Demander les codes d?accÃ¨s sur : irc://irc.mozilla.org/tupperVim
 Plus d?infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
 
 
@@ -43,14 +43,14 @@ References: <515B393E.3080103@cazenave.cc>
 Message-ID: <515B3D85.1040607@cazenave.cc>
 
 On 02/04/13 22:02, Fabien Cazenave wrote:
-> la session d?avril se tiendra le jeudi 11 mars à 20h
+> la session d?avril se tiendra le jeudi 11 mars Ã  20h
 
-Rhaaa, c?est le 11 *avril* bordayle, pas mars ! Vu que précisément, 
-c?est la session d?*avril*. Dingue, ça.
+Rhaaa, c?est le 11 *avril* bordayle, pas mars ! Vu que prÃ©cisÃ©ment, 
+c?est la session d?*avril*. Dingue, Ã§a.
 
 Je vais prendre mes gouttes et je reviens?
 -- 
-:kazé
+:kazÃ©
 
 
 From fabien at cazenave.cc  Tue Apr  2 22:29:40 2013
@@ -61,37 +61,37 @@ In-Reply-To: <515B393E.3080103@cazenave.cc>
 References: <515B393E.3080103@cazenave.cc>
 Message-ID: <515B3FB4.50902@cazenave.cc>
 
-(3è essai, en espérant que j?arrête de me planter dans les dates?)
+(3Ã¨ essai, en espÃ©rant que j?arrÃªte de me planter dans les dates?)
 
 Amis vimistes, camarades nerds,
 
-la session d?avril de tupperVim se tiendra le jeudi 11 *avril* à 20h, 
+la session d?avril de tupperVim se tiendra le jeudi 11 *avril* Ã  20h, 
 dans les nouveaux locaux Mozilla [1].
 
 Non seulement ces locaux sont magnifiques, mais on va enfin avoir 
-*plein* de place ! C?est entre le Hard Rock Café et l?Indiana, 
+*plein* de place ! C?est entre le Hard Rock CafÃ© et l?Indiana, 
 logiquement c?est pas ratable. Contactez-moi en /query sur le canal IRC 
-pour que je vous donne les codes d?accès.
+pour que je vous donne les codes d?accÃ¨s.
 
 Merci de vous inscrire sur le framadate, le 10/04 au plus tard :
    http://framadate.org/xko74vsu5x6ocryi
 
-? et d?annoncer les sujets que vous allez présenter sur l?etherpad :
+? et d?annoncer les sujets que vous allez prÃ©senter sur l?etherpad :
    https://etherpad.mozilla.org/TupperVim-1304
 
 Comme le mois dernier, l?irremplacable Marmoute propose un atelier de 2h 
 pour coder autour de Vim avant nos traditionnelles agapes. Les plus 
-motivés d?entre vous sont donc attendus dès 18h à Mozilla.
+motivÃ©s d?entre vous sont donc attendus dÃ¨s 18h Ã  Mozilla.
 
-(perso, j?aimerais bien une séance de rattrapage mutt pour cet atelier? 
-Hugo, ça serait possible ?)
+(perso, j?aimerais bien une sÃ©ance de rattrapage mutt pour cet atelier? 
+Hugo, Ã§a serait possible ?)
 
-hjkl à tous <3
-:kazé
+hjkl Ã  tous <3
+:kazÃ©
 
 -- 
-[1] 16 bis boulevard Montmartre, Paris ? métro : Richelieu-Drouot
-Demander les codes d?accès sur : irc://irc.mozilla.org/tupperVim
+[1] 16 bis boulevard Montmartre, Paris ? mÃ©tro : Richelieu-Drouot
+Demander les codes d?accÃ¨s sur : irc://irc.mozilla.org/tupperVim
 Plus d?infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
 
 
@@ -103,13 +103,13 @@ In-Reply-To: <515B3FB4.50902@cazenave.cc>
 References: <515B393E.3080103@cazenave.cc> <515B3FB4.50902@cazenave.cc>
 Message-ID: <CANfeGstqS+3TmKeJ8wVoUMb0UCy0kn7_Xedyi9yogwJMPChcbQ@mail.gmail.com>
 
-Le 2 avril 2013 22:29, Fabien Cazenave <fabien at cazenave.cc> a écrit :
+Le 2 avril 2013 22:29, Fabien Cazenave <fabien at cazenave.cc> a Ã©crit :
 > Non seulement ces locaux sont magnifiques, mais on va enfin avoir *plein* de
-> place ! C?est entre le Hard Rock Café et l?Indiana, logiquement c?est pas
+> place ! C?est entre le Hard Rock CafÃ© et l?Indiana, logiquement c?est pas
 > ratable. Contactez-moi en /query sur le canal IRC pour que je vous donne les
-> codes d?accès.
-Tant-donné que c'est des nouveaux bureaux et qu'il y a plus de places,
-ça peut-être l?occasion de faire une annonce peut-être sur trollfr par
+> codes d?accÃ¨s.
+Tant-donnÃ© que c'est des nouveaux bureaux et qu'il y a plus de places,
+Ã§a peut-Ãªtre l?occasion de faire une annonce peut-Ãªtre sur trollfr par
 exemple, pour avoir un peu plus de participants.
 
 
@@ -127,26 +127,26 @@ References: <515B393E.3080103@cazenave.cc> <515B3FB4.50902@cazenave.cc>
 	<CANfeGstqS+3TmKeJ8wVoUMb0UCy0kn7_Xedyi9yogwJMPChcbQ@mail.gmail.com>
 Message-ID: <515C1921.6090608@cazenave.cc>
 
-On 03/04/13 12:41, Natal Ngétal wrote:
-> Tant-donné que c'est des nouveaux bureaux et qu'il y a plus de places,
-> ça peut-être l?occasion de faire une annonce peut-être sur trollfr par
+On 03/04/13 12:41, Natal NgÃ©tal wrote:
+> Tant-donnÃ© que c'est des nouveaux bureaux et qu'il y a plus de places,
+> Ã§a peut-Ãªtre l?occasion de faire une annonce peut-Ãªtre sur trollfr par
 > exemple, pour avoir un peu plus de participants.
 >
 
-Étant donné que ça sera le tout premier événement communautaire dans ces 
-nouveaux locaux, que la salle n?est pas encore complètement prête et que 
-l?inauguration officielle n?aura lieu que début juin, je préfère qu?on 
-se donne un coup d?essai pour vérifier que tout fonctionne bien. :-)
+Ã‰tant donnÃ© que Ã§a sera le tout premier Ã©vÃ©nement communautaire dans ces 
+nouveaux locaux, que la salle n?est pas encore complÃ¨tement prÃªte et que 
+l?inauguration officielle n?aura lieu que dÃ©but juin, je prÃ©fÃ¨re qu?on 
+se donne un coup d?essai pour vÃ©rifier que tout fonctionne bien. :-)
 
-On me dit dans l?oreillette que vu l?état de la salle communautaire, ?30 
-vimistes ça va, c?est s?il y en a plus que ça fait des problèmes?. Ces 
-temps-ci on était une vingtaine par soirée, donc tout devrait aller pour 
+On me dit dans l?oreillette que vu l?Ã©tat de la salle communautaire, ?30 
+vimistes Ã§a va, c?est s?il y en a plus que Ã§a fait des problÃ¨mes?. Ces 
+temps-ci on Ã©tait une vingtaine par soirÃ©e, donc tout devrait aller pour 
 le mieux.
 
 Si tout se passe bien jeudi prochain, on fera du bruit pour la session 
 de Mai : billet sur trollfr et mozfr, retweet des stars Mozilla, etc.
 -- 
-:kazé
+:kazÃ©
 
 
 From hugo at fsfe.org  Wed Apr  3 19:31:15 2013
@@ -158,17 +158,17 @@ References: <515B393E.3080103@cazenave.cc>
 Message-ID: <20130403173115.GB4251@synclavier.ampoliros.net>
 
 Le mar. 02/04/13, 22:02, Fabien Cazenave <fabien at cazenave.cc>:
-> (perso, j?aimerais bien une séance de rattrapage mutt pour cet
-> atelier? Hugo, ça serait possible ?)
+> (perso, j?aimerais bien une sÃ©ance de rattrapage mutt pour cet
+> atelier? Hugo, Ã§a serait possible ?)
 
-Salut kazé,
+Salut kazÃ©,
 
-Le Mutt était sympa :) il y avait RFS et taziden qui nous ont fait
-une petite démonstration de leur usage personnel et qui ont
-échangé quelques astuces sympa. Kinou et moi on était plutôt les
-noobz mais je pense qu'on s'en est sorti ! 
+Le Mutt Ã©tait sympa :) il y avait RFS et taziden qui nous ont fait
+une petite dÃ©monstration de leur usage personnel et qui ont
+Ã©changÃ© quelques astuces sympa. Kinou et moi on Ã©tait plutÃ´t les
+noobz mais je pense qu'on s'en est sortiÂ ! 
 
-À refaire, je tiendrai la liste au courant pour un mutterware #2
+Ã€ refaire, je tiendrai la liste au courant pour un mutterware #2
 
 Hugo
 >
@@ -188,22 +188,22 @@ Message-ID: <51658437.3090905@cazenave.cc>
 
 Bonsoir,
 
-je vous rappelle que désormais, les soirées Vim ne se déroulent plus rue 
+je vous rappelle que dÃ©sormais, les soirÃ©es Vim ne se dÃ©roulent plus rue 
 d?Aboukir mais dans les nouveaux locaux Mozilla :
 
    16 bis boulevard Montmartre
    75009 Paris
 
-   métro : Grands Boulevards
+   mÃ©tro : Grands Boulevards
 
-L?immeuble est facile à trouver, juste entre le Hard Rock Café et 
-l?Indiana. Appeler « Mozilla » à l?interphone pour qu?on vous ouvre la 
-(lourde) porte? ou mieux : demander les codes d?entrée sur le canal 
+L?immeuble est facile Ã  trouver, juste entre le Hard Rock CafÃ© et 
+l?Indiana. Appeler Â« Mozilla Â» Ã  l?interphone pour qu?on vous ouvre la 
+(lourde) porte? ou mieux : demander les codes d?entrÃ©e sur le canal 
 #tupperVim.
 
-Les bureaux sont derrière la deuxième porte à droite. Inratable.
+Les bureaux sont derriÃ¨re la deuxiÃ¨me porte Ã  droite. Inratable.
 -- 
-:kazé
+:kazÃ©
 
 
 From kinou at kinouchou.org  Thu Apr 25 19:47:03 2013
@@ -213,19 +213,19 @@ Subject: [tupperVim] TupperVim session de mai 2013
 Message-ID: <51796C17.5020703@kinouchou.org>
 
 Salut,
-une certaine feignasse étant en vacances je le remplace pour annoncer le 
+une certaine feignasse Ã©tant en vacances je le remplace pour annoncer le 
 prochain tupperVim parisien.
 
 * La date sera le 16 mai 2013
 * le pad : https://etherpad.mozilla.org/TupperVim-1305
 * les inscriptions : http://framadate.org/4vue278w72fs2n12
-* le lieu : 16 bis boulevard Montmartre, Paris ? métro : Richelieu-Drouot
-Demander les codes d?accès sur : irc://irc.mozilla.org/tupperVim
+* le lieu : 16 bis boulevard Montmartre, Paris ? mÃ©tro : Richelieu-Drouot
+Demander les codes d?accÃ¨s sur : irc://irc.mozilla.org/tupperVim
 Plus d?infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
 
 
-Mozilla s'occupe des repas mais pas des boissons donc n'hésitez pas à 
-amener un petit truc à boire.
+Mozilla s'occupe des repas mais pas des boissons donc n'hÃ©sitez pas Ã  
+amener un petit truc Ã  boire.
 
 bisous les loulous
 kinou
@@ -241,12 +241,12 @@ Message-ID: <51799EDC.2040001@cazenave.cc>
 
 Merci Kinou :-*
 
-Je tâcherai de mieux préparer la salle que lors des agapes d?avril. Je 
-ne sais pas si on pourra faire des miracles coté acoustique, mais on 
+Je tÃ¢cherai de mieux prÃ©parer la salle que lors des agapes d?avril. Je 
+ne sais pas si on pourra faire des miracles cotÃ© acoustique, mais on 
 essaiera au moins d?avoir une disposition plus conviviale.
 
 Viendez nombreux !
 -- 
-:kazé
+:kazÃ©
 
 

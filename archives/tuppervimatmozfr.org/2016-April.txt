@@ -8,14 +8,14 @@ Message-ID: <CAHTo4Cn_mZsd3SRv74VUmZTJRV=PqAPaLF_UvuZPq_yWMou3ag@mail.gmail.com>
 Bonjour,
 
 Le pad https://public.etherpad-mozilla.org/p/TupperVim-Lille-1602 renvoi
-sur un ancien événement sur Paris, comment s'inscrit-on pour l'événement
+sur un ancien Ã©vÃ©nement sur Paris, comment s'inscrit-on pour l'Ã©vÃ©nement
 sur Lille ?
 
 Cdt,
 
-Aurélien
+AurÃ©lien
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160405/ee3145aa/attachment.html>
 
 From keller.mdpa at gmail.com  Tue Apr  5 11:57:55 2016
@@ -28,9 +28,9 @@ In-Reply-To: <CAHTo4Cn_mZsd3SRv74VUmZTJRV=PqAPaLF_UvuZPq_yWMou3ag@mail.gmail.com
 References: <CAHTo4Cn_mZsd3SRv74VUmZTJRV=PqAPaLF_UvuZPq_yWMou3ag@mail.gmail.com>
 Message-ID: <CAM+ya-Ce0G4XfvbfTm1_mK5jhvfK3xKJ_p7PX9RLKPcY=B6gjQ@mail.gmail.com>
 
-Hello Aurélien/Vince,
+Hello AurÃ©lien/Vince,
 
-le lien correct semble être :
+le lien correct semble Ãªtre :
 https://public.etherpad-mozilla.org/p/TupperVim-Lille-1604
 (puisque l'on est en avril)
 
@@ -46,25 +46,25 @@ Date: Wed, 06 Apr 2016 15:05:49 +0000
 Subject: [tupperVim] Stickers Lafayette
 Message-ID: <CAHZbcQMePcnZR041R72WPvZCMi6LdwCeH=XhOVerNRT6g=u_xw@mail.gmail.com>
 
-Bonjour à tous,
+Bonjour Ã  tous,
 
-Hier lors du tuppervim, j'ai parlé des stikers concernant le clavier
+Hier lors du tuppervim, j'ai parlÃ© des stikers concernant le clavier
 Lafayette. J'ai eu un retour de l'imprimeur. Pour avoir un prix, Il faut
 donner le nombre de stickers que l'on voudrait commander.
 
-Je vous propose de repondre à ce mail en donnant le nombre de stickers que
+Je vous propose de repondre Ã  ce mail en donnant le nombre de stickers que
 vous voulez.
 
-Vous pouvez voir les layouts light & dark en pièce jointe.
+Vous pouvez voir les layouts light & dark en piÃ¨ce jointe.
 
 Je commence,
 
 Thomas Pabst: dark 10, light 2
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160406/39df9108/attachment-0001.html>
 -------------- section suivante --------------
-Une pièce jointe autre que texte a été nettoyée...
+Une piÃ¨ce jointe autre que texte a Ã©tÃ© nettoyÃ©e...
 Nom: FRENCH QWERTY lafayette.pdf
 Type: application/pdf
 Taille: 251975 octets
@@ -79,23 +79,23 @@ Message-ID: <57060024.4090801@opensource-expert.com>
 
 Salut,
 
-On me demande de faire une présentation Vim pour un LUG (Linux User
-Group) sur Genève.
+On me demande de faire une prÃ©sentation Vim pour un LUG (Linux User
+Group) sur GenÃ¨ve.
 
-Avez vous du matériel, d'une présentation déjà faite, et open-source ?
+Avez vous du matÃ©riel, d'une prÃ©sentation dÃ©jÃ  faite, et open-source ?
 
-Je suis très chargé, et je ne vois pas quand je pourrais fabriquer ça,
-dans un délai raisonnable.
+Je suis trÃ¨s chargÃ©, et je ne vois pas quand je pourrais fabriquer Ã§a,
+dans un dÃ©lai raisonnable.
 
-À suivre,
+Ã€ suivre,
 Sylvain.
 
 -- 
-Sylvain Viart - Consultant informatique système linux	
+Sylvain Viart - Consultant informatique systÃ¨me linux	
 
 
 -------------- section suivante --------------
-Une pièce jointe autre que texte a été nettoyée...
+Une piÃ¨ce jointe autre que texte a Ã©tÃ© nettoyÃ©e...
 Nom: signature.asc
 Type: application/pgp-signature
 Taille: 836 octets
@@ -115,27 +115,27 @@ Merci Matthieu, j'irai faire un tour, sur IRC: Canal IRC : #tupperVim
 <irc://irc.mozilla.org/tupperVim> sur irc.mozilla.org?
 
 Si vous voyez des trucs qui peuvent me servir, postez ici. Je prendrai,
-et je donnerai aussi, évidemment. ;-)
-Anglais ou Français, aucune différence, je traduirai.
+et je donnerai aussi, Ã©videmment. ;-)
+Anglais ou FranÃ§ais, aucune diffÃ©rence, je traduirai.
 
 Sylvain.
 
-Le 07/04/2016 09:51, Matthieu Keller a écrit :
+Le 07/04/2016 09:51, Matthieu Keller a Ã©crit :
 > Hello,
 >
-> je n'ai pas connaissance d'une telle présentation
-> mais, je t'invite à nous rejoindre sur le canal IRC
-> plus approprié pour les discussion.
+> je n'ai pas connaissance d'une telle prÃ©sentation
+> mais, je t'invite Ã  nous rejoindre sur le canal IRC
+> plus appropriÃ© pour les discussion.
 >
 >
 > --
 > maggick
 
 -- 
-Sylvain Viart - Consultant informatique système linux
+Sylvain Viart - Consultant informatique systÃ¨me linux
 
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160407/699f8b0f/attachment.html>
 
 From guillaumeseren at gmail.com  Thu Apr  7 11:05:22 2016
@@ -150,18 +150,18 @@ Message-ID: <20160407090522.23065.38638@josekit>
 
 Bonjour Sylvain,
 Quoting Sylvain Viart (2016-04-07 10:37:44)
-> Merci Matthieu, j'irai faire un tour, sur IRC: Canal IRC : #tupperVim sur
+> Merci Matthieu, j'irai faire un tour, sur IRC: Canal IRCÂ : #tupperVim sur
 > irc.mozilla.org?
 N'oublie pas de te signaler ou de pingger Mathieu (maggick) en arrivant :)
 
 > Si vous voyez des trucs qui peuvent me servir, postez ici. Je prendrai, et je
-> donnerai aussi, évidemment. ;-)
+> donnerai aussi, Ã©videmment. ;-)
 Tu as les archives des tuppervim ou je pense qu'il y a de quoi faire,
-mais je ne pense pas quoi qu'il y ai une prèsentation *toute prete*.
+mais je ne pense pas quoi qu'il y ai une prÃ¨sentation *toute prete*.
 Voila les liens archives sont en bas de pages http://tuppervim.org/
 
-> Anglais ou Français, aucune différence, je traduirai.
-Après si tu cherche des ressources sur un sujet plus précis de vim on doit
+> Anglais ou FranÃ§ais, aucune diffÃ©rence, je traduirai.
+AprÃ¨s si tu cherche des ressources sur un sujet plus prÃ©cis de vim on doit
 pouvoir t'aiguiller, donne plus d'infos.
 
 
@@ -186,24 +186,24 @@ Message-ID: <57063960.4030004@opensource-expert.com>
 
 Merci Guillaume,
 
->> Anglais ou Français, aucune différence, je traduirai.
-> Après si tu cherche des ressources sur un sujet plus précis de vim on doit
+>> Anglais ou FranÃ§ais, aucune diffÃ©rence, je traduirai.
+> AprÃ¨s si tu cherche des ressources sur un sujet plus prÃ©cis de vim on doit
 > pouvoir t'aiguiller, donne plus d'infos.
 
-Non, j'ai rien de précis, j'ai dis je fais du vim depuis 1995, et je kife !
+Non, j'ai rien de prÃ©cis, j'ai dis je fais du vim depuis 1995, et je kife !
 
-On m'a dit viens faire une présentation.
-Mais ça se prépare une présentation?
+On m'a dit viens faire une prÃ©sentation.
+Mais Ã§a se prÃ©pare une prÃ©sentation?
 
-Sans doute, présentation de l'éditeur modal.
+Sans doute, prÃ©sentation de l'Ã©diteur modal.
 Puis customisation pour avoir un IDE like pour les dev, ou teaser pour
 faire saliver, donner de l'envie d'aller suivre un cours d'aqua-ponney. :-P
 
-Voilà à suivre,
+VoilÃ  Ã  suivre,
 Sylvain.
 
 -- 
-Sylvain Viart - Consultant informatique système linux
+Sylvain Viart - Consultant informatique systÃ¨me linux
 
 
 
@@ -216,39 +216,39 @@ References: <57063960.4030004@opensource-expert.com>
 Message-ID: <1394157999.1424575.1460025958784.JavaMail.yahoo@mail.yahoo.com>
 
 Salut,
-J'ai déjà fait une présentation de vim de manière générale. Le but était de montrer que oui vim est utilisable et pas juste un less amélioré.
+J'ai dÃ©jÃ  fait une prÃ©sentation de vim de maniÃ¨re gÃ©nÃ©rale. Le but Ã©tait de montrer que oui vim est utilisable et pas juste un less amÃ©liorÃ©.
 
-J'ai fait que de la démo. J'avais des dossiers avec des fichiers pour présenter divers points. Expliquer les modes, :make, le spellcheck, les "cib" et consorts, etc.
-Et à la fin j'ai conseillé aux gens de faire le vimtutor. J'ai tenu 45 minutes comme ça. 
+J'ai fait que de la dÃ©mo. J'avais des dossiers avec des fichiers pour prÃ©senter divers points. Expliquer les modes, :make, le spellcheck, les "cib" et consorts, etc.
+Et Ã  la fin j'ai conseillÃ© aux gens de faire le vimtutor. J'ai tenu 45 minutes comme Ã§a. 
 
 Je sais pas si lire des slides sur des commandes vim soit vraiment excitant.
 Vimesquement votre,
 Nicolas.
  
 
-    Le Jeudi 7 avril 2016 12h41, Sylvain Viart <sylvain at opensource-expert.com> a écrit :
+    Le Jeudi 7 avril 2016 12h41, Sylvain Viart <sylvain at opensource-expert.com> a Ã©crit :
  
 
  Merci Guillaume,
 
->> Anglais ou Français, aucune différence, je traduirai.
-> Après si tu cherche des ressources sur un sujet plus précis de vim on doit
+>> Anglais ou FranÃ§ais, aucune diffÃ©rence, je traduirai.
+> AprÃ¨s si tu cherche des ressources sur un sujet plus prÃ©cis de vim on doit
 > pouvoir t'aiguiller, donne plus d'infos.
 
-Non, j'ai rien de précis, j'ai dis je fais du vim depuis 1995, et je kife !
+Non, j'ai rien de prÃ©cis, j'ai dis je fais du vim depuis 1995, et je kife !
 
-On m'a dit viens faire une présentation.
-Mais ça se prépare une présentation?
+On m'a dit viens faire une prÃ©sentation.
+Mais Ã§a se prÃ©pare une prÃ©sentation?
 
-Sans doute, présentation de l'éditeur modal.
+Sans doute, prÃ©sentation de l'Ã©diteur modal.
 Puis customisation pour avoir un IDE like pour les dev, ou teaser pour
 faire saliver, donner de l'envie d'aller suivre un cours d'aqua-ponney. :-P
 
-Voilà à suivre,
+VoilÃ  Ã  suivre,
 Sylvain.
 
 -- 
-Sylvain Viart - Consultant informatique système linux
+Sylvain Viart - Consultant informatique systÃ¨me linux
 
 
 _______________________________________________
@@ -259,7 +259,7 @@ http://mozfr.org/mailman/listinfo/tuppervim
 
   
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160407/8a310904/attachment.html>
 
 From sylvain at opensource-expert.com  Thu Apr  7 13:38:23 2016
@@ -273,49 +273,49 @@ Message-ID: <570646AF.7060703@opensource-expert.com>
 
 Merci Nicolas,
 
-Le 07/04/2016 12:45, nico cornu a écrit :
-> J'ai déjà fait une présentation de vim de manière générale. Le but
-> était de montrer que oui vim est utilisable et pas juste un less amélioré.
+Le 07/04/2016 12:45, nico cornu a Ã©crit :
+> J'ai dÃ©jÃ  fait une prÃ©sentation de vim de maniÃ¨re gÃ©nÃ©rale. Le but
+> Ã©tait de montrer que oui vim est utilisable et pas juste un less amÃ©liorÃ©.
 >
-> J'ai fait que de la démo. J'avais des dossiers avec des fichiers pour
-> présenter divers points. Expliquer les modes, :make, le spellcheck,
+> J'ai fait que de la dÃ©mo. J'avais des dossiers avec des fichiers pour
+> prÃ©senter divers points. Expliquer les modes, :make, le spellcheck,
 > les "cib" et consorts, etc.
 >
-> Et à la fin j'ai conseillé aux gens de faire le vimtutor. J'ai tenu 45
-> minutes comme ça.
+> Et Ã  la fin j'ai conseillÃ© aux gens de faire le vimtutor. J'ai tenu 45
+> minutes comme Ã§a.
 >
 > Je sais pas si lire des slides sur des commandes vim soit vraiment
 > excitant.
 
 
-Donc, c'est une démo sans "présentation". Tu as conservé les exercices
-et les étapes que tu proposais ?
-Peut être un pense bête du fil que tu voulais suivre ?
+Donc, c'est une dÃ©mo sans "prÃ©sentation". Tu as conservÃ© les exercices
+et les Ã©tapes que tu proposais ?
+Peut Ãªtre un pense bÃªte du fil que tu voulais suivre ?
 
-Faudrait peut être juste faire un pad  et augmenter chacun de nos idées?
+Faudrait peut Ãªtre juste faire un pad  et augmenter chacun de nos idÃ©es?
 
-Sans que ce soit de "lire des slides de commande" ça peut servir de base
-de présentation. Effectivement avec démonstration / ou vidéo screencast?
+Sans que ce soit de "lire des slides de commande" Ã§a peut servir de base
+de prÃ©sentation. Effectivement avec dÃ©monstration / ou vidÃ©o screencast?
 
 Qu'entends tu par cib ?
-Les éditions + motion sur des objets vim ?
+Les Ã©ditions + motion sur des objets vim ?
 
   * |cib/ciB|: Change the text inside the current set of parenthesis ()
     or braces {}, respectively.
 
-Mais plus à discuter sur IRC j'imagine.
+Mais plus Ã  discuter sur IRC j'imagine.
 
-S'il te reste du matériel pour la présentation, je suis preneur.
+S'il te reste du matÃ©riel pour la prÃ©sentation, je suis preneur.
 
 Merci.
 Sylvain.
 
 
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20160407/2107ba3d/attachment.html>
 -------------- section suivante --------------
-Une pièce jointe autre que texte a été nettoyée...
+Une piÃ¨ce jointe autre que texte a Ã©tÃ© nettoyÃ©e...
 Nom: signature.asc
 Type: application/pgp-signature
 Taille: 836 octets
@@ -330,27 +330,27 @@ Message-ID: <CAM+ya-D5GJO8CObiZXnXsAP7cw8oY7MrNkH2oCuMgjBd40c-nA@mail.gmail.com>
 
 Camarades vimistes,
 
-Le tuppervim de Mai est prêt :
+Le tuppervim de Mai est prÃªt :
 Il aura lieu le second mardi du mois, le 10 mai dans les locaux de Mozilla
-(Paris) de 20h à 22h.
-L'apéro aura lieu de 19h15 à 20h.
+(Paris) de 20h Ã  22h.
+L'apÃ©ro aura lieu de 19h15 Ã  20h.
 Merci de vous annoncer sur le pad comme il se doit :
 
 https://public.etherpad-mozilla.org/p/TupperVim-1605
 
-La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je ne
+La procÃ©dure pour se faire ouvrir la porte Ã©tant toujours aussi pÃ©nible, je ne
 saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer le(s)
-numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+numÃ©ro(s) prÃ©sent(s) sur la porte pour qu?on vienne vous ouvrir.
 
-Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
-espace est dédié à La question sur le pad).
+Concernant la nourriture comme toujours on ramÃ¨ne ce qu'on souhaite manger (un
+espace est dÃ©diÃ© Ã  La question sur le pad).
 
-Un email de rappel sera probablement envoyé quelques jours/heures avant les
-agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+Un email de rappel sera probablement envoyÃ© quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?Ã©vÃ¨nement
 dans votre agenda.
 
-D?ici là, soyez de bons citoyens et donnez de l?amour aux canards et profitez du
-soleil (ça va pas durer) !
+D?ici lÃ , soyez de bons citoyens et donnez de l?amour aux canards et profitez du
+soleil (Ã§a va pas durer) !
 
 --
 maggick | \_o<
@@ -366,14 +366,14 @@ Subject: [tupperVim] =?utf-8?q?Proposer_le_Lafayette_au_minist=C3=A8re_de_?=
 	=?utf-8?q?la_culture_pour_remplacer_l=27Azerty?=
 Message-ID: <CAPPX_AExeamncVLrwvknE7y7hq31JBkNL5F=sqB5CqKUEgVw5w@mail.gmail.com>
 
-Bonjour amis vimistes et lafayetiens !
+Bonjour amis vimistes et lafayetiensÂ !
 
-L'Afnor est en train de réfléchir à normaliser un clavier adapté à la
-langue française? Il faudrait le proposer le Lafayette !
+L'Afnor est en train de rÃ©flÃ©chir Ã  normaliser un clavier adaptÃ© Ã  la
+langue franÃ§aise? Il faudrait le proposerÂ le LafayetteÂ !
 
 http://www.culturecommunication.gouv.fr/Politiques-ministerielles/Langue-francaise-et-langues-de-France/Politiques-de-la-langue/Langues-et-numerique/Les-technologies-de-la-langue-et-la-normalisation/Vers-une-norme-francaise-pour-les-claviers-informatiques
 
-@ bientôt dans une TupperVim,
+@ bientÃ´t dans une TupperVim,
 
 Julio
 
@@ -387,20 +387,20 @@ Message-ID: <CAM+ya-CQkFbtzwU7q9w5exES5dEB1i45o9QrcD-AzLoKYbBBEg@mail.gmail.com>
 Camarades vimistes,
 
 Le tuppervim de d'avril de Grenoble est demain :
-Il aura lieu demain le 27 avril dans les locaux du Log de 20h à 22h.
-L'apéro aura lieu de 19h15 à 20h.
+Il aura lieu demain le 27 avril dans les locaux du Log de 20h Ã  22h.
+L'apÃ©ro aura lieu de 19h15 Ã  20h.
 Merci de vous annoncer sur le pad comme il se doit :
 
 https://public.etherpad-mozilla.org/p/TupperVim-Grenoble-1604
 
-Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
-espace est dédié à La question sur le pad).
+Concernant la nourriture comme toujours on ramÃ¨ne ce qu'on souhaite manger (un
+espace est dÃ©diÃ© Ã  La question sur le pad).
 
-Cet e-mail est l'e-mail de rappel et d'annonce à la fois, on s'organise
+Cet e-mail est l'e-mail de rappel et d'annonce Ã  la fois, on s'organise
 comme on peut hein ;)
 
-D?ici là, soyez de bons citoyens et donnez de l?amour aux canards et profitez du
-soleil (ça va pas durer) !
+D?ici lÃ , soyez de bons citoyens et donnez de l?amour aux canards et profitez du
+soleil (Ã§a va pas durer) !
 
 --
 maggick | \_o<
@@ -421,12 +421,12 @@ Message-ID: <20160427084328.22277.53616@josekit>
 
 Hello Julio,
 Quoting Julio Prayer (2016-04-26 13:25:53)
-> L'Afnor est en train de réfléchir à normaliser un clavier adapté à la
-> langue française? Il faudrait le proposer le Lafayette !
-Je pense que c'est une bonne idée, mais que l'on devrais avoir l'avis de Kaze
+> L'Afnor est en train de rÃ©flÃ©chir Ã  normaliser un clavier adaptÃ© Ã  la
+> langue franÃ§aise? Il faudrait le proposerÂ le LafayetteÂ !
+Je pense que c'est une bonne idÃ©e, mais que l'on devrais avoir l'avis de Kaze
 sur la question car il me semble qui souhaitait apporter des modifications.
 
-En tout les cas, cela donne de la visibilité au projet ce qui est bien.
+En tout les cas, cela donne de la visibilitÃ© au projet ce qui est bien.
 
 
 A+
@@ -456,28 +456,28 @@ Salut,
 On 27/04/2016 10:43, Mr Guillaume Seren wrote:
 > Hello Julio,
 > Quoting Julio Prayer (2016-04-26 13:25:53)
->> L'Afnor est en train de réfléchir à normaliser un clavier adapté à la
->> langue française? Il faudrait le proposer le Lafayette !
-> Je pense que c'est une bonne idée, mais que l'on devrais avoir l'avis de Kaze
+>> L'Afnor est en train de rÃ©flÃ©chir Ã  normaliser un clavier adaptÃ© Ã  la
+>> langue franÃ§aise? Il faudrait le proposer le Lafayette !
+> Je pense que c'est une bonne idÃ©e, mais que l'on devrais avoir l'avis de Kaze
 > sur la question car il me semble qui souhaitait apporter des modifications.
 >
-> En tout les cas, cela donne de la visibilité au projet ce qui est bien.
+> En tout les cas, cela donne de la visibilitÃ© au projet ce qui est bien.
 
-Voyez aussi avec les gens de bépo.fr.
-pas le même clavier mais à voir ce qu'ils savent.
+Voyez aussi avec les gens de bÃ©po.fr.
+pas le mÃªme clavier mais Ã  voir ce qu'ils savent.
 
-bépo n'est pas vim friendly?
+bÃ©po n'est pas vim friendly?
 
-Voilà je passe l'info c'est tout.
+VoilÃ  je passe l'info c'est tout.
 Faudra que je teste ce qwerty Lafayette !
 
-azerty est réputé le pire layout jamais inventé? :-P
+azerty est rÃ©putÃ© le pire layout jamais inventÃ©? :-P
 
-À suivre,
+Ã€ suivre,
 Sylvain.
 
 -- 
-Sylvain Viart - Consultant informatique système linux
+Sylvain Viart - Consultant informatique systÃ¨me linux
 
 
 

@@ -6,25 +6,25 @@ Message-ID: <4F756FC3.1080609@mozilla.com>
 
 Bonjour les nerds !
 
-J?inaugure cette liste de diffusion (gracieusement hébergée par les 
-moules de mozfr) pour vous prévenir de la prochaine tenue tupperVim, le 
-3 Avril à 19h, dans les locaux Mozilla à Paris.
+J?inaugure cette liste de diffusion (gracieusement hÃ©bergÃ©e par les 
+moules de mozfr) pour vous prÃ©venir de la prochaine tenue tupperVim, le 
+3 Avril Ã  19h, dans les locaux Mozilla Ã  Paris.
 
 Oui, c?est mardi prochain, dans 4 jours. Il faut savoir que l?ensemble 
-du projet tupperVim est organisé sur la méthode de La Rache?, et qu?il 
-serait complètement fou d?y déroger, ne serait-ce qu?une fois.
+du projet tupperVim est organisÃ© sur la mÃ©thode de La Rache?, et qu?il 
+serait complÃ¨tement fou d?y dÃ©roger, ne serait-ce qu?une fois.
 
-Le principe du « viendez nombreux mais disez-le » s?applique toujours :
+Le principe du Â« viendez nombreux mais disez-le Â» s?applique toujours :
 http://www.doodle.com/xctip27qecqd3mhk
 
-Un pad pour annoncer (ou pas) ce que vous souhaitez présenter :
+Un pad pour annoncer (ou pas) ce que vous souhaitez prÃ©senter :
 https://etherpad.mozilla.org/TupperVim-1204
 
-Et pour ceux qui ne connaîtraient pas encore le concept, l?essentiel est 
-résumé sur ce pad :
+Et pour ceux qui ne connaÃ®traient pas encore le concept, l?essentiel est 
+rÃ©sumÃ© sur ce pad :
 https://etherpad.mozilla.org/TupperVim
 
-À mardi !
+Ã€ mardi !
 :wq
 
 

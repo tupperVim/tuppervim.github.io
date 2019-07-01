@@ -8,42 +8,42 @@ Message-ID: <CAM+ya-AdnmEH-7jG74YNU4L_zw7kyvZd1QHEm6unDeDg1rz0Pg@mail.gmail.com>
 Le BBQ c'est demain : inscrivez vous
 https://etherpad.mozilla.org/TupperVim-1507
 
-À demain
+Ã€ demain
 ------------------------------------------------------------
 
 Camarades vimistes,
 
-C'est l'été (vous aviez remarqué ?), c'est le bbq tuppervim !
+C'est l'Ã©tÃ© (vous aviez remarquÃ© ?), c'est le bbq tuppervim !
 
-Pour le troisième été consécutif, nous organisons dans les locaux du loop un
-barbecue pendant que d'autres sont en vacances à la plage (ou à la
+Pour le troisiÃ¨me Ã©tÃ© consÃ©cutif, nous organisons dans les locaux du loop un
+barbecue pendant que d'autres sont en vacances Ã  la plage (ou Ã  la
 montagne, on
 n'a rien contre).
 
-Nous pourront partager des brochettes, des saucisses, de la bière, du
+Nous pourront partager des brochettes, des saucisses, de la biÃ¨re, du
 fromage, du
-vin ou ce que vous voudrez (ou plutôt ce que vous ramènerez).
+vin ou ce que vous voudrez (ou plutÃ´t ce que vous ramÃ¨nerez).
 
-Les « agapes » auront lieu le samedi 18 juillet de 16h à 22h au Loop, en
-extérieur, au :
+Les Â« agapes Â» auront lieu le samedi 18 juillet de 16h Ã  22h au Loop, en
+extÃ©rieur, au :
   20 rue de Reuilly 75012 Paris
   http://leloop.org/where.html
 
-Vous pouvez en profiter pour venir accompagné d'utilisat[eurs|rices]
+Vous pouvez en profiter pour venir accompagnÃ© d'utilisat[eurs|rices]
 d'autres
-éditeurs de texte (ou ne sachant pas ce qu'est un éditeur de texte) afin que
+Ã©diteurs de texte (ou ne sachant pas ce qu'est un Ã©diteur de texte) afin que
 nous les mettions dans le droit chemin.
 
-Comme d'habitude, complétez le pad notamment pour des questions logistiques
+Comme d'habitude, complÃ©tez le pad notamment pour des questions logistiques
 :
 
   https://etherpad.mozilla.org/TupperVim-1507
 
-PS : il n'y aura pas de session en août et nous serons de retour début
+PS : il n'y aura pas de session en aoÃ»t et nous serons de retour dÃ©but
 septembre
 
 
-D?ici là, soyez de bons citoyens : Buvez et pensez à mémé !
+D?ici lÃ , soyez de bons citoyens : Buvez et pensez Ã  mÃ©mÃ© !
 
 --
 
@@ -52,7 +52,7 @@ maggick
 
 http://tuppervim.org
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150717/e3facffa/attachment.html>
 
 From raphael at fournier-sniehotta.fr  Wed Jul 22 15:11:38 2015
@@ -63,52 +63,52 @@ Message-ID: <20150722131138.GA29304@gotlib.cnam.fr>
 
 Camarades vimistes,
 
-Kakoune, présenté dans un tuppervim il y a quelques mois par son créateur mawww,
+Kakoune, prÃ©sentÃ© dans un tuppervim il y a quelques mois par son crÃ©ateur mawww,
 fait l'objet d'un article par Korben aujourd'hui :
 http://korben.info/kakoune-peut-etre-le-soft-qui-remplacera-vim.html
 
 Raph
 
-Le 17/07/15 17:12, Matthieu Keller a écrit:
+Le 17/07/15 17:12, Matthieu Keller a Ã©crit:
 > Le BBQ c'est demain : inscrivez vous
 > https://etherpad.mozilla.org/TupperVim-1507
 > 
-> À demain
+> Ã€ demain
 > ------------------------------------------------------------
 > 
 > Camarades vimistes,
 > 
-> C'est l'été (vous aviez remarqué ?), c'est le bbq tuppervim !
+> C'est l'Ã©tÃ© (vous aviez remarquÃ© ?), c'est le bbq tuppervim !
 > 
-> Pour le troisième été consécutif, nous organisons dans les locaux du loop un
-> barbecue pendant que d'autres sont en vacances à la plage (ou à la
+> Pour le troisiÃ¨me Ã©tÃ© consÃ©cutif, nous organisons dans les locaux du loop un
+> barbecue pendant que d'autres sont en vacances Ã  la plage (ou Ã  la
 > montagne, on
 > n'a rien contre).
 > 
-> Nous pourront partager des brochettes, des saucisses, de la bière, du
+> Nous pourront partager des brochettes, des saucisses, de la biÃ¨re, du
 > fromage, du
-> vin ou ce que vous voudrez (ou plutôt ce que vous ramènerez).
+> vin ou ce que vous voudrez (ou plutÃ´t ce que vous ramÃ¨nerez).
 > 
-> Les « agapes » auront lieu le samedi 18 juillet de 16h à 22h au Loop, en
-> extérieur, au :
+> Les Â« agapes Â» auront lieu le samedi 18 juillet de 16h Ã  22h au Loop, en
+> extÃ©rieur, au :
 >   20 rue de Reuilly 75012 Paris
 >   http://leloop.org/where.html
 > 
-> Vous pouvez en profiter pour venir accompagné d'utilisat[eurs|rices]
+> Vous pouvez en profiter pour venir accompagnÃ© d'utilisat[eurs|rices]
 > d'autres
-> éditeurs de texte (ou ne sachant pas ce qu'est un éditeur de texte) afin que
+> Ã©diteurs de texte (ou ne sachant pas ce qu'est un Ã©diteur de texte) afin que
 > nous les mettions dans le droit chemin.
 > 
-> Comme d'habitude, complétez le pad notamment pour des questions logistiques
+> Comme d'habitude, complÃ©tez le pad notamment pour des questions logistiques
 > :
 > 
 >   https://etherpad.mozilla.org/TupperVim-1507
 > 
-> PS : il n'y aura pas de session en août et nous serons de retour début
+> PS : il n'y aura pas de session en aoÃ»t et nous serons de retour dÃ©but
 > septembre
 > 
 > 
-> D?ici là, soyez de bons citoyens : Buvez et pensez à mémé !
+> D?ici lÃ , soyez de bons citoyens : Buvez et pensez Ã  mÃ©mÃ© !
 > 
 > --
 > 
@@ -124,8 +124,8 @@ Le 17/07/15 17:12, Matthieu Keller a écrit:
 
 
 -- 
-Raphaël Fournier-S'niehotta
-Maître de Conférences CNAM (Cédric/Vertigo)
+RaphaÃ«l Fournier-S'niehotta
+MaÃ®tre de ConfÃ©rences CNAM (CÃ©dric/Vertigo)
 +33 (0)1 58 80 86 35
 http://raphael.fournier-sniehotta.fr/apropos
 

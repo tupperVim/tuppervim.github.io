@@ -6,7 +6,7 @@ Message-ID: <20120907112622.GA6427@crater1.logilab.fr>
 
 Hello
 
-J'ai publié une version standalone de ma coloration pep8 présenté en
+J'ai publiÃ© une version standalone de ma coloration pep8 prÃ©sentÃ© en
 aout.
 
 https://bitbucket.org/marmoute/vim-pep8colors
@@ -19,7 +19,7 @@ Pierre-Yves David
 http://www.logilab.fr/
 
 -------------- section suivante --------------
-Une pièce jointe autre que texte a été nettoyée...
+Une piÃ¨ce jointe autre que texte a Ã©tÃ© nettoyÃ©e...
 Nom: signature.asc
 Type: application/pgp-signature
 Taille: 198 octets

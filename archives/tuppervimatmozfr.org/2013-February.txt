@@ -6,51 +6,51 @@ In-Reply-To: <50E6A9D5.2090706@mozilla.com>
 References: <50E6A9D5.2090706@mozilla.com>
 Message-ID: <51115741.7060306@kinouchou.org>
 
-Salut à tous,
+Salut Ã  tous,
 je rappelle qu'il est important de s'inscrire pour la prochaine session.
-Si vous n'êtes pas sûrs de venir mettez plutôt un point d'interrogation 
-à côté de votre nom au lieu de ne pas vous inscrire du tout ça permettra 
-de prévoir un peu plus facilement les quantités pour les repas.
+Si vous n'Ãªtes pas sÃ»rs de venir mettez plutÃ´t un point d'interrogation 
+Ã  cÃ´tÃ© de votre nom au lieu de ne pas vous inscrire du tout Ã§a permettra 
+de prÃ©voir un peu plus facilement les quantitÃ©s pour les repas.
 Les commandes pour le repas se feront jeudi matin alors inscrivez-vous 
 rapidement.
 
 bises
 kinou
 
-Le 04/01/2013 11:07, Fabien Cazenave a écrit :
+Le 04/01/2013 11:07, Fabien Cazenave a Ã©crit :
 > Chers camarades vimistes,
 >
 > une fois n?est pas coutume, on va essayer d?annoncer les prochaines
-> agapes Vimesques un mois à l?avance ! Du jamais vu dans ce projet !
+> agapes Vimesques un mois Ã  l?avance ! Du jamais vu dans ce projet !
 >
->   ? règles du jeu : http://wiki.mozfr.org/TupperVim
+>   ? rÃ¨gles du jeu : http://wiki.mozfr.org/TupperVim
 >   ? inscriptions  : http://framadate.org/nqtfytxt6s1j6271
 >   ? organisation  : https://etherpad.mozilla.org/TupperVim-1302
 >
-> Notez que la soirée d?hier, bien que fort sympathique (merci aux
-> participants !), a été la soirée la moins préparée de toute l?histoire
-> tupperVim : rien sur le pad, et personne ou presque n?avait anticipé une
-> présentation. Je crois qu?on a atteint là les limites du concept «soirée
-> tupperware» : il en a résulté un je-ne-sais-quoi d?amateurisme qui ne
-> saurait refléter durablement le niveau d?excellence auquel nous sommes
-> tous habitués.
+> Notez que la soirÃ©e d?hier, bien que fort sympathique (merci aux
+> participants !), a Ã©tÃ© la soirÃ©e la moins prÃ©parÃ©e de toute l?histoire
+> tupperVim : rien sur le pad, et personne ou presque n?avait anticipÃ© une
+> prÃ©sentation. Je crois qu?on a atteint lÃ  les limites du concept Â«soirÃ©e
+> tupperwareÂ» : il en a rÃ©sultÃ© un je-ne-sais-quoi d?amateurisme qui ne
+> saurait reflÃ©ter durablement le niveau d?excellence auquel nous sommes
+> tous habituÃ©s.
 >
-> Comme c?est encore la période des bonnes résolutions de début d?année,
+> Comme c?est encore la pÃ©riode des bonnes rÃ©solutions de dÃ©but d?annÃ©e,
 > je vous propose d?essayer d?anticiper un peu mieux les prochaines agapes
 > en utilisant le pad :
 >
->   ? soit pour proposer une présentation de plugin / astuce / autre ;
->   ? soit pour *demander* une présentation sur un sujet précis.
+>   ? soit pour proposer une prÃ©sentation de plugin / astuce / autre ;
+>   ? soit pour *demander* une prÃ©sentation sur un sujet prÃ©cis.
 >
-> Étant bien trop fainéant pour proposer une présentation, j?inaugure donc
-> cette section «Sujets Souhaités» avec fugitive.vim (qui va devenir
-> l?arlésienne de ces soirées ^^) et le prompt zsh. S?il y en a qui se
-> sentent aptes à présenter l?un de ces «sujets souhaités», merci de vous
-> signaler dans la section «Sujets Proposés».
+> Ã‰tant bien trop fainÃ©ant pour proposer une prÃ©sentation, j?inaugure donc
+> cette section Â«Sujets SouhaitÃ©sÂ» avec fugitive.vim (qui va devenir
+> l?arlÃ©sienne de ces soirÃ©es ^^) et le prompt zsh. S?il y en a qui se
+> sentent aptes Ã  prÃ©senter l?un de ces Â«sujets souhaitÃ©sÂ», merci de vous
+> signaler dans la section Â«Sujets ProposÃ©sÂ».
 >
-> Merci à vous tous, qui faites de ces agapes mensuelles des rendez-vous à
+> Merci Ã  vous tous, qui faites de ces agapes mensuelles des rendez-vous Ã 
 > la fois chaleureux et instructifs. Paix, amour et canetons pour toute
-> l?année 2013 !
+> l?annÃ©e 2013 !
 
 
 
@@ -62,25 +62,25 @@ In-Reply-To: <50E6A9D5.2090706@mozilla.com>
 References: <50E6A9D5.2090706@mozilla.com>
 Message-ID: <20130205215541.GA25951@thetys-retz.net>
 
-Le 04 janvier à 11:07 Fabien Cazenave a écrit
+Le 04 janvier Ã  11:07 Fabien Cazenave a Ã©crit
 > Chers camarades vimistes,
 > 
 > une fois n?est pas coutume, on va essayer d?annoncer les prochaines 
-> agapes Vimesques un mois à l?avance ! Du jamais vu dans ce projet !
+> agapes Vimesques un mois Ã  l?avance ! Du jamais vu dans ce projet !
 > 
->   ? règles du jeu : http://wiki.mozfr.org/TupperVim
+>   ? rÃ¨gles du jeu : http://wiki.mozfr.org/TupperVim
 >   ? inscriptions  : http://framadate.org/nqtfytxt6s1j6271
 >   ? organisation  : https://etherpad.mozilla.org/TupperVim-1302
 > 
 Je ne serais malheureusement pas des votres depuis que je sais que PoLuX
-fait une présentation.
+fait une prÃ©sentation.
 
 N'oubliez pas les canettes (ou canetonnes, je ne sais pas.)
 -- 
 Vincent-Xavier JUMEL GPG Id: 0x2E14CE70 http://thetys-retz.net
 
-Rejoignez les 4938 adhérents de l'April http://www.april.org/adherer
-Parinux, logiciel libre à Paris : http://www.parinux.org
+Rejoignez les 4938 adhÃ©rents de l'April http://www.april.org/adherer
+Parinux, logiciel libre Ã  Paris : http://www.parinux.org
 
 
 From guillaume.turri at gmail.com  Thu Feb  7 19:40:05 2013
@@ -96,35 +96,35 @@ Bonjour
 On est 2 devant la porte exterieur, avec un mauvais digicode. Est ce que
 quelqun peut quelque chose pour nous ?
 Merci
-Le 6 févr. 2013 12:35, "Vincent-Xavier JUMEL" <endymion at thetys-retz.net> a
-écrit :
+Le 6 fÃ©vr. 2013 12:35, "Vincent-Xavier JUMEL" <endymion at thetys-retz.net> a
+Ã©crit :
 >
-> Le 04 janvier à 11:07 Fabien Cazenave a écrit
+> Le 04 janvier Ã  11:07 Fabien Cazenave a Ã©crit
 > > Chers camarades vimistes,
 > >
 > > une fois n?est pas coutume, on va essayer d?annoncer les prochaines
-> > agapes Vimesques un mois à l?avance ! Du jamais vu dans ce projet !
+> > agapes Vimesques un mois Ã  l?avance ! Du jamais vu dans ce projet !
 > >
-> >   ? règles du jeu : http://wiki.mozfr.org/TupperVim
+> >   ? rÃ¨gles du jeu : http://wiki.mozfr.org/TupperVim
 > >   ? inscriptions  : http://framadate.org/nqtfytxt6s1j6271
 > >   ? organisation  : https://etherpad.mozilla.org/TupperVim-1302
 > >
 > Je ne serais malheureusement pas des votres depuis que je sais que PoLuX
-> fait une présentation.
+> fait une prÃ©sentation.
 >
 > N'oubliez pas les canettes (ou canetonnes, je ne sais pas.)
 > --
 > Vincent-Xavier JUMEL GPG Id: 0x2E14CE70 http://thetys-retz.net
 >
-> Rejoignez les 4938 adhérents de l'April http://www.april.org/adherer
-> Parinux, logiciel libre à Paris : http://www.parinux.org
+> Rejoignez les 4938 adhÃ©rents de l'April http://www.april.org/adherer
+> Parinux, logiciel libre Ã  Paris : http://www.parinux.org
 >
 > _______________________________________________
 > tupperVim mailing list
 > tupperVim at mozfr.org
 > http://mozfr.org/mailman/listinfo/tuppervim
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20130207/0a8eaeb2/attachment.html>
 
 From fabien at cazenave.cc  Thu Feb  7 19:55:46 2013
@@ -143,10 +143,10 @@ On 07/02/13 19:40, Guillaume Turri wrote:
 > quelqun peut quelque chose pour nous ?
 > Merci
 
-Je n?ai vu personne dehors? Êtes-vous bien au 43 rue d?Aboukir ?
+Je n?ai vu personne dehors? ÃŠtes-vous bien au 43 rue d?Aboukir ?
 
 -- 
-:kazé
+:kazÃ©
 
 
 From cdevienne at gmail.com  Thu Feb  7 20:56:51 2013
@@ -162,25 +162,25 @@ Message-ID: <51140703.50603@gmail.com>
 
 Bonsoir,
 
-Contre-temps de dernière heure :-(
+Contre-temps de derniÃ¨re heure :-(
 
-Ça devait être ma première, ça ne sera rien du tout /o\
+Ã‡a devait Ãªtre ma premiÃ¨re, Ã§a ne sera rien du tout /o\
 
-Toutes mes excuses pour l'organisateur, j'espère ne pas avoir de souci 
+Toutes mes excuses pour l'organisateur, j'espÃ¨re ne pas avoir de souci 
 la prochaine fois.
 
 Christophe
 (@cmdevienne)
 
 
-Le 07/02/2013 19:55, Fabien Cazenave a écrit :
+Le 07/02/2013 19:55, Fabien Cazenave a Ã©crit :
 > On 07/02/13 19:40, Guillaume Turri wrote:
 >> Bonjour
 >> On est 2 devant la porte exterieur, avec un mauvais digicode. Est ce que
 >> quelqun peut quelque chose pour nous ?
 >> Merci
 >
-> Je n?ai vu personne dehors? Êtes-vous bien au 43 rue d?Aboukir ?
+> Je n?ai vu personne dehors? ÃŠtes-vous bien au 43 rue d?Aboukir ?
 >
 
 
@@ -193,25 +193,25 @@ Message-ID: <20130214143808.GG5252@couac.clochix.net>
 
 hjkl,
 
-Un échange a eu lieu récemment sur IRC proposant de coupler les
+Un Ã©change a eu lieu rÃ©cemment sur IRC proposant de coupler les
 prochains tupperVim avec des bidouillonthons (je laisse l?auteur de la
-proposition la développer ici).
+proposition la dÃ©velopper ici).
 
-Je pensais pour ma part à publier certaines astuces citées lors des
+Je pensais pour ma part Ã  publier certaines astuces citÃ©es lors des
 sessions, pourquoi pas sous la forme de Gists sur Github.
 
-Que diriez-vous de créer une organisation tupperVim sur Github qui
-permettrait d?entretenir collectivement le résultat des travaux des
-bidouillonthons et de publier des astuces sous forme de Gists ?
+Que diriez-vous de crÃ©er une organisation tupperVim sur Github qui
+permettrait d?entretenir collectivement le rÃ©sultat des travaux des
+bidouillonthons et de publier des astuces sous forme de GistsÂ ?
 
-Proposition : mandater Le Père Fondateur pour ouvrir un compte tupperVim
+PropositionÂ : mandater Le PÃ¨re Fondateur pour ouvrir un compte tupperVim
 sur Github et le transformer en organisation.
 
 hjkl,
 Clochix
 
 -- 
-Envoyé depuis des Logiciels Libres (Vim, Mutt, Exim4, Debian GNU/Linux)
+EnvoyÃ© depuis des Logiciels Libres (Vim, Mutt, Exim4, Debian GNU/Linux)
 
 
 From hobbestigrou at erakis.im  Fri Feb 15 12:15:52 2013
@@ -222,20 +222,20 @@ In-Reply-To: <20130214143808.GG5252@couac.clochix.net>
 References: <20130214143808.GG5252@couac.clochix.net>
 Message-ID: <CANfeGstmbgz1MDvEm85giHajHeWQ31OSpNGfr0zT+HB7R3r42Q@mail.gmail.com>
 
-Le 14 février 2013 15:38, Clochix <clochix at clochix.net> a écrit :
-> Un échange a eu lieu récemment sur IRC proposant de coupler les
+Le 14 fÃ©vrier 2013 15:38, Clochix <clochix at clochix.net> a Ã©crit :
+> Un Ã©change a eu lieu rÃ©cemment sur IRC proposant de coupler les
 > prochains tupperVim avec des bidouillonthons (je laisse l?auteur de la
-> proposition la développer ici).
-Ah oui, ça peut être sympa, je pense.
+> proposition la dÃ©velopper ici).
+Ah oui, Ã§a peut Ãªtre sympa, je pense.
 
-> Je pensais pour ma part à publier certaines astuces citées lors des
+> Je pensais pour ma part Ã  publier certaines astuces citÃ©es lors des
 > sessions, pourquoi pas sous la forme de Gists sur Github.
 Cool.
 
-> Que diriez-vous de créer une organisation tupperVim sur Github qui
-> permettrait d?entretenir collectivement le résultat des travaux des
+> Que diriez-vous de crÃ©er une organisation tupperVim sur Github qui
+> permettrait d?entretenir collectivement le rÃ©sultat des travaux des
 > bidouillonthons et de publier des astuces sous forme de Gists ?
-Ah oui, ça serait vraiment bien je pense, très bonne idée.
+Ah oui, Ã§a serait vraiment bien je pense, trÃ¨s bonne idÃ©e.
 
 -- 
 \0/ Hobbestigrou
@@ -251,30 +251,30 @@ References: <20130214143808.GG5252@couac.clochix.net>
 Message-ID: <51238C62.3090904@cazenave.cc>
 
 On 14/02/13 15:38, Clochix wrote:
-> Un échange a eu lieu récemment sur IRC proposant de coupler les
+> Un Ã©change a eu lieu rÃ©cemment sur IRC proposant de coupler les
 > prochains tupperVim avec des bidouillonthons (je laisse l?auteur de la
-> proposition la développer ici).
+> proposition la dÃ©velopper ici).
 >
 
-L?idée vient de Marmoute (c?est pour ça qu?elle est bien). Je vous 
-propose d?expérimenter ça lors de la prochaine séance, le 14/03/2013 de 
-18h à 20h ? i.e. juste avant nos agapes mensuelles.
+L?idÃ©e vient de Marmoute (c?est pour Ã§a qu?elle est bien). Je vous 
+propose d?expÃ©rimenter Ã§a lors de la prochaine sÃ©ance, le 14/03/2013 de 
+18h Ã  20h ? i.e. juste avant nos agapes mensuelles.
 
-Bien évidemment, aucune obligation : vous pouvez vous contenter 
-d?arriver à 20h comme d?habitude. Mais si l?idée de bidouiller des bouts 
-de scripts Vim vous plaît, viendez deux heures plus tôt.
+Bien Ã©videmment, aucune obligation : vous pouvez vous contenter 
+d?arriver Ã  20h comme d?habitude. Mais si l?idÃ©e de bidouiller des bouts 
+de scripts Vim vous plaÃ®t, viendez deux heures plus tÃ´t.
 
-Je laisse le soin à Marmoute d?exposer le concept.
+Je laisse le soin Ã  Marmoute d?exposer le concept.
 
 
-> Je pensais pour ma part à publier certaines astuces citées lors des
+> Je pensais pour ma part Ã  publier certaines astuces citÃ©es lors des
 > sessions, pourquoi pas sous la forme de Gists sur Github.
 >
-> Que diriez-vous de créer une organisation tupperVim sur Github qui
-> permettrait d?entretenir collectivement le résultat des travaux des
+> Que diriez-vous de crÃ©er une organisation tupperVim sur Github qui
+> permettrait d?entretenir collectivement le rÃ©sultat des travaux des
 > bidouillonthons et de publier des astuces sous forme de Gists ?
 >
-> Proposition : mandater Le Père Fondateur pour ouvrir un compte tupperVim
+> Proposition : mandater Le PÃ¨re Fondateur pour ouvrir un compte tupperVim
 > sur Github et le transformer en organisation.
 >
 
@@ -284,16 +284,16 @@ passez-moi votre identifiant github sur le canal IRC pour que je puisse
 vous ajouter.
 
 Au passage, on a aussi un @tupperVim sur identi.ca et twitter depuis 
-peu. Je m?en sers pour retouiter des infos vimesques? Ça serait bien que 
-chacun puisse envoyer des tips sur ce compte. En attendant une procédure 
-plus « calée », je vous propose d?utiliser le canal IRC : tous les 
-messages qui tiennent en 140 caractères et qui sont précédés d?un « 
-@tupperVim » seront envoyés sur le compte identi.ca, qui réplique sur le 
+peu. Je m?en sers pour retouiter des infos vimesques? Ã‡a serait bien que 
+chacun puisse envoyer des tips sur ce compte. En attendant une procÃ©dure 
+plus Â« calÃ©e Â», je vous propose d?utiliser le canal IRC : tous les 
+messages qui tiennent en 140 caractÃ¨res et qui sont prÃ©cÃ©dÃ©s d?un Â« 
+@tupperVim Â» seront envoyÃ©s sur le compte identi.ca, qui rÃ©plique sur le 
 compte twitter.
 
 \_o<
 -- 
-:kazé
+:kazÃ©
 
 
 From bernard at pratz.net  Tue Feb 19 16:19:50 2013
@@ -309,32 +309,32 @@ Ehlo tuppervim,
 
 On Tue, Feb 19, 2013 at 03:29:54PM +0100, Fabien Cazenave wrote:
 > On 14/02/13 15:38, Clochix wrote:
-> >Un échange a eu lieu récemment sur IRC proposant de coupler les
+> >Un Ã©change a eu lieu rÃ©cemment sur IRC proposant de coupler les
 > >prochains tupperVim avec des bidouillonthons (je laisse l?auteur de la
-> >proposition la développer ici).
-> L?idée vient de Marmoute (c?est pour ça qu?elle est bien). Je vous propose
-> d?expérimenter ça lors de la prochaine séance, le 14/03/2013 de 18h à 20h ?
+> >proposition la dÃ©velopper ici).
+> L?idÃ©e vient de Marmoute (c?est pour Ã§a qu?elle est bien). Je vous propose
+> d?expÃ©rimenter Ã§a lors de la prochaine sÃ©ance, le 14/03/2013 de 18h Ã  20h ?
 > i.e. juste avant nos agapes mensuelles.
 
-J'ai un plugin que j'ai succintement présenté lors de la dernière séance,
+J'ai un plugin que j'ai succintement prÃ©sentÃ© lors de la derniÃ¨re sÃ©ance,
 qui s'appelle yaposting script qui permet de mieux formatter les mails 
-envoyés (une vraie justification, avec un alinéa configurable, réduction 
-et reformatage des quotes, remise en ordre des niveuax de réponse, et même
-la possibilité de reformater les mails type outlook).
+envoyÃ©s (une vraie justification, avec un alinÃ©a configurable, rÃ©duction 
+et reformatage des quotes, remise en ordre des niveuax de rÃ©ponse, et mÃªme
+la possibilitÃ© de reformater les mails type outlook).
 
 Le truc, c'est que ce plugin, je l'ai pondu il y a plus de 10 ans avant
 que je sache vraiment programmer (et avant que vim supporte de vrais
 langages). Et donc il est en Perl.
 
-Donc bref, j'ai entrepris il y a quelques temps une réécriture complète
-du script en python, sauf que j'ai craqué après avoir galéré à essayer
-de modifier le buffer vim à partir du plugin. Entre les bugs utf-8, le
-buffer qui se modifie pas comme je m'y attends et les capacités de
-débuggage des scripts python qui s'approchent du néant...
+Donc bref, j'ai entrepris il y a quelques temps une rÃ©Ã©criture complÃ¨te
+du script en python, sauf que j'ai craquÃ© aprÃ¨s avoir galÃ©rÃ© Ã  essayer
+de modifier le buffer vim Ã  partir du plugin. Entre les bugs utf-8, le
+buffer qui se modifie pas comme je m'y attends et les capacitÃ©s de
+dÃ©buggage des scripts python qui s'approchent du nÃ©ant...
 
-Je propose donc pour un prochain bidouillonthons de s'attaquer à ce
+Je propose donc pour un prochain bidouillonthons de s'attaquer Ã  ce
 plugin pour faire en sorte que cette nouvelle version puisse sortir et
-en éradiquer le code perl ! Biensûr, sous couvert de coder sur ce
+en Ã©radiquer le code perl ! BiensÃ»r, sous couvert de coder sur ce
 script, ce serait un bon workshop sur "comment coder un script python
 qui modifie le buffer de vim".
 
@@ -356,32 +356,32 @@ References: <20130214143808.GG5252@couac.clochix.net>
 	<20130219151950.GG25286@vilya.m0g.net>
 Message-ID: <CANfeGssfafiXFuc3gD7kYhPHvi0seQT-1FV1AR=-+i5F1N3idw@mail.gmail.com>
 
-Le 19 février 2013 16:19, Bernard `Guyzmo` Pratz <bernard at pratz.net> a écrit :
-> J'ai un plugin que j'ai succintement présenté lors de la dernière séance,
+Le 19 fÃ©vrier 2013 16:19, Bernard `Guyzmo` Pratz <bernard at pratz.net> a Ã©crit :
+> J'ai un plugin que j'ai succintement prÃ©sentÃ© lors de la derniÃ¨re sÃ©ance,
 > qui s'appelle yaposting script qui permet de mieux formatter les mails
-> envoyés (une vraie justification, avec un alinéa configurable, réduction
-> et reformatage des quotes, remise en ordre des niveuax de réponse, et même
-> la possibilité de reformater les mails type outlook).
-Ah intéressant ça.
+> envoyÃ©s (une vraie justification, avec un alinÃ©a configurable, rÃ©duction
+> et reformatage des quotes, remise en ordre des niveuax de rÃ©ponse, et mÃªme
+> la possibilitÃ© de reformater les mails type outlook).
+Ah intÃ©ressant Ã§a.
 
 > Le truc, c'est que ce plugin, je l'ai pondu il y a plus de 10 ans avant
 > que je sache vraiment programmer (et avant que vim supporte de vrais
 > langages). Et donc il est en Perl.
-On débute tous, c'est normal. C'est un vrai langage Perl et il est pas si mal.
+On dÃ©bute tous, c'est normal. C'est un vrai langage Perl et il est pas si mal.
 
-> Donc bref, j'ai entrepris il y a quelques temps une réécriture complète
-> du script en python, sauf que j'ai craqué après avoir galéré à essayer
-> de modifier le buffer vim à partir du plugin. Entre les bugs utf-8, le
-> buffer qui se modifie pas comme je m'y attends et les capacités de
-> débuggage des scripts python qui s'approchent du néant...
-Oui, ça peut être embêtant lorsqu'on arrive pas à faire ce qu'on souhaite.
+> Donc bref, j'ai entrepris il y a quelques temps une rÃ©Ã©criture complÃ¨te
+> du script en python, sauf que j'ai craquÃ© aprÃ¨s avoir galÃ©rÃ© Ã  essayer
+> de modifier le buffer vim Ã  partir du plugin. Entre les bugs utf-8, le
+> buffer qui se modifie pas comme je m'y attends et les capacitÃ©s de
+> dÃ©buggage des scripts python qui s'approchent du nÃ©ant...
+Oui, Ã§a peut Ãªtre embÃªtant lorsqu'on arrive pas Ã  faire ce qu'on souhaite.
 
-> Je propose donc pour un prochain bidouillonthons de s'attaquer à ce
+> Je propose donc pour un prochain bidouillonthons de s'attaquer Ã  ce
 > plugin pour faire en sorte que cette nouvelle version puisse sortir et
-> en éradiquer le code perl ! Biensûr, sous couvert de coder sur ce
+> en Ã©radiquer le code perl ! BiensÃ»r, sous couvert de coder sur ce
 > script, ce serait un bon workshop sur "comment coder un script python
 > qui modifie le buffer de vim".
-Ah oui, ça m'intéresse, si j'arrive à aider un peu en tous cas.
+Ah oui, Ã§a m'intÃ©resse, si j'arrive Ã  aider un peu en tous cas.
 
 -- 
 \0/ Hobbestigrou
@@ -398,67 +398,67 @@ References: <20130214143808.GG5252@couac.clochix.net>
 	<20130219151950.GG25286@vilya.m0g.net>
 Message-ID: <20130219213539.GG60387@macbook-air.inria.fr>
 
-    Bonsoir Liste, enchanté,
+    Bonsoir Liste, enchantÃ©,
 
   premier post ici, vimiste depuis longtemps, s'il est de tradition de se
-présenter plus, dites-le moi? d'autant plus que je ne serai pas présent à
-la prochaine réunion, pour causes de vacances scolaires.
+prÃ©senter plus, dites-le moi? d'autant plus que je ne serai pas prÃ©sent Ã 
+la prochaine rÃ©union, pour causes de vacances scolaires.
 
 * Bernard `Guyzmo` Pratz <bernard at pratz.net>:
-> J'ai un plugin que j'ai succintement présenté lors de la dernière séance,
+> J'ai un plugin que j'ai succintement prÃ©sentÃ© lors de la derniÃ¨re sÃ©ance,
 > qui s'appelle yaposting script qui permet de mieux formatter les mails
-> envoyés
+> envoyÃ©s
 [?]
-> Donc bref, j'ai entrepris il y a quelques temps une réécriture complète
+> Donc bref, j'ai entrepris il y a quelques temps une rÃ©Ã©criture complÃ¨te
 > du script en python
 [?]
-> Je propose donc pour un prochain bidouillonthons de s'attaquer à ce
+> Je propose donc pour un prochain bidouillonthons de s'attaquer Ã  ce
 > plugin pour faire en sorte que cette nouvelle version puisse sortir et
-> en éradiquer le code perl ! Biensûr, sous couvert de coder sur ce
+> en Ã©radiquer le code perl ! BiensÃ»r, sous couvert de coder sur ce
 > script, ce serait un bon workshop sur "comment coder un script python
 > qui modifie le buffer de vim".
 
-  Vu que je ne serai pas là, je ne peux que vous souhaiter à tous de bien
+  Vu que je ne serai pas lÃ , je ne peux que vous souhaiter Ã  tous de bien
 vous amuser, mais ceci dit, un truc me turlupine?
 
-> (une vraie justification, avec un alinéa configurable, réduction
-> et reformatage des quotes, remise en ordre des niveuax de réponse, et même
-> la possibilité de reformater les mails type outlook).
+> (une vraie justification, avec un alinÃ©a configurable, rÃ©duction
+> et reformatage des quotes, remise en ordre des niveuax de rÃ©ponse, et mÃªme
+> la possibilitÃ© de reformater les mails type outlook).
 
-  Quitte à se débarrasser de Perl, et dans une démarche bidouillatoire,
-pourquoi ne pas tout faire en vimscript ?
+  Quitte Ã  se dÃ©barrasser de Perl, et dans une dÃ©marche bidouillatoire,
+pourquoi ne pas tout faire en vimscriptÂ ?
 
-  En fait, en regardant le script actuel, le seul endroit où il y a du Perl
-c'est la justification. Mais un coup de formatoptions+=2, l'alinéa collé au
-début de la première ligne, la seconde ligne collée à gauche, un autoindent
-sur la largeur visée, et une réindentation du paragraphe par la marge
-gauche, ça doit marcher à peu près. Et ça évite de dépendre d'une option de
-compilation, surtout pour un sujet où la performance ne devrait pas être un
+  En fait, en regardant le script actuel, le seul endroit oÃ¹ il y a du Perl
+c'est la justification. Mais un coup de formatoptions+=2, l'alinÃ©a collÃ© au
+dÃ©but de la premiÃ¨re ligne, la seconde ligne collÃ©e Ã  gauche, un autoindent
+sur la largeur visÃ©e, et une rÃ©indentation du paragraphe par la marge
+gauche, Ã§a doit marcher Ã  peu prÃ¨s. Et Ã§a Ã©vite de dÃ©pendre d'une option de
+compilation, surtout pour un sujet oÃ¹ la performance ne devrait pas Ãªtre un
 souci.
 
-  Par ailleurs, définir un nouvel objet texte pour les paragraphes indentés
+  Par ailleurs, dÃ©finir un nouvel objet texte pour les paragraphes indentÃ©s
 est un bon exercice de vimscript (cf.
 http://vim.wikia.com/wiki/Creating_new_text_objects par exemple) et fait de
 la fonction TakeOut un simple 'cip[snip]' (en supposant que l'on a
-réutilisé 'p' pour le nouvel objet paragraphe).
+rÃ©utilisÃ© 'p' pour le nouvel objet paragraphe).
 
   Bref, il me semble qu'il y a aussi de quoi faire sans aller vers Python.
-[ben oui, de même que je suis plutôt CtrlP que Command-T, j'ai une petite
-tendance à préférer le vimscript « pur » quand je peux, notamment pour des
-raisons de portabilité]
+[ben oui, de mÃªme que je suis plutÃ´t CtrlP que Command-T, j'ai une petite
+tendance Ã  prÃ©fÃ©rer le vimscript Â«Â purÂ Â» quand je peux, notamment pour des
+raisons de portabilitÃ©]
 
-  Au pire, ça donnera peut-être des idées pour une prochaine séance de
+  Au pire, Ã§a donnera peut-Ãªtre des idÃ©es pour une prochaine sÃ©ance de
 codage?
 
         Sylvain
-        pas sûr de ne pas être totalement hors-sujet
-        mais même pas peur :P
+        pas sÃ»r de ne pas Ãªtre totalement hors-sujet
+        mais mÃªme pas peur :P
 
 -- 
 Sylvain Soliman <Sylvain.Soliman at m4x.org>   GnuPG Public Key: 0x0F53AF99
 Page personnelle                   http://contraintes.inria.fr/~soliman/
 -------------- section suivante --------------
-Une pièce jointe autre que texte a été nettoyée...
+Une piÃ¨ce jointe autre que texte a Ã©tÃ© nettoyÃ©e...
 Nom: smime.p7s
 Type: application/x-pkcs7-signature
 Taille: 2872 octets
@@ -481,62 +481,62 @@ Hello,
 On Tue, Feb 19, 2013 at 10:35:39PM +0100, Sylvain Soliman wrote:
 > * Bernard `Guyzmo` Pratz <bernard at pratz.net>:
 [?]
-> > (une vraie justification, avec un alinéa configurable, réduction et
-> > reformatage des quotes, remise en ordre des niveuax de réponse, et
-> > même la possibilité de reformater les mails type outlook).
->   Quitte à se débarrasser de Perl, et dans une démarche
->   bidouillatoire, pourquoi ne pas tout faire en vimscript ?
+> > (une vraie justification, avec un alinÃ©a configurable, rÃ©duction et
+> > reformatage des quotes, remise en ordre des niveuax de rÃ©ponse, et
+> > mÃªme la possibilitÃ© de reformater les mails type outlook).
+>   Quitte Ã  se dÃ©barrasser de Perl, et dans une dÃ©marche
+>   bidouillatoire, pourquoi ne pas tout faire en vimscriptÂ ?
 
 je suis ni pour, ni contre, bien au contraire.
 
->   En fait, en regardant le script actuel, le seul endroit où il y a du Perl
-> c'est la justification. Mais un coup de formatoptions+=2, l'alinéa collé au
-> début de la première ligne, la seconde ligne collée à gauche, un autoindent
-> sur la largeur visée, et une réindentation du paragraphe par la marge
-> gauche, ça doit marcher à peu près. Et ça évite de dépendre d'une option de
-> compilation, surtout pour un sujet où la performance ne devrait pas être un
+>   En fait, en regardant le script actuel, le seul endroit oÃ¹ il y a du Perl
+> c'est la justification. Mais un coup de formatoptions+=2, l'alinÃ©a collÃ© au
+> dÃ©but de la premiÃ¨re ligne, la seconde ligne collÃ©e Ã  gauche, un autoindent
+> sur la largeur visÃ©e, et une rÃ©indentation du paragraphe par la marge
+> gauche, Ã§a doit marcher Ã  peu prÃ¨s. Et Ã§a Ã©vite de dÃ©pendre d'une option de
+> compilation, surtout pour un sujet oÃ¹ la performance ne devrait pas Ãªtre un
 > souci.
 
-    Mais quand je parle de justification, c'est une réelle justification
-avec marges fixes de chaque côté. On aime ou on aime pas,  car  le  côté
+    Mais quand je parle de justification, c'est une rÃ©elle justification
+avec marges fixes de chaque cÃ´tÃ©. On aime ou on aime pas,  car  le  cÃ´tÃ©
 rajouter des espaces pour faire de l'alignement gauche *et* droite n'est
-pas du goût de tous. Toutefois,  je  trouve  ça  beaucoup  plus  élégant 
-qu'un presqu'alignement à 80 colonnes.
+pas du goÃ»t de tous. Toutefois,  je  trouve  Ã§a  beaucoup  plus  Ã©lÃ©gant 
+qu'un presqu'alignement Ã  80 colonnes.
 
-    L'avantage que je verrais à coder ça  en  python,  serait  aussi  de
-donner plus de flexibilité dans le choix de l'algorithme de  répartition
-des espaces. Car actuellement, tout ce qui est  fait  c'est  insérer  un
-espace entre chaque mot à partir  de  la  droite  jusqu'à  atteindre  la
-longueur de ligne désirée. Mais on pourrait aussi partir du  centre,  ou
-de la gauche, répartir un mot sur deux etc..
+    L'avantage que je verrais Ã  coder Ã§a  en  python,  serait  aussi  de
+donner plus de flexibilitÃ© dans le choix de l'algorithme de  rÃ©partition
+des espaces. Car actuellement, tout ce qui est  fait  c'est  insÃ©rer  un
+espace entre chaque mot Ã  partir  de  la  droite  jusqu'Ã   atteindre  la
+longueur de ligne dÃ©sirÃ©e. Mais on pourrait aussi partir du  centre,  ou
+de la gauche, rÃ©partir un mot sur deux etc..
 
     S'il existe une technique vimscript qui serait moins lourde pour  ce
 faire, je n'ai rien contre.  Mais  j'avais  bien  entendu  chercher  les
-manières les plus simples d'y arriver  avant  d'entreprendre  une  telle
-chose et je n'avais, alors, rien trouvé de concluant.
+maniÃ¨res les plus simples d'y arriver  avant  d'entreprendre  une  telle
+chose et je n'avais, alors, rien trouvÃ© de concluant.
 
->   Par ailleurs, définir un nouvel objet texte pour les paragraphes indentés
+>   Par ailleurs, dÃ©finir un nouvel objet texte pour les paragraphes indentÃ©s
 > est un bon exercice de vimscript (cf.
 > http://vim.wikia.com/wiki/Creating_new_text_objects par exemple) et fait de
 > la fonction TakeOut un simple 'cip[snip]' (en supposant que l'on a
-> réutilisé 'p' pour le nouvel objet paragraphe).
+> rÃ©utilisÃ© 'p' pour le nouvel objet paragraphe).
 
-    Par  contre,  apprendre  de  nouvelles  méthodes  pour  retirer  des 
-paragraphes internes aux  quotes, je  suis  preneur.  Ma  méthode  étant
+    Par  contre,  apprendre  de  nouvelles  mÃ©thodes  pour  retirer  des 
+paragraphes internes aux  quotes, je  suis  preneur.  Ma  mÃ©thode  Ã©tant
 quelque peu bourrine, iirc, je compte  le  nombre  de  quote  sign  pour
-connaître le niveau de quote, je les retire tous, et là je peux détecter
+connaÃ®tre le niveau de quote, je les retire tous, et lÃ  je peux dÃ©tecter
 le paragraphe, pour le reformater ou le retirer.
 
 >   Bref, il me semble qu'il y a aussi de quoi faire sans aller vers Python.
-> [ben oui, de même que je suis plutôt CtrlP que Command-T, j'ai une petite
-> tendance à préférer le vimscript « pur » quand je peux, notamment pour des
-> raisons de portabilité]
+> [ben oui, de mÃªme que je suis plutÃ´t CtrlP que Command-T, j'ai une petite
+> tendance Ã  prÃ©fÃ©rer le vimscript Â«Â purÂ Â» quand je peux, notamment pour des
+> raisons de portabilitÃ©]
 
-    Pour le coup, je ne suis pas adminsys, et je n'ai pas à utiliser ou
-configurer vim sur 42 mille serveurs. Je me  sens  moins  concerné  par
-cette problématique là. Je préfère avoir le support d'un max de langages
-et pouvoir choisir les plugins qui me conviennent sur des critères de
-fonctionnalité, d'ergonomie et de stabilité.
+    Pour le coup, je ne suis pas adminsys, et je n'ai pas Ã  utiliser ou
+configurer vim sur 42 mille serveurs. Je me  sens  moins  concernÃ©  par
+cette problÃ©matique lÃ . Je prÃ©fÃ¨re avoir le support d'un max de langages
+et pouvoir choisir les plugins qui me conviennent sur des critÃ¨res de
+fonctionnalitÃ©, d'ergonomie et de stabilitÃ©.
 
 >o_/
 
@@ -556,14 +556,14 @@ References: <20130214143808.GG5252@couac.clochix.net>
 	<20130220103449.GH25286@vilya.m0g.net>
 Message-ID: <CANfeGstFi=L1LatdMxTiLBakaOOQ8jn-JyT0V8_Y0mYUoXcBDw@mail.gmail.com>
 
-Le 20 février 2013 11:34, Bernard `Guyzmo` Pratz <bernard at pratz.net> a écrit :
->     Pour le coup, je ne suis pas adminsys, et je n'ai pas à utiliser ou
-> configurer vim sur 42 mille serveurs. Je me  sens  moins  concerné  par
-> cette problématique là. Je préfère avoir le support d'un max de langages
-> et pouvoir choisir les plugins qui me conviennent sur des critères de
-> fonctionnalité, d'ergonomie et de stabilité.
-Je suis malgré tout d'accord avec Sylvain, bien que je ne suis pas un
-admin sys, je préfère les plugins en vimscripts pure.
+Le 20 fÃ©vrier 2013 11:34, Bernard `Guyzmo` Pratz <bernard at pratz.net> a Ã©crit :
+>     Pour le coup, je ne suis pas adminsys, et je n'ai pas Ã  utiliser ou
+> configurer vim sur 42 mille serveurs. Je me  sens  moins  concernÃ©  par
+> cette problÃ©matique lÃ . Je prÃ©fÃ¨re avoir le support d'un max de langages
+> et pouvoir choisir les plugins qui me conviennent sur des critÃ¨res de
+> fonctionnalitÃ©, d'ergonomie et de stabilitÃ©.
+Je suis malgrÃ© tout d'accord avec Sylvain, bien que je ne suis pas un
+admin sys, je prÃ©fÃ¨re les plugins en vimscripts pure.
 
 --
 \0/ Hobbestigrou
@@ -583,25 +583,25 @@ References: <20130214143808.GG5252@couac.clochix.net>
 	<CANfeGstFi=L1LatdMxTiLBakaOOQ8jn-JyT0V8_Y0mYUoXcBDw@mail.gmail.com>
 Message-ID: <20130220112145.GI25286@vilya.m0g.net>
 
-On Wed, Feb 20, 2013 at 11:54:29AM +0100, Natal Ngétal wrote:
-> Le 20 février 2013 11:34, Bernard `Guyzmo` Pratz <bernard at pratz.net> a écrit :
-> >     Pour le coup, je ne suis pas adminsys, et je n'ai pas à utiliser ou
-> > configurer vim sur 42 mille serveurs. Je me  sens  moins  concerné  par
-> > cette problématique là. Je préfère avoir le support d'un max de langages
-> > et pouvoir choisir les plugins qui me conviennent sur des critères de
-> > fonctionnalité, d'ergonomie et de stabilité.
-> Je suis malgré tout d'accord avec Sylvain, bien que je ne suis pas un
-> admin sys, je préfère les plugins en vimscripts pure.
+On Wed, Feb 20, 2013 at 11:54:29AM +0100, Natal NgÃ©tal wrote:
+> Le 20 fÃ©vrier 2013 11:34, Bernard `Guyzmo` Pratz <bernard at pratz.net> a Ã©crit :
+> >     Pour le coup, je ne suis pas adminsys, et je n'ai pas Ã  utiliser ou
+> > configurer vim sur 42 mille serveurs. Je me  sens  moins  concernÃ©  par
+> > cette problÃ©matique lÃ . Je prÃ©fÃ¨re avoir le support d'un max de langages
+> > et pouvoir choisir les plugins qui me conviennent sur des critÃ¨res de
+> > fonctionnalitÃ©, d'ergonomie et de stabilitÃ©.
+> Je suis malgrÃ© tout d'accord avec Sylvain, bien que je ne suis pas un
+> admin sys, je prÃ©fÃ¨re les plugins en vimscripts pure.
 
 Ah, mais moi je suis pour le mariage de tous les langages et le
-métissage de tous les langages ! 
+mÃ©tissage de tous les langages ! 
 
-Non à l'exclusion des codes en ruby ou python !
-Non à l'intolérance contre les langages impurs !
+Non Ã  l'exclusion des codes en ruby ou python !
+Non Ã  l'intolÃ©rance contre les langages impurs !
 Oui au polylinguisme ! Oui au mariage pour tous !
 
-hm... pardon, je m'égare...
-puis de toutes façons, vive les autodafés des codes écrits en Perl.
+hm... pardon, je m'Ã©gare...
+puis de toutes faÃ§ons, vive les autodafÃ©s des codes Ã©crits en Perl.
 
 *PAN*!
 
@@ -624,21 +624,21 @@ Message-ID: <20130220124755.14606059@mage.lix.polytechnique.fr>
 Salut,
 
 Le Wed, 20 Feb 2013 11:34:49 +0100,
-Bernard `Guyzmo` Pratz <bernard at pratz.net> a écrit :
+Bernard `Guyzmo` Pratz <bernard at pratz.net> a Ã©crit :
 
-> Car actuellement, tout ce qui est  fait  c'est  insérer  un
-> espace entre chaque mot à partir  de  la  droite  jusqu'à  atteindre
-> la longueur de ligne désirée. Mais on pourrait aussi partir du
-> centre,  ou de la gauche, répartir un mot sur deux etc..
+> Car actuellement, tout ce qui est  fait  c'est  insÃ©rer  un
+> espace entre chaque mot Ã  partir  de  la  droite  jusqu'Ã   atteindre
+> la longueur de ligne dÃ©sirÃ©e. Mais on pourrait aussi partir du
+> centre,  ou de la gauche, rÃ©partir un mot sur deux etc..
 
-Une contrainte typographique supplémentaire qui peut influer le choix :
-éviter les alignements verticaux d'espaces, pour ne pas donner illusion
+Une contrainte typographique supplÃ©mentaire qui peut influer le choix :
+Ã©viter les alignements verticaux d'espaces, pour ne pas donner illusion
 de colonnes dans le paragraphe.
 
-François
+FranÃ§ois
 
 -- 
-François Poulain <fpoulain at metrodore.fr>
+FranÃ§ois Poulain <fpoulain at metrodore.fr>
 
 
 From Sylvain.Soliman+tuppervim at m4x.org  Wed Feb 20 13:39:34 2013
@@ -657,30 +657,30 @@ Message-ID: <20130220123934.GA52306@chambolle.inria.fr>
     Bonjour,
 
 * Bernard `Guyzmo` Pratz <bernard at pratz.net>:
-> Mais quand je parle de justification, c'est une réelle justification avec
-> marges fixes de chaque côté.
+> Mais quand je parle de justification, c'est une rÃ©elle justification avec
+> marges fixes de chaque cÃ´tÃ©.
 
-Ah oui, je n'avais pas vraiment réalisé qu'il s'agissait de véritable
+Ah oui, je n'avais pas vraiment rÃ©alisÃ© qu'il s'agissait de vÃ©ritable
 justification?
 
 > S'il existe une technique vimscript qui serait moins lourde pour  ce
 > faire, je n'ai rien contre.  Mais  j'avais  bien  entendu chercher  les
-> manières les plus simples d'y arriver  avant  d'entreprendre une  telle
-> chose et je n'avais, alors, rien trouvé de concluant.
+> maniÃ¨res les plus simples d'y arriver  avant  d'entreprendre une  telle
+> chose et je n'avais, alors, rien trouvÃ© de concluant.
 
-Avais-tu cherché dans $VIMRUNTIME/macros/ ? (voir ci-dessous)
+Avais-tu cherchÃ© dans $VIMRUNTIME/macros/Â ? (voir ci-dessous)
 
-* François Poulain <fpoulain at metrodore.fr>:
-> Une contrainte typographique supplémentaire qui peut influer le choix :
-> éviter les alignements verticaux d'espaces, pour ne pas donner illusion
+* FranÃ§ois Poulain <fpoulain at metrodore.fr>:
+> Une contrainte typographique supplÃ©mentaire qui peut influer le choix :
+> Ã©viter les alignements verticaux d'espaces, pour ne pas donner illusion
 > de colonnes dans le paragraphe.
 
-Je n'ai pas eu la curiosité de lire en détail (je ne suis pas un grand
+Je n'ai pas eu la curiositÃ© de lire en dÃ©tail (je ne suis pas un grand
 justificateur), mais
 
 :runtime macros/justify.vim
 
-n'est-il pas une bonne base de départ ?
+n'est-il pas une bonne base de dÃ©partÂ ?
 
         Sylvain
 
@@ -688,7 +688,7 @@ n'est-il pas une bonne base de départ ?
 Sylvain Soliman <Sylvain.Soliman at m4x.org>   GnuPG Public Key: 0x0F53AF99
 Page personnelle                   http://contraintes.inria.fr/~soliman/
 -------------- section suivante --------------
-Une pièce jointe autre que texte a été nettoyée...
+Une piÃ¨ce jointe autre que texte a Ã©tÃ© nettoyÃ©e...
 Nom: smime.p7s
 Type: application/x-pkcs7-signature
 Taille: 2872 octets
@@ -714,51 +714,51 @@ On Wed, Feb 20, 2013 at 01:39:34PM +0100, Sylvain Soliman wrote:
 
 > > S'il existe une technique vimscript qui serait moins lourde pour  ce
 > > faire, je n'ai rien contre.   Mais  j'avais  bien  entendu  chercher
-> > les manières les plus simples d'y arriver avant  d'entreprendre  une
-> > telle  chose  et  je  n'avais,  alors,  rien  trouvé  de  concluant.
+> > les maniÃ¨res les plus simples d'y arriver avant  d'entreprendre  une
+> > telle  chose  et  je  n'avais,  alors,  rien  trouvÃ©  de  concluant.
 
-> Avais-tu cherché dans $VIMRUNTIME/macros/ ?
-> Je n'ai pas eu la curiosité de lire en détail (je ne suis pas un grand
+> Avais-tu cherchÃ© dans $VIMRUNTIME/macros/Â ?
+> Je n'ai pas eu la curiositÃ© de lire en dÃ©tail (je ne suis pas un grand
 > justificateur), mais
 > :runtime macros/justify.vim
-> n'est-il pas une bonne base de départ ?
+> n'est-il pas une bonne base de dÃ©partÂ ?
 
-possiblement.  Ma mémoire de carassius auratus auratus ne me  permettant
-pas de me souvenir de ce qui m'a amené à tenter de bidouiller un  machin
-mélangeant du perl et du vimscript dans ces temps reculé  du  début  des
-années 2000, je ne saurais dire si, à l'époque, j'avais effectivement vu
-ce script et décidé de le refaire ou si j'étais simplement passé à côté.
+possiblement.  Ma mÃ©moire de carassius auratus auratus ne me  permettant
+pas de me souvenir de ce qui m'a amenÃ© Ã  tenter de bidouiller un  machin
+mÃ©langeant du perl et du vimscript dans ces temps reculÃ©  du  dÃ©but  des
+annÃ©es 2000, je ne saurais dire si, Ã  l'Ã©poque, j'avais effectivement vu
+ce script et dÃ©cidÃ© de le refaire ou si j'Ã©tais simplement passÃ© Ã  cÃ´tÃ©.
 
 Toutefois, bien qu'il mette relativement intelligemment les espaces pour
-la  justification  ( notamment  avec  une  préférence  pour  après   les
-caractères de ponctuation ), et qu'il supporte aussi le reformattage  de
-pragraphes préfixés avec,  notamment,  un  ou  plusieurs  caractères  de
+la  justification  (Â notamment  avec  une  prÃ©fÃ©rence  pour  aprÃ¨s   les
+caractÃ¨res de ponctuationÂ ), et qu'il supporte aussi le reformattage  de
+pragraphes prÃ©fixÃ©s avec,  notamment,  un  ou  plusieurs  caractÃ¨res  de
 quote.
 
 Je remarque qu'il  n'est  pas  possible  de  faire  une  indentation  en
-début  de  paragraphe,  qu'il   reformate   la   dernière   ligne   d'un
-paragraphe, même s'il n'y a que deux mots dessus, et il ne fait  que  de
-la justification ligne à ligne, il ne va pas  réarranger  le  paragraphe
-complet pour qu'il ne dépasse pas 72 lignes et soit justifié.
+dÃ©but  de  paragraphe,  qu'il   reformate   la   derniÃ¨re   ligne   d'un
+paragraphe, mÃªme s'il n'y a que deux mots dessus, et il ne fait  que  de
+la justification ligne Ã  ligne, il ne va pas  rÃ©arranger  le  paragraphe
+complet pour qu'il ne dÃ©passe pas 72 lignes et soit justifiÃ©.
 
 Mais ce dernier point peut se faire en quelques commandes[1] qu'on  peut
-ensuite mapper (il y a évidemment les options wrap  et  textwidth,  mais
-même malgré cela il est facile de dépasser la limite):
+ensuite mapper (il y a Ã©videmment les options wrap  et  textwidth,  mais
+mÃªme malgrÃ© cela il est facile de dÃ©passer la limite):
 
-  gqap          « pour reformater le paragraphe courant à textwidth cols
-  vip:Justify   « pour justifier le paragraphe courant
+  gqap          Â« pour reformater le paragraphe courant Ã  textwidth cols
+  vip:Justify   Â« pour justifier le paragraphe courant
 
 [1] http://vimdoc.sourceforge.net/htmldoc/usr_25.html
 
 Toutefois, je pense que recoder la fonction  de  justification  dans  un
-langage adapté tel que  python  ou  ruby  permettrait  d'avoir  plus  de
-flexibilité dans la méthode de justification, d'indentation etc..
+langage adaptÃ© tel que  python  ou  ruby  permettrait  d'avoir  plus  de
+flexibilitÃ© dans la mÃ©thode de justification, d'indentation etc..
 
 Et surtout, il y a une feature que j'avais dans mon script originel  qui
-sera moins aisée à recoder en vimscript pure, c'est le  reformattage  de
-mail OE, avec phrase de citation en 5 lignes, un préfixe absurde et  pas
-homogénéisé, pas de préfixe de citations sur les lignes  citées,  et  la
-citation après la réponse...
+sera moins aisÃ©e Ã  recoder en vimscript pure, c'est le  reformattage  de
+mail OE, avec phrase de citation en 5 lignes, un prÃ©fixe absurde et  pas
+homogÃ©nÃ©isÃ©, pas de prÃ©fixe de citations sur les lignes  citÃ©es,  et  la
+citation aprÃ¨s la rÃ©ponse...
 
 En tous cas, merci sylvain de cette petite trouvaille,
 
@@ -783,264 +783,7 @@ Message-ID: <20130220143036.GC52306@chambolle.inria.fr>
 
 * Bernard `Guyzmo` Pratz <bernard at pratz.net>:
 > Toutefois, je pense que recoder la fonction  de  justification  dans  un
-> langage adapté tel que  python  ou  ruby  permettrait  d'avoir  plus  de
-> flexibilité dans la méthode de justification, d'indentation etc..
+> langage adaptÃ© tel que  python  ou  ruby  permettrait  d'avoir  plus  de
+> flexibilitÃ© dans la mÃ©thode de justification, d'indentation etc..
 
-Oui, et puis c'est un bon exercice, ne serait-ce que pour les cas où on a
-vraiment besoin des bindings python, notamment pour tout ce qui doit être
-exécuté de manière asynchrone.
-
-Bon bidouillothon,
-
-        Sylvain
-
--- 
-Sylvain Soliman <Sylvain.Soliman at m4x.org>   GnuPG Public Key: 0x0F53AF99
-Page personnelle                   http://contraintes.inria.fr/~soliman/
--------------- section suivante --------------
-Une pièce jointe autre que texte a été nettoyée...
-Nom: smime.p7s
-Type: application/x-pkcs7-signature
-Taille: 2872 octets
-Desc: non disponible
-URL: <http://mozfr.org/pipermail/tuppervim/attachments/20130220/6e6a90f1/attachment.bin>
-
-From hobbestigrou at erakis.im  Wed Feb 20 15:58:41 2013
-From: hobbestigrou at erakis.im (=?ISO-8859-1?Q?Natal_Ng=E9tal?=)
-Date: Wed, 20 Feb 2013 15:58:41 +0100
-Subject: [tupperVim] coder
-In-Reply-To: <20130220143036.GC52306@chambolle.inria.fr>
-References: <20130214143808.GG5252@couac.clochix.net>
-	<51238C62.3090904@cazenave.cc>
-	<20130219151950.GG25286@vilya.m0g.net>
-	<20130219213539.GG60387@macbook-air.inria.fr>
-	<20130220103449.GH25286@vilya.m0g.net>
-	<20130220124755.14606059@mage.lix.polytechnique.fr>
-	<20130220123934.GA52306@chambolle.inria.fr>
-	<20130220135144.GL25286@vilya.m0g.net>
-	<20130220143036.GC52306@chambolle.inria.fr>
-Message-ID: <CANfeGsvRd3bVg7gSVGnWiV3nw8c5kjs2R+ha_sEd4FcxOoOH0g@mail.gmail.com>
-
-Le 20 février 2013 15:30, Sylvain Soliman
-<Sylvain.Soliman+tuppervim at m4x.org> a écrit :
-> Oui, et puis c'est un bon exercice, ne serait-ce que pour les cas où on a
-> vraiment besoin des bindings python, notamment pour tout ce qui doit être
-> exécuté de manière asynchrone.
-C'est vrai aussi.
-
--- 
-\0/ Hobbestigrou
-site web: erakis.im
-
-
-From fabien at cazenave.cc  Fri Feb 22 22:52:34 2013
-From: fabien at cazenave.cc (Fabien Cazenave)
-Date: Fri, 22 Feb 2013 22:52:34 +0100
-Subject: [tupperVim] Session de Mars 2013
-Message-ID: <5127E8A2.7070302@cazenave.cc>
-
-Canettes, canetons,
-
-on renoue avec la méthode de La Rache? en annonçant la session de Mars 
-le 22 février. On ne pourra pas se réunir le 7/03, nos agapes auront 
-donc lieu le 14 mars à 20h dans les locaux Mozilla [1].
-
-Comme d?habitude, je compte sur vous pour?
-
-  ? vous inscrire sur le framadate, le 13/03 au plus tard :
-    http://framadate.org/4rjt6tbnrhb7wk3u
-
-  ? proposer des présentations sur l?etherpad :
-    https://etherpad.mozilla.org/TupperVim-1303
-    (ou, à défaut, mentionner des sujets que vous voudriez voir aborder)
-
-La nouveauté ce mois-ci c?est qu?on propose, en bonus, un atelier libre 
-de 2h avant les agapes pour les plus motivés d?entre vous ? une sorte 
-d?apéro avant l?apéro, mais où on code au lieu de troller :
-    https://etherpad.mozilla.org/TupperVim-1303-atelier
-
-C?est optionnel et expérimental : ceux qui veulent bosser ensemble sur 
-le code d?un plugin Vim sont attendus par Marmoute à 18h. Comme c?est 
-son idée, je le laisse vous détailler le concept?
-
-Paix, amour et HJKL à tous !
-:kazé
-
-[1] 43 rue d?Aboukir, Paris ? métro Sentier
-Demander les codes d?accès sur : irc://irc.mozilla.org/tupperVim
-Plus d?infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
-
-
-From pierre-yves.david at ens-lyon.org  Mon Feb 25 14:52:27 2013
-From: pierre-yves.david at ens-lyon.org (Pierre-Yves David)
-Date: Mon, 25 Feb 2013 14:52:27 +0100
-Subject: [tupperVim] =?iso-8859-1?q?Atelier_VIM_sur_14_mars_=28et_plus_si_?=
-	=?iso-8859-1?q?affinit=E9=29?=
-Message-ID: <20130225135226.GA11616@kraken.insecable.net>
-
-Vimeuse, vimeurs, Mécréants, loutre, papabiles et palmidés,
-
-
-Vous l'attendiez, voici la présentation officiel des ateliers qui se
-dérouleront entre 18h et 20h avant les séances de tuppervim proprement
-dites.
-
-
-TL;DR; Venez deux heures plus tôt pour faire ce qui vous branche autour
-       de vim avec vos petits camarade venus dans le même but au même
-       moment. Racontez ce qui vous branche en avance sur la liste si ça
-       vous chante.
-
-
-Voici plus d'un an que les tuppervims nous rassembles une fois par mois.
-Le bilan est déjà très positif, j'ai appris plein d'astuce pendant que
-mes yeux brillent et mes oreilles fleurissent face à la montagne de
-choses chouettes qui nous ont été présentées.
-
-Mais voila, je pense qu'il est temps de se mettre un peu à la pratique.
-Car comme disait un personnage illustre: Veni, vidi, vimi![1]
-
-Le principe serait de consacrer chaque mois 2h autour de vim et
-d'une table pour faire avancer les choses. Il faut ensuite faire le
-constant suivant:
-
-- 2h c'est ridiculement court,
-- Il n'y a qu'un seul éditeur[2] mais plein d'utilisation,
-- Il y a plein de truc drôle à faire.
-
-Ce qui nous amène à l'organisation suivante: Il n'y a pas de thèmes par
-séance[3]. Le sujet est donc libre. Venez et faites ce
-que vous voulez parmi les choses suivantes:
-
-- Configurer//comparer des plugins pour faire les crêpes (et documenter
-  le processus ?),
-- Écrire outils pour mieux faire le café dans vim,
-- Remonter upstream les améliorations fait par ? sur ?,
-- Écrire de la doc,
-- S'échanger ses vim script en double pour compléter sa collection[3],
-- N'importe quoi d'autre.
-
-Dans la pratique je pense qu'on sera en nombre suffisamment réduit pour
-que l'auto organisation marche à merveille. Les gens qui ont des idées
-les présenteront en début de séances[5] puis des petits groupes[6] se
-formeront pour travailler dessus[7]. Je m'attend à ce que ses petit groupes
-se reforme d'un coup sur l'autre jusqu'à ce que mort de l'idée
-s'ensuive,
-
-À vos clavier
-
-
--- 
-Pierre-Yves David
-
-[1] (Confucius, 1943) Soit traduit de l'araméen: Je suis venu au
-    tuppervim, j'ai vue des choses palmipédiques, maintenant il faut
-    faire du vimscript!
-
-[2] Nous parlons ici d'éditeur, pas de système d'exploitation.
-
-[3] Lancer un groupe de 10 personnes donc sur un nouveau sujet devrait
-    prendre environ 2h? 
-
-[4] Attention Mozilla ne cautionnera pas la vente des vimscript
-    collector brillant contre de l'argent dans ses bureaux
-
-[5] Nous somme en discutions avec TF1 pour une rediffusion live des ses
-    discourt introductif "À la recherche du prochain plugin vim"
-
-[6] petit = [0, ?²[ personnes
-
-[7] Travaillé sur les idées, pas son promoteur.
-
-
-
-
-
-
--------------- section suivante --------------
-Une pièce jointe autre que texte a été nettoyée...
-Nom: signature.asc
-Type: application/pgp-signature
-Taille: 836 octets
-Desc: Digital signature
-URL: <http://mozfr.org/pipermail/tuppervim/attachments/20130225/3cbeca64/attachment.pgp>
-
-From endymion+vim at thetys-retz.net  Mon Feb 25 17:33:05 2013
-From: endymion+vim at thetys-retz.net (Vincent-Xavier JUMEL)
-Date: Mon, 25 Feb 2013 17:33:05 +0100
-Subject: [tupperVim]
- =?utf-8?q?Atelier_VIM_sur_14_mars_=28et_plus_si_affin?=
- =?utf-8?b?aXTDqSk=?=
-In-Reply-To: <20130225135226.GA11616@kraken.insecable.net>
-References: <20130225135226.GA11616@kraken.insecable.net>
-Message-ID: <20130225163305.GA12886@thetys-retz.net>
-
-À ma grande stupeur, je me rends compte que je n'ai jamais signé la clef
-gpg de marmoute. Y'a des gens qui ont des clefs et qui voudraient signer
-à l'occasion d'un tuppervim ?
-
-Un ours lapon fait 3h3j3l3k et ne se retrouve pas à son point de départ.
-Où se trouvait-il ?
-
-Longue vie aux canards \_o<~
--- 
-Vincent-Xavier JUMEL GPG Id: 0x2E14CE70 http://thetys-retz.net
-
-Rejoignez les 4938 adhérents de l'April http://www.april.org/adherer
-Parinux, logiciel libre à Paris : http://www.parinux.org
-
-
-From fpoulain at metrodore.fr  Mon Feb 25 17:39:05 2013
-From: fpoulain at metrodore.fr (=?ISO-8859-1?B?RnJhbudvaXM=?= Poulain)
-Date: Mon, 25 Feb 2013 17:39:05 +0100
-Subject: [tupperVim]
- =?iso-8859-1?q?Atelier_VIM_sur_14_mars_=28et_plus_si_?=
- =?iso-8859-1?q?affinit=E9=29?=
-In-Reply-To: <20130225163305.GA12886@thetys-retz.net>
-References: <20130225135226.GA11616@kraken.insecable.net>
-	<20130225163305.GA12886@thetys-retz.net>
-Message-ID: <20130225173905.688ed10d@mage.lix.polytechnique.fr>
-
-Le Mon, 25 Feb 2013 17:33:05 +0100,
-Vincent-Xavier JUMEL <endymion+vim at thetys-retz.net> a écrit :
-
-> Où se trouvait-il ?
-
-Dans ton cul. Il a refusé de rentrer par la commande k après être sorti
-par j. :)
-
-François
-
--- 
-François Poulain <fpoulain at metrodore.fr>
-
-
-From endymion+vim at thetys-retz.net  Mon Feb 25 17:42:12 2013
-From: endymion+vim at thetys-retz.net (Vincent-Xavier JUMEL)
-Date: Mon, 25 Feb 2013 17:42:12 +0100
-Subject: [tupperVim]
- =?utf-8?q?Atelier_VIM_sur_14_mars_=28et_plus_si_affin?=
- =?utf-8?b?aXTDqSk=?=
-In-Reply-To: <20130225173905.688ed10d@mage.lix.polytechnique.fr>
-References: <20130225135226.GA11616@kraken.insecable.net>
-	<20130225163305.GA12886@thetys-retz.net>
-	<20130225173905.688ed10d@mage.lix.polytechnique.fr>
-Message-ID: <20130225164211.GA12971@thetys-retz.net>
-
-Le 25 février à 17:39 Francois Poulain a écrit
-> Le Mon, 25 Feb 2013 17:33:05 +0100,
-> Vincent-Xavier JUMEL <endymion+vim at thetys-retz.net> a écrit :
-> 
-> > Où se trouvait-il ?
-> 
-> Dans ton cul. Il a refusé de rentrer par la commande k après être sorti
-> par j. :)
-> 
-Hum, je l'aurais senti ;-)
--- 
-Vincent-Xavier JUMEL GPG Id: 0x2E14CE70 http://thetys-retz.net
-
-Rejoignez les 4938 adhérents de l'April http://www.april.org/adherer
-Parinux, logiciel libre à Paris : http://www.parinux.org
-
-
+Oui, et puis c'e

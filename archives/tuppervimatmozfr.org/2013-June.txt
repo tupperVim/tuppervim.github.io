@@ -6,30 +6,30 @@ Message-ID: <51AA080A.4090509@cazenave.cc>
 
 Chers tous,
 
-suite à un planning un peu bousculé début juin, les prochaines agapes 
-vimistes auront lieu le jeudi 20 juin, à 20h dans les locaux Mozilla 
-[1]. Les locaux auront été inaugurés officiellement la semaine 
-précédente, donc logiquement ce coup-ci on sera au top !
+suite Ã  un planning un peu bousculÃ© dÃ©but juin, les prochaines agapes 
+vimistes auront lieu le jeudi 20 juin, Ã  20h dans les locaux Mozilla 
+[1]. Les locaux auront Ã©tÃ© inaugurÃ©s officiellement la semaine 
+prÃ©cÃ©dente, donc logiquement ce coup-ci on sera au top !
 
-Ça sera notre dernière soirée Vim avant la coupure d?été (j?espère bien 
-qu?on reprendra en septembre?), et toutes les idées pour marquer le coup 
+Ã‡a sera notre derniÃ¨re soirÃ©e Vim avant la coupure d?Ã©tÃ© (j?espÃ¨re bien 
+qu?on reprendra en septembre?), et toutes les idÃ©es pour marquer le coup 
 seront bienvenues. Il vous reste un peu moins de trois semaines pour y 
-penser, soyez créatifs. :-)
+penser, soyez crÃ©atifs. :-)
 
 Plus que jamais, je vous demande de bien vous inscrire sur le framadate 
-pour qu?on puisse préparer la salle en conséquence :
+pour qu?on puisse prÃ©parer la salle en consÃ©quence :
    http://www.framadate.org/studs.php?sondage=tare2tcypgxrmrh7
 
-? et d?annoncer les sujets que vous allez présenter sur l?etherpad (ou 
-tout autre suggestion pour la soirée) :
+? et d?annoncer les sujets que vous allez prÃ©senter sur l?etherpad (ou 
+tout autre suggestion pour la soirÃ©e) :
    https://etherpad.mozilla.org/TupperVim-1306
 
 Paix, amour et canetons pour tous.
-:kazé
+:kazÃ©
 
 -- 
-[1] 16 bis boulevard Montmartre, Paris ? métro : Richelieu-Drouot
-Demander les codes d?accès sur : irc://irc.mozilla.org/tupperVim
+[1] 16 bis boulevard Montmartre, Paris ? mÃ©tro : Richelieu-Drouot
+Demander les codes d?accÃ¨s sur : irc://irc.mozilla.org/tupperVim
 Plus d?infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
 
 

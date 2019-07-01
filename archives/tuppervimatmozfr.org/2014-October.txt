@@ -11,25 +11,25 @@ c'est mardi prochain :
 
 Camarades vimistes,
 
-Après la rentrée sur un temps estival, les agapes reprennent et
+AprÃ¨s la rentrÃ©e sur un temps estival, les agapes reprennent et
 auront lieu comme d'habitude le premier mardi du mois
-(mardi 7 octobre) dans les locaux de Mozilla de 20h à 22h.
+(mardi 7 octobre) dans les locaux de Mozilla de 20h Ã  22h.
 Merci de vous annoncer sur le pad comme il se doit :
 
   https://etherpad.mozilla.org/TupperVim-1410
 
-La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+La procÃ©dure pour se faire ouvrir la porte Ã©tant toujours aussi pÃ©nible, je
 ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
-les numéros présents sur le pad pour qu?on vienne vous ouvrir.
+les numÃ©ros prÃ©sents sur le pad pour qu?on vienne vous ouvrir.
 
-Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
-(un espace est dédié à cette question sur le pad).
+Concernant la nourriture comme toujours on ramÃ¨ne ce qu'on souhaite manger
+(un espace est dÃ©diÃ© Ã  cette question sur le pad).
 
-Un email de rappel sera probablement envoyé quelques jours/heures avant les
-agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?événement
+Un email de rappel sera probablement envoyÃ© quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?Ã©vÃ©nement
 dans votre agenda.
 
-D?ici là, soyez de bons citoyens : prenez les transports en commun, les
+D?ici lÃ , soyez de bons citoyens : prenez les transports en commun, les
 velib', les autolib', ne tuez pas de vieilles dames, donnez de l?amour aux
 canards !
 
@@ -39,7 +39,7 @@ canards !
 
 maggick
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20141003/572f0128/attachment.html>
 
 From keller.mdpa at gmail.com  Thu Oct 23 10:23:55 2014
@@ -51,26 +51,26 @@ Message-ID: <CAM+ya-CVuD_hipMC+oEX0R=+Kme9sCSSkzR1B7mSHHD0cZhjTA@mail.gmail.com>
 
 Camarades vimistes,
 
-Suite aux chutes récentes des températures, nous ne sommes pas en
+Suite aux chutes rÃ©centes des tempÃ©ratures, nous ne sommes pas en
 mesure d'organiser le tuppervim de novembre le premier mardi du mois.
-Le tuppervim aura donc lieu le mardi 18 novembre (le troisième mardi
-du mois)dans les locaux de Mozilla de 20h à 22h.
+Le tuppervim aura donc lieu le mardi 18 novembre (le troisiÃ¨me mardi
+du mois)dans les locaux de Mozilla de 20h Ã  22h.
 Merci de vous annoncer sur le pad comme il se doit :
 
   https://etherpad.mozilla.org/TupperVim-1411
 
-La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+La procÃ©dure pour se faire ouvrir la porte Ã©tant toujours aussi pÃ©nible, je
 ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
-les numéros présents sur le pad pour qu?on vienne vous ouvrir.
+les numÃ©ros prÃ©sents sur le pad pour qu?on vienne vous ouvrir.
 
-Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
-(un espace est dédié à cette question sur le pad).
+Concernant la nourriture comme toujours on ramÃ¨ne ce qu'on souhaite manger
+(un espace est dÃ©diÃ© Ã  cette question sur le pad).
 
-Un email de rappel sera probablement envoyé quelques jours/heures avant les
-agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?événement
+Un email de rappel sera probablement envoyÃ© quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?Ã©vÃ©nement
 dans votre agenda.
 
-D?ici là, soyez de bons citoyens : mettez un bonnet, prenez les transports
+D?ici lÃ , soyez de bons citoyens : mettez un bonnet, prenez les transports
 en commun, les velib', les autolib', ne tuez pas de vieilles dames, donnez
 de l?amour aux canards !
 
@@ -80,6 +80,6 @@ de l?amour aux canards !
 
 maggick
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20141023/9b1afd82/attachment.html>
 

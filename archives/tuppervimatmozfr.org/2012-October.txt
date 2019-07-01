@@ -6,19 +6,19 @@ Message-ID: <506C802B.1020009@cazenave.cc>
 
 Canettes, canetons,
 
-je vous propose une réunion de domination du monde libre, jeudi 11 
-octobre à 20h, dans les locaux Mozilla du 42 rue d?Aboukir.
+je vous propose une rÃ©union de domination du monde libre, jeudi 11 
+octobre Ã  20h, dans les locaux Mozilla du 42 rue d?Aboukir.
 
-  ? règles du jeu : http://wiki.mozfr.org/TupperVim
+  ? rÃ¨gles du jeu : http://wiki.mozfr.org/TupperVim
   ? inscriptions  : http://framadate.org/fgjo1eyjxwc64bve
   ? organisation  : https://etherpad.mozilla.org/TupperVim-1210
 
-J?insiste plus particulièrement sur le «viendez nombreux mais disez-le» 
-cette fois-ci, puisque je dois désormais remplir de la paperasse pour 
-chaque grignotte commandée. Si vous pouviez m?annoncer votre venue (ou 
-pas) avant mercredi 10 au soir, ça serait sympa. ;-)
+J?insiste plus particuliÃ¨rement sur le Â«viendez nombreux mais disez-leÂ» 
+cette fois-ci, puisque je dois dÃ©sormais remplir de la paperasse pour 
+chaque grignotte commandÃ©e. Si vous pouviez m?annoncer votre venue (ou 
+pas) avant mercredi 10 au soir, Ã§a serait sympa. ;-)
 
-Bien amicalement à tous,
+Bien amicalement Ã  tous,
 -- 
 :wq
 
@@ -31,11 +31,11 @@ In-Reply-To: <506C802B.1020009@cazenave.cc>
 References: <506C802B.1020009@cazenave.cc>
 Message-ID: <20121003185146.GB2772@thetys-retz.net>
 
-Le 03 octobre à 20:12 Fabien Cazenave a écrit
->J?insiste plus particulièrement sur le «viendez nombreux mais disez-le»
->cette fois-ci, puisque je dois désormais remplir de la paperasse pour
->chaque grignotte commandée. Si vous pouviez m?annoncer votre venue (ou
->pas) avant mercredi 10 au soir, ça serait sympa. ;-)
+Le 03 octobre Ã  20:12 Fabien Cazenave a Ã©crit
+>J?insiste plus particuliÃ¨rement sur le Â«viendez nombreux mais disez-leÂ»
+>cette fois-ci, puisque je dois dÃ©sormais remplir de la paperasse pour
+>chaque grignotte commandÃ©e. Si vous pouviez m?annoncer votre venue (ou
+>pas) avant mercredi 10 au soir, Ã§a serait sympa. ;-)
 >
 
 Je viens !!
@@ -46,15 +46,15 @@ votre attention sur
 http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/
 et sur http://vim.wikia.com/wiki/A_better_Vimdiff_Git_mergetool
 
-Si on est skyzophrène, on peut venir à 42 ?
+Si on est skyzophrÃ¨ne, on peut venir Ã  42 ?
 
 Bisous, sauf au canards
 -- 
 :wq
 Vincent-Xavier JUMEL GPG Id: 0x2E14CE70 http://thetys-retz.net
 
-Rejoignez les 4988 adhérents de l'April http://www.april.org/adherer
-Parinux, logiciel libre à Paris : http://www.parinux.org
+Rejoignez les 4988 adhÃ©rents de l'April http://www.april.org/adherer
+Parinux, logiciel libre Ã  Paris : http://www.parinux.org
 
 
 From hobbestigrou at erakis.im  Thu Oct  4 22:02:41 2012
@@ -65,17 +65,17 @@ In-Reply-To: <506C802B.1020009@cazenave.cc>
 References: <506C802B.1020009@cazenave.cc>
 Message-ID: <CANfeGsvi-8gGZpBEpXr2UhM_W4THYmhPPp=u7TA9dHrNde7ArA@mail.gmail.com>
 
-Le 3 octobre 2012 20:12, Fabien Cazenave <fabien at cazenave.cc> a écrit :
-> je vous propose une réunion de domination du monde libre, jeudi 11 octobre à
+Le 3 octobre 2012 20:12, Fabien Cazenave <fabien at cazenave.cc> a Ã©crit :
+> je vous propose une rÃ©union de domination du monde libre, jeudi 11 octobre Ã 
 > 20h, dans les locaux Mozilla du 42 rue d?Aboukir.
-Ok cette fois-ci, je devrai être là, si j'ai pas de soucis, mais ça
+Ok cette fois-ci, je devrai Ãªtre lÃ , si j'ai pas de soucis, mais Ã§a
 devrait aller.
 
-> J?insiste plus particulièrement sur le «viendez nombreux mais disez-le»
-> cette fois-ci, puisque je dois désormais remplir de la paperasse pour chaque
-> grignotte commandée. Si vous pouviez m?annoncer votre venue (ou pas) avant
-> mercredi 10 au soir, ça serait sympa. ;-)
-Il y a plus de place maintenant, c'est bien ça ? Si oui, je vais
+> J?insiste plus particuliÃ¨rement sur le Â«viendez nombreux mais disez-leÂ»
+> cette fois-ci, puisque je dois dÃ©sormais remplir de la paperasse pour chaque
+> grignotte commandÃ©e. Si vous pouviez m?annoncer votre venue (ou pas) avant
+> mercredi 10 au soir, Ã§a serait sympa. ;-)
+Il y a plus de place maintenant, c'est bien Ã§a ? Si oui, je vais
 essayer de faire de la pub pour attirer un peu de monde.
 
 -- 
@@ -92,14 +92,14 @@ References: <506C802B.1020009@cazenave.cc>
 	<CANfeGsvi-8gGZpBEpXr2UhM_W4THYmhPPp=u7TA9dHrNde7ArA@mail.gmail.com>
 Message-ID: <506DF747.8020609@cazenave.cc>
 
-On 04/10/12 22:02, Natal Ngétal wrote:
-> Il y a plus de place maintenant, c'est bien ça ? Si oui, je vais
+On 04/10/12 22:02, Natal NgÃ©tal wrote:
+> Il y a plus de place maintenant, c'est bien Ã§a ? Si oui, je vais
 > essayer de faire de la pub pour attirer un peu de monde.
 >
 
 Oui, on a de quoi accueillir du monde maintenant. :-)
 -- 
-:kazé
+:kazÃ©
 
 
 From fabien at cazenave.cc  Fri Oct 26 22:32:13 2012
@@ -108,23 +108,23 @@ Date: Fri, 26 Oct 2012 22:32:13 +0200
 Subject: [tupperVim] Session de Novembre 2012
 Message-ID: <508AF34D.6050101@cazenave.cc>
 
-Très chers nerds,
+TrÃ¨s chers nerds,
 
-n?étant dispo ni le 1er novembre (férié) ni le 8 (déplacement 
+n?Ã©tant dispo ni le 1er novembre (fÃ©riÃ©) ni le 8 (dÃ©placement 
 professionnel), je vous propose la date du jeudi 15/11 pour nos 
 prochaines agapes Vimistes.
 
-  ? règles du jeu : http://wiki.mozfr.org/TupperVim
+  ? rÃ¨gles du jeu : http://wiki.mozfr.org/TupperVim
   ? inscriptions  : http://framadate.org/fgjo1eyjxwc64bve
   ? organisation  : https://etherpad.mozilla.org/TupperVim-1211
 
-Ça se passe toujours au 43 rue d?Aboukir. Attention : les codes d?entrée 
-ont changé, passez sur le canal irc://irc.mozilla.org/#tupperVim pour 
+Ã‡a se passe toujours au 43 rue d?Aboukir. Attention : les codes d?entrÃ©e 
+ont changÃ©, passez sur le canal irc://irc.mozilla.org/#tupperVim pour 
 avoir les nouveaux codes SVP.
 
-Un truc qu?on aurait dû faire depuis un moment : ça serait sympa 
+Un truc qu?on aurait dÃ» faire depuis un moment : Ã§a serait sympa 
 d?imprimer trois/quatre affiches A4 pour baliser le passage de la porte 
-cochère jusqu?au bureau Mozilla. Un volontaire pour ça ?
+cochÃ¨re jusqu?au bureau Mozilla. Un volontaire pour Ã§a ?
 
 Paix, amour et canards,
 -- 
@@ -146,6 +146,6 @@ Oops, pardon pour l?erreur de copier/coller, l?inscription c?est ici :
 http://framadate.org/v2gijj8iw5sv7xmf
 
 -- 
-:kazé
+:kazÃ©
 
 

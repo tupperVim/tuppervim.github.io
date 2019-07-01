@@ -4,7 +4,7 @@ Date: Fri, 2 Sep 2016 15:46:46 +0200
 Subject: [tupperVim] =?utf-8?q?Agapes_de_rentr=C3=A9_-_Paris_-_rappel?=
 Message-ID: <CAM+ya-Ac7Wiyk7GCAWqj4ScVh3ZafTKnf-+_hHQ7wRavfcJkgw@mail.gmail.com>
 
-Les agapes de rentré c'est mardi !
+Les agapes de rentrÃ© c'est mardi !
 Viendez nombreux et inscrivez vous su le pad:
 https://public.etherpad-mozilla.org/p/TupperVim-1609
 
@@ -12,27 +12,27 @@ https://public.etherpad-mozilla.org/p/TupperVim-1609
 
 Camarades vimistes,
 
-Le tuppervim de septembre est prêt :
+Le tuppervim de septembre est prÃªt :
 Il aura lieu le premier mardi du mois, le 06 septembre dans les locaux
 de Mozilla
-(Paris) de 20h à 22h.
-L'apéro aura lieu de 19h15 à 20h.
+(Paris) de 20h Ã  22h.
+L'apÃ©ro aura lieu de 19h15 Ã  20h.
 Merci de vous annoncer sur le pad comme il se doit :
 
 https://public.etherpad-mozilla.org/p/TupperVim-1609
 
-La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je ne
+La procÃ©dure pour se faire ouvrir la porte Ã©tant toujours aussi pÃ©nible, je ne
 saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer le(s)
-numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+numÃ©ro(s) prÃ©sent(s) sur la porte pour qu?on vienne vous ouvrir.
 
-Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
-espace est dédié à La question sur le pad).
+Concernant la nourriture comme toujours on ramÃ¨ne ce qu'on souhaite manger (un
+espace est dÃ©diÃ© Ã  La question sur le pad).
 
-Un email de rappel sera probablement envoyé quelques jours/heures avant les
-agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+Un email de rappel sera probablement envoyÃ© quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?Ã©vÃ¨nement
 dans votre agenda.
 
-D?ici là, soyez de bons citoyens et donnez de l?amour aux canards et profitez du
+D?ici lÃ , soyez de bons citoyens et donnez de l?amour aux canards et profitez du
 soleil Parisien.
 Bonne vacances
 
@@ -51,27 +51,27 @@ Message-ID: <CAM+ya-CqwJtOJpNsetGLsPoaUuL49VHktuCrCtc1HJKKfenC5w@mail.gmail.com>
 
 Camarades vimistes,
 
-Le tuppervim d'octobre est prêt :
+Le tuppervim d'octobre est prÃªt :
 Il aura lieu le premier mardi du mois, le 04 octobre dans les locaux
 de Mozilla
-(Paris) de 20h à 22h.
-L'apéro aura lieu de 19h15 à 20h.
+(Paris) de 20h Ã  22h.
+L'apÃ©ro aura lieu de 19h15 Ã  20h.
 Merci de vous annoncer sur le pad comme il se doit :
 
 https://public.etherpad-mozilla.org/p/TupperVim-1610
 
-La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je ne
+La procÃ©dure pour se faire ouvrir la porte Ã©tant toujours aussi pÃ©nible, je ne
 saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer le(s)
-numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+numÃ©ro(s) prÃ©sent(s) sur la porte pour qu?on vienne vous ouvrir.
 
-Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
-espace est dédié à La question sur le pad).
+Concernant la nourriture comme toujours on ramÃ¨ne ce qu'on souhaite manger (un
+espace est dÃ©diÃ© Ã  La question sur le pad).
 
-Un email de rappel sera probablement envoyé quelques jours/heures avant les
-agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+Un email de rappel sera probablement envoyÃ© quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?Ã©vÃ¨nement
 dans votre agenda.
 
-D?ici là, soyez de bons citoyens et donnez de l?amour aux canards et
+D?ici lÃ , soyez de bons citoyens et donnez de l?amour aux canards et
 ramassez les feuilles.
 Bonne vacances
 

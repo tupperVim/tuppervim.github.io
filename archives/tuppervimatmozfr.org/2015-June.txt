@@ -4,7 +4,7 @@ Date: Mon, 1 Jun 2015 15:42:46 +0200
 Subject: [tupperVim] agapes de juin 2015
 Message-ID: <CAM+ya-B72=zHH3CA6zL-T24=+tigMGFCNdWkJdVyoqyz-TKdKA@mail.gmail.com>
 
-Contrairement à ce qui a été annoncé il y a deux semaines,
+Contrairement Ã  ce qui a Ã©tÃ© annoncÃ© il y a deux semaines,
 le Tuppervim de juin aura lieu le mardi 16 juin pour des raisons
 logistiques.
 
@@ -16,25 +16,25 @@ Fort en avance, nous organisons le tuppervim de juin le premier mardi du
 mois.
 Le tuppervim aura donc lieu le mardi 16 juin dans les locaux de Mozilla
 
-de 20h à 22h.
-L'apéro aura lieu de 19h15 à 20h
+de 20h Ã  22h.
+L'apÃ©ro aura lieu de 19h15 Ã  20h
 Merci de vous annoncer sur le pad comme il se doit :
 
 https://etherpad.mozilla.org/TupperVim-1506
 
-La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+La procÃ©dure pour se faire ouvrir la porte Ã©tant toujours aussi pÃ©nible, je
 ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
-les numéros présents sur le pad pour qu?on vienne vous ouvrir.
+les numÃ©ros prÃ©sents sur le pad pour qu?on vienne vous ouvrir.
 
-Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
-(un espace est dédié à cette question sur le pad).
+Concernant la nourriture comme toujours on ramÃ¨ne ce qu'on souhaite manger
+(un espace est dÃ©diÃ© Ã  cette question sur le pad).
 
-Un email de rappel sera probablement envoyé quelques jours/heures avant les
-agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?événement
+Un email de rappel sera probablement envoyÃ© quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?Ã©vÃ©nement
 dans votre agenda.
 
-D?ici là, soyez de bons citoyens : prenez les transports
-en commun, buvez de l'eau, mangez des pommes, changez régulièrement
+D?ici lÃ , soyez de bons citoyens : prenez les transports
+en commun, buvez de l'eau, mangez des pommes, changez rÃ©guliÃ¨rement
 vos mots de passe et donnez de l?amour aux canards !
 
 \_o<
@@ -44,7 +44,7 @@ Velociraptor | \_x<
 
 maggick
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150601/ba750397/attachment.html>
 
 From florent.fayolle69 at gmail.com  Sat Jun  6 23:58:27 2015
@@ -54,32 +54,32 @@ Subject: [tupperVim] Lancement officiel des TupperVims sur Lyon le 24 juin
 	2015
 Message-ID: <55736D03.1080908@gmail.com>
 
-Oyez camarades vimistes, car j'ai une annonce importante à vous faire !
+Oyez camarades vimistes, car j'ai une annonce importante Ã  vous faire !
 
-Après Paris et Grenoble, une nouvelle ville entre dans les ordres : Lyon.
+AprÃ¨s Paris et Grenoble, une nouvelle ville entre dans les ordres : Lyon.
 
-C'est en effet grâce au travail acharné de sieur Yakulu et de votre 
-serviteur que seront organisés environ
-tous les deux mois sur Lyon les soirées TupperVim avec l'ALDIL 
+C'est en effet grÃ¢ce au travail acharnÃ© de sieur Yakulu et de votre 
+serviteur que seront organisÃ©s environ
+tous les deux mois sur Lyon les soirÃ©es TupperVim avec l'ALDIL 
 (http://www.aldil.org/ ),
-et ce malgré les vives oppositions de l'Association pour la Défense de 
-l'Intégrité des Palmipèdes de Lyon.
+et ce malgrÃ© les vives oppositions de l'Association pour la DÃ©fense de 
+l'IntÃ©gritÃ© des PalmipÃ¨des de Lyon.
 
-Si vous êtes de Lyon, ou tout simplement de grands fans de Vim ou de Kazé,
+Si vous Ãªtes de Lyon, ou tout simplement de grands fans de Vim ou de KazÃ©,
 vous pouvez inscrire la date et le lieu suivant dans votre agenda (ou 
 vous le tatouer sur la fesse gauche).
 Ce sera donc :
 
-        Le 24 juin 2015, de 19h30 à 21h30
-        À l'Épitech de Lyon, 156 rue Paul Bert, Lyon 3ème.
+        Le 24 juin 2015, de 19h30 Ã  21h30
+        Ã€ l'Ã‰pitech de Lyon, 156 rue Paul Bert, Lyon 3Ã¨me.
 
-Merci d'inscrire votre nom dans l'Étherpad qui suit :
+Merci d'inscrire votre nom dans l'Ã‰therpad qui suit :
 https://etherpad.mozilla.org/TupperVim-lyon-1506
 
-Prévoyez aussi de quoi boire et grignoter après la fin de la session 
-(dès 21h30).
+PrÃ©voyez aussi de quoi boire et grignoter aprÃ¨s la fin de la session 
+(dÃ¨s 21h30).
 
-D'ici là, soyez sages et soignez vos tulipes !
+D'ici lÃ , soyez sages et soignez vos tulipes !
 
  >o?\
 Florent
@@ -102,25 +102,25 @@ Fort en avance, nous organisons le tuppervim de juin le premier mardi du
 mois (enfin presque).
 Le tuppervim aura donc lieu le mardi 16 juin dans les locaux de Mozilla
 
-de 20h à 22h.
-L'apéro aura lieu de 19h15 à 20h
+de 20h Ã  22h.
+L'apÃ©ro aura lieu de 19h15 Ã  20h
 Merci de vous annoncer sur le pad comme il se doit :
 
 https://etherpad.mozilla.org/TupperVim-1506
 
-La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+La procÃ©dure pour se faire ouvrir la porte Ã©tant toujours aussi pÃ©nible, je
 ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
-les numéros présents sur le pad pour qu?on vienne vous ouvrir.
+les numÃ©ros prÃ©sents sur le pad pour qu?on vienne vous ouvrir.
 
-Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
-(un espace est dédié à cette question sur le pad).
+Concernant la nourriture comme toujours on ramÃ¨ne ce qu'on souhaite manger
+(un espace est dÃ©diÃ© Ã  cette question sur le pad).
 
-Un email de rappel sera probablement envoyé quelques jours/heures avant les
-agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?événement
+Un email de rappel sera probablement envoyÃ© quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?Ã©vÃ©nement
 dans votre agenda.
 
-D?ici là, soyez de bons citoyens : prenez les transports
-en commun, buvez de l'eau, mangez des pommes, changez régulièrement
+D?ici lÃ , soyez de bons citoyens : prenez les transports
+en commun, buvez de l'eau, mangez des pommes, changez rÃ©guliÃ¨rement
 vos mots de passe et donnez de l?amour aux canards !
 
 \_o<
@@ -130,7 +130,7 @@ Velociraptor | \_x<
 
 maggick
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150615/9fc9d6db/attachment.html>
 
 From keller.mdpa at gmail.com  Mon Jun 29 16:26:52 2015
@@ -142,37 +142,37 @@ Message-ID: <CAM+ya-A8KJk=0FMMcPO=ZHfdD-OxWByRKNn_Ez9ASz0GpBn2vA@mail.gmail.com>
 
 Camarades vimistes,
 
-C'est l'été (vous aviez remarqué ?), c'est le bbq tuppervim !
+C'est l'Ã©tÃ© (vous aviez remarquÃ© ?), c'est le bbq tuppervim !
 
-Pour le troisième été consécutif, nous organisons dans les locaux du loop un
-barbecue pendant que d'autres sont en vacances à la plage (ou à la
+Pour le troisiÃ¨me Ã©tÃ© consÃ©cutif, nous organisons dans les locaux du loop un
+barbecue pendant que d'autres sont en vacances Ã  la plage (ou Ã  la
 montagne, on
 n'a rien contre).
 
-Nous pourront partager des brochettes, des saucisses, de la bière, du
+Nous pourront partager des brochettes, des saucisses, de la biÃ¨re, du
 fromage, du
-vin ou ce que vous voudrez (ou plutôt ce que vous ramènerez).
+vin ou ce que vous voudrez (ou plutÃ´t ce que vous ramÃ¨nerez).
 
-Les « agapes » auront lieu le samedi 18 juillet de 16h à 22h au Loop, en
-extérieur, au :
+Les Â« agapes Â» auront lieu le samedi 18 juillet de 16h Ã  22h au Loop, en
+extÃ©rieur, au :
   20 rue de Reuilly 75012 Paris
   http://leloop.org/where.html
 
-Vous pouvez en profiter pour venir accompagné d'utilisat[eurs|rices]
+Vous pouvez en profiter pour venir accompagnÃ© d'utilisat[eurs|rices]
 d'autres
-éditeurs de texte (ou ne sachant pas ce qu'est un éditeur de texte) afin que
+Ã©diteurs de texte (ou ne sachant pas ce qu'est un Ã©diteur de texte) afin que
 nous les mettions dans le droit chemin.
 
-Comme d'habitude, complétez le pad notamment pour des questions logistiques
+Comme d'habitude, complÃ©tez le pad notamment pour des questions logistiques
 :
 
   https://etherpad.mozilla.org/TupperVim-1507
 
-PS : il n'y aura pas de session en août et nous serons de retour début
+PS : il n'y aura pas de session en aoÃ»t et nous serons de retour dÃ©but
 septembre
 
 
-D?ici là, soyez de bons citoyens : Buvez et pensez à mémé !
+D?ici lÃ , soyez de bons citoyens : Buvez et pensez Ã  mÃ©mÃ© !
 
 --
 
@@ -180,6 +180,6 @@ maggick
 
 http://tuppervim.org
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150629/2ad2c75b/attachment.html>
 

@@ -7,22 +7,22 @@ Message-ID: <50BD1B32.1060209@cazenave.cc>
 Canettes, canetons,
 
 renouons avec les concepts d?origine de tupperVim, en particulier : 
-l?annonce à l?arrache. J?ai donc la joie de vous annoncer que les agapes 
-de décembre se tiendront jeudi prochain 6 décembre, à 20h dans les 
+l?annonce Ã  l?arrache. J?ai donc la joie de vous annoncer que les agapes 
+de dÃ©cembre se tiendront jeudi prochain 6 dÃ©cembre, Ã  20h dans les 
 locaux Mozilla.
 
-  ? règles du jeu : http://wiki.mozfr.org/TupperVim
+  ? rÃ¨gles du jeu : http://wiki.mozfr.org/TupperVim
   ? inscriptions  : http://framadate.org/7gg7mkprm9p4zbmb
   ? organisation  : https://etherpad.mozilla.org/TupperVim-1212
 
-Ça se passe toujours au 43 rue d?Aboukir. Passez sur le canal 
-irc://irc.mozilla.org/#tupperVim pour avoir les codes d?accès.
+Ã‡a se passe toujours au 43 rue d?Aboukir. Passez sur le canal 
+irc://irc.mozilla.org/#tupperVim pour avoir les codes d?accÃ¨s.
 
-Comme toujours, ce sont vos contributions qui feront le succès de la 
-soirée : astuces Vim ou CLI, plugins, autres logiciels, sans oublier les 
+Comme toujours, ce sont vos contributions qui feront le succÃ¨s de la 
+soirÃ©e : astuces Vim ou CLI, plugins, autres logiciels, sans oublier les 
 grignottes et les boissons.
 
-À jeudi !
+Ã€ jeudi !
 -- 
 :wq
 
@@ -35,23 +35,23 @@ Message-ID: <50D07116.6050800@cazenave.cc>
 
 Canettes, canetons,
 
-la première session TupperVim d?après la fin du monde aura lieu le jeudi 
-3 janvier 2013, à 20h dans les bureaux Mozilla (43 rue d?Aboukir).
+la premiÃ¨re session TupperVim d?aprÃ¨s la fin du monde aura lieu le jeudi 
+3 janvier 2013, Ã  20h dans les bureaux Mozilla (43 rue d?Aboukir).
 
-  ? règles du jeu : http://wiki.mozfr.org/TupperVim
+  ? rÃ¨gles du jeu : http://wiki.mozfr.org/TupperVim
   ? inscriptions  : http://framadate.org/veioncrcm8haf423
   ? organisation  : https://etherpad.mozilla.org/TupperVim-1301
 
 Passez sur le canal irc://irc.mozilla.org/#tupperVim pour avoir les 
-codes d?accès si besoin est.
+codes d?accÃ¨s si besoin est.
 
 Comme d?habitude, les contributions sont les bienvenues ? qu?il s?agisse 
-de démos Vim, de présentation d?autres outils, ou tout simplement d?une 
-bouteille ou d?un gâteau à partager.
+de dÃ©mos Vim, de prÃ©sentation d?autres outils, ou tout simplement d?une 
+bouteille ou d?un gÃ¢teau Ã  partager.
 
-Bonnes fêtes à toutes et tous !
+Bonnes fÃªtes Ã  toutes et tous !
 -- 
-:kazé
+:kazÃ©
 
 
 From hobbestigrou at erakis.im  Tue Dec 18 16:57:23 2012
@@ -62,22 +62,22 @@ In-Reply-To: <50D07116.6050800@cazenave.cc>
 References: <50D07116.6050800@cazenave.cc>
 Message-ID: <CANfeGsvW=3iB1iJ5AFpa7wo0xCx4UsGL_z15aYCm3JsN7k-pDg@mail.gmail.com>
 
-Le 18 décembre 2012 14:35, Fabien Cazenave <fabien at cazenave.cc> a écrit :
-> la première session TupperVim d?après la fin du monde aura lieu le jeudi 3
-> janvier 2013, à 20h dans les bureaux Mozilla (43 rue d?Aboukir).
-Cool, on commence directement après la nouvelle année.
+Le 18 dÃ©cembre 2012 14:35, Fabien Cazenave <fabien at cazenave.cc> a Ã©crit :
+> la premiÃ¨re session TupperVim d?aprÃ¨s la fin du monde aura lieu le jeudi 3
+> janvier 2013, Ã  20h dans les bureaux Mozilla (43 rue d?Aboukir).
+Cool, on commence directement aprÃ¨s la nouvelle annÃ©e.
 
 > Passez sur le canal irc://irc.mozilla.org/#tupperVim pour avoir les codes
-> d?accès si besoin est.
+> d?accÃ¨s si besoin est.
 Ok.
 
 > Comme d?habitude, les contributions sont les bienvenues ? qu?il s?agisse de
-> démos Vim, de présentation d?autres outils, ou tout simplement d?une
-> bouteille ou d?un gâteau à partager.
-Oui, cette fois-ci ça devrait le faire, ça va être dans mes bonnes
-résolutions de la nouvelle année.
+> dÃ©mos Vim, de prÃ©sentation d?autres outils, ou tout simplement d?une
+> bouteille ou d?un gÃ¢teau Ã  partager.
+Oui, cette fois-ci Ã§a devrait le faire, Ã§a va Ãªtre dans mes bonnes
+rÃ©solutions de la nouvelle annÃ©e.
 
-> Bonnes fêtes à toutes et tous !
+> Bonnes fÃªtes Ã  toutes et tous !
 Merci toi aussi.
 
 --

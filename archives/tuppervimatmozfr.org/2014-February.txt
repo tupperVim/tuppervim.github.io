@@ -4,21 +4,21 @@ Date: Tue, 25 Feb 2014 09:05:02 +0100
 Subject: [tupperVim] =?utf-8?q?Soir=C3=A9e_de_mars_2014?=
 Message-ID: <530C4EAE.6080802@mozilla.com>
 
-Chers palmipèdes vimistes,
+Chers palmipÃ¨des vimistes,
 
-le prochain atelier « Vim et plus si affinités » aura lieu mardi 
-prochain, le 4 mars, de 20h à 22h, dans la salle de bar & baby-foot de 
+le prochain atelier Â« Vim et plus si affinitÃ©s Â» aura lieu mardi 
+prochain, le 4 mars, de 20h Ã  22h, dans la salle de bar & baby-foot de 
 Mozilla [1] :
 
    https://etherpad.mozilla.org/TupperVim-1403
 
-On m?a assuré que l?interphone fonctionnerait. Mouahahahaha ! :-D
-Pour éviter de rester coincé dehors, appelez-moi sur mon GSM :
+On m?a assurÃ© que l?interphone fonctionnerait. Mouahahahaha ! :-D
+Pour Ã©viter de rester coincÃ© dehors, appelez-moi sur mon GSM :
 07 89 58 38 50.
 
 Paix, amour, \_o<
 -- 
-[1] 16 bis boulevard Montmartre, Paris ? métro : Richelieu-Drouot
+[1] 16 bis boulevard Montmartre, Paris ? mÃ©tro : Richelieu-Drouot
 Plus d?infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
 
 
@@ -30,28 +30,28 @@ In-Reply-To: <530C4EAE.6080802@mozilla.com>
 References: <530C4EAE.6080802@mozilla.com>
 Message-ID: <CAJRERJWo7VOBJc287jy3zxC=dV9iD7Wzvf6W0c7aYK=Ke9845w@mail.gmail.com>
 
-Il y a des chances pour que j'arrive en retard, c'est la même soirée que la
-conf de Vinton Cerf (à 18:00 à jussieu)
+Il y a des chances pour que j'arrive en retard, c'est la mÃªme soirÃ©e que la
+conf de Vinton Cerf (Ã  18:00 Ã  jussieu)
 http://colloquium.lip6.fr/Cerf-2014-03/
 
 -- 
 nojhan
-Le 25 févr. 2014 09:05, "Fabien Cazenave" <kaze at mozilla.com> a écrit :
+Le 25 fÃ©vr. 2014 09:05, "Fabien Cazenave" <kaze at mozilla.com> a Ã©crit :
 
-> Chers palmipèdes vimistes,
+> Chers palmipÃ¨des vimistes,
 >
-> le prochain atelier << Vim et plus si affinités >> aura lieu mardi prochain,
-> le 4 mars, de 20h à 22h, dans la salle de bar & baby-foot de Mozilla [1] :
+> le prochain atelier << Vim et plus si affinitÃ©s >> aura lieu mardi prochain,
+> le 4 mars, de 20h Ã  22h, dans la salle de bar & baby-foot de Mozilla [1] :
 >
 >   https://etherpad.mozilla.org/TupperVim-1403
 >
-> On m'a assuré que l'interphone fonctionnerait. Mouahahahaha ! :-D
-> Pour éviter de rester coincé dehors, appelez-moi sur mon GSM :
+> On m'a assurÃ© que l'interphone fonctionnerait. Mouahahahaha ! :-D
+> Pour Ã©viter de rester coincÃ© dehors, appelez-moi sur mon GSM :
 > 07 89 58 38 50.
 >
 > Paix, amour, \_o<
 > --
-> [1] 16 bis boulevard Montmartre, Paris -- métro : Richelieu-Drouot
+> [1] 16 bis boulevard Montmartre, Paris -- mÃ©tro : Richelieu-Drouot
 > Plus d'infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
 >
 > _______________________________________________
@@ -60,6 +60,6 @@ Le 25 févr. 2014 09:05, "Fabien Cazenave" <kaze at mozilla.com> a écrit :
 > http://mozfr.org/mailman/listinfo/tuppervim
 >
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20140228/014a3ff2/attachment.html>
 

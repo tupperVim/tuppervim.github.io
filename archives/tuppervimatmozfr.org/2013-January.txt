@@ -7,38 +7,38 @@ Message-ID: <50E6A9D5.2090706@mozilla.com>
 Chers camarades vimistes,
 
 une fois n?est pas coutume, on va essayer d?annoncer les prochaines 
-agapes Vimesques un mois à l?avance ! Du jamais vu dans ce projet !
+agapes Vimesques un mois Ã  l?avance ! Du jamais vu dans ce projet !
 
-  ? règles du jeu : http://wiki.mozfr.org/TupperVim
+  ? rÃ¨gles du jeu : http://wiki.mozfr.org/TupperVim
   ? inscriptions  : http://framadate.org/nqtfytxt6s1j6271
   ? organisation  : https://etherpad.mozilla.org/TupperVim-1302
 
-Notez que la soirée d?hier, bien que fort sympathique (merci aux 
-participants !), a été la soirée la moins préparée de toute l?histoire 
-tupperVim : rien sur le pad, et personne ou presque n?avait anticipé une 
-présentation. Je crois qu?on a atteint là les limites du concept «soirée 
-tupperware» : il en a résulté un je-ne-sais-quoi d?amateurisme qui ne 
-saurait refléter durablement le niveau d?excellence auquel nous sommes 
-tous habitués.
+Notez que la soirÃ©e d?hier, bien que fort sympathique (merci aux 
+participants !), a Ã©tÃ© la soirÃ©e la moins prÃ©parÃ©e de toute l?histoire 
+tupperVim : rien sur le pad, et personne ou presque n?avait anticipÃ© une 
+prÃ©sentation. Je crois qu?on a atteint lÃ  les limites du concept Â«soirÃ©e 
+tupperwareÂ» : il en a rÃ©sultÃ© un je-ne-sais-quoi d?amateurisme qui ne 
+saurait reflÃ©ter durablement le niveau d?excellence auquel nous sommes 
+tous habituÃ©s.
 
-Comme c?est encore la période des bonnes résolutions de début d?année, 
+Comme c?est encore la pÃ©riode des bonnes rÃ©solutions de dÃ©but d?annÃ©e, 
 je vous propose d?essayer d?anticiper un peu mieux les prochaines agapes 
 en utilisant le pad :
 
-  ? soit pour proposer une présentation de plugin / astuce / autre ;
-  ? soit pour *demander* une présentation sur un sujet précis.
+  ? soit pour proposer une prÃ©sentation de plugin / astuce / autre ;
+  ? soit pour *demander* une prÃ©sentation sur un sujet prÃ©cis.
 
-Étant bien trop fainéant pour proposer une présentation, j?inaugure donc 
-cette section «Sujets Souhaités» avec fugitive.vim (qui va devenir 
-l?arlésienne de ces soirées ^^) et le prompt zsh. S?il y en a qui se 
-sentent aptes à présenter l?un de ces «sujets souhaités», merci de vous 
-signaler dans la section «Sujets Proposés».
+Ã‰tant bien trop fainÃ©ant pour proposer une prÃ©sentation, j?inaugure donc 
+cette section Â«Sujets SouhaitÃ©sÂ» avec fugitive.vim (qui va devenir 
+l?arlÃ©sienne de ces soirÃ©es ^^) et le prompt zsh. S?il y en a qui se 
+sentent aptes Ã  prÃ©senter l?un de ces Â«sujets souhaitÃ©sÂ», merci de vous 
+signaler dans la section Â«Sujets ProposÃ©sÂ».
 
-Merci à vous tous, qui faites de ces agapes mensuelles des rendez-vous à 
+Merci Ã  vous tous, qui faites de ces agapes mensuelles des rendez-vous Ã  
 la fois chaleureux et instructifs. Paix, amour et canetons pour toute 
-l?année 2013 !
+l?annÃ©e 2013 !
 -- 
-:kazé
+:kazÃ©
 
 
 From fabien at cazenave.cc  Fri Jan  4 11:25:41 2013
@@ -51,13 +51,13 @@ Message-ID: <50E6AE25.50306@cazenave.cc>
 
 On 04/01/13 11:07, Fabien Cazenave wrote:
 > une fois n?est pas coutume, on va essayer d?annoncer les prochaines
-> agapes Vimesques un mois à l?avance ! Du jamais vu dans ce projet !
+> agapes Vimesques un mois Ã  l?avance ! Du jamais vu dans ce projet !
 
-Tant que j?y suis je vais même en profiter pour donner la date, tiens?
-ça se passera le 7 février à 20h, toujours dans les locaux Mozilla du 43 
+Tant que j?y suis je vais mÃªme en profiter pour donner la date, tiens?
+Ã§a se passera le 7 fÃ©vrier Ã  20h, toujours dans les locaux Mozilla du 43 
 rue d?Aboukir. Qu?on se le dise !
 -- 
-:kazé
+:kazÃ©
 
 
 From hobbestigrou at erakis.im  Fri Jan  4 15:51:09 2013
@@ -68,11 +68,11 @@ In-Reply-To: <50E6AE25.50306@cazenave.cc>
 References: <50E6A9D5.2090706@mozilla.com> <50E6AE25.50306@cazenave.cc>
 Message-ID: <CANfeGsv7Q8myDfn1Mm+2yWESx=cVe=sTDA8z0wRoJaOwCzUJrw@mail.gmail.com>
 
-Le 4 janvier 2013 11:25, Fabien Cazenave <fabien at cazenave.cc> a écrit :
-> Tant que j?y suis je vais même en profiter pour donner la date, tiens?
-> ça se passera le 7 février à 20h, toujours dans les locaux Mozilla du 43 rue
+Le 4 janvier 2013 11:25, Fabien Cazenave <fabien at cazenave.cc> a Ã©crit :
+> Tant que j?y suis je vais mÃªme en profiter pour donner la date, tiens?
+> Ã§a se passera le 7 fÃ©vrier Ã  20h, toujours dans les locaux Mozilla du 43 rue
 > d?Aboukir. Qu?on se le dise !
-Rien à voir, mais est-ce que il y a du monde qui vient au fosdem. Si
+Rien Ã  voir, mais est-ce que il y a du monde qui vient au fosdem. Si
 oui on pourrait voir pour faire un petit quelque chose.
 
 

@@ -6,39 +6,39 @@ Message-ID: <CAHZbcQPyF5sHEBBvr6rLvPKQ4TUrtWTRAtq2FniyBbmvvM_chg@mail.gmail.com>
 
 Bonjour aux vimistes,
 
-J'ai un problËme o˘ je m'arache un peu les cheveux !
+J'ai un probl√®me o√π je m'arache un peu les cheveux !
 
-Lorsque je sÈlÈcionne un paragraphe et que je souhaite le re formater  ‡ 80
+Lorsque je s√©l√©cionne un paragraphe et que je souhaite le re formater  √† 80
 colonnes avec gq, il se produit une chose bizare !
 lorque qu'un ligne termine par une virgule, la ligne suivante s'indente !
 
-Aurriez vous une idÈe de la raison ?
+Aurriez vous une id√©e de la raison ?
 
 
 \chapter{Editorial} : Par Albert Camus.
 >
-> En attendant, il est permis de penser qu'il y a quelque indÈcence ‡
-> cÈlÈbrer
-> ainsi une dÈcouverte, qui se met d'abord au service de la plus formidable
+> En attendant, il est permis de penser qu'il y a quelque ind√©cence √†
+> c√©l√©brer
+> ainsi une d√©couverte, qui se met d'abord au service de la plus formidable
 > rage
-> de destruction dont l'homme ait fait preuve depuis des siËcles. Que dans un
-> monde livrÈ ‡ tous les dÈchirements de la violence, incapable d'aucun
-> contrÙle,
->       indiffÈrent ‡ la justice et au simple bonheur des hommes, la science
+> de destruction dont l'homme ait fait preuve depuis des si√®cles. Que dans un
+> monde livr√© √† tous les d√©chirements de la violence, incapable d'aucun
+> contr√¥le,
+>       indiff√©rent √† la justice et au simple bonheur des hommes, la science
 > se
->       consacre au meurtre organisÈ, personne sans doute, ‡ moins
-> d'idÈalisme
->       impÈnitent, ne songera ‡ s'en Ètonner.
+>       consacre au meurtre organis√©, personne sans doute, √† moins
+> d'id√©alisme
+>       imp√©nitent, ne songera √† s'en √©tonner.
 >
 
 
-Merci ‡ vous.
+Merci √† vous.
 
 -----------------------------------------------------
 Thomas PABST
 thomas.pabst at gmail.com
 -------------- section suivante --------------
-Une piËce jointe HTML a ÈtÈ nettoyÈe...
+Une pi√®ce jointe HTML a √©t√© nettoy√©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150905/c4954d88/attachment.html>
 
 From florent.fayolle69 at gmail.com  Sat Sep  5 13:41:11 2015
@@ -51,43 +51,43 @@ Message-ID: <55EAD4D7.30704@gmail.com>
 
 Salut,
 
-Question naÔve : as-tu essayÈ de voir ce que Áa donnait en lanÁant vim 
-sans vimrc ? Si je ne dis pas de bÍtise,  en lanÁant cette commande : 
+Question na√Øve : as-tu essay√© de voir ce que √ßa donnait en lan√ßant vim 
+sans vimrc ? Si je ne dis pas de b√™tise,  en lan√ßant cette commande : 
 |vim -u NONE|
 
 Florent
 
-Le 05/09/2015 13:28, Thomas PABST a Ècrit :
+Le 05/09/2015 13:28, Thomas PABST a √©crit :
 > Bonjour aux vimistes,
 >
-> J'ai un problËme o˘ je m'arache un peu les cheveux !
+> J'ai un probl√®me o√π je m'arache un peu les cheveux !
 >
-> Lorsque je sÈlÈcionne un paragraphe et que je souhaite le re formater  
-> ‡ 80 colonnes avec gq, il se produit une chose bizare !
+> Lorsque je s√©l√©cionne un paragraphe et que je souhaite le re formater  
+> √† 80 colonnes avec gq, il se produit une chose bizare !
 > lorque qu'un ligne termine par une virgule, la ligne suivante s'indente !
 >
-> Aurriez vous une idÈe de la raison ?
+> Aurriez vous une id√©e de la raison ?
 >
 >
 >     \chapter{Editorial} : Par Albert Camus.
 >
->     En attendant, il est permis de penser qu'il y a quelque indÈcence
->     ‡ cÈlÈbrer
->     ainsi une dÈcouverte, qui se met d'abord au service de la plus
+>     En attendant, il est permis de penser qu'il y a quelque ind√©cence
+>     √† c√©l√©brer
+>     ainsi une d√©couverte, qui se met d'abord au service de la plus
 >     formidable rage
->     de destruction dont l'homme ait fait preuve depuis des siËcles.
+>     de destruction dont l'homme ait fait preuve depuis des si√®cles.
 >     Que dans un
->     monde livrÈ ‡ tous les dÈchirements de la violence, incapable
->     d'aucun contrÙle,
->           indiffÈrent ‡ la justice et au simple bonheur des hommes, la
+>     monde livr√© √† tous les d√©chirements de la violence, incapable
+>     d'aucun contr√¥le,
+>           indiff√©rent √† la justice et au simple bonheur des hommes, la
 >     science se
->           consacre au meurtre organisÈ, personne sans doute, ‡ moins
->     d'idÈalisme
->           impÈnitent, ne songera ‡ s'en Ètonner.
+>           consacre au meurtre organis√©, personne sans doute, √† moins
+>     d'id√©alisme
+>           imp√©nitent, ne songera √† s'en √©tonner.
 >
 >
 >
-> Merci ‡ vous.
+> Merci √† vous.
 >
 > -----------------------------------------------------
 > Thomas PABST
@@ -100,7 +100,7 @@ Le 05/09/2015 13:28, Thomas PABST a Ècrit :
 > http://mozfr.org/mailman/listinfo/tuppervim
 
 -------------- section suivante --------------
-Une piËce jointe HTML a ÈtÈ nettoyÈe...
+Une pi√®ce jointe HTML a √©t√© nettoy√©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150905/39481106/attachment.html>
 
 From thomas.pabst at gmail.com  Sat Sep  5 14:22:39 2015
@@ -112,9 +112,9 @@ References: <CAHZbcQPyF5sHEBBvr6rLvPKQ4TUrtWTRAtq2FniyBbmvvM_chg@mail.gmail.com>
  <55EAD4D7.30704@gmail.com>
 Message-ID: <CAHZbcQN_R94TfOa1xUuX9jAp6JHv65P20TJrgvFeLrPAF8R9eg@mail.gmail.com>
 
-Effectivement le problËme ne se pose pas.
-Quand j'ai lu Practical Vim by Drew Neil, une des premiËre chose qu'il a
-dite,  c'est de tester sans vimrc au moindre problËme ! Je n'y pense jamais.
+Effectivement le probl√®me ne se pose pas.
+Quand j'ai lu Practical Vim by Drew Neil, une des premi√®re chose qu'il a
+dite,  c'est de tester sans vimrc au moindre probl√®me ! Je n'y pense jamais.
 
 Par contre c'est surprenant !
 
@@ -125,8 +125,8 @@ source ~/.vim/file.vim
 source ~/.vim/dev.vim
 source ~/.vim/function.vim
 
-Puis j'ai dÈcommenter au fur et ‡ mesure une lige aprËs l'autre. Ils sont
-tous dÈcommentÈ ‡ prÈsent et le problËme ne se pose plus !
+Puis j'ai d√©commenter au fur et √† mesure une lige apr√®s l'autre. Ils sont
+tous d√©comment√© √† pr√©sent et le probl√®me ne se pose plus !
 
 
 
@@ -136,49 +136,49 @@ Thomas PABST
 thomas.pabst at gmail.com
 
 Le 5 septembre 2015 13:41, Florent FAYOLLE <florent.fayolle69 at gmail.com> a
-Ècrit :
+√©crit :
 
 > Salut,
 >
-> Question naÔve : as-tu essayÈ de voir ce que Áa donnait en lanÁant vim
-> sans vimrc ? Si je ne dis pas de bÍtise,  en lanÁant cette commande : |vim
+> Question na√Øve : as-tu essay√© de voir ce que √ßa donnait en lan√ßant vim
+> sans vimrc ? Si je ne dis pas de b√™tise,  en lan√ßant cette commande : |vim
 > -u NONE|
 >
 > Florent
 >
 >
-> Le 05/09/2015 13:28, Thomas PABST a Ècrit :
+> Le 05/09/2015 13:28, Thomas PABST a √©crit :
 >
 > Bonjour aux vimistes,
 >
-> J'ai un problËme o˘ je m'arache un peu les cheveux !
+> J'ai un probl√®me o√π je m'arache un peu les cheveux !
 >
-> Lorsque je sÈlÈcionne un paragraphe et que je souhaite le re formater  ‡
+> Lorsque je s√©l√©cionne un paragraphe et que je souhaite le re formater  √†
 > 80 colonnes avec gq, il se produit une chose bizare !
 > lorque qu'un ligne termine par une virgule, la ligne suivante s'indente !
 >
-> Aurriez vous une idÈe de la raison ?
+> Aurriez vous une id√©e de la raison ?
 >
 >
 > \chapter{Editorial} : Par Albert Camus.
 >>
->> En attendant, il est permis de penser qu'il y a quelque indÈcence ‡
->> cÈlÈbrer
->> ainsi une dÈcouverte, qui se met d'abord au service de la plus formidable
+>> En attendant, il est permis de penser qu'il y a quelque ind√©cence √†
+>> c√©l√©brer
+>> ainsi une d√©couverte, qui se met d'abord au service de la plus formidable
 >> rage
->> de destruction dont l'homme ait fait preuve depuis des siËcles. Que dans
+>> de destruction dont l'homme ait fait preuve depuis des si√®cles. Que dans
 >> un
->> monde livrÈ ‡ tous les dÈchirements de la violence, incapable d'aucun
->> contrÙle,
->>       indiffÈrent ‡ la justice et au simple bonheur des hommes, la
+>> monde livr√© √† tous les d√©chirements de la violence, incapable d'aucun
+>> contr√¥le,
+>>       indiff√©rent √† la justice et au simple bonheur des hommes, la
 >> science se
->>       consacre au meurtre organisÈ, personne sans doute, ‡ moins
->> d'idÈalisme
->>       impÈnitent, ne songera ‡ s'en Ètonner.
+>>       consacre au meurtre organis√©, personne sans doute, √† moins
+>> d'id√©alisme
+>>       imp√©nitent, ne songera √† s'en √©tonner.
 >>
 >
 >
-> Merci ‡ vous.
+> Merci √† vous.
 >
 > -----------------------------------------------------
 > Thomas PABST
@@ -197,7 +197,7 @@ Le 5 septembre 2015 13:41, Florent FAYOLLE <florent.fayolle69 at gmail.com> a
 >
 >
 -------------- section suivante --------------
-Une piËce jointe HTML a ÈtÈ nettoyÈe...
+Une pi√®ce jointe HTML a √©t√© nettoy√©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150905/1cd714b4/attachment.html>
 
 From sylvain at opensource-expert.com  Sun Sep  6 11:26:20 2015
@@ -218,17 +218,17 @@ quel est la valeur de formatoptions ?
 :he 'formatoptions'
 :he fo-table
 
-Je l'utilise pour formater le code, Áa doit Ítre un alignement de
-paramËtres de fonctions.
+Je l'utilise pour formater le code, √ßa doit √™tre un alignement de
+param√®tres de fonctions.
 
 Sylvain.
 
 -- 
-Sylvain Viart - Consultant informatique systËme linux
+Sylvain Viart - Consultant informatique syst√®me linux
 
 
 -------------- section suivante --------------
-Une piËce jointe autre que texte a ÈtÈ nettoyÈe...
+Une pi√®ce jointe autre que texte a √©t√© nettoy√©e...
 Nom: signature.asc
 Type: application/pgp-signature
 Taille: 836 octets
@@ -247,33 +247,33 @@ je vous rappelle que le Tuppervim de septembre c'est demain.
 Nous somme actuellement 15 inscrits sur le pad, mais il n'est pas
 trop tard. Vous pouvez toujours vous inscrire et venir.
 
-‡ demain,
+√† demain,
 
 -------------------------------------------------
 
 Camarades vimistes,
 
-C'est la rentrÈe pour tous, Le tuppervim de septembre arrive.
-Il aura donc lieu le mardi 8 septembre dans les locaux de Mozilla de 20h ‡
+C'est la rentr√©e pour tous, Le tuppervim de septembre arrive.
+Il aura donc lieu le mardi 8 septembre dans les locaux de Mozilla de 20h √†
 22h.
-L'apÈro aura lieu de 19h15 ‡ 20h.
+L'ap√©ro aura lieu de 19h15 √† 20h.
 Merci de vous annoncer sur le pad comme il se doit :
 
 https://etherpad.mozilla.org/TupperVim-1509
 
-La procÈdure pour se faire ouvrir la porte Ètant toujours aussi pÈnible, je
+La proc√©dure pour se faire ouvrir la porte √©tant toujours aussi p√©nible, je
 ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
-les numÈros prÈsents sur le pad pour qu?on vienne vous ouvrir.
+les num√©ros pr√©sents sur le pad pour qu?on vienne vous ouvrir.
 
-Concernant la nourriture comme toujours on ramËne ce qu'on souhaite manger
-(un espace est dÈdiÈ ‡ La question sur le pad).
+Concernant la nourriture comme toujours on ram√®ne ce qu'on souhaite manger
+(un espace est d√©di√© √† La question sur le pad).
 
-Un email de rappel sera probablement envoyÈ quelques jours/heures avant les
-agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?ÈvËnement
+Un email de rappel sera probablement envoy√© quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?√©v√®nement
 dans votre agenda.
 
-D?ici l‡, soyez de bons citoyens : prenez les transports
-en commun, buvez de l'eau, mangez des pommes, changez rÈguliËrement
+D?ici l√†, soyez de bons citoyens : prenez les transports
+en commun, buvez de l'eau, mangez des pommes, changez r√©guli√®rement
 vos mots de passe et donnez de l?amour aux canards !
 
 --
@@ -282,7 +282,7 @@ Velociraptor | \_x<
 
 http://tuppervim.org
 -------------- section suivante --------------
-Une piËce jointe HTML a ÈtÈ nettoyÈe...
+Une pi√®ce jointe HTML a √©t√© nettoy√©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150907/96dcef95/attachment.html>
 
 From pierre-yves.david at ens-lyon.org  Tue Sep  8 18:52:34 2015
@@ -298,16 +298,16 @@ Message-ID: <55EF1252.50901@ens-lyon.org>
 On 09/05/2015 04:28 AM, Thomas PABST wrote:
 > Bonjour aux vimistes,
 >
-> J'ai un problËme o˘ je m'arache un peu les cheveux !
+> J'ai un probl√®me o√π je m'arache un peu les cheveux !
 >
-> Lorsque je sÈlÈcionne un paragraphe et que je souhaite le re formater  ‡
+> Lorsque je s√©l√©cionne un paragraphe et que je souhaite le re formater  √†
 > 80 colonnes avec gq, il se produit une chose bizare !
 > lorque qu'un ligne termine par une virgule, la ligne suivante s'indente !
 
-GÈnÈralement, les problËmes d'indentation Ètrange sont le fait de 
+G√©n√©ralement, les probl√®mes d'indentation √©trange sont le fait de 
 smartindent qui est en fait plutot dumbindent.
 
-N'aurais tu pas configurÈ quelque part ?
+N'aurais tu pas configur√© quelque part ?
 
 -- 
 Pierre-Yves David
@@ -322,25 +322,25 @@ Message-ID: <CAM+ya-Ae4VF0eTuXEHz_YquhM032P0qyyWTfYTUqd8BOKgeXEw@mail.gmail.com>
 Camarades vimistes,
 
 Le tuppervim d'octobre arrive.
-Il aura lieu le mardi 6 octobre dans les locaux de Mozilla de 20h ‡ 22h.
-L'apÈro aura lieu de 19h15 ‡ 20h.
+Il aura lieu le mardi 6 octobre dans les locaux de Mozilla de 20h √† 22h.
+L'ap√©ro aura lieu de 19h15 √† 20h.
 Merci de vous annoncer sur le pad comme il se doit :
 
 https://etherpad.mozilla.org/TupperVim-1510
 
-La procÈdure pour se faire ouvrir la porte Ètant toujours aussi pÈnible, je
+La proc√©dure pour se faire ouvrir la porte √©tant toujours aussi p√©nible, je
 ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
-les numÈros prÈsents sur la porte pour qu?on vienne vous ouvrir.
+les num√©ros pr√©sents sur la porte pour qu?on vienne vous ouvrir.
 
-Concernant la nourriture comme toujours on ramËne ce qu'on souhaite manger
-(un espace est dÈdiÈ ‡ La question sur le pad).
+Concernant la nourriture comme toujours on ram√®ne ce qu'on souhaite manger
+(un espace est d√©di√© √† La question sur le pad).
 
-Un email de rappel sera probablement envoyÈ quelques jours/heures avant les
-agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?ÈvËnement
+Un email de rappel sera probablement envoy√© quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?√©v√®nement
 dans votre agenda.
 
-D?ici l‡, soyez de bons citoyens : prenez les transports
-en commun, buvez de l'eau, mangez des pommes, changez rÈguliËrement
+D?ici l√†, soyez de bons citoyens : prenez les transports
+en commun, buvez de l'eau, mangez des pommes, changez r√©guli√®rement
 vos mots de passe et donnez de l?amour aux canards !
 
 --
@@ -349,7 +349,7 @@ Velociraptor | \_x<
 
 http://tuppervim.org
 -------------- section suivante --------------
-Une piËce jointe HTML a ÈtÈ nettoyÈe...
+Une pi√®ce jointe HTML a √©t√© nettoy√©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150929/11b772b2/attachment.html>
 
 From keller.mdpa at gmail.com  Tue Sep 29 13:40:53 2015
@@ -360,23 +360,23 @@ Message-ID: <CAM+ya-A5mmNL2qzt5HyK+dmqsMbwY8QicrCx5efaGfyOy9rSdw@mail.gmail.com>
 
 Camarades vimistes,
 
-Le tuppervim d'octobre arrive Ègalement ‡ Grenoble.
-Il aura lieu le mercredi 14 octobre de 20h ‡ 22h dans les locaux du LOG 45
+Le tuppervim d'octobre arrive √©galement √† Grenoble.
+Il aura lieu le mercredi 14 octobre de 20h √† 22h dans les locaux du LOG 45
 Rue Nicolas Chorier.
-L'apÈro aura lieu de 19h15 ‡ 20h.
+L'ap√©ro aura lieu de 19h15 √† 20h.
 Merci de vous annoncer sur le pad comme il se doit :
 
 https://etherpad.mozilla.org/TupperVim-grenoble-1510
 
-Concernant la nourriture comme toujours on ramËne ce qu'on souhaite manger
-(un espace est dÈdiÈ ‡ La question sur le pad).
+Concernant la nourriture comme toujours on ram√®ne ce qu'on souhaite manger
+(un espace est d√©di√© √† La question sur le pad).
 
-Un email de rappel sera probablement envoyÈ quelques jours/heures avant les
-agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?ÈvËnement
+Un email de rappel sera probablement envoy√© quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?√©v√®nement
 dans votre agenda.
 
-D?ici l‡, soyez de bons citoyens : prenez les transports
-en commun, buvez de l'eau, mangez des pommes, changez rÈguliËrement
+D?ici l√†, soyez de bons citoyens : prenez les transports
+en commun, buvez de l'eau, mangez des pommes, changez r√©guli√®rement
 vos mots de passe et donnez de l?amour aux canards !
 
 --
@@ -385,7 +385,7 @@ Velociraptor | \_x<
 
 http://tuppervim.org
 -------------- section suivante --------------
-Une piËce jointe HTML a ÈtÈ nettoyÈe...
+Une pi√®ce jointe HTML a √©t√© nettoy√©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20150929/a77fc883/attachment.html>
 
 From florent.fayolle69 at gmail.com  Tue Sep 29 23:02:44 2015
@@ -395,13 +395,13 @@ Subject: [tupperVim] =?iso-8859-1?q?Rappel_=3A_Tuppervim_=E0_Lyon_demain_?=
  =?iso-8859-1?q?=28mercredi=29?=
 Message-ID: <560AFC74.6060108@gmail.com>
 
-Bonjour ‡ tous,
+Bonjour √† tous,
 
-un petit rappel pour ceux qui l'ont oubliÈ : le prochain TupperVim sur 
-Lyon aura lieu demain (mercredi 30 septembre) de 20h00 ‡ 22h00 (et plus 
-pour l'apÈro) dans les locaux d'…pitech :
+un petit rappel pour ceux qui l'ont oubli√© : le prochain TupperVim sur 
+Lyon aura lieu demain (mercredi 30 septembre) de 20h00 √† 22h00 (et plus 
+pour l'ap√©ro) dans les locaux d'√âpitech :
 
-     156 rue Paul Bert, Lyon 3Ëme.
+     156 rue Paul Bert, Lyon 3√®me.
 
 Le pad : https://etherpad.mozilla.org/TupperVim-lyon-1509
 

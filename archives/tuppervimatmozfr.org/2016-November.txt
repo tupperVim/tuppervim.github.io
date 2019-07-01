@@ -6,30 +6,30 @@ Message-ID: <b02ec6bd-0b6a-ebaa-2344-9a0cc16cf6c2@gmail.com>
 
 Camarades Vimistes,
 
-Le prochain TupperVim Lyonnais se fera le mercredi *16 novembre *à 
-partir de *19h* dans les locaux de l'Épitech, au 156 rue Paul Bert, Lyon.
+Le prochain TupperVim Lyonnais se fera le mercredi *16 novembre *Ã  
+partir de *19h* dans les locaux de l'Ã‰pitech, au 156 rue Paul Bert, Lyon.
 
-*Important* : On propose cette fois-ci (et si ça marche pour les fois 
-d'après également) de commencer par l'apéritif à 19h puis par l'atelier 
-à 20h.
+*Important* : On propose cette fois-ci (et si Ã§a marche pour les fois 
+d'aprÃ¨s Ã©galement) de commencer par l'apÃ©ritif Ã  19h puis par l'atelier 
+Ã  20h.
 
 Merci de vous annoncer sur le pad comme il se doit :
 https://public.etherpad-mozilla.org/p/TupperVim-Lyon-1611
 
-Comme à notre habitude, chacun ramène grignottes et boissons pour qui 
-voudra participer à l'apéro.
+Comme Ã  notre habitude, chacun ramÃ¨ne grignottes et boissons pour qui 
+voudra participer Ã  l'apÃ©ro.
 
-Pour plus d'informations, vous pouvez vous référer au site des TupperVim :
+Pour plus d'informations, vous pouvez vous rÃ©fÃ©rer au site des TupperVim :
 http://tuppervim.org/
 
-D'ici là, soyez sages et respectez bien les vieux qui traînent sur notre 
+D'ici lÃ , soyez sages et respectez bien les vieux qui traÃ®nent sur notre 
 salon (ou au moins du mieux que vous puissiez).
 
 --
 
 Florent
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20161101/ae76bad8/attachment.html>
 
 From florent.fayolle69 at gmail.com  Sun Nov  6 23:21:21 2016
@@ -46,27 +46,27 @@ https://public.etherpad-mozilla.org/p/TupperVim-lyon-1611
 --
 Florent
 
-Le 11/01/2016 à 09:07 PM, Florent FAYOLLE a écrit :
+Le 11/01/2016 Ã  09:07 PM, Florent FAYOLLE a Ã©crit :
 > Camarades Vimistes,
 >
-> Le prochain TupperVim Lyonnais se fera le mercredi *16 novembre *à 
-> partir de *19h* dans les locaux de l'Épitech, au 156 rue Paul Bert, Lyon.
+> Le prochain TupperVim Lyonnais se fera le mercredi *16 novembre *Ã  
+> partir de *19h* dans les locaux de l'Ã‰pitech, au 156 rue Paul Bert, Lyon.
 >
-> *Important* : On propose cette fois-ci (et si ça marche pour les fois 
-> d'après également) de commencer par l'apéritif à 19h puis par 
-> l'atelier à 20h.
+> *Important* : On propose cette fois-ci (et si Ã§a marche pour les fois 
+> d'aprÃ¨s Ã©galement) de commencer par l'apÃ©ritif Ã  19h puis par 
+> l'atelier Ã  20h.
 >
 > Merci de vous annoncer sur le pad comme il se doit :
 > https://public.etherpad-mozilla.org/p/TupperVim-Lyon-1611
 >
-> Comme à notre habitude, chacun ramène grignottes et boissons pour qui 
-> voudra participer à l'apéro.
+> Comme Ã  notre habitude, chacun ramÃ¨ne grignottes et boissons pour qui 
+> voudra participer Ã  l'apÃ©ro.
 >
-> Pour plus d'informations, vous pouvez vous référer au site des 
+> Pour plus d'informations, vous pouvez vous rÃ©fÃ©rer au site des 
 > TupperVim :
 > http://tuppervim.org/
 >
-> D'ici là, soyez sages et respectez bien les vieux qui traînent sur 
+> D'ici lÃ , soyez sages et respectez bien les vieux qui traÃ®nent sur 
 > notre salon (ou au moins du mieux que vous puissiez).
 >
 > --
@@ -75,7 +75,7 @@ Le 11/01/2016 à 09:07 PM, Florent FAYOLLE a écrit :
 
 
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20161106/e8ff85db/attachment.html>
 
 From keller.mdpa at gmail.com  Mon Nov  7 16:00:14 2016
@@ -84,7 +84,7 @@ Date: Mon, 7 Nov 2016 16:00:14 +0100
 Subject: [tupperVim] Tuppervim de novembre - Paris - Paris
 Message-ID: <CAM+ya-AXGfuuDO=c61LOpEyxkPgWYkUefbNGOr8N0Zwuu=h-_g@mail.gmail.com>
 
-le tuppervim de Novembre à Paris c'est demain.
+le tuppervim de Novembre Ã  Paris c'est demain.
 Ceci est un mail de rappel cordial et manuel.
 
 Ci-dessous le mail original :
@@ -92,30 +92,30 @@ Ci-dessous le mail original :
 
 Camarades vimistes,
 
-Le tuppervim de novembre est prêt :
+Le tuppervim de novembre est prÃªt :
 Il aura lieu le second mardi du mois, le 08 novembre dans les locaux
 de Mozilla
-(Paris) de 20h à 22h.
-L'apéro aura lieu de 19h15 à 20h.
+(Paris) de 20h Ã  22h.
+L'apÃ©ro aura lieu de 19h15 Ã  20h.
 Merci de vous annoncer sur le pad comme il se doit :
 
 https://public.etherpad-mozilla.org/p/TupperVim-1611
 
-La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je ne
+La procÃ©dure pour se faire ouvrir la porte Ã©tant toujours aussi pÃ©nible, je ne
 saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer le(s)
-numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+numÃ©ro(s) prÃ©sent(s) sur la porte pour qu?on vienne vous ouvrir.
 Bon maintenant il y a un vigile, donc il faut vraiment s'inscrire et il peut
-vous ouvrir la porte si vous arrivez pas trop en retard (on arrête pas
-le progrès).
+vous ouvrir la porte si vous arrivez pas trop en retard (on arrÃªte pas
+le progrÃ¨s).
 
-Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
-espace est dédié à La question sur le pad).
+Concernant la nourriture comme toujours on ramÃ¨ne ce qu'on souhaite manger (un
+espace est dÃ©diÃ© Ã  La question sur le pad).
 
-Un email de rappel sera probablement envoyé quelques jours/heures avant les
-agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+Un email de rappel sera probablement envoyÃ© quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?Ã©vÃ¨nement
 dans votre agenda.
 
-D?ici là, soyez de bons citoyens et donnez de l?amour aux canards et
+D?ici lÃ , soyez de bons citoyens et donnez de l?amour aux canards et
 couvrez vous, Winter is coming.
 
 --
@@ -133,21 +133,21 @@ Message-ID: <2128e442-96fd-f2d9-592d-5150d6fd4f22@caio-corro.fr>
 
 Bonjour bonjour,
 
-Après avoir entendu parler du QWERTY Lafayette l'an dernier à un 
+AprÃ¨s avoir entendu parler du QWERTY Lafayette l'an dernier Ã  un 
 TupperVim, j'essaie aujourd'hui de faire la transition.
 
 Malheureusement, la commande suivante ne fonctionne pas correctement :
 xkbcomp -w9 lafayette.xkb $DISPLAY
 
-En effet, après avoir lancé celle-ci, je suis effectivement en Lafayette 
+En effet, aprÃ¨s avoir lancÃ© celle-ci, je suis effectivement en Lafayette 
 sur certaines applications (par exemple Firefox) mais toujours en AZERTY 
-dans d'autres (par exemple Gnome Terminal). C'est très étrange.
+dans d'autres (par exemple Gnome Terminal). C'est trÃ¨s Ã©trange.
 
 Je suis sur Archlinux avec Gnome comment environnement. Sur le wiki il 
-est indiqué que xkbcomp est deprecated : 
+est indiquÃ© que xkbcomp est deprecated : 
 https://wiki.archlinux.org/index.php/X_KeyBoard_extension#Using_keymap_.28deprecated.29
 
-Existe-t-il une alternative pour faire fonctionner tout ça ?
+Existe-t-il une alternative pour faire fonctionner tout Ã§a ?
 
 Merci,
 Caio
@@ -164,36 +164,36 @@ Message-ID: <61bcae1a-2ef4-9bba-b4fe-c7085d308bb9@opensource-expert.com>
 
 Salut,
 
-Je n'ai pas personnellement essayé, mais peut être auras tu de l'aide ici :
+Je n'ai pas personnellement essayÃ©, mais peut Ãªtre auras tu de l'aide ici :
 
 https://github.com/fabi1cazenave/qwerty-lafayette/issues/
 
-Ça peut peut être aider?
+Ã‡a peut peut Ãªtre aider?
 
 Sylvain.
 
-Le 12/11/2016 à 11:48, Caio Filippo Corro a écrit :
+Le 12/11/2016 Ã  11:48, Caio Filippo Corro a Ã©crit :
 > Bonjour bonjour,
 >
-> Après avoir entendu parler du QWERTY Lafayette l'an dernier à un
+> AprÃ¨s avoir entendu parler du QWERTY Lafayette l'an dernier Ã  un
 > TupperVim, j'essaie aujourd'hui de faire la transition.
 >
 > Malheureusement, la commande suivante ne fonctionne pas correctement :
 > xkbcomp -w9 lafayette.xkb $DISPLAY
 >
-> En effet, après avoir lancé celle-ci, je suis effectivement en
+> En effet, aprÃ¨s avoir lancÃ© celle-ci, je suis effectivement en
 > Lafayette sur certaines applications (par exemple Firefox) mais
 > toujours en AZERTY dans d'autres (par exemple Gnome Terminal). C'est
-> très étrange.
+> trÃ¨s Ã©trange.
 >
 > Je suis sur Archlinux avec Gnome comment environnement. Sur le wiki il
-> est indiqué que xkbcomp est deprecated :
+> est indiquÃ© que xkbcomp est deprecated :
 > https://wiki.archlinux.org/index.php/X_KeyBoard_extension#Using_keymap_.28deprecated.29
 >
-> Existe-t-il une alternative pour faire fonctionner tout ça ?
+> Existe-t-il une alternative pour faire fonctionner tout Ã§a ?
 
 -- 
-Sylvain Viart - DevOps système linux - freelance developer
+Sylvain Viart - DevOps systÃ¨me linux - freelance developer
 
 
 
@@ -213,46 +213,46 @@ je fais un :
 xkbcomp -w9 ~/dotfiles/lafayette.xkb $DISPLAY
 dans mon .xinitrc
 
-Mais n'hésite pas à passer sur irc (#tuppervim sur irc.mozilla.org) ou
-à poster une issue sur github.
+Mais n'hÃ©site pas Ã  passer sur irc (#tuppervim sur irc.mozilla.org) ou
+Ã  poster une issue sur github.
 
-voilà.
+voilÃ .
 
 maggick - www.matthieukeller.com
 
 2016-11-14 12:50 GMT+01:00 Sylvain Viart <sylvain at opensource-expert.com>:
 > Salut,
 >
-> Je n'ai pas personnellement essayé, mais peut être auras tu de l'aide ici :
+> Je n'ai pas personnellement essayÃ©, mais peut Ãªtre auras tu de l'aide ici :
 >
 > https://github.com/fabi1cazenave/qwerty-lafayette/issues/
 >
-> Ça peut peut être aider?
+> Ã‡a peut peut Ãªtre aider?
 >
 > Sylvain.
 >
-> Le 12/11/2016 à 11:48, Caio Filippo Corro a écrit :
+> Le 12/11/2016 Ã  11:48, Caio Filippo Corro a Ã©crit :
 >> Bonjour bonjour,
 >>
->> Après avoir entendu parler du QWERTY Lafayette l'an dernier à un
+>> AprÃ¨s avoir entendu parler du QWERTY Lafayette l'an dernier Ã  un
 >> TupperVim, j'essaie aujourd'hui de faire la transition.
 >>
 >> Malheureusement, la commande suivante ne fonctionne pas correctement :
 >> xkbcomp -w9 lafayette.xkb $DISPLAY
 >>
->> En effet, après avoir lancé celle-ci, je suis effectivement en
+>> En effet, aprÃ¨s avoir lancÃ© celle-ci, je suis effectivement en
 >> Lafayette sur certaines applications (par exemple Firefox) mais
 >> toujours en AZERTY dans d'autres (par exemple Gnome Terminal). C'est
->> très étrange.
+>> trÃ¨s Ã©trange.
 >>
 >> Je suis sur Archlinux avec Gnome comment environnement. Sur le wiki il
->> est indiqué que xkbcomp est deprecated :
+>> est indiquÃ© que xkbcomp est deprecated :
 >> https://wiki.archlinux.org/index.php/X_KeyBoard_extension#Using_keymap_.28deprecated.29
 >>
->> Existe-t-il une alternative pour faire fonctionner tout ça ?
+>> Existe-t-il une alternative pour faire fonctionner tout Ã§a ?
 >
 > --
-> Sylvain Viart - DevOps système linux - freelance developer
+> Sylvain Viart - DevOps systÃ¨me linux - freelance developer
 >
 >
 > _______________________________________________
@@ -272,38 +272,38 @@ Message-ID: <f9591b25-e9fc-b625-f435-f9ace68e8ced@gmail.com>
 
 Pour rappel : c'est demain soir ;).
 
-Bonne soirée,
+Bonne soirÃ©e,
 Florent
 
 
-Le 11/06/2016 à 11:21 PM, Florent FAYOLLE a écrit :
+Le 11/06/2016 Ã  11:21 PM, Florent FAYOLLE a Ã©crit :
 > Rectificatif : le bon lien vers le pad est le suivant :
 > https://public.etherpad-mozilla.org/p/TupperVim-lyon-1611
 >
 > --
 > Florent
 >
-> Le 11/01/2016 à 09:07 PM, Florent FAYOLLE a écrit :
+> Le 11/01/2016 Ã  09:07 PM, Florent FAYOLLE a Ã©crit :
 >> Camarades Vimistes,
 >>
->> Le prochain TupperVim Lyonnais se fera le mercredi *16 novembre *à 
->> partir de *19h* dans les locaux de l'Épitech, au 156 rue Paul Bert, Lyon.
+>> Le prochain TupperVim Lyonnais se fera le mercredi *16 novembre *Ã  
+>> partir de *19h* dans les locaux de l'Ã‰pitech, au 156 rue Paul Bert, Lyon.
 >>
->> *Important* : On propose cette fois-ci (et si ça marche pour les fois 
->> d'après également) de commencer par l'apéritif à 19h puis par 
->> l'atelier à 20h.
+>> *Important* : On propose cette fois-ci (et si Ã§a marche pour les fois 
+>> d'aprÃ¨s Ã©galement) de commencer par l'apÃ©ritif Ã  19h puis par 
+>> l'atelier Ã  20h.
 >>
 >> Merci de vous annoncer sur le pad comme il se doit :
 >> https://public.etherpad-mozilla.org/p/TupperVim-Lyon-1611
 >>
->> Comme à notre habitude, chacun ramène grignottes et boissons pour qui 
->> voudra participer à l'apéro.
+>> Comme Ã  notre habitude, chacun ramÃ¨ne grignottes et boissons pour qui 
+>> voudra participer Ã  l'apÃ©ro.
 >>
->> Pour plus d'informations, vous pouvez vous référer au site des 
+>> Pour plus d'informations, vous pouvez vous rÃ©fÃ©rer au site des 
 >> TupperVim :
 >> http://tuppervim.org/
 >>
->> D'ici là, soyez sages et respectez bien les vieux qui traînent sur 
+>> D'ici lÃ , soyez sages et respectez bien les vieux qui traÃ®nent sur 
 >> notre salon (ou au moins du mieux que vous puissiez).
 >>
 >> --
@@ -313,7 +313,7 @@ Le 11/06/2016 à 11:21 PM, Florent FAYOLLE a écrit :
 >
 
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20161115/df2b0811/attachment.html>
 
 From keller.mdpa at gmail.com  Fri Nov 18 14:04:23 2016
@@ -325,21 +325,21 @@ Message-ID: <CAM+ya-CJXWX0JHcYa7OPtXxje6KHeyW+aDTVa7+1PxpdwckUew@mail.gmail.com>
 
 Camarades vimistes,
 
-Nos amis de Mozilla ne seront pas disponible en décembre et ne pourront
-pas héberger notre session Tuppervim.
-Nous faisons donc appel à votre générosité, vos contacts et votre esprit
+Nos amis de Mozilla ne seront pas disponible en dÃ©cembre et ne pourront
+pas hÃ©berger notre session Tuppervim.
+Nous faisons donc appel Ã  votre gÃ©nÃ©rositÃ©, vos contacts et votre esprit
 d'initiative pour tenter de trouver un lieu.
 
-Il nous faudrait un lieu pour un soir dans le mois (de préférence un mardi)
-de 19 à 22h (+ les poussières) pouvant accueillir 20 à 30 personnes avec des
-PC (prise de courant, bureau) ainsi que l'apéro :)
+Il nous faudrait un lieu pour un soir dans le mois (de prÃ©fÃ©rence un mardi)
+de 19 Ã  22h (+ les poussiÃ¨res) pouvant accueillir 20 Ã  30 personnes avec des
+PC (prise de courant, bureau) ainsi que l'apÃ©ro :)
 
 Nous allons tout faire pour essayer de vous fournir un bon tuppervim de
-décembre mais nous avons besoin de vous !
+dÃ©cembre mais nous avons besoin de vous !
 
 (c'est bon ? je peux l'avoir ce post de community manager / marketing ?)
 
-D?ici là, soyez de bons citoyens et donnez de l?amour aux canards et
+D?ici lÃ , soyez de bons citoyens et donnez de l?amour aux canards et
 couvrez vous, Winter is coming.
 
 --
@@ -361,30 +361,30 @@ Message-ID: <5f85473055f4c460ce6247a5493687ab@metrodore.fr>
 
 Coucou,
 
-Le 2016-11-18 14:04, Matthieu Keller a écrit :
+Le 2016-11-18 14:04, Matthieu Keller a Ã©critÂ :
 
-> Il nous faudrait un lieu pour un soir dans le mois (de préférence un 
+> Il nous faudrait un lieu pour un soir dans le mois (de prÃ©fÃ©rence un 
 > mardi)
-> de 19 à 22h (+ les poussières) pouvant accueillir 20 à 30 personnes 
+> de 19 Ã  22h (+ les poussiÃ¨res) pouvant accueillir 20 Ã  30 personnes 
 > avec des
-> PC (prise de courant, bureau) ainsi que l'apéro :)
+> PC (prise de courant, bureau) ainsi que l'apÃ©ro :)
 
-À tout hasard demande à l'April (Paris 14, près de Montparnasse). Si le 
-local est dispo et qu'un Aprilien s'engage à gérer les clés et le 
-ménage, ça ne devrait pas poser de problème. Demande à contact at april.org
+Ã€ tout hasard demande Ã  l'April (Paris 14, prÃ¨s de Montparnasse). Si le 
+local est dispo et qu'un Aprilien s'engage Ã  gÃ©rer les clÃ©s et le 
+mÃ©nage, Ã§a ne devrait pas poser de problÃ¨me. Demande Ã  contact at april.org
 
-Par contre c'est petit pour 30 personnes. C'est plutôt adapté pour 15 
+Par contre c'est petit pour 30 personnes. C'est plutÃ´t adaptÃ© pour 15 
 max.
 
-Sinon il y a peut être possibilité d'aller à la FPH, par exemple en se 
-greffant sur une soirée SCL. http://www.agendadulibre.org/events/11976 
-Demande à vcalame at april.org
+Sinon il y a peut Ãªtre possibilitÃ© d'aller Ã  la FPH, par exemple en se 
+greffant sur une soirÃ©e SCL. http://www.agendadulibre.org/events/11976 
+Demande Ã  vcalame at april.org
 
 Bonne chance. :)
-François
+FranÃ§ois
 
 -- 
-François Poulain <fpoulain at metrodore.fr>
+FranÃ§ois Poulain <fpoulain at metrodore.fr>
 
 
 From admin at caio-corro.fr  Fri Nov 18 15:38:03 2016
@@ -400,34 +400,34 @@ Message-ID: <e890d670-2483-a85a-8112-5941439996a1@caio-corro.fr>
 
 Salut,
 
-Peut être La Paillasse ? http://lapaillasse.org/
+Peut Ãªtre La Paillasse ? http://lapaillasse.org/
 
 Caio
 
-On 11/18/2016 03:36 PM, François Poulain wrote:
+On 11/18/2016 03:36 PM, FranÃ§ois Poulain wrote:
 > Coucou,
 >
-> Le 2016-11-18 14:04, Matthieu Keller a écrit :
+> Le 2016-11-18 14:04, Matthieu Keller a Ã©crit :
 >
->> Il nous faudrait un lieu pour un soir dans le mois (de préférence un 
+>> Il nous faudrait un lieu pour un soir dans le mois (de prÃ©fÃ©rence un 
 >> mardi)
->> de 19 à 22h (+ les poussières) pouvant accueillir 20 à 30 personnes 
+>> de 19 Ã  22h (+ les poussiÃ¨res) pouvant accueillir 20 Ã  30 personnes 
 >> avec des
->> PC (prise de courant, bureau) ainsi que l'apéro :)
+>> PC (prise de courant, bureau) ainsi que l'apÃ©ro :)
 >
-> À tout hasard demande à l'April (Paris 14, près de Montparnasse). Si 
-> le local est dispo et qu'un Aprilien s'engage à gérer les clés et le 
-> ménage, ça ne devrait pas poser de problème. Demande à contact at april.org
+> Ã€ tout hasard demande Ã  l'April (Paris 14, prÃ¨s de Montparnasse). Si 
+> le local est dispo et qu'un Aprilien s'engage Ã  gÃ©rer les clÃ©s et le 
+> mÃ©nage, Ã§a ne devrait pas poser de problÃ¨me. Demande Ã  contact at april.org
 >
-> Par contre c'est petit pour 30 personnes. C'est plutôt adapté pour 15 
+> Par contre c'est petit pour 30 personnes. C'est plutÃ´t adaptÃ© pour 15 
 > max.
 >
-> Sinon il y a peut être possibilité d'aller à la FPH, par exemple en se 
-> greffant sur une soirée SCL. http://www.agendadulibre.org/events/11976 
-> Demande à vcalame at april.org
+> Sinon il y a peut Ãªtre possibilitÃ© d'aller Ã  la FPH, par exemple en se 
+> greffant sur une soirÃ©e SCL. http://www.agendadulibre.org/events/11976 
+> Demande Ã  vcalame at april.org
 >
 > Bonne chance. :)
-> François
+> FranÃ§ois
 >
 
 
@@ -444,41 +444,41 @@ References: <CAM+ya-CJXWX0JHcYa7OPtXxje6KHeyW+aDTVa7+1PxpdwckUew@mail.gmail.com>
  <e890d670-2483-a85a-8112-5941439996a1@caio-corro.fr>
 Message-ID: <CAHZbcQMMnZy5SggYpBcX-QLUpW3Wv2wd+_kf9aq2a9DxdjbS3w@mail.gmail.com>
 
-Salut peut-être dans ma boîte, je vais demander. Je vous tiens au courant.
+Salut peut-Ãªtre dans ma boÃ®te, je vais demander. Je vous tiens au courant.
 
-Le ven. 18 nov. 2016 à 15:38, Caio Filippo Corro <admin at caio-corro.fr> a
-écrit :
+Le ven. 18 nov. 2016 Ã  15:38, Caio Filippo Corro <admin at caio-corro.fr> a
+Ã©crit :
 
 > Salut,
 >
-> Peut être La Paillasse ? http://lapaillasse.org/
+> Peut Ãªtre La Paillasse ? http://lapaillasse.org/
 >
 > Caio
 >
-> On 11/18/2016 03:36 PM, François Poulain wrote:
+> On 11/18/2016 03:36 PM, FranÃ§ois Poulain wrote:
 > > Coucou,
 > >
-> > Le 2016-11-18 14:04, Matthieu Keller a écrit :
+> > Le 2016-11-18 14:04, Matthieu Keller a Ã©crit :
 > >
-> >> Il nous faudrait un lieu pour un soir dans le mois (de préférence un
+> >> Il nous faudrait un lieu pour un soir dans le mois (de prÃ©fÃ©rence un
 > >> mardi)
-> >> de 19 à 22h (+ les poussières) pouvant accueillir 20 à 30 personnes
+> >> de 19 Ã  22h (+ les poussiÃ¨res) pouvant accueillir 20 Ã  30 personnes
 > >> avec des
-> >> PC (prise de courant, bureau) ainsi que l'apéro :)
+> >> PC (prise de courant, bureau) ainsi que l'apÃ©ro :)
 > >
-> > À tout hasard demande à l'April (Paris 14, près de Montparnasse). Si
-> > le local est dispo et qu'un Aprilien s'engage à gérer les clés et le
-> > ménage, ça ne devrait pas poser de problème. Demande à contact at april.org
+> > Ã€ tout hasard demande Ã  l'April (Paris 14, prÃ¨s de Montparnasse). Si
+> > le local est dispo et qu'un Aprilien s'engage Ã  gÃ©rer les clÃ©s et le
+> > mÃ©nage, Ã§a ne devrait pas poser de problÃ¨me. Demande Ã  contact at april.org
 > >
-> > Par contre c'est petit pour 30 personnes. C'est plutôt adapté pour 15
+> > Par contre c'est petit pour 30 personnes. C'est plutÃ´t adaptÃ© pour 15
 > > max.
 > >
-> > Sinon il y a peut être possibilité d'aller à la FPH, par exemple en se
-> > greffant sur une soirée SCL. http://www.agendadulibre.org/events/11976
-> > Demande à vcalame at april.org
+> > Sinon il y a peut Ãªtre possibilitÃ© d'aller Ã  la FPH, par exemple en se
+> > greffant sur une soirÃ©e SCL. http://www.agendadulibre.org/events/11976
+> > Demande Ã  vcalame at april.org
 > >
 > > Bonne chance. :)
-> > François
+> > FranÃ§ois
 > >
 >
 >
@@ -488,7 +488,7 @@ Le ven. 18 nov. 2016 à 15:38, Caio Filippo Corro <admin at caio-corro.fr> a
 > http://listes.mozfr.org/mailman/listinfo/tuppervim
 >
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20161118/f3fdc400/attachment.html>
 
 From phyks at phyks.me  Fri Nov 18 16:09:57 2016
@@ -505,50 +505,50 @@ Message-ID: <23225a65ca0e16d796a176a043351929@phyks.me>
 
 Salut,
 
-Par [hackEns](http://hackens.org/) (le hackerspace de l'ENS), on a accès 
-aux locaux de l'ENS dans le 5e. Il peut y avoir moyen de réserver une 
+Par [hackEns](http://hackens.org/) (le hackerspace de l'ENS), on a accÃ¨s 
+aux locaux de l'ENS dans le 5e. Il peut y avoir moyen de rÃ©server une 
 salle pour 30 personnes, si vous avez besoin.
 
 Le truc un peu relou, c'est qu'avec les plans vigipirates etc, il y a 
-des contrôles pour rentrer et que c'est pas le plus évident pour 
-organiser un événement. Mais on peut se débrouiller :)
+des contrÃ´les pour rentrer et que c'est pas le plus Ã©vident pour 
+organiser un Ã©vÃ©nement. Mais on peut se dÃ©brouiller :)
 
 ++
 -- 
 Phyks
 
-Le 2016-11-18 09:38, Caio Filippo Corro a écrit :
+Le 2016-11-18 09:38, Caio Filippo Corro a Ã©critÂ :
 > Salut,
 > 
-> Peut être La Paillasse ? http://lapaillasse.org/
+> Peut Ãªtre La Paillasse ? http://lapaillasse.org/
 > 
 > Caio
 > 
-> On 11/18/2016 03:36 PM, François Poulain wrote:
+> On 11/18/2016 03:36 PM, FranÃ§ois Poulain wrote:
 >> Coucou,
 >> 
->> Le 2016-11-18 14:04, Matthieu Keller a écrit :
+>> Le 2016-11-18 14:04, Matthieu Keller a Ã©crit :
 >> 
->>> Il nous faudrait un lieu pour un soir dans le mois (de préférence un 
+>>> Il nous faudrait un lieu pour un soir dans le mois (de prÃ©fÃ©rence un 
 >>> mardi)
->>> de 19 à 22h (+ les poussières) pouvant accueillir 20 à 30 personnes 
+>>> de 19 Ã  22h (+ les poussiÃ¨res) pouvant accueillir 20 Ã  30 personnes 
 >>> avec des
->>> PC (prise de courant, bureau) ainsi que l'apéro :)
+>>> PC (prise de courant, bureau) ainsi que l'apÃ©ro :)
 >> 
->> À tout hasard demande à l'April (Paris 14, près de Montparnasse). Si 
->> le local est dispo et qu'un Aprilien s'engage à gérer les clés et le 
->> ménage, ça ne devrait pas poser de problème. Demande à 
+>> Ã€ tout hasard demande Ã  l'April (Paris 14, prÃ¨s de Montparnasse). Si 
+>> le local est dispo et qu'un Aprilien s'engage Ã  gÃ©rer les clÃ©s et le 
+>> mÃ©nage, Ã§a ne devrait pas poser de problÃ¨me. Demande Ã  
 >> contact at april.org
 >> 
->> Par contre c'est petit pour 30 personnes. C'est plutôt adapté pour 15 
+>> Par contre c'est petit pour 30 personnes. C'est plutÃ´t adaptÃ© pour 15 
 >> max.
 >> 
->> Sinon il y a peut être possibilité d'aller à la FPH, par exemple en se 
->> greffant sur une soirée SCL. http://www.agendadulibre.org/events/11976 
->> Demande à vcalame at april.org
+>> Sinon il y a peut Ãªtre possibilitÃ© d'aller Ã  la FPH, par exemple en se 
+>> greffant sur une soirÃ©e SCL. http://www.agendadulibre.org/events/11976 
+>> Demande Ã  vcalame at april.org
 >> 
 >> Bonne chance. :)
->> François
+>> FranÃ§ois
 >> 
 > 
 > 
@@ -571,57 +571,57 @@ References: <CAM+ya-CJXWX0JHcYa7OPtXxje6KHeyW+aDTVa7+1PxpdwckUew@mail.gmail.com>
  <23225a65ca0e16d796a176a043351929@phyks.me>
 Message-ID: <CAHZbcQN-PqOynkPB03xpKSPDazjEfr9Oi1=LiSptu6CQReyu3Q@mail.gmail.com>
 
-J'ai fais la demande, j'attends la réponse. Ma société est à 5 minutes de
-chez Mozilla, pas de problème de vigile, de la place pour l'apéro.
+J'ai fais la demande, j'attends la rÃ©ponse. Ma sociÃ©tÃ© est Ã  5 minutes de
+chez Mozilla, pas de problÃ¨me de vigile, de la place pour l'apÃ©ro.
 
-Le ven. 18 nov. 2016 à 16:10, Phyks <phyks at phyks.me> a écrit :
+Le ven. 18 nov. 2016 Ã  16:10, Phyks <phyks at phyks.me> a Ã©crit :
 
 > Salut,
 >
-> Par [hackEns](http://hackens.org/) (le hackerspace de l'ENS), on a accès
-> aux locaux de l'ENS dans le 5e. Il peut y avoir moyen de réserver une
+> Par [hackEns](http://hackens.org/) (le hackerspace de l'ENS), on a accÃ¨s
+> aux locaux de l'ENS dans le 5e. Il peut y avoir moyen de rÃ©server une
 > salle pour 30 personnes, si vous avez besoin.
 >
 > Le truc un peu relou, c'est qu'avec les plans vigipirates etc, il y a
-> des contrôles pour rentrer et que c'est pas le plus évident pour
-> organiser un événement. Mais on peut se débrouiller :)
+> des contrÃ´les pour rentrer et que c'est pas le plus Ã©vident pour
+> organiser un Ã©vÃ©nement. Mais on peut se dÃ©brouiller :)
 >
 > ++
 > --
 > Phyks
 >
-> Le 2016-11-18 09:38, Caio Filippo Corro a écrit :
+> Le 2016-11-18 09:38, Caio Filippo Corro a Ã©crit :
 > > Salut,
 > >
-> > Peut être La Paillasse ? http://lapaillasse.org/
+> > Peut Ãªtre La Paillasse ? http://lapaillasse.org/
 > >
 > > Caio
 > >
-> > On 11/18/2016 03:36 PM, François Poulain wrote:
+> > On 11/18/2016 03:36 PM, FranÃ§ois Poulain wrote:
 > >> Coucou,
 > >>
-> >> Le 2016-11-18 14:04, Matthieu Keller a écrit :
+> >> Le 2016-11-18 14:04, Matthieu Keller a Ã©crit :
 > >>
-> >>> Il nous faudrait un lieu pour un soir dans le mois (de préférence un
+> >>> Il nous faudrait un lieu pour un soir dans le mois (de prÃ©fÃ©rence un
 > >>> mardi)
-> >>> de 19 à 22h (+ les poussières) pouvant accueillir 20 à 30 personnes
+> >>> de 19 Ã  22h (+ les poussiÃ¨res) pouvant accueillir 20 Ã  30 personnes
 > >>> avec des
-> >>> PC (prise de courant, bureau) ainsi que l'apéro :)
+> >>> PC (prise de courant, bureau) ainsi que l'apÃ©ro :)
 > >>
-> >> À tout hasard demande à l'April (Paris 14, près de Montparnasse). Si
-> >> le local est dispo et qu'un Aprilien s'engage à gérer les clés et le
-> >> ménage, ça ne devrait pas poser de problème. Demande à
+> >> Ã€ tout hasard demande Ã  l'April (Paris 14, prÃ¨s de Montparnasse). Si
+> >> le local est dispo et qu'un Aprilien s'engage Ã  gÃ©rer les clÃ©s et le
+> >> mÃ©nage, Ã§a ne devrait pas poser de problÃ¨me. Demande Ã 
 > >> contact at april.org
 > >>
-> >> Par contre c'est petit pour 30 personnes. C'est plutôt adapté pour 15
+> >> Par contre c'est petit pour 30 personnes. C'est plutÃ´t adaptÃ© pour 15
 > >> max.
 > >>
-> >> Sinon il y a peut être possibilité d'aller à la FPH, par exemple en se
-> >> greffant sur une soirée SCL. http://www.agendadulibre.org/events/11976
-> >> Demande à vcalame at april.org
+> >> Sinon il y a peut Ãªtre possibilitÃ© d'aller Ã  la FPH, par exemple en se
+> >> greffant sur une soirÃ©e SCL. http://www.agendadulibre.org/events/11976
+> >> Demande Ã  vcalame at april.org
 > >>
 > >> Bonne chance. :)
-> >> François
+> >> FranÃ§ois
 > >>
 > >
 > >
@@ -636,7 +636,7 @@ Le ven. 18 nov. 2016 à 16:10, Phyks <phyks at phyks.me> a écrit :
 > http://listes.mozfr.org/mailman/listinfo/tuppervim
 >
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20161118/466f2d81/attachment-0001.html>
 
 From keller.mdpa at gmail.com  Tue Nov 22 11:56:25 2016
@@ -653,16 +653,16 @@ References: <CAM+ya-CJXWX0JHcYa7OPtXxje6KHeyW+aDTVa7+1PxpdwckUew@mail.gmail.com>
  <CAHZbcQN-PqOynkPB03xpKSPDazjEfr9Oi1=LiSptu6CQReyu3Q@mail.gmail.com>
 Message-ID: <CAM+ya-CZhM-=btn1L1xo3TaKhc0=Qcwjmb95yws=pLFuR15MYQ@mail.gmail.com>
 
-Donc si je résume, on a quatre solutions potentielles :
+Donc si je rÃ©sume, on a quatre solutions potentielles :
 
-* l'april dans le 14ème, mais peu de place et besoin d'un host Aprilien
-* la paillasse dans le 2ème pas d'infos (payant, process de réservation?)
-* HackEns dans le 5ème, pas le plus simple avec vigipirate
-* La société de Thomas qui est à 5 minutes de Mozilla
+* l'april dans le 14Ã¨me, mais peu de place et besoin d'un host Aprilien
+* la paillasse dans le 2Ã¨me pas d'infos (payant, process de rÃ©servation?)
+* HackEns dans le 5Ã¨me, pas le plus simple avec vigipirate
+* La sociÃ©tÃ© de Thomas qui est Ã  5 minutes de Mozilla
 
-je préfère la dernière solution, en plus Thomas a déjà fait la demande.
+je prÃ©fÃ¨re la derniÃ¨re solution, en plus Thomas a dÃ©jÃ  fait la demande.
 
-Si vous avez d'autres idée, n'hésitez pas.
+Si vous avez d'autres idÃ©e, n'hÃ©sitez pas.
 
 --
 maggick | \_o<

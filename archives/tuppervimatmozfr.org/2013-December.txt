@@ -7,45 +7,45 @@ Message-ID: <529C9E8C.8020308@mozilla.com>
 Canettes, canetons,
 
 il fait froid, il pleut et Paris c?est moche *mais* il y a les 
-calendriers de l?avent, les chocolats de Noël, les dindes de Noël, les 
-cuites de Noël et la soirée Vim de Noël. Alleluïa !
+calendriers de l?avent, les chocolats de NoÃ«l, les dindes de NoÃ«l, les 
+cuites de NoÃ«l et la soirÃ©e Vim de NoÃ«l. AlleluÃ¯a !
 
 Cela dit, comme la religion on s?en cogne au moins autant que les dates, 
-la soirée aura lieu le mardi 10 décembre et non le jour du solstice. 
-Ouais bah c?est comme ça, si y?en a un que ça défrise on le cloue sur 
-une porte, c?est ça aussi la magie de Noël.
+la soirÃ©e aura lieu le mardi 10 dÃ©cembre et non le jour du solstice. 
+Ouais bah c?est comme Ã§a, si y?en a un que Ã§a dÃ©frise on le cloue sur 
+une porte, c?est Ã§a aussi la magie de NoÃ«l.
 
-Comme d?habitude, ça commence à 20h, ça se passe dans les locaux Mozilla 
-[1], et il faut s?inscrire sur le framadate pour qu?on puisse préparer 
-la salle en conséquence.
+Comme d?habitude, Ã§a commence Ã  20h, Ã§a se passe dans les locaux Mozilla 
+[1], et il faut s?inscrire sur le framadate pour qu?on puisse prÃ©parer 
+la salle en consÃ©quence.
 
    http://framadate.org/studs.php?sondage=2s57la6ayy4vmoj4
 
-Je ne doute pas un seul instant que vous annoncerez à l?avance les 
-sujets que vous allez présenter sur l?etherpad  :
+Je ne doute pas un seul instant que vous annoncerez Ã  l?avance les 
+sujets que vous allez prÃ©senter sur l?etherpad  :
 
    https://etherpad.mozilla.org/TupperVim-1312
 
-Attention : la soirée démarre à 20h pile et s?arrête au bout de deux 
+Attention : la soirÃ©e dÃ©marre Ã  20h pile et s?arrÃªte au bout de deux 
 heures, donc mieux vaut arriver avec 5 min d?avance qu?une demi-heure de 
-retard. Évidemment, les plus motivés sont les bienvenus s?ils veulent 
-prolonger au-delà de 22h pour bricoler du Vim, des fichiers de config ou 
+retard. Ã‰videmment, les plus motivÃ©s sont les bienvenus s?ils veulent 
+prolonger au-delÃ  de 22h pour bricoler du Vim, des fichiers de config ou 
 du baby-foot.
 
-Par ailleurs, les codes de la porte d?entrée ont changé et il est 
-désormais rigoureusement interdit de les confier à qui que ce soit, 
-fût-ce des gens aussi recommandables que vous-mêmes. Il faudra donc 
-sonner à l?interphone (y?a une entrée ?Mozilla?) et se faire guider 
-jusqu?à la salle. Je pourrai faire le portier jusqu?à 20h, au-delà il 
-vous faudra compter sur la mansuétude de l?un des participants pour vous 
+Par ailleurs, les codes de la porte d?entrÃ©e ont changÃ© et il est 
+dÃ©sormais rigoureusement interdit de les confier Ã  qui que ce soit, 
+fÃ»t-ce des gens aussi recommandables que vous-mÃªmes. Il faudra donc 
+sonner Ã  l?interphone (y?a une entrÃ©e ?Mozilla?) et se faire guider 
+jusqu?Ã  la salle. Je pourrai faire le portier jusqu?Ã  20h, au-delÃ  il 
+vous faudra compter sur la mansuÃ©tude de l?un des participants pour vous 
 ouvrir la porte.
 
 \_o<
 -- 
-[1] 16 bis boulevard Montmartre, Paris ? métro : Richelieu-Drouot
+[1] 16 bis boulevard Montmartre, Paris ? mÃ©tro : Richelieu-Drouot
 Plus d?infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
 -- 
-:kazé
+:kazÃ©
 
 
 From fabien at cazenave.cc  Mon Dec  2 15:59:14 2013
@@ -57,9 +57,9 @@ References: <529C9E8C.8020308@mozilla.com>
 Message-ID: <529CA042.7010200@cazenave.cc>
 
 On 02/12/13 15:51, Fabien Cazenave wrote:
-> Comme d?habitude, ça commence à 20h, ça se passe dans les locaux Mozilla
-> [1], et il faut s?inscrire sur le framadate pour qu?on puisse préparer
-> la salle en conséquence.
+> Comme d?habitude, Ã§a commence Ã  20h, Ã§a se passe dans les locaux Mozilla
+> [1], et il faut s?inscrire sur le framadate pour qu?on puisse prÃ©parer
+> la salle en consÃ©quence.
 
 Et comme d?habitude, je me plante dans le copier/coller pour le lien du 
 framadate. Rhaaaaaaaa.
@@ -68,7 +68,7 @@ framadate. Rhaaaaaaaa.
 
 Paix, amour et canards.
 -- 
-:kazé
+:kazÃ©
 
 
 From kaze at mozilla.com  Sat Dec 28 22:27:55 2013
@@ -77,31 +77,31 @@ Date: Sat, 28 Dec 2013 22:27:55 +0100
 Subject: [tupperVim] Session de janvier 2014
 Message-ID: <52BF425B.1040005@mozilla.com>
 
-Chers palmipèdes,
+Chers palmipÃ¨des,
 
-celles et ceux d?entre vous qui auront survécu aux beuveries de fin 
-d?année sont bravement invités le mardi 7 janvier 2014, en nos bons 
-locaux Mozilla parisiens [1], pour une session tupperVim de 20h à 22h 
-(et plus si affinités).
+celles et ceux d?entre vous qui auront survÃ©cu aux beuveries de fin 
+d?annÃ©e sont bravement invitÃ©s le mardi 7 janvier 2014, en nos bons 
+locaux Mozilla parisiens [1], pour une session tupperVim de 20h Ã  22h 
+(et plus si affinitÃ©s).
 
 Dans un souci de simplification, je vous propose de renoncer au 
-traditionnel (mais néanmoins merdique) framadate et de vous inscrire 
+traditionnel (mais nÃ©anmoins merdique) framadate et de vous inscrire 
 directement sur le pad :
 
    https://etherpad.mozilla.org/TupperVim-1401
 
-Si vous cherchez une bonne résolution pour l?année 2014, voilà une 
+Si vous cherchez une bonne rÃ©solution pour l?annÃ©e 2014, voilÃ  une 
 suggestion pas trop contraignante : versionner ses fichiers de 
-configuration et coller l?URL du dépôt sur le wiki, paf.
+configuration et coller l?URL du dÃ©pÃ´t sur le wiki, paf.
 
    http://wiki.mozfr.org/TupperVim#Liens
 
-Bon réveillon à toutes et tous, à bientôt !
+Bon rÃ©veillon Ã  toutes et tous, Ã  bientÃ´t !
 \_o<
 
 -- 
-[1] 16 bis boulevard Montmartre, Paris ? métro : Richelieu-Drouot
-Demander les codes d?accès sur : irc://irc.mozilla.org/tupperVim
+[1] 16 bis boulevard Montmartre, Paris ? mÃ©tro : Richelieu-Drouot
+Demander les codes d?accÃ¨s sur : irc://irc.mozilla.org/tupperVim
 Plus d?infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
 
 
@@ -113,20 +113,20 @@ In-Reply-To: <52BF425B.1040005@mozilla.com>
 References: <52BF425B.1040005@mozilla.com>
 Message-ID: <20131228222905.GA10665@thetys-retz.net>
 
-Le 28 décembre à 22:27 Fabien Cazenave a écrit
-> Si vous cherchez une bonne résolution pour l?année 2014, voilà une 
+Le 28 dÃ©cembre Ã  22:27 Fabien Cazenave a Ã©crit
+> Si vous cherchez une bonne rÃ©solution pour l?annÃ©e 2014, voilÃ  une 
 > suggestion pas trop contraignante : versionner ses fichiers de 
-> configuration et coller l?URL du dépôt sur le wiki, paf.
+> configuration et coller l?URL du dÃ©pÃ´t sur le wiki, paf.
 > 
 >    http://wiki.mozfr.org/TupperVim#Liens
 > 
-Doit-on également mettre son mot de passe YouPorn ?
+Doit-on Ã©galement mettre son mot de passe YouPorn ?
 
 Paix, amour et canard !
 -- 
 Vincent-Xavier JUMEL GPG Id: 0x14ABB3F2 http://thetys-retz.net
 
-Rejoignez les 3679 adhérents de l'April http://www.april.org/adherer
-Parinux, logiciel libre à Paris : http://www.parinux.org
+Rejoignez les 3679 adhÃ©rents de l'April http://www.april.org/adherer
+Parinux, logiciel libre Ã  Paris : http://www.parinux.org
 
 

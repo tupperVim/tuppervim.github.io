@@ -4,17 +4,17 @@ Date: Tue, 2 Aug 2016 21:22:28 +0200
 Subject: [tupperVim] =?utf-8?q?Barbecue_le_7_ao=C3=BBt_=C3=A0_la_gare_XP?=
 Message-ID: <CAHsE+uHPz-1pESObmz0s0Z4c14xhL2GsxP=X+LVFFUZkcotq0w@mail.gmail.com>
 
-Bonsoir à tous,
+Bonsoir Ã  tous,
 
 Suite au sondage, la date du barbecue est maintenant officielle: ce sera ce
-dimanche 7 août
+dimanche 7 aoÃ»t
 
 Merci de vous inscrire sur l'etherpad:
 https://public.etherpad-mozilla.org/p/tuppervim-bbq-16
 
-À +
+Ã€ +
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://listes.mozfr.org/pipermail/tuppervim/attachments/20160802/e395d4bd/attachment.html>
 
 From keller.mdpa at gmail.com  Wed Aug  3 16:34:46 2016
@@ -25,27 +25,27 @@ Message-ID: <CAM+ya-Dg3mhNAp95CPAf9+SsqHNempW_oan=8xyK2S8sUGQpAQ@mail.gmail.com>
 
 Camarades vimistes,
 
-Le tuppervim de septembre est prêt :
+Le tuppervim de septembre est prÃªt :
 Il aura lieu le premier mardi du mois, le 06 septembre dans les locaux
 de Mozilla
-(Paris) de 20h à 22h.
-L'apéro aura lieu de 19h15 à 20h.
+(Paris) de 20h Ã  22h.
+L'apÃ©ro aura lieu de 19h15 Ã  20h.
 Merci de vous annoncer sur le pad comme il se doit :
 
 https://public.etherpad-mozilla.org/p/TupperVim-1609
 
-La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je ne
+La procÃ©dure pour se faire ouvrir la porte Ã©tant toujours aussi pÃ©nible, je ne
 saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer le(s)
-numéro(s) présent(s) sur la porte pour qu?on vienne vous ouvrir.
+numÃ©ro(s) prÃ©sent(s) sur la porte pour qu?on vienne vous ouvrir.
 
-Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger (un
-espace est dédié à La question sur le pad).
+Concernant la nourriture comme toujours on ramÃ¨ne ce qu'on souhaite manger (un
+espace est dÃ©diÃ© Ã  La question sur le pad).
 
-Un email de rappel sera probablement envoyé quelques jours/heures avant les
-agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?évènement
+Un email de rappel sera probablement envoyÃ© quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?Ã©vÃ¨nement
 dans votre agenda.
 
-D?ici là, soyez de bons citoyens et donnez de l?amour aux canards et profitez du
+D?ici lÃ , soyez de bons citoyens et donnez de l?amour aux canards et profitez du
 soleil Parisien.
 Bonne vacances
 

@@ -6,39 +6,39 @@ Message-ID: <524FE588.900@gmail.com>
 
 Canettes, canetons,
 
-Après la rentrée, c'est avec une joie non dissimulée que je vous convie 
-à la prochaine soirée Vim le jeudi 10 octobre à 20h dans les locaux 
+AprÃ¨s la rentrÃ©e, c'est avec une joie non dissimulÃ©e que je vous convie 
+Ã  la prochaine soirÃ©e Vim le jeudi 10 octobre Ã  20h dans les locaux 
 Mozilla [1].
 
 Comme d'habitude, il faut s'inscrire sur le framadate pour qu'on puisse 
-préparer la salle en conséquence
+prÃ©parer la salle en consÃ©quence
 
 http://www.framadate.org/studs.php?sondage=3fdxdtys9zxtz3cw 
 <http://www.framadate.org/studs.php?sondage=3fdxdtys9zxtz3cw>
 
 
 ... et comme d'habitude (ou pas), merci d'annoncer les sujets que vous 
-allez présenter sur l'etherpad :
+allez prÃ©senter sur l'etherpad :
 
 https://etherpad.mozilla.org/TupperVim-1310
 
 
 Pour les ceusses qui ne connaissent pas encore les usages :
-  . on peut viendre sans avoir rien à présenter ;
-  . on peut présenter quelque chose sans avoir préparé de slides ;
+  . on peut viendre sans avoir rien Ã  prÃ©senter ;
+  . on peut prÃ©senter quelque chose sans avoir prÃ©parÃ© de slides ;
   . on peut inviter d'autres canettes / canetons ;
-  . les utilisateurs d'éditeurs inférieurs ("mécréants") sont bienvenus ;
-  . les offrandes liquides sont bienvenues également.
+  . les utilisateurs d'Ã©diteurs infÃ©rieurs ("mÃ©crÃ©ants") sont bienvenus ;
+  . les offrandes liquides sont bienvenues Ã©galement.
 
 \_o<
 
 maggick
 -- 
-[1] 16 bis boulevard Montmartre, Paris --- métro : Richelieu-Drouot
-Demander les codes d'accès sur : irc://irc.mozilla.org/tupperVim
+[1] 16 bis boulevard Montmartre, Paris --- mÃ©tro : Richelieu-Drouot
+Demander les codes d'accÃ¨s sur : irc://irc.mozilla.org/tupperVim
 Plus d'infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20131005/fc86d11d/attachment.html>
 
 From kaze at mozilla.com  Wed Oct 23 15:33:51 2013
@@ -49,40 +49,40 @@ Message-ID: <5267D03F.3020807@mozilla.com>
 
 Canettes, canetons,
 
-jusqu?ici, les soirées Vim se sont déroulées le jeudi pour des raisons 
-historiques : c?était la seule soirée où la salle de réunion était libre 
-dans les anciens locaux. Or, je constate que ça n?est pas optimal pour 
+jusqu?ici, les soirÃ©es Vim se sont dÃ©roulÃ©es le jeudi pour des raisons 
+historiques : c?Ã©tait la seule soirÃ©e oÃ¹ la salle de rÃ©union Ã©tait libre 
+dans les anciens locaux. Or, je constate que Ã§a n?est pas optimal pour 
 tout le monde : il y a les ?first jeudi? dans divers LUGs, et certains 
 d?entre nous sont pris tous les jeudi soirs (Alex a cours, moi j?ai 
 danse birmane, etc.)
 
-Par ailleurs, je pense qu?il faudrait en profiter pour préciser les 
+Par ailleurs, je pense qu?il faudrait en profiter pour prÃ©ciser les 
 horaires. Outre la question du coup d?envoi (19h ou 20h ?), je crois 
-qu?il faudrait limiter la durée des soirées : mieux vaut des soirées 
-trop denses que trop longues, à mon humble avis. Je propose donc qu?on 
-se fixe une limite de durée pour ces soirées, après quoi on éteint le 
-projecteur ? ce qui n?empêche pas de passer encore du temps entre nous 
-autour d?une(s) bière(s) pour discuter.
+qu?il faudrait limiter la durÃ©e des soirÃ©es : mieux vaut des soirÃ©es 
+trop denses que trop longues, Ã  mon humble avis. Je propose donc qu?on 
+se fixe une limite de durÃ©e pour ces soirÃ©es, aprÃ¨s quoi on Ã©teint le 
+projecteur ? ce qui n?empÃªche pas de passer encore du temps entre nous 
+autour d?une(s) biÃ¨re(s) pour discuter.
 
 Avant de fixer la date du prochain tupperVim je vous propose donc un 
 sondage sur les deux points suivants :
 
   ? le jour des tupperVim : mardi ou jeudi ?
   ? le coup d?envoi : 19h ou 20h ?
-  ? la durée : 2h ou 3h ?
+  ? la durÃ©e : 2h ou 3h ?
 
 http://www.framadate.org/studs.php?sondage=pd87k18b7ja7d593
 
-Attention : contrairement à l?habitude, on indique ici une *préférence* 
-et non une disponibilité ? par exemple, je préfèrerais le mardi mais je 
-suis dispo le mardi et jeudi et l?horaire m?importe peu, donc j?ai coché 
-?Mardi 19h? et ?Mardi 20h?. S?il y a un jour ou un horaire où vous 
-n?êtes pas disponible du tout, merci de le signaler en commentaire dans 
+Attention : contrairement Ã  l?habitude, on indique ici une *prÃ©fÃ©rence* 
+et non une disponibilitÃ© ? par exemple, je prÃ©fÃ¨rerais le mardi mais je 
+suis dispo le mardi et jeudi et l?horaire m?importe peu, donc j?ai cochÃ© 
+?Mardi 19h? et ?Mardi 20h?. S?il y a un jour ou un horaire oÃ¹ vous 
+n?Ãªtes pas disponible du tout, merci de le signaler en commentaire dans 
 ce sondage.
 
-J?espère avoir été compréhensible. :-)
-À bientôt !
+J?espÃ¨re avoir Ã©tÃ© comprÃ©hensible. :-)
+Ã€ bientÃ´t !
 -- 
-:kazé
+:kazÃ©
 
 

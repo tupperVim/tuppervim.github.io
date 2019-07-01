@@ -6,45 +6,45 @@ Message-ID: <527788BD.9060304@mozilla.com>
 
 Chers camarades vimistes,
 
-suite au mini-sondage effectué, on va modifier les horaires des soirées 
+suite au mini-sondage effectuÃ©, on va modifier les horaires des soirÃ©es 
 tupperVim : elles auront lieu le premier *mardi* de chaque mois (et non 
-plus le jeudi) et surtout, elles seront limitées dans le temps ? deux 
+plus le jeudi) et surtout, elles seront limitÃ©es dans le temps ? deux 
 heures, pas une minute de plus.
 
-Comme je suis une merde et que j?ai laissé filer le calendrier 
-(vacances?), je vous donne rendez-vous mardi 12 novembre à 20h tapantes 
+Comme je suis une merde et que j?ai laissÃ© filer le calendrier 
+(vacances?), je vous donne rendez-vous mardi 12 novembre Ã  20h tapantes 
 chez Mozilla [1]. Merci de vous annoncer sur le framadate :
 
 http://www.framadate.org/studs.php?sondage=z1616jlbikt2lykd
 
-La limitation de durée à deux heures a pour objectif de gagner en 
-densité. Le principe est le suivant :
+La limitation de durÃ©e Ã  deux heures a pour objectif de gagner en 
+densitÃ©. Le principe est le suivant :
 
-  ? début des agapes à 20h *pile* ? ceux qui arrivent avant sont les 
-bienvenus pour aider à la mise en place, boire une(s) binouse(s), 
+  ? dÃ©but des agapes Ã  20h *pile* ? ceux qui arrivent avant sont les 
+bienvenus pour aider Ã  la mise en place, boire une(s) binouse(s), 
 discuter de Vim ou autre ;
 
   ? pendant les 2h d?atelier, on se focalise sur Vim et on limite les 
-trolls / hors-sujets ? ça va être très difficile, notamment pour moi, 
-mais j?ai confiance en notre détermination collective ;
+trolls / hors-sujets ? Ã§a va Ãªtre trÃ¨s difficile, notamment pour moi, 
+mais j?ai confiance en notre dÃ©termination collective ;
 
-  ? à 22h, on éteint l?écran de présentation ? on peut continuer à 
-discuter et à picoler, les plus enthousiastes peuvent en profiter pour 
-bosser ensemble sur un projet de plugin, s?échanger des bouts de config 
-ou demander des précisions sur une des présentations, mais s?il reste 
-des présentations techniques on les reporte à la session d?après.
+  ? Ã  22h, on Ã©teint l?Ã©cran de prÃ©sentation ? on peut continuer Ã  
+discuter et Ã  picoler, les plus enthousiastes peuvent en profiter pour 
+bosser ensemble sur un projet de plugin, s?Ã©changer des bouts de config 
+ou demander des prÃ©cisions sur une des prÃ©sentations, mais s?il reste 
+des prÃ©sentations techniques on les reporte Ã  la session d?aprÃ¨s.
 
-Pour essayer d?être aussi efficace que possible durant ces deux heures, 
-je ne saurai trop vous recommander d?annoncer vos présentations sur le pad :
+Pour essayer d?Ãªtre aussi efficace que possible durant ces deux heures, 
+je ne saurai trop vous recommander d?annoncer vos prÃ©sentations sur le pad :
 
 https://etherpad.mozilla.org/TupperVim-1311
 
-À mardi !
+Ã€ mardi !
 \_o<
 
 --
-[1] 16 bis boulevard Montmartre, Paris ? métro : Richelieu-Drouot
-Demander les codes d?accès sur : irc://irc.mozilla.org/tupperVim
+[1] 16 bis boulevard Montmartre, Paris ? mÃ©tro : Richelieu-Drouot
+Demander les codes d?accÃ¨s sur : irc://irc.mozilla.org/tupperVim
 Plus d?infos sur le wiki mozfr : http://wiki.mozfr.org/TupperVim
 
 
@@ -57,23 +57,23 @@ Message-ID: <52834CF0.4030009@kolab.fsfeurope.org>
 
 Salut (Tupper)Vimistes,
 
-Je vous écris pour vous proposer un petit Tupper-meeting ou meeting-Ware supplémentaire.
+Je vous Ã©cris pour vous proposer un petit Tupper-meeting ou meeting-Ware supplÃ©mentaire.
 
-Utilisateurs de mutt à haut niveau et depuis des années, débutant ou
-même fervent défenseur d'un autre client mail, vous êtes tous invités à
+Utilisateurs de mutt Ã  haut niveau et depuis des annÃ©es, dÃ©butant ou
+mÃªme fervent dÃ©fenseur d'un autre client mail, vous Ãªtes tous invitÃ©s Ã 
 venir en discuter, apprendre et comparer nos usages de cet outil.
 
 C'est quand ?
-Mardi 19 novembre, à partir de 20h !
+Mardi 19 novembre, Ã  partir de 20h !
 
-C'est où ?
+C'est oÃ¹ ?
 Chez vous, dans les locaux de Mozilla
 
 C'est comment ?
-La première édition s'est faite en petit comité, nous espérons ramener
+La premiÃ¨re Ã©dition s'est faite en petit comitÃ©, nous espÃ©rons ramener
 quelques personnes de plus cette fois
 
-Faites-moi signe par retour de mail si vous êtes intéressés !
+Faites-moi signe par retour de mail si vous Ãªtes intÃ©ressÃ©s !
 La liste des participants et plus d'information :
      https://wiki.fsfe.org/groups/Paris/Mutterware
 
@@ -97,24 +97,24 @@ Ce sera bien 16 bis boulevard Montmartre, 75009 Paris !
 On 13/11/2013 10:57, Nicolas JEAN wrote:
 > Salut (Tupper)Vimistes,
 >
-> Je vous écris pour vous proposer un petit Tupper-meeting ou 
-> meeting-Ware supplémentaire.
+> Je vous Ã©cris pour vous proposer un petit Tupper-meeting ou 
+> meeting-Ware supplÃ©mentaire.
 >
-> Utilisateurs de mutt à haut niveau et depuis des années, débutant ou
-> même fervent défenseur d'un autre client mail, vous êtes tous invités à
+> Utilisateurs de mutt Ã  haut niveau et depuis des annÃ©es, dÃ©butant ou
+> mÃªme fervent dÃ©fenseur d'un autre client mail, vous Ãªtes tous invitÃ©s Ã 
 > venir en discuter, apprendre et comparer nos usages de cet outil.
 >
 > C'est quand ?
-> Mardi 19 novembre, à partir de 20h !
+> Mardi 19 novembre, Ã  partir de 20h !
 >
-> C'est où ?
+> C'est oÃ¹ ?
 > Chez vous, dans les locaux de Mozilla
 >
 > C'est comment ?
-> La première édition s'est faite en petit comité, nous espérons ramener
+> La premiÃ¨re Ã©dition s'est faite en petit comitÃ©, nous espÃ©rons ramener
 > quelques personnes de plus cette fois
 >
-> Faites-moi signe par retour de mail si vous êtes intéressés !
+> Faites-moi signe par retour de mail si vous Ãªtes intÃ©ressÃ©s !
 > La liste des participants et plus d'information :
 >     https://wiki.fsfe.org/groups/Paris/Mutterware
 >
@@ -136,8 +136,8 @@ Message-ID: <20131113130559.GA14742@hobbestigrou-desktop>
 On 11/13/13 11:10, Nicolas JEAN wrote:
 > Autant pour moi, confusion dans l'adresse :/
 > Ce sera bien 16 bis boulevard Montmartre, 75009 Paris !
-Intéressant, si je suis disponible, je vais venir. Je suis un
-utilisateur de mutt dont je suis très content et assez fan, mais je
-l'utilise très mal malheureusement.
+IntÃ©ressant, si je suis disponible, je vais venir. Je suis un
+utilisateur de mutt dont je suis trÃ¨s content et assez fan, mais je
+l'utilise trÃ¨s mal malheureusement.
 
 

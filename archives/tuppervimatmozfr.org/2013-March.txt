@@ -5,17 +5,17 @@ Subject: [tupperVim] =?utf-8?q?Mod=C3=A8les_de_fichiers_en_fonction_de_r?=
  =?utf-8?b?w6hnbGVz?=
 Message-ID: <20130302100530.GA27466@thetys-retz.net>
 
-Je crois que theo était venu avec un tuppervim contenant une astuce pour
-«pré-remplir» l'entête d'un fichier C ou perl. Le script vim détectait
-si c'était perl ou C.
+Je crois que theo Ã©tait venu avec un tuppervim contenant une astuce pour
+Â«prÃ©-remplirÂ» l'entÃªte d'un fichier C ou perl. Le script vim dÃ©tectait
+si c'Ã©tait perl ou C.
 
-Bisous à celui qui me retrouve ça.
+Bisous Ã  celui qui me retrouve Ã§a.
 
 -- 
 Vincent-Xavier JUMEL GPG Id: 0x2E14CE70 http://thetys-retz.net
 
-Rejoignez les 4938 adhérents de l'April http://www.april.org/adherer
-Parinux, logiciel libre à Paris : http://www.parinux.org
+Rejoignez les 4938 adhÃ©rents de l'April http://www.april.org/adherer
+Parinux, logiciel libre Ã  Paris : http://www.parinux.org
 
 
 From simon.chabot at chabotsi.fr  Sat Mar  2 12:04:57 2013
@@ -30,22 +30,22 @@ Message-ID: <20130302110456.GC13730@chabotsi.no-ip.org>
 
 au BufNewFile *.py 0r ~/.vim/templates/python.py
 
-On Saturday 02 Mar 2013 à 11:05:30 (+0100), Vincent-Xavier JUMEL wrote :
-> Je crois que theo était venu avec un tuppervim contenant une astuce pour
-> «pré-remplir» l'entête d'un fichier C ou perl. Le script vim détectait
-> si c'était perl ou C.
+On Saturday 02 Mar 2013 Ã  11:05:30 (+0100), Vincent-Xavier JUMEL wrote :
+> Je crois que theo Ã©tait venu avec un tuppervim contenant une astuce pour
+> Â«prÃ©-remplirÂ» l'entÃªte d'un fichier C ou perl. Le script vim dÃ©tectait
+> si c'Ã©tait perl ou C.
 > 
-> Bisous à celui qui me retrouve ça.
+> Bisous Ã  celui qui me retrouve Ã§a.
 > 
 > -- 
 > Vincent-Xavier JUMEL GPG Id: 0x2E14CE70 http://thetys-retz.net
 
 -- 
 CHABOT Simon
-Université de Technologie de Compiègne
+UniversitÃ© de Technologie de CompiÃ¨gne
 GPG KeyID : B6DFD50C
 -------------- section suivante --------------
-Une pièce jointe autre que texte a été nettoyée...
+Une piÃ¨ce jointe autre que texte a Ã©tÃ© nettoyÃ©e...
 Nom: signature.asc
 Type: application/pgp-signature
 Taille: 669 octets
@@ -63,7 +63,7 @@ References: <20130302100530.GA27466@thetys-retz.net>
 	<20130302110456.GC13730@chabotsi.no-ip.org>
 Message-ID: <1362223570.87854.YahooMailNeo@web133203.mail.ir2.yahoo.com>
 
-Bon ceci n'est pas testé mais marche en théorie pour tout type de fichier, et cherche dans tous les dossiers runtime ;)
+Bon ceci n'est pas testÃ© mais marche en thÃ©orie pour tout type de fichier, et cherche dans tous les dossiers runtime ;)
 
 http://vpaste.net/2z3Sq
 
@@ -74,26 +74,26 @@ On rajoute dans le .vimrc
 
 
 ________________________________
- De : Simon Chabot <simon.chabot at chabotsi.fr>
-À : tuppervim at mozfr.org 
-Envoyé le : Samedi 2 mars 2013 12h04
-Objet : Re: [tupperVim] Modèles de fichiers en fonction de règles
+ DeÂ : Simon Chabot <simon.chabot at chabotsi.fr>
+Ã€Â : tuppervim at mozfr.org 
+EnvoyÃ© le : Samedi 2 mars 2013 12h04
+ObjetÂ : Re: [tupperVim] ModÃ¨les de fichiers en fonction de rÃ¨gles
  
 au BufNewFile *.py 0r ~/.vim/templates/python.py
 
-On Saturday 02 Mar 2013 à 11:05:30 (+0100), Vincent-Xavier JUMEL wrote :
-> Je crois que theo était venu avec un tuppervim contenant une astuce pour
-> «pré-remplir» l'entête d'un fichier C ou perl. Le script vim détectait
-> si c'était perl ou C.
+On Saturday 02 Mar 2013 Ã  11:05:30 (+0100), Vincent-Xavier JUMEL wrote :
+> Je crois que theo Ã©tait venu avec un tuppervim contenant une astuce pour
+> Â«prÃ©-remplirÂ» l'entÃªte d'un fichier C ou perl. Le script vim dÃ©tectait
+> si c'Ã©tait perl ou C.
 > 
-> Bisous à celui qui me retrouve ça.
+> Bisous Ã  celui qui me retrouve Ã§a.
 > 
 > -- 
 > Vincent-Xavier JUMEL GPG Id: 0x2E14CE70 http://thetys-retz.net
 
 -- 
 CHABOT Simon
-Université de Technologie de Compiègne
+UniversitÃ© de Technologie de CompiÃ¨gne
 GPG KeyID : B6DFD50C
 
 _______________________________________________
@@ -101,7 +101,7 @@ tupperVim mailing list
 tupperVim at mozfr.org
 http://mozfr.org/mailman/listinfo/tuppervim
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20130302/5648bca7/attachment.html>
 
 From Sylvain.Soliman+tuppervim at m4x.org  Sat Mar  2 13:11:07 2013
@@ -115,19 +115,19 @@ References: <20130302100530.GA27466@thetys-retz.net>
 Message-ID: <20130302121107.GA58103@macbook-air.inria.fr>
 
 * Vincent-Xavier JUMEL <endymion+vim at thetys-retz.net>:
-> Je crois que theo était venu avec un tuppervim contenant une astuce pour
-> «pré-remplir» l'entête d'un fichier C ou perl. Le script vim détectait
-> si c'était perl ou C.
+> Je crois que theo Ã©tait venu avec un tuppervim contenant une astuce pour
+> Â«prÃ©-remplirÂ» l'entÃªte d'un fichier C ou perl. Le script vim dÃ©tectait
+> si c'Ã©tait perl ou C.
 
-Pas vraiment spécifique à ce problème, mais les différents systèmes de
-"snippets" (SnipMate et UtilSnips étant les deux plus utilisés à ma
-connaissance) font un peu ça (aussi).
+Pas vraiment spÃ©cifique Ã  ce problÃ¨me, mais les diffÃ©rents systÃ¨mes de
+"snippets" (SnipMate et UtilSnips Ã©tant les deux plus utilisÃ©s Ã  ma
+connaissance) font un peu Ã§a (aussi).
 
-Par exemple le snippet #! sera expansé en fonction du type de fichier
+Par exemple le snippet #! sera expansÃ© en fonction du type de fichier
 (perl, python, etc.), pour python les import et if __main__... sont aussi
 disponibles en quelques touches.
 
-Bref, pas vraiment la réponse à la question, mais une alternative que
+Bref, pas vraiment la rÃ©ponse Ã  la question, mais une alternative que
 personnellement je trouve assez utile.
 
         Sylvain
@@ -136,7 +136,7 @@ personnellement je trouve assez utile.
 Sylvain Soliman <Sylvain.Soliman at m4x.org>   GnuPG Public Key: 0x0F53AF99
 Page personnelle                   http://contraintes.inria.fr/~soliman/
 -------------- section suivante --------------
-Une pièce jointe autre que texte a été nettoyée...
+Une piÃ¨ce jointe autre que texte a Ã©tÃ© nettoyÃ©e...
 Nom: smime.p7s
 Type: application/x-pkcs7-signature
 Taille: 2911 octets
@@ -151,17 +151,17 @@ Message-ID: <20130317125934.GA5747@danglard>
 
 Salut,
 
-On en a parlé au dernier TupperVim et c'est sorti dans mon agrégateur dans la
-foulée, un article sur "Vim sans hjkl", les bien-fondés de l'exercice et les
+On en a parlÃ© au dernier TupperVim et c'est sorti dans mon agrÃ©gateur dans la
+foulÃ©e, un article sur "Vim sans hjkl", les bien-fondÃ©s de l'exercice et les
 moyens de survivre :
   http://pbrisbin.com/posts/hard_mode
 
-J'y ai appris deux trois choses intéressantes, notamment sur la manipulation de
-texte en mode Ex (exemple : :2,7co . pour copier les lignes 2 à 7 ici).
+J'y ai appris deux trois choses intÃ©ressantes, notamment sur la manipulation de
+texte en mode Ex (exemple : :2,7co . pour copier les lignes 2 Ã  7 ici).
 
-À bientôt,
+Ã€ bientÃ´t,
 -- 
-Raphaël Fournier-S'niehotta
+RaphaÃ«l Fournier-S'niehotta
 www.raphaelfournier.net/about
 
 
@@ -177,27 +177,27 @@ Message-ID: <20130317142649.GK93343@macbook-air.inria.fr>
 
     Bonjour,
 
-* Raphaël Fournier-S'niehotta <fournier at lavabit.com>:
-> On en a parlé au dernier TupperVim et c'est sorti dans mon agrégateur dans la
-> foulée, un article sur "Vim sans hjkl", les bien-fondés de l'exercice et les
+* RaphaÃ«l Fournier-S'niehotta <fournier at lavabit.com>:
+> On en a parlÃ© au dernier TupperVim et c'est sorti dans mon agrÃ©gateur dans la
+> foulÃ©e, un article sur "Vim sans hjkl", les bien-fondÃ©s de l'exercice et les
 > moyens de survivre :
 >   http://pbrisbin.com/posts/hard_mode
 
 Comme souvent, c'est chez Drew Neil, l'auteur de Practical Vim (affiliate
 link:
 http://www.amazon.fr/Practical-Vim-Edit-Speed-Thought/dp/1934356980%3FSubscriptionId%3DAKIAJIW2P6KKG3WCBMCA%26tag%3Dsoli05-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1934356980)
-que j'ai découvert le concept :
+que j'ai dÃ©couvert le conceptÂ :
 
 http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/
 
-Personnellement, je remappe vers nop les triples répétitions (hhh, jjj, kkk,
-lll) mais c'est tout (enfin, les flèches aussi, bien sûr).
+Personnellement, je remappe vers nop les triples rÃ©pÃ©titions (hhh, jjj, kkk,
+lll) mais c'est tout (enfin, les flÃ¨ches aussi, bien sÃ»r).
 
-> J'y ai appris deux trois choses intéressantes, notamment sur la manipulation de
-> texte en mode Ex (exemple : :2,7co . pour copier les lignes 2 à 7 ici).
+> J'y ai appris deux trois choses intÃ©ressantes, notamment sur la manipulation de
+> texte en mode Ex (exemple : :2,7co . pour copier les lignes 2 Ã  7 ici).
 
-Là encore, on trouve ça et plus (notamment l'abbréviation de :copy en :t)
-chez Drew Neil :
+LÃ  encore, on trouve Ã§a et plus (notamment l'abbrÃ©viation de :copy en :t)
+chez Drew NeilÂ :
 
 http://vimcasts.org/episodes/long-range-line-duplication/
 
@@ -207,7 +207,7 @@ http://vimcasts.org/episodes/long-range-line-duplication/
 Sylvain Soliman <Sylvain.Soliman at m4x.org>   GnuPG Public Key: 0x0F53AF99
 Page personnelle                   http://contraintes.inria.fr/~soliman/
 -------------- section suivante --------------
-Une pièce jointe autre que texte a été nettoyée...
+Une piÃ¨ce jointe autre que texte a Ã©tÃ© nettoyÃ©e...
 Nom: smime.p7s
 Type: application/x-pkcs7-signature
 Taille: 2911 octets

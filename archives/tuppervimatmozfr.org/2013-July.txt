@@ -4,14 +4,14 @@ Date: Wed, 31 Jul 2013 21:12:17 +0100 (BST)
 Subject: [tupperVim] =?iso-8859-1?q?Rencontre_d=27=E9t=E9?=
 Message-ID: <1375301537.20066.YahooMailNeo@web133205.mail.ir2.yahoo.com>
 
-Chers vimeurs, chères vimeuses,
-On avait discuté d'une rencontre estivalière lors du précédent tuppervim et sur IRC. Nous arrivons en Août et rien n'as encore été fait. Nous avons donc connu un mois de juillet sans tuppervim. Dur, n'est il pas ?
-Je propose donc d'y remédier. Sous quelles formes ? Point ne sais je.
-Rencontre dans un bar ? Agapes (ce mot si cher à kaze) dans un square / parc ? 
+Chers vimeurs, chÃ¨res vimeuses,
+On avait discutÃ© d'une rencontre estivaliÃ¨re lors du prÃ©cÃ©dent tuppervim et sur IRC. Nous arrivons en AoÃ»t et rien n'as encore Ã©tÃ© fait. Nous avons donc connu un mois de juillet sans tuppervim. Dur, n'est il pas ?
+Je propose donc d'y remÃ©dier. Sous quelles formes ? Point ne sais je.
+Rencontre dans un bar ? Agapes (ce mot si cher Ã  kaze) dans un square / parc ? 
 
 Le jeudi soir pour garder nos coutumes, le week-end comme c'est les vacances ?
 
-Bref, je ne fais que soumettre des propositions dans l'espoir d'un débat riche et respectueux.
+Bref, je ne fais que soumettre des propositions dans l'espoir d'un dÃ©bat riche et respectueux.
 
 Cordialement,
 Alkino
@@ -38,6 +38,6 @@ Lille
 4. Znefrvyyr
 ###########
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20130731/4f4b0f8f/attachment.html>
 

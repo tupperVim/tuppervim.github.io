@@ -4,16 +4,16 @@ Date: Mon, 04 Jun 2012 15:44:57 +0200
 Subject: [tupperVim] Session de Juin 2005
 Message-ID: <4FCCBBD9.7070904@mozilla.com>
 
-Très chers nerds,
+TrÃ¨s chers nerds,
 
-on renoue avec la méthode de La Rache?, je vous propose une session 
-tupperVim jeudi à 19h (dans trois jours). Attention, le lieu change, ça 
+on renoue avec la mÃ©thode de La Rache?, je vous propose une session 
+tupperVim jeudi Ã  19h (dans trois jours). Attention, le lieu change, Ã§a 
 se passera dans les nouveaux locaux Mozilla :
 
-     43 rue d?Aboukir, Paris 2ème (métro : Sentier)
+     43 rue d?Aboukir, Paris 2Ã¨me (mÃ©tro : Sentier)
 
 Passez sur le chan #tupperVim pour que je vous donne le code de la porte 
-d?entrée. J?ai quelques scrupules à les donner sur une ML dont les 
+d?entrÃ©e. J?ai quelques scrupules Ã  les donner sur une ML dont les 
 archives sont publiques. :-)
 
 Ce qui ne change pas :
@@ -22,9 +22,9 @@ Ce qui ne change pas :
   ? le pad pour proposer des sujets :
       https://etherpad.mozilla.org/TupperVim-1206
 
-À jeudi !
+Ã€ jeudi !
 -- 
-:kazé
+:kazÃ©
 
 
 From fabien at cazenave.cc  Mon Jun  4 15:50:20 2012
@@ -35,19 +35,19 @@ In-Reply-To: <4FCCBBD9.7070904@mozilla.com>
 References: <4FCCBBD9.7070904@mozilla.com>
 Message-ID: <4FCCBD1C.7040909@cazenave.cc>
 
-Euh, juin 2012 et non pas juin 2005, évidemment? :-s
+Euh, juin 2012 et non pas juin 2005, Ã©videmment? :-s
 
 On 04/06/12 15:44, Fabien Cazenave wrote:
-> Très chers nerds,
+> TrÃ¨s chers nerds,
 >
-> on renoue avec la méthode de La Rache?, je vous propose une session
-> tupperVim jeudi à 19h (dans trois jours). Attention, le lieu change, ça
+> on renoue avec la mÃ©thode de La Rache?, je vous propose une session
+> tupperVim jeudi Ã  19h (dans trois jours). Attention, le lieu change, Ã§a
 > se passera dans les nouveaux locaux Mozilla :
 >
-> 43 rue d?Aboukir, Paris 2ème (métro : Sentier)
+> 43 rue d?Aboukir, Paris 2Ã¨me (mÃ©tro : Sentier)
 >
 > Passez sur le chan #tupperVim pour que je vous donne le code de la porte
-> d?entrée. J?ai quelques scrupules à les donner sur une ML dont les
+> d?entrÃ©e. J?ai quelques scrupules Ã  les donner sur une ML dont les
 > archives sont publiques. :-)
 >
 > Ce qui ne change pas :
@@ -56,9 +56,9 @@ On 04/06/12 15:44, Fabien Cazenave wrote:
 > ? le pad pour proposer des sujets :
 > https://etherpad.mozilla.org/TupperVim-1206
 >
-> À jeudi !
+> Ã€ jeudi !
 
 -- 
-:kazé
+:kazÃ©
 
 

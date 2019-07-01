@@ -18,7 +18,7 @@ Matthieu KELLER
   e-mail : keller.mdpa at gmail.com
   site web : www.matthieukeller.com
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20140901/17f2725f/attachment.html>
 
 From keller.mdpa at gmail.com  Mon Sep 15 15:06:10 2014
@@ -29,25 +29,25 @@ Message-ID: <CAM+ya-BbG32g+J6XeJYYD2udZ6J0svrZBCTgH5deH1T_v9Rqxg@mail.gmail.com>
 
 Camarades vimistes,
 
-Après la rentrée sur un temps estival, les agapes reprennent et
+AprÃ¨s la rentrÃ©e sur un temps estival, les agapes reprennent et
 auront lieu comme d'habitude le premier mardi du mois
-(mardi 7 octobre) dans les locaux de Mozilla de 20h à 22h.
+(mardi 7 octobre) dans les locaux de Mozilla de 20h Ã  22h.
 Merci de vous annoncer sur le pad comme il se doit :
 
   https://etherpad.mozilla.org/TupperVim-1410
 
-La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+La procÃ©dure pour se faire ouvrir la porte Ã©tant toujours aussi pÃ©nible, je
 ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
-les numéros présents sur le pad pour qu?on vienne vous ouvrir.
+les numÃ©ros prÃ©sents sur le pad pour qu?on vienne vous ouvrir.
 
-Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
-(un espace est dédié à cette question sur le pad).
+Concernant la nourriture comme toujours on ramÃ¨ne ce qu'on souhaite manger
+(un espace est dÃ©diÃ© Ã  cette question sur le pad).
 
-Un email de rappel sera probablement envoyé quelques jours/heures avant les
-agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?événement
+Un email de rappel sera probablement envoyÃ© quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?Ã©vÃ©nement
 dans votre agenda.
 
-D?ici là, soyez de bons citoyens : prenez les transports en commun, les
+D?ici lÃ , soyez de bons citoyens : prenez les transports en commun, les
 velib', les autolib', ne tuez pas de vieilles dames, donnez de l?amour aux
 canards !
 
@@ -57,6 +57,6 @@ canards !
 
 maggick
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20140915/12e815b8/attachment.html>
 

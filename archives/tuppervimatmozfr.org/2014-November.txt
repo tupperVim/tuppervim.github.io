@@ -13,26 +13,26 @@ N'oubliez pas de vous inscrire sur le pad (on est 5 pour le moment).
 
 Camarades vimistes,
 
-Suite aux chutes récentes des températures, nous ne sommes pas en
+Suite aux chutes rÃ©centes des tempÃ©ratures, nous ne sommes pas en
 mesure d'organiser le tuppervim de novembre le premier mardi du mois.
-Le tuppervim aura donc lieu le mardi 18 novembre (le troisième mardi
-du mois)dans les locaux de Mozilla de 20h à 22h.
+Le tuppervim aura donc lieu le mardi 18 novembre (le troisiÃ¨me mardi
+du mois)dans les locaux de Mozilla de 20h Ã  22h.
 Merci de vous annoncer sur le pad comme il se doit :
 
   https://etherpad.mozilla.org/TupperVim-1411
 
-La procédure pour se faire ouvrir la porte étant toujours aussi pénible, je
+La procÃ©dure pour se faire ouvrir la porte Ã©tant toujours aussi pÃ©nible, je
 ne saurais trop vous recommander d?arriver 15 min en *avance* et de pinguer
-les numéros présents sur le pad pour qu?on vienne vous ouvrir.
+les numÃ©ros prÃ©sents sur le pad pour qu?on vienne vous ouvrir.
 
-Concernant la nourriture comme toujours on ramène ce qu'on souhaite manger
-(un espace est dédié à cette question sur le pad).
+Concernant la nourriture comme toujours on ramÃ¨ne ce qu'on souhaite manger
+(un espace est dÃ©diÃ© Ã  cette question sur le pad).
 
-Un email de rappel sera probablement envoyé quelques jours/heures avant les
-agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?événement
+Un email de rappel sera probablement envoyÃ© quelques jours/heures avant les
+agapes. Mais je ne peux que fortement vous conseiller d'inscrire l?Ã©vÃ©nement
 dans votre agenda.
 
-D?ici là, soyez de bons citoyens : mettez un bonnet, prenez les transports
+D?ici lÃ , soyez de bons citoyens : mettez un bonnet, prenez les transports
 en commun, les velib', les autolib', ne tuez pas de vieilles dames, donnez
 de l?amour aux canards !
 
@@ -42,7 +42,7 @@ de l?amour aux canards !
 
 maggick
 -------------- section suivante --------------
-Une pièce jointe HTML a été nettoyée...
+Une piÃ¨ce jointe HTML a Ã©tÃ© nettoyÃ©e...
 URL: <http://mozfr.org/pipermail/tuppervim/attachments/20141113/28335b08/attachment.html>
 
 From guyzmo at leloop.org  Thu Nov 20 18:20:14 2014
@@ -51,14 +51,14 @@ Date: Thu, 20 Nov 2014 18:20:14 +0100
 Subject: [tupperVim] [lcd047@gmail.com: [OT] Interview with Bram]
 Message-ID: <20141120172014.GA1398@vilya.online.net>
 
-le maître s'est exprimé. Il faut qu'on le garde en vie !
+le maÃ®tre s'est exprimÃ©. Il faut qu'on le garde en vieÂ !
 
 ZZ
 
 -- 
 Guyzmo
 -------------- section suivante --------------
-Un message encapsulé a été nettoyé...
+Un message encapsulÃ© a Ã©tÃ© nettoyÃ©...
 De: LCD 47 <lcd047 at gmail.com>
 Objet: [OT] Interview with Bram
 Date: Thu, 20 Nov 2014 14:20:55 +0200
@@ -72,7 +72,7 @@ Subject: [tupperVim] =?utf-8?q?=5Bkartiksinghal=40gmail=2Ecom=3A_Why_Atom_?=
  =?utf-8?q?Can=E2=80=99t_Replace_Vim_--_Learning_the_lesson_of_vi=5D?=
 Message-ID: <20141130152857.GK12261@vilya.online.net>
 
-Un message encapsulé a été nettoyé...
+Un message encapsulÃ© a Ã©tÃ© nettoyÃ©...
 De: Kartik Singhal <kartiksinghal at gmail.com>
 Objet: Why Atom Can?t Replace Vim -- Learning the lesson of vi
 Date: Sun, 30 Nov 2014 17:24:21 +0530
@@ -86,14 +86,14 @@ Subject: [tupperVim] [eg@gaute.vetsj.com: Announcing Astroid - v0.1]
 Message-ID: <20141130223704.GM12261@vilya.online.net>
 
 pour ceux qui aiment notmuch (ceux qui n'aiment pas ont tort de toutes
-façons)!
+faÃ§ons)!
 
-Et en plus ça intègre vim!
+Et en plus Ã§a intÃ¨gre vim!
 
 -- 
 Guyzmo
 -------------- section suivante --------------
-Un message encapsulé a été nettoyé...
+Un message encapsulÃ© a Ã©tÃ© nettoyÃ©...
 De: Gaute Hope <eg at gaute.vetsj.com>
 Objet: Announcing Astroid - v0.1
 Date: Sun, 30 Nov 2014 20:43:22 +0000

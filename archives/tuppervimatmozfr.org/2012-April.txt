@@ -6,38 +6,38 @@ In-Reply-To: <4F756FC3.1080609@mozilla.com>
 References: <4F756FC3.1080609@mozilla.com>
 Message-ID: <4F7C6912.6090907@cazenave.cc>
 
-Très chers nerds,
+TrÃ¨s chers nerds,
 
-encore et derechef, nous vainquîmes ! On est vraiment trop forts. \o/
+encore et derechef, nous vainquÃ®mes ! On est vraiment trop forts. \o/
 
-Pendant que la soirée est encore fraîche dans votre tête, je vous 
-suggère de compléter la section « Archives » du pad :
+Pendant que la soirÃ©e est encore fraÃ®che dans votre tÃªte, je vous 
+suggÃ¨re de complÃ©ter la section Â« Archives Â» du pad :
 https://etherpad.mozilla.org/TupperVim-1204
 
 :wq
 
-Le 30/03/2012 10:33, Fabien Cazenave a écrit :
+Le 30/03/2012 10:33, Fabien Cazenave a Ã©crit :
 > Bonjour les nerds !
 >
-> J?inaugure cette liste de diffusion (gracieusement hébergée par les
-> moules de mozfr) pour vous prévenir de la prochaine tenue tupperVim, le
-> 3 Avril à 19h, dans les locaux Mozilla à Paris.
+> J?inaugure cette liste de diffusion (gracieusement hÃ©bergÃ©e par les
+> moules de mozfr) pour vous prÃ©venir de la prochaine tenue tupperVim, le
+> 3 Avril Ã  19h, dans les locaux Mozilla Ã  Paris.
 >
 > Oui, c?est mardi prochain, dans 4 jours. Il faut savoir que l?ensemble
-> du projet tupperVim est organisé sur la méthode de La Rache?, et qu?il
-> serait complètement fou d?y déroger, ne serait-ce qu?une fois.
+> du projet tupperVim est organisÃ© sur la mÃ©thode de La Rache?, et qu?il
+> serait complÃ¨tement fou d?y dÃ©roger, ne serait-ce qu?une fois.
 >
-> Le principe du « viendez nombreux mais disez-le » s?applique toujours :
+> Le principe du Â« viendez nombreux mais disez-le Â» s?applique toujours :
 > http://www.doodle.com/xctip27qecqd3mhk
 >
-> Un pad pour annoncer (ou pas) ce que vous souhaitez présenter :
+> Un pad pour annoncer (ou pas) ce que vous souhaitez prÃ©senter :
 > https://etherpad.mozilla.org/TupperVim-1204
 >
-> Et pour ceux qui ne connaîtraient pas encore le concept, l?essentiel est
-> résumé sur ce pad :
+> Et pour ceux qui ne connaÃ®traient pas encore le concept, l?essentiel est
+> rÃ©sumÃ© sur ce pad :
 > https://etherpad.mozilla.org/TupperVim
 >
-> À mardi !
+> Ã€ mardi !
 > :wq
 
 
@@ -47,21 +47,21 @@ Date: Thu, 05 Apr 2012 10:08:30 +0200
 Subject: [tupperVim] Session de Mai 2012
 Message-ID: <4F7D52FE.6020309@mozilla.com>
 
-Très chers nerds,
+TrÃ¨s chers nerds,
 
-les moins crétins d?entre vous auront remarqué que le premier mardi du 
-mois prochain c?est le 1er mai, qui est férié pour d?obscures raisons 
-anarcho-communistes. Il va donc falloir déroger à la règle et reporter 
+les moins crÃ©tins d?entre vous auront remarquÃ© que le premier mardi du 
+mois prochain c?est le 1er mai, qui est fÃ©riÃ© pour d?obscures raisons 
+anarcho-communistes. Il va donc falloir dÃ©roger Ã  la rÃ¨gle et reporter 
 nos agapes.
 
-Merci d?indiquer vos disponibilités sur le doudeul : 
+Merci d?indiquer vos disponibilitÃ©s sur le doudeul : 
 http://www.doodle.com/38khzkhikyvvfa7m
 
-Par ailleurs, je crois qu?on devrait commencer la soirée un peu plus 
-tard, notamment parce qu?il y a pas mal d?employés Mozilla qui bossent 
-encore à 19h et qu?on est susceptibles de distraire, aussi parce que 
-certains d?entre vous ne peuvent pas se libérer si tôt. Je propose 
-19h30, ça pourrait être 20h, z?en pensez quoi ?
+Par ailleurs, je crois qu?on devrait commencer la soirÃ©e un peu plus 
+tard, notamment parce qu?il y a pas mal d?employÃ©s Mozilla qui bossent 
+encore Ã  19h et qu?on est susceptibles de distraire, aussi parce que 
+certains d?entre vous ne peuvent pas se libÃ©rer si tÃ´t. Je propose 
+19h30, Ã§a pourrait Ãªtre 20h, z?en pensez quoi ?
 
 :wq
 
@@ -75,18 +75,18 @@ References: <4F7D52FE.6020309@mozilla.com>
 Message-ID: <20120405102046.7472cfce@foehn.lix.polytechnique.fr>
 
 Le Thu, 05 Apr 2012 10:08:30 +0200,
-Fabien Cazenave <kaze at mozilla.com> a écrit :
+Fabien Cazenave <kaze at mozilla.com> a Ã©crit :
 
 > Je propose 
-> 19h30, ça pourrait être 20h, z?en pensez quoi ?
+> 19h30, Ã§a pourrait Ãªtre 20h, z?en pensez quoi ?
 
-Perso, les deux me conviennent. Et effectivement, retarder le démarrage
+Perso, les deux me conviennent. Et effectivement, retarder le dÃ©marrage
 m'arrange. :)
 
-François
+FranÃ§ois
 
 -- 
-François Poulain <fpoulain at metrodore.fr>
+FranÃ§ois Poulain <fpoulain at metrodore.fr>
 
 
 From mounir.lamouri at mozilla.com  Thu Apr  5 10:46:29 2012
@@ -99,11 +99,11 @@ References: <4F7D52FE.6020309@mozilla.com>
 Message-ID: <4F7D5BE5.60600@mozilla.com>
 
 On 04/05/2012 10:08 AM, Fabien Cazenave wrote:
-> Par ailleurs, je crois qu?on devrait commencer la soirée un peu plus
-> tard, notamment parce qu?il y a pas mal d?employés Mozilla qui bossent
-> encore à 19h et qu?on est susceptibles de distraire, aussi parce que
-> certains d?entre vous ne peuvent pas se libérer si tôt. Je propose
-> 19h30, ça pourrait être 20h, z?en pensez quoi ?
+> Par ailleurs, je crois qu?on devrait commencer la soirÃ©e un peu plus
+> tard, notamment parce qu?il y a pas mal d?employÃ©s Mozilla qui bossent
+> encore Ã  19h et qu?on est susceptibles de distraire, aussi parce que
+> certains d?entre vous ne peuvent pas se libÃ©rer si tÃ´t. Je propose
+> 19h30, Ã§a pourrait Ãªtre 20h, z?en pensez quoi ?
 
 En fait, je pense que mardi etait probablement un mauvais jour parce
 que, a ma connaissance, c'est un jour ou presque tout le monde a des
@@ -145,7 +145,7 @@ On Apr 5, 2012, at 10:46 , Mounir Lamouri wrote:
 > Je pense qu'il faudrait ou bien deplacer TupperVim a un autre jour (je
 > pense que tous les jours seraient mieux que mardi) ou bien deplacer les
 > sessions a 20h ou 20h30.
-Si vous décidez de changer de jour, il me semble que le mercredi est aussi généralement chargé.
+Si vous dÃ©cidez de changer de jour, il me semble que le mercredi est aussi gÃ©nÃ©ralement chargÃ©.
 
 
 
@@ -164,7 +164,7 @@ On 04/05/2012 11:00 AM, Anthony Ricaud wrote:
 >> Je pense qu'il faudrait ou bien deplacer TupperVim a un autre jour (je
 >> pense que tous les jours seraient mieux que mardi) ou bien deplacer les
 >> sessions a 20h ou 20h30.
-> Si vous décidez de changer de jour, il me semble que le mercredi est aussi généralement chargé.
+> Si vous dÃ©cidez de changer de jour, il me semble que le mercredi est aussi gÃ©nÃ©ralement chargÃ©.
 
 Oui. Et c'est le jour des meetup MDN aussi. Jeudi me semble un bon candidat.
 
@@ -182,30 +182,30 @@ Message-ID: <4F7D6370.3080402@mozilla.com>
 
 Mouniiiiiiiiir ! <3
 
-Le 05/04/2012 10:46, Mounir Lamouri a écrit :
+Le 05/04/2012 10:46, Mounir Lamouri a Ã©crit :
 > On 04/05/2012 10:08 AM, Fabien Cazenave wrote:
 > Je pense qu'il faudrait ou bien deplacer TupperVim a un autre jour (je
 > pense que tous les jours seraient mieux que mardi) ou bien deplacer les
 > sessions a 20h ou 20h30. Je penche plutot pour changer le jour parce que
 > les gens auront tendance a passer apres la sortie du boulot.
 
-Changer de jour ne me poserait pas de problème, j?ai proposé le mardi 
-essentiellement parce que ça permettait à des employés Mozilla 
-(notamment les banlieusards) de venir à Paris pour le déjeuner d?équipe 
-*et* la soirée Vim.
+Changer de jour ne me poserait pas de problÃ¨me, j?ai proposÃ© le mardi 
+essentiellement parce que Ã§a permettait Ã  des employÃ©s Mozilla 
+(notamment les banlieusards) de venir Ã  Paris pour le dÃ©jeuner d?Ã©quipe 
+*et* la soirÃ©e Vim.
 
-Si un autre jour convient à la majorité, ça m?ira très bien. Je laisse 
-les nerds indiquer leur disponibilité sur le doudeul.
+Si un autre jour convient Ã  la majoritÃ©, Ã§a m?ira trÃ¨s bien. Je laisse 
+les nerds indiquer leur disponibilitÃ© sur le doudeul.
 
 > Ce mail n'a pas du tout pour but de raler.
 
-Tu m?as confondu avec un autre, je sais que tu ne râles pas. ;-)
-Je l?ai dit mardi soir à Alexandre, je l?ai suggéré à tout le bureau 
-parisien par mail hier : dites-nous ce qu?on peut faire pour vous gêner 
+Tu m?as confondu avec un autre, je sais que tu ne rÃ¢les pas. ;-)
+Je l?ai dit mardi soir Ã  Alexandre, je l?ai suggÃ©rÃ© Ã  tout le bureau 
+parisien par mail hier : dites-nous ce qu?on peut faire pour vous gÃªner 
 le moins possible.
 
 -- 
-:kazé
+:kazÃ©
 
 
 From kaze at mozilla.com  Thu Apr  5 11:21:39 2012
@@ -218,26 +218,26 @@ References: <4F7D52FE.6020309@mozilla.com> <4F7D5BE5.60600@mozilla.com>
 	<4F7D626D.4090005@mozilla.com>
 Message-ID: <4F7D6423.2020309@mozilla.com>
 
-Le 05/04/2012 11:14, Mounir Lamouri a écrit :
+Le 05/04/2012 11:14, Mounir Lamouri a Ã©crit :
 > On 04/05/2012 11:00 AM, Anthony Ricaud wrote:
 >> On Apr 5, 2012, at 10:46 , Mounir Lamouri wrote:
 >>> On 04/05/2012 10:08 AM, Fabien Cazenave wrote:
 >>> Je pense qu'il faudrait ou bien deplacer TupperVim a un autre jour (je
 >>> pense que tous les jours seraient mieux que mardi) ou bien deplacer les
 >>> sessions a 20h ou 20h30.
->> Si vous décidez de changer de jour, il me semble que le mercredi est aussi généralement chargé.
+>> Si vous dÃ©cidez de changer de jour, il me semble que le mercredi est aussi gÃ©nÃ©ralement chargÃ©.
 >
 > Oui. Et c'est le jour des meetup MDN aussi. Jeudi me semble un bon candidat.
 
-J?avais plus ou moins éliminé le jeudi à cause des « first jeudi » de ne 
-je sais plus quel groupuscule de dangereux terroristes (Parisnux ?). À 
-titre perso ça me conviendrait très bien, vu que je déteste Linux, Paris 
+J?avais plus ou moins Ã©liminÃ© le jeudi Ã  cause des Â« first jeudi Â» de ne 
+je sais plus quel groupuscule de dangereux terroristes (Parisnux ?). Ã€ 
+titre perso Ã§a me conviendrait trÃ¨s bien, vu que je dÃ©teste Linux, Paris 
 et les logiciels libres.
 
-J?attends les résultats du doudeul.
+J?attends les rÃ©sultats du doudeul.
 
 -- 
-:kazé
+:kazÃ©
 
 
 From mounir.lamouri at mozilla.com  Thu Apr  5 11:23:57 2012
@@ -251,15 +251,15 @@ References: <4F7D52FE.6020309@mozilla.com> <4F7D5BE5.60600@mozilla.com>
 Message-ID: <4F7D64AD.6040708@mozilla.com>
 
 On 04/05/2012 11:21 AM, Fabien Cazenave wrote:
-> J?avais plus ou moins éliminé le jeudi à cause des « first jeudi » de ne
-> je sais plus quel groupuscule de dangereux terroristes (Parisnux ?). À
-> titre perso ça me conviendrait très bien, vu que je déteste Linux, Paris
+> J?avais plus ou moins Ã©liminÃ© le jeudi Ã  cause des Â« first jeudi Â» de ne
+> je sais plus quel groupuscule de dangereux terroristes (Parisnux ?). Ã€
+> titre perso Ã§a me conviendrait trÃ¨s bien, vu que je dÃ©teste Linux, Paris
 > et les logiciels libres.
 
 Ben vendredi, il me semble que les gens ont tendance a avoir une vie
 sociale... ;) Lundi soir, c'est ptet pas trop mal sinon ?
 
-> J?attends les résultats du doudeul.
+> J?attends les rÃ©sultats du doudeul.
 
 Y'a un Doodle specifique pour choisir un nouveau jour ?
 
@@ -279,17 +279,17 @@ Message-ID: <20120405093423.GA23478@glandium.org>
 On Thu, Apr 05, 2012 at 11:18:40AM +0200, Fabien Cazenave wrote:
 > Mouniiiiiiiiir ! <3
 > 
-> Le 05/04/2012 10:46, Mounir Lamouri a écrit :
+> Le 05/04/2012 10:46, Mounir Lamouri a Ã©crit :
 > >On 04/05/2012 10:08 AM, Fabien Cazenave wrote:
 > >Je pense qu'il faudrait ou bien deplacer TupperVim a un autre jour (je
 > >pense que tous les jours seraient mieux que mardi) ou bien deplacer les
 > >sessions a 20h ou 20h30. Je penche plutot pour changer le jour parce que
 > >les gens auront tendance a passer apres la sortie du boulot.
 > 
-> Changer de jour ne me poserait pas de problème, j?ai proposé le
-> mardi essentiellement parce que ça permettait à des employés Mozilla
-> (notamment les banlieusards) de venir à Paris pour le déjeuner
-> d?équipe *et* la soirée Vim.
+> Changer de jour ne me poserait pas de problÃ¨me, j?ai proposÃ© le
+> mardi essentiellement parce que Ã§a permettait Ã  des employÃ©s Mozilla
+> (notamment les banlieusards) de venir Ã  Paris pour le dÃ©jeuner
+> d?Ã©quipe *et* la soirÃ©e Vim.
 
 Genre y en a plusieurs.
 
@@ -309,9 +309,9 @@ Message-ID: <20120405093834.GA23567@glandium.org>
 
 On Thu, Apr 05, 2012 at 11:23:57AM +0200, Mounir Lamouri wrote:
 > On 04/05/2012 11:21 AM, Fabien Cazenave wrote:
-> > J?avais plus ou moins éliminé le jeudi à cause des « first jeudi » de ne
-> > je sais plus quel groupuscule de dangereux terroristes (Parisnux ?). À
-> > titre perso ça me conviendrait très bien, vu que je déteste Linux, Paris
+> > J?avais plus ou moins Ã©liminÃ© le jeudi Ã  cause des Â« first jeudi Â» de ne
+> > je sais plus quel groupuscule de dangereux terroristes (Parisnux ?). Ã€
+> > titre perso Ã§a me conviendrait trÃ¨s bien, vu que je dÃ©teste Linux, Paris
 > > et les logiciels libres.
 > 
 > Ben vendredi, il me semble que les gens ont tendance a avoir une vie
@@ -334,36 +334,36 @@ References: <4F7D52FE.6020309@mozilla.com> <4F7D5BE5.60600@mozilla.com>
 	<4F7D64AD.6040708@mozilla.com>
 Message-ID: <4F7D68A3.1080601@mozilla.com>
 
-Le 05/04/2012 11:23, Mounir Lamouri a écrit :
+Le 05/04/2012 11:23, Mounir Lamouri a Ã©crit :
 > On 04/05/2012 11:21 AM, Fabien Cazenave wrote:
->> J?avais plus ou moins éliminé le jeudi à cause des « first jeudi » de ne
->> je sais plus quel groupuscule de dangereux terroristes (Parisnux ?). À
->> titre perso ça me conviendrait très bien, vu que je déteste Linux, Paris
+>> J?avais plus ou moins Ã©liminÃ© le jeudi Ã  cause des Â« first jeudi Â» de ne
+>> je sais plus quel groupuscule de dangereux terroristes (Parisnux ?). Ã€
+>> titre perso Ã§a me conviendrait trÃ¨s bien, vu que je dÃ©teste Linux, Paris
 >> et les logiciels libres.
 >
 > Ben vendredi, il me semble que les gens ont tendance a avoir une vie
 > sociale... ;) Lundi soir, c'est ptet pas trop mal sinon ?
 
-Le vendredi ne m?arrange pas du tout, vu que je passe mes ouikendes à 
+Le vendredi ne m?arrange pas du tout, vu que je passe mes ouikendes Ã  
 Grenoble?
 
-Le lundi soir j?ai présumé que c?était pas approprié ? commencer la 
-semaine par une nuit raccourcie, perdre la moitié de son week-end à 
-préparer une présentation Vim, bof ? mais peut-être que j?ai tort ?
+Le lundi soir j?ai prÃ©sumÃ© que c?Ã©tait pas appropriÃ© ? commencer la 
+semaine par une nuit raccourcie, perdre la moitiÃ© de son week-end Ã  
+prÃ©parer une prÃ©sentation Vim, bof ? mais peut-Ãªtre que j?ai tort ?
 
 
->> J?attends les résultats du doudeul.
+>> J?attends les rÃ©sultats du doudeul.
 >
 > Y'a un Doodle specifique pour choisir un nouveau jour ?
 
 Y?a celui pour la session de mai : http://www.doodle.com/38khzkhikyvvfa7m
 
-Je n?ai pas proposé le lundi 7 mai pour cause de ponts probables. Du 
-coup, voilà un autre Doodle pour choisir une date récurrente : 
+Je n?ai pas proposÃ© le lundi 7 mai pour cause de ponts probables. Du 
+coup, voilÃ  un autre Doodle pour choisir une date rÃ©currente : 
 http://www.doodle.com/pme8uns4g26rabgr
 
 -- 
-:kazé
+:kazÃ©
 
 
 From kaze at mozilla.com  Thu Apr  5 11:42:16 2012
@@ -376,21 +376,21 @@ References: <4F7D52FE.6020309@mozilla.com> <4F7D5BE5.60600@mozilla.com>
 	<20120405093423.GA23478@glandium.org>
 Message-ID: <4F7D68F8.4070409@mozilla.com>
 
-Le 05/04/2012 11:34, Mike Hommey a écrit :
+Le 05/04/2012 11:34, Mike Hommey a Ã©crit :
 > On Thu, Apr 05, 2012 at 11:18:40AM +0200, Fabien Cazenave wrote:
->> Changer de jour ne me poserait pas de problème, j?ai proposé le
->> mardi essentiellement parce que ça permettait à des employés Mozilla
->> (notamment les banlieusards) de venir à Paris pour le déjeuner
->> d?équipe *et* la soirée Vim.
+>> Changer de jour ne me poserait pas de problÃ¨me, j?ai proposÃ© le
+>> mardi essentiellement parce que Ã§a permettait Ã  des employÃ©s Mozilla
+>> (notamment les banlieusards) de venir Ã  Paris pour le dÃ©jeuner
+>> d?Ã©quipe *et* la soirÃ©e Vim.
 >
 > Genre y en a plusieurs.
 >
 > Mike
 
-Au départ oui, il y en avait plusieurs (coucou Delphine !).
+Au dÃ©part oui, il y en avait plusieurs (coucou Delphine !).
 
 -- 
-:kazé
+:kazÃ©
 
 
 From dlebedel at mozilla.com  Thu Apr  5 15:16:37 2012
@@ -401,31 +401,31 @@ In-Reply-To: <4F7D68F8.4070409@mozilla.com>
 Message-ID: <1118938841.143431.1333631797417.JavaMail.root@zmmbox3.mail.corp.phx1.mozilla.com>
 
 > De: "Fabien Cazenave" <kaze at mozilla.com>
-> À: "Mike Hommey" <mhommey at mozilla.com>
+> Ã€: "Mike Hommey" <mhommey at mozilla.com>
 > Cc: tuppervim at mozfr.org
-> Envoyé: Jeudi 5 Avril 2012 11:42:16
+> EnvoyÃ©: Jeudi 5 Avril 2012 11:42:16
 > Objet: Re: [tupperVim] Changer le creneau TupperVim
 > 
-> Le 05/04/2012 11:34, Mike Hommey a écrit :
+> Le 05/04/2012 11:34, Mike Hommey a Ã©crit :
 > > On Thu, Apr 05, 2012 at 11:18:40AM +0200, Fabien Cazenave wrote:
-> >> Changer de jour ne me poserait pas de problème, j?ai proposé le
-> >> mardi essentiellement parce que ça permettait à des employés
+> >> Changer de jour ne me poserait pas de problÃ¨me, j?ai proposÃ© le
+> >> mardi essentiellement parce que Ã§a permettait Ã  des employÃ©s
 > >> Mozilla
-> >> (notamment les banlieusards) de venir à Paris pour le déjeuner
-> >> d?équipe *et* la soirée Vim.
+> >> (notamment les banlieusards) de venir Ã  Paris pour le dÃ©jeuner
+> >> d?Ã©quipe *et* la soirÃ©e Vim.
 > >
 > > Genre y en a plusieurs.
 > >
 > > Mike
 > 
-> Au départ oui, il y en avait plusieurs (coucou Delphine !).
+> Au dÃ©part oui, il y en avait plusieurs (coucou Delphine !).
 > 
 > --
-> :kazé
+> :kazÃ©
 
-/me fait la technique de l'autruche depuis tout à l'heure ^^ 
+/me fait la technique de l'autruche depuis tout Ã  l'heure ^^ 
 
--delphine (autruche à ses heures perdues...)
+-delphine (autruche Ã  ses heures perdues...)
 
 
 From arno at renevier.net  Sat Apr  7 16:10:39 2012
@@ -435,14 +435,14 @@ Subject: [tupperVim] liste d'outils pratiques
 Message-ID: <20120407141039.GA5239@bendonkey>
 
 Salut,
-je viens de créer une liste de petits outils pratiques qui changent la vie
+je viens de crÃ©er une liste de petits outils pratiques qui changent la vie
 quand on travaille principalement en mode console.
 
-J'ai laissé volontairement les plus connus (vim, tmux, mutt, zsh, slrn etc)
-pour me concentrer sur les petites perles qu'on ne découvre pas forcément du
+J'ai laissÃ© volontairement les plus connus (vim, tmux, mutt, zsh, slrn etc)
+pour me concentrer sur les petites perles qu'on ne dÃ©couvre pas forcÃ©ment du
 premier coup.
 
-Hésitez pas à rajouter les outils qui vous semblent pertinents:
+HÃ©sitez pas Ã  rajouter les outils qui vous semblent pertinents:
 
 https://etherpad.mozilla.org/TupperVim-tools
 
@@ -459,14 +459,14 @@ Message-ID: <CANfeGst2f9Wt3YieEi4S3VJH0xpM-dayaHP9u5SdQJj5vkZvDQ@mail.gmail.com>
 Salut,
 
 Donc pour rappel moi c'est Natal le fondateur de vim-fr.org. Alors
-c'est génial qu'on est désormais une liste, merci beaucoup kaze` et la
-communauté mozilla pour l?hébergement. J'ai justement quelques
-questions à propos de la liste, et son fonctionnement et savoir ce
-qu'on souhaite voir dessus. La première question étant est-ce qu'on
+c'est gÃ©nial qu'on est dÃ©sormais une liste, merci beaucoup kaze` et la
+communautÃ© mozilla pour l?hÃ©bergement. J'ai justement quelques
+questions Ã  propos de la liste, et son fonctionnement et savoir ce
+qu'on souhaite voir dessus. La premiÃ¨re question Ã©tant est-ce qu'on
 utilise la liste uniquement pour annoncer les rencontres et poser des
-questions suite à une chose qu'on aurait vu dans la soirée si a besoin
-de plus de détails. Ou est-ce que si on a des choses intéressantes à
-partager sur Vim on envoi, et surtout si on a des questions générales
+questions suite Ã  une chose qu'on aurait vu dans la soirÃ©e si a besoin
+de plus de dÃ©tails. Ou est-ce que si on a des choses intÃ©ressantes Ã 
+partager sur Vim on envoi, et surtout si on a des questions gÃ©nÃ©rales
 sur Vim est-ce qu'on peut les poser ici et dans ce cas je mettrai sur
 vim-fr le lien de cette liste.
 
@@ -483,14 +483,14 @@ Message-ID: <CANfeGstg3a9aaFU+8DshPTecfr6G3kCJLHmrO5wh9g_=d=3q1A@mail.gmail.com>
 
 Salut,
 
-J'ai une question concernant Ranger dans vim un tip qui nous a été
-présenté par kaze` et qui est fort utile et agréable. Actuellement
+J'ai une question concernant Ranger dans vim un tip qui nous a Ã©tÃ©
+prÃ©sentÃ© par kaze` et qui est fort utile et agrÃ©able. Actuellement
 c'est un peu du bricolage, une fonction dans le vimrc avec des appels
-system et ce genre de choses un peu brute. On avait parlé pendant la
-soirée d'écrire un petit plugin, ce qui ne doit pas être très
-compliqué d'ailleurs. Est-ce qu'il y a toujours des personnes
-intéressé pour le faire, et si oui, je pense que faire une petite
-hackaton lors d'une des prochaines rencontrer peut être intéressant.
+system et ce genre de choses un peu brute. On avait parlÃ© pendant la
+soirÃ©e d'Ã©crire un petit plugin, ce qui ne doit pas Ãªtre trÃ¨s
+compliquÃ© d'ailleurs. Est-ce qu'il y a toujours des personnes
+intÃ©ressÃ© pour le faire, et si oui, je pense que faire une petite
+hackaton lors d'une des prochaines rencontrer peut Ãªtre intÃ©ressant.
 
 -- 
 \0/ Hobbestigrou
@@ -503,32 +503,32 @@ Date: Wed, 18 Apr 2012 15:27:23 +0200
 Subject: [tupperVim] session du 3/05/2012
 Message-ID: <4F8EC13B.3090006@mozilla.com>
 
-Très chers nerds,
+TrÃ¨s chers nerds,
 
-suite au dernier doudeul il semblerait que le *jeudi* 3 mai convienne à 
-tout le monde, ça sera donc notre prochaine soirée tupperVim. Je vous 
-propose de décaler l?horaire à 19:30.
+suite au dernier doudeul il semblerait que le *jeudi* 3 mai convienne Ã  
+tout le monde, Ã§a sera donc notre prochaine soirÃ©e tupperVim. Je vous 
+propose de dÃ©caler l?horaire Ã  19:30.
 
-Le concept du « viendez nombreux mais disez-le » s?applique encore et 
+Le concept du Â« viendez nombreux mais disez-le Â» s?applique encore et 
 derechef :
 http://www.doodle.com/ib78utx8bms7ahdp
 
-L?indispensable pad où personne n?annonce jamais ce qu?il présente, 
-conformément à la méthode de La Rache? :
+L?indispensable pad oÃ¹ personne n?annonce jamais ce qu?il prÃ©sente, 
+conformÃ©ment Ã  la mÃ©thode de La Rache? :
 https://etherpad.mozilla.org/TupperVim-1205
 
-Un pad pour rappeler le concept, ou pour chercher des idées de 
-présentation à proposer :
+Un pad pour rappeler le concept, ou pour chercher des idÃ©es de 
+prÃ©sentation Ã  proposer :
 https://etherpad.mozilla.org/TupperVim
 
-Et pour mouler efficacement d?ici là, je vous rappelle qu?il y a un chan 
+Et pour mouler efficacement d?ici lÃ , je vous rappelle qu?il y a un chan 
 #tupperVim sur irc.mozilla.org.
 
-À bientôt !
+Ã€ bientÃ´t !
 :wq
 
 -- 
-:kazé
+:kazÃ©
 
 
 From kaze at mozilla.com  Wed Apr 18 16:13:28 2012
@@ -539,42 +539,42 @@ In-Reply-To: <CANfeGst2f9Wt3YieEi4S3VJH0xpM-dayaHP9u5SdQJj5vkZvDQ@mail.gmail.com
 References: <CANfeGst2f9Wt3YieEi4S3VJH0xpM-dayaHP9u5SdQJj5vkZvDQ@mail.gmail.com>
 Message-ID: <4F8ECC08.4060500@mozilla.com>
 
-Le 15/04/2012 13:23, Natal Ngétal a écrit :
+Le 15/04/2012 13:23, Natal NgÃ©tal a Ã©crit :
 > Salut,
 >
 > Donc pour rappel moi c'est Natal le fondateur de vim-fr.org. Alors
-> c'est génial qu'on est désormais une liste, merci beaucoup kaze` et la
-> communauté mozilla pour l?hébergement. J'ai justement quelques
-> questions à propos de la liste, et son fonctionnement et savoir ce
-> qu'on souhaite voir dessus. La première question étant est-ce qu'on
+> c'est gÃ©nial qu'on est dÃ©sormais une liste, merci beaucoup kaze` et la
+> communautÃ© mozilla pour l?hÃ©bergement. J'ai justement quelques
+> questions Ã  propos de la liste, et son fonctionnement et savoir ce
+> qu'on souhaite voir dessus. La premiÃ¨re question Ã©tant est-ce qu'on
 > utilise la liste uniquement pour annoncer les rencontres et poser des
-> questions suite à une chose qu'on aurait vu dans la soirée si a besoin
-> de plus de détails. Ou est-ce que si on a des choses intéressantes à
-> partager sur Vim on envoi, et surtout si on a des questions générales
+> questions suite Ã  une chose qu'on aurait vu dans la soirÃ©e si a besoin
+> de plus de dÃ©tails. Ou est-ce que si on a des choses intÃ©ressantes Ã 
+> partager sur Vim on envoi, et surtout si on a des questions gÃ©nÃ©rales
 > sur Vim est-ce qu'on peut les poser ici et dans ce cas je mettrai sur
 > vim-fr le lien de cette liste.
 >
 
-La liste sert avant tout à l?organisation des soirées, éventuellement 
-pour faire suite à des choses qui ont été vues dans les soirées, et 
+La liste sert avant tout Ã  l?organisation des soirÃ©es, Ã©ventuellement 
+pour faire suite Ã  des choses qui ont Ã©tÃ© vues dans les soirÃ©es, et 
 aussi pour discuter des projets Vimistes sur lesquels on bosse (e.g. 
 mozilla.vim, plugin ranger?). Je ne pense pas qu?il faille en faire une 
-liste d?entraide Vimiste : vim-fr.org me paraît plus adapté pour ça.
+liste d?entraide Vimiste : vim-fr.org me paraÃ®t plus adaptÃ© pour Ã§a.
 
 Par contre on a un canal #tupperVim sur irc.mozilla.org, avec grosso 
-modo 1/3 d?employés Mozilla, 1/3 de contributeurs Mozilla et 1/3 de 
-libristes non-Mozilla, et où on échange occasionnellement des conseils 
+modo 1/3 d?employÃ©s Mozilla, 1/3 de contributeurs Mozilla et 1/3 de 
+libristes non-Mozilla, et oÃ¹ on Ã©change occasionnellement des conseils 
 sur Vim ou autres outils CLI.
 
-La liste de diffusion, le canal IRC et les soirées elles-mêmes sont 
-encore « privées », la faute au manque de place dans les locaux Mozilla. 
-Ce problème d?espace devrait être résolu d?ici la fin de l?année 
-(peut-être dès cet été, avec un peu de chance), donc on ouvrira le 
-projet plus largement à ce moment-là. D?ici là je préfère qu?on évite de 
-diffuser des URLs tupperVim ? cf. les deux premières règles du Fight Club.
+La liste de diffusion, le canal IRC et les soirÃ©es elles-mÃªmes sont 
+encore Â« privÃ©es Â», la faute au manque de place dans les locaux Mozilla. 
+Ce problÃ¨me d?espace devrait Ãªtre rÃ©solu d?ici la fin de l?annÃ©e 
+(peut-Ãªtre dÃ¨s cet Ã©tÃ©, avec un peu de chance), donc on ouvrira le 
+projet plus largement Ã  ce moment-lÃ . D?ici lÃ  je prÃ©fÃ¨re qu?on Ã©vite de 
+diffuser des URLs tupperVim ? cf. les deux premiÃ¨res rÃ¨gles du Fight Club.
 
 -- 
-:kazé
+:kazÃ©
 
 
 From kaze at mozilla.com  Wed Apr 18 16:24:46 2012
@@ -585,41 +585,41 @@ In-Reply-To: <CANfeGstg3a9aaFU+8DshPTecfr6G3kCJLHmrO5wh9g_=d=3q1A@mail.gmail.com
 References: <CANfeGstg3a9aaFU+8DshPTecfr6G3kCJLHmrO5wh9g_=d=3q1A@mail.gmail.com>
 Message-ID: <4F8ECEAE.8080805@mozilla.com>
 
-Le 15/04/2012 13:28, Natal Ngétal a écrit :
+Le 15/04/2012 13:28, Natal NgÃ©tal a Ã©crit :
 > Salut,
 >
-> J'ai une question concernant Ranger dans vim un tip qui nous a été
-> présenté par kaze` et qui est fort utile et agréable. Actuellement
+> J'ai une question concernant Ranger dans vim un tip qui nous a Ã©tÃ©
+> prÃ©sentÃ© par kaze` et qui est fort utile et agrÃ©able. Actuellement
 > c'est un peu du bricolage, une fonction dans le vimrc avec des appels
-> system et ce genre de choses un peu brute. On avait parlé pendant la
-> soirée d'écrire un petit plugin, ce qui ne doit pas être très
-> compliqué d'ailleurs. Est-ce qu'il y a toujours des personnes
-> intéressé pour le faire, et si oui, je pense que faire une petite
-> hackaton lors d'une des prochaines rencontrer peut être intéressant.
+> system et ce genre de choses un peu brute. On avait parlÃ© pendant la
+> soirÃ©e d'Ã©crire un petit plugin, ce qui ne doit pas Ãªtre trÃ¨s
+> compliquÃ© d'ailleurs. Est-ce qu'il y a toujours des personnes
+> intÃ©ressÃ© pour le faire, et si oui, je pense que faire une petite
+> hackaton lors d'une des prochaines rencontrer peut Ãªtre intÃ©ressant.
 >
 
 Ah perso j?adorerais avoir Ranger en plugin Vim, pour remplacer `:ex' ! 
-Dans un monde idéal on pourrait :
-  ? lancer Ranger dans une fenêtre Vim (= sur une moitié d?écran si on a 
+Dans un monde idÃ©al on pourrait :
+  ? lancer Ranger dans une fenÃªtre Vim (= sur une moitiÃ© d?Ã©cran si on a 
 fait un `:split') ;
-  ? utiliser Vim pour la prévisualisation des fichiers vus par Ranger 
-(histoire de garder la même coloration syntaxique) ;
-  ? réutiliser la fenêtre Vim quand on fait un `:bulkrename' ;
+  ? utiliser Vim pour la prÃ©visualisation des fichiers vus par Ranger 
+(histoire de garder la mÃªme coloration syntaxique) ;
+  ? rÃ©utiliser la fenÃªtre Vim quand on fait un `:bulkrename' ;
   ? faire fonctionner le tout dans gVim et MacVim ;
-  ? ouvrir deux instances de Ranger dans deux fenêtres Vim (avec 
-`:split' ou `:vsplit') et copier/déplacer des fichiers d?une fenêtre à 
+  ? ouvrir deux instances de Ranger dans deux fenÃªtres Vim (avec 
+`:split' ou `:vsplit') et copier/dÃ©placer des fichiers d?une fenÃªtre Ã  
 l?autre, comme avec midnight-commander?
 
-Bref, les possibilités seraient énormes. Le genre de truc qui me 
-conduirait à lancer automatiquement Vim+Ranger à l?ouverture de mon 
+Bref, les possibilitÃ©s seraient Ã©normes. Le genre de truc qui me 
+conduirait Ã  lancer automatiquement Vim+Ranger Ã  l?ouverture de mon 
 terminal. :-)
 
-Ranger étant écrit en Python, il est /possible/ que ça soit faisable, 
-par contre je ne sais pas du tout si ça serait /facile/. Qu?en pensent 
-nos confrères Pythoneux ? Marmoute, Gawel, Alexis et les autres, ça vous 
-paraît jouable ?
+Ranger Ã©tant Ã©crit en Python, il est /possible/ que Ã§a soit faisable, 
+par contre je ne sais pas du tout si Ã§a serait /facile/. Qu?en pensent 
+nos confrÃ¨res Pythoneux ? Marmoute, Gawel, Alexis et les autres, Ã§a vous 
+paraÃ®t jouable ?
 
 -- 
-:kazé
+:kazÃ©
 
 
