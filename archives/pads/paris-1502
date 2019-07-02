@@ -1,0 +1,142 @@
+pour avoir la classe avec git\
+NeoBundle 'rhysd/committia.vim'\
+\
+pour avoir de la coloration syntaxique avec des extension étranges (à
+mettre dans un autogroupe):\
+\
+augroup filetypes\
+  autocmd BufNewFile,BufReadPost \*.webapp set filetype=json\
+  autocmd BufNewFile,BufReadPost \*.jsm    set filetype=javascript\
+augroup END\
+\
+augroup zip\
+  autocmd BufReadCmd \*.jar,\*.xpi call
+zip\#Browse(expand("\<amatch\>"))\
+augroup END\
+\
+" pour choisir ou sont stockes les fichiers temporaires\
+  set backupdir=\~/.vim/bak          " backup files\
+  set directory=\~/.vim/swp          " swap files\
+  set undodir  =\~/.vim/undo         " undo files\
+  set undofile                      " persistent undo\
+  \
+Pour garder ses registres entre 2 ouvertures de vim\
+pour enregistrer un texte dans un registre il faut\
+"ay avec « " » pour le registre, « a » pour la lettre dans laquelle le
+contenu sera enregistré, « y » pour copier.\
+"ap permettra de coller le contenu.\
+si dans un fichier on met « let @a = 'contenu' »\
+et qu’on source dans son vimrc ce fichier, on pourra utiliser le
+registre « a » dans toutes ses instances vim\
+\
+valgrind :
+t<https://lama.univ-savoie.fr/TPLab/modification/19ed0304924bc1c2c21a9e17915f3a04/>\
+\
+\
+\# Pandoc\
+\
+\#\# Ma configuration .vimrc\
+\
+" Vim pandoc {{{\
+let g:pandoc\#folding\#fold\_yaml=1\
+let g:pandoc\#folding\#level=4\
+let g:pandoc\#default\_langs=["english", "french"]\
+let g:pandoc\#modules\#disabled=["bibliographies"]\
+let g:pandoc\#command\#custom\_open = "XOpen"\
+\
+function! OSXOpen(file)\
+    return "open ". a:file\
+endfunction\
+\
+function! XOpen(file)\
+    return "xdg-open ". a:file\
+endfunction\
+\
+NeoBundleLazy 'vim-pandoc/vim-pandoc', {\
+            \\   'augroup': 'markdown', \
+            \\   'autoload': {\
+            \\     'filetypes': ['markdown', 'mkd', 'vimwiki',
+'pandoc']\
+            \\   }\
+            \\ }\
+NeoBundleLazy 'vim-pandoc/vim-pandoc-syntax', {\
+            \\   'augroup': 'markdown', \
+            \\   'autoload': {\
+            \\     'filetypes': ['markdown', 'mkd', 'vimwiki',
+'pandoc']\
+            \\   }\
+            \\ }\
+" }}}\
+\
+\#\# Usage\
+\
+considérons le document:\
+\
+---\
+title: foo\
+---\
+\
+\# Foo\
+\
+coin\
+\
+\#\# Foo1\
+pour\
+coin \*coin italic\* \*\*coin bold\*\* \`coin script\`\
+\
+\#\#\# Foo11\
+\
+[coin][1]\
+\
+[1]:<http://canard.com>\
+\
+\#\# Foo2\
+coin\
+\
+\# Bar\
+\
+\#\# Bar1\
+\
+:e document.md\
+\
+\* les folds fonctionnent sur les titres et sur le yaml du haut. Le yaml
+du haut est utilisé pour remplir les "cases" des templates
+LaTeX/HTML/...\
+\* les italics, bold ou script sont mis en évidence\
+\* les liens sont suivables en utilisant gx, les fichiers ouvrables dans
+vim avec le traditionnel gf.\
+\* commandes pour formatter le texte:\
+  \* \<Leader\>i italique\
+  \* \<leader\>b gras\
+  \* \<Leader\>\` verbatim\
+  \* \<Leader\>\~\~ barré\
+  \* \<Leader\>\^ superscript\
+  \* \<Leader\>\_ subscript\
+et j'en passe, toutes fonctionnent en mouvement, oeuf corse!\
+\* commandes pour naviguer:\
+  \* [[ et ]] sautent de titre en titre de section,\
+  \* ][ et [] sautent en fin de section\
+  \* \<leader\>ln saute a la prochaine bullet item\
+  \* \<leader\>lp a la precedente item\
+  \* …\
+\* pour compiler il suffit de faire:\
+  \* :Pandoc \<TARGET\> \<OPTIONS\>\
+  \* e.g.: :Pandoc pdf --template document.tpl.latex --atx-headers
+--chapter\
+  \* :Pandoc! ouvre le document une fois compilé\
+  \* la compilation se fait dans un process externe et ne bloque pas
+vim\
+  \* une quickfix s'ouvre avec les erreurs en cas de pb de compilation\
+  \* la compilation se passe dans un temp directory\
+  \* il est possible de sauver des commandes courament utilisés:\
+    \* :PandocTemplate save doc pdf --template document.tpl.latex
+--atx-headers \
+    \* :Pandoc \#doc pour appeler le template par la suite\
+\* et plein d'autres choses sont possible avec vim-pandoc\
+  \* mise en place d'une bibliographie et completion des raccourcis de
+biblio,\
+  \* notes de bas de page avec [\^ref] suivi de [\^ref]:Ceci est une
+note de bas de page\
+  \* et un paquet d'autres trucs :help pandoc\
+\
+bref, plus d'excuses pour utiliser org-mode dans cacamacs!!!\
