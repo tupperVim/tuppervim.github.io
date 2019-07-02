@@ -1,0 +1,21 @@
+vim -O file1 file2 : split verticalement les fichiers
+vim -O file1 file2 : split horizontalement les fichiers
+vim -p file1 file2 file3… ouvre les fichiers dans des onglets différents
+
+une astuce à la con par jour: https://twitter.com/d_merej
+ouvrir la doc de la fonction cmake sous le curseur: https://git.io/vVa4p
+aussi dans les sources cmake: https://cmake.org/gitweb?p=cmake.git;a=blob;f=Auxiliary/cmake-help.vim;h=17cfa838e8c212f0e1aba4c226a0f74df8602038;hb=HEAD
+
+support du lua dans neovim:
+https://github.com/neovim/neovim/pull/4411
+
+cloud9 - c9.io
+
+pandoc
+vim-wiki  https://github.com/vimwiki/vimwiki
+
+xxd visualisation hexadécimal
+
+http://of-vim-and-vigor.blogspot.fr/2012/01/rap-on-vims-registers.html
+
+vmap r "_dP

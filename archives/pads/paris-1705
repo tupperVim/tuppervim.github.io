@@ -1,0 +1,4 @@
+polybar => module qui remplace i3bar
+arch linux => pour changer de réseau wifi : nmtui   ui en cli pour network manager
+netctl et conman existent aussi., mais nmtui marche nickel, merci pour l'info.
+

@@ -1,0 +1,8 @@
+ - gU<mouvement> / gu<mouvement> → mettre en uppcase / lowercase le texte
+ - :%s/<expression>/&\L/g → mettre le résultat d'une expression rationelle en lowercase (& est ce qui matche l'expression rationnelle)
+ - :%s/<expression>/&\U/g → équivalent à précédemment mais en uppercase
+ - % → va à la parenthèse / crochet / accolade correspoondant•e
+ - :set spell → active la vérification grammaticale
+ - ]s → va au prochain mot inconnu
+ - :e %< → ouvre le fichier du même nom sans l'extension
+ - :%s/pattern/\U&  ==> passe le pattern en majuscule
