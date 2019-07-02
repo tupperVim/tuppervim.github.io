@@ -1,0 +1,28 @@
+HeatMap vim : <http://www.drbunsen.omignonnerg/vim-croquet/>\
+\
+Kakoune: <https://github.com/mawww/kakoune>\
+\
+vcs command: <http://www.vim.org/scripts/script.php?script_id=90>\
+\
+insérer du texte sur toutes les lignes d’une sélection \
+Ctrl+v sélection première colonne, I + texte puis échap\
+Si on veut prendre tout un paragraphe on fait Ctrl v ap\
+\
+Utiliser K pour afficher l'aide CMake\
+<http://pastebin.mozilla.org/6736798>\
+\
+plein de trucs cool qui cassent pas 3 pattes à un canard\
+tpope/vim-enuch\
+\
+On a aussi parler des reduction de droits par sudo (donner le droits sur
+certaine commandes seulement, par ex avoir le droit de lire par sudo
+uniquement les log apache:\
+\$ sudo cat /etc/sudoers.d/user \
+user ALL=(ALL)NOPASSWD:/bin/cat /var/log/apache2/\*.log\
+\
+\
+Changer le working dir a chaque nouveau tab:\
+<https://github.com/yannicklm/vimconf/blob/master/vimrc#L259-L270>\
+\
+clang completion\
+<https://github.com/Rip-Rip/clang_complete>\

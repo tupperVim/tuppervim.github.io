@@ -1,0 +1,43 @@
+vim-send-cmd (lancer des commandes dans un autre term depuis vim)\
+\> ah bah tiens je vous l'ai pas montré celui-là... Ce sera pour la
+prochaine :)\
+:TabNew (create a tab with a smart working dir)\
+\
+-------------------------------------------------\
+\
+/pattern/s+1 → s’arrête à 1 caractère après le début du mot\
+/pattern/e-2 → s’arrête à 2 caractères avant la fin du mot\
+/pattern/+3 → s’arrête 3 lignes sous le mot\
+/pattern1/;/pattern2\
+\
+gestionnaire de plugin :\
+\
+neobundle : <https://github.com/Shougo/neobundle.vim>\
+\
+vimproc.vim permet de faire des tâches asynchrones \
+\
+change le repertoire de travail à chaque nouveau tab\
+function! TabNewWithCwD(newpath)\
+  :execute "tabnew " . a:newpath\
+  if isdirectory(a:newpath)\
+    :execute "lcd " . a:newpath\
+  else\
+    let dirname = fnamemodify(a:newpath, ":h")\
+    :execute "lcd " . dirname\
+  endif\
+endfunction\
+command! -nargs=1 -complete=file TabNew :call TabNewWithCwD("\<args\>")\
+\
+(alternative : set autochdir)\
+\
+\
+<http://vim-scripts.org/>\
+\
+NeoBundle 'Shougo/unite.vim'\
+NeoBundle 'h1mesuke/unite-outline'\
+\
+Pour afficher l'aide vim depuis le shell:\
+alias :h='vimhelp() { vim -c "h \$1|only"}; vimhelp'\
+\
+Voilà vous tapez ":h :h" par exemple et vim vous ouvre la page d'aide
+sur la commande d'aide.\

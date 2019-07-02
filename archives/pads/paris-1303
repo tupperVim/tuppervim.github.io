@@ -1,0 +1,284 @@
+
+Afficher les caractères invisibles =\> :set list\
+Voir :h 'list' pour l'aide.\
+\
+'listchars' pour configurer précisément ce qui doit être affiché.\
+\
+Sur la ligne de commande Ctrl-r permet d'ajouter un buffer.\
+Example :\
+dans le fichier "ayaw (sélectionne le mot courant dans le registre a)\
+:echo Ctrl-r+a                \<--- " Affiche le buffer a sur la ligne
+de commande.\
+\
+Pour voir les registres ====\> :reg\
+\
+/ est le registre de la dernière recherche\
+\* + sont les registres pour les clipboards\
+\
+]I afficher toutes les recherches\
+.vimrc :\
+" indexes the last search and put it in the quickfix bufferer:w\
+" explains:\
+" \<C-r\>/ is the search register\
+" cw to open the quickfix\
+" j tell to not jump to the first match\
+" \<Bar\> is for |      | in vim permit to put several commands on the
+same line\
+nmap g/ :vimgrep /\<C-r\>//j %\<Bar\>cw\<CR\>  \
+\
+\
+Présentation RANGER\
+\
+ranger, c'est LE gestionnaire de fichier qu'il vous faut\
+\
+Les markers :\
+m\<letter\> pose un marker à l'endroit\
+'\<letter\> va au marqueur\
+Ajouter une colonne avec les marqueurs =\> plugin quickfixsigns
+<http://www.vim.org/scripts/script.php?script_id=2584>\
+\
+Quand vous êtes en mode sélection utiliser o ou O pour bouger le curseur
+(très pratique pour étendre la sélection, surtout en sélection bloc)\
+\
+vim fonctionne en plusieurs mode :\
+\* mode caractère\
+\* mode ligne\
+\* mode bloc\
+\
+:helptags\
+:h 'option'\
+:h function()\
+:h CTRL-\<letter\>\_\<letter\> pour chercher un raccourci avec Control.\
+Par exemple pour changer de split \<C-w\>w\
+;h CTRL-W\_w (première lettre en majuscule ;))\
+:helpgrep\
+\
+Présentation de kakoune par mawww <https://github.com/mawww/kakoune>\
+Éditeur pour "remplacer" vim\
+\
+git clone git://github.com/mawww/kakoune.git && cd kakoune/src && make
+&& make userconfig && ./kak\
+\
+pour les utilisateurs de mac+homebrew: \
+
+-   brew install <https://raw>
+-   3è essai, en espérant que j’arrête de me planter dans les dates…)
+-   \
+-   Amis vimistes, camarades nerds,
+-   \
+-   la session d’avril de tupperVim se tiendra le jeudi 11 \*avril\* à
+    20h, 
+-   dans les nouveaux locaux Mozilla [1].
+-   \
+-   Non seulement ces locaux sont magnifiques, mais on va enfin avoir 
+-   \*plein\* de place ! C’est entre le Hard Rock Café et l’Indiana, 
+-   logiquement c’est pas ratable. Contactez-moi en /query sur le canal
+    IRC 
+-   pour que je vous donne les codes d’accès.
+-   \
+-   Merci de vous inscrire sur le framadate, le 10/04 au plus tard :
+-      <http://framadate.org/xko74vsu5x6ocryi>
+-   \
+-   … et d’annoncer les sujets que vous allez présenter sur l’etherpad :
+-      <https://etherpad.mozilla.org/TupperVim-1304>
+-   \
+-   Comme le mois dernier, l’irremplacable Marmoute propose un atelier
+    de 2h 
+-   pour coder autour de Vim avant nos traditionnelles agapes. Les plus 
+-   motivés d’entre vous sont donc attendus dès 18h à Mozilla.
+-   \
+-   (perso, j’aimerais bien une séance de rattrapage mutt pour cet
+    atelier… 
+-   Hugo, ça serait possible ?)
+-   \
+-   hjkl à tous \<3
+-   :*kazé*
+-   .github.com/guyzmo/homebrew/kakoune\_proposal/Library/Formula/kakoune.rb\
+    \
+
+Équivalent vim \<-\> kakoune :\
+Exécuter des commandes externes =\> les filters !!!
+<http://4.bp.blogspot.com/-MhHrs8Q-S_A/UJpAuI_mOZI/AAAAAAAAAZ0/aJrXwjlvoYs/s1600/vim_pipes.png>\
+\
+Présentation de neercs par zmo et aussi d'~~un truc mut~~t de notmuch et
+mutt-kz\
+
+-   neercs
+    -   INSTALL
+    -   Pour installer la dernière version de neercs: suivre la doc
+        <http://lolengine.net/wiki/doc/dev/getting-started>
+        -   pour pas se prendre la tête (et si on est sous
+            debian/ubuntu) : prendre le paquet sur
+            <http://selu.ath.cx/debian/>
+            (<http://selu.ath.cx/debian/pool/main/n/neercs/neercs_1.0-2_amd64.deb)>
+        -   Archlinux : yaourt -S neercs-git
+    -   USE
+        -   Pour avoir l'aide : Ctrl\_a ? (\<ESC\> pour en sortir ou
+            \<C-a\>? à nouveau)
+        -   Ne pas suivre le man qui raconte n'importe quoi ! (le man
+            sous debian ne dit pas n'importe quoi)
+        -   petit résumé des commandes:
+            -   \<C-a\> w =\> change de window manager (3d cube/tiled
+                wm/stack wm/…) le "cube 3d" est en fait le mode "full"
+            -   \<C-a\> m =\> affiche des miniatures en bas d'écran de
+                chaque fenêtre
+            -   \<C-a\> n/p =\> fenêtre suivante / précédente
+            -   \<C-a\> c =\> nouvelle fenêtre
+            -   \<C-a\> d =\> detach la session
+            -   \<C-a\> k =\> kill la session
+        -   options d'appel:
+            -   -S =\> donne un nom à la session
+            -   -r/-R =\> reattach
+            -   -l =\> lock screen
+            -   -P =\> vole un process lancé dans un terminal (et ça
+                roxe!)\
+                \
+                \
+                \
+-   notmuch + mutt-kz\
+    \
+
+j'ai commencé à utiliser mutt il y a fort fort longtemps (quand on
+trollait les gnus-ers qui faisaient des multiparts tout moches, et qu'il
+y avait encore des users de pine…), puis j'ai tenté d'autres lecteurs de
+mails (mail.app, thunderbird, evolution…) et je suis resté triste. Pas
+de most recent at bottom, pas de gestion de mails vraiment rapide, et
+des filtres toujours plus horribles les uns que les autres. Puis j'ai
+découvert sup, qui était super, mais limité à une session à la fois sur
+la mailbox et surtout plus maintenu. Puis j'ai découvert notmuch, et
+depuis je suis heureux !\
+\
+
+-   notmuch
+    -   INSTALL\
+        \
+
+Archlinux : pacman -S notmuch\
+% apt-get install libxapian\
+% git clone git://notmuchmail.org/git/notmuch\
+% ./configure \# ./configure --help for options\
+% make && make install\
+\
+% cd contrib/notmuch-deliver\
+% ./configure && make && make installtd\
+\
+
+-   USE\
+    \
+
+l'utilisation de notmuch dépend beaucoup de ses choix de configuration
+du mail, personnellement ma config c'est mon MTA (postfix) qui délivre
+mon mail directement dans mon Maildir. Pour ce faire, j'utilise
+notmuch-deliver qui est fourni dans le répertoire contrib des sources,
+qui va permettre de taguer un mail à l'import dans Maildir avec son
+filtre de mail favori (procmail, maildrop, formail…). Dans les sources,
+il y a un exemple avec maildrop:\
+\
+if (/\^From: root/:h)\
+{\
+  to "|notmuch-deliver -f -t local Local"\
+}\
+\
+mais j'ai préféré recycler ma configuration procmail que j'utilise
+depuis fort fort longtemps:\
+\
+\# pour taguer les mails foo+bar@domain.tld avec un tag bar:\
+:0:notmuch.lock\
+\* \^TO\\/foo\\+[a-z0-9]+@domain\\.tld\
+\* MATCH ?? \^foo\\+\\/[a-z0-9]+\
+{\
+TAGS="-t \${MATCH}"\
+}\
+\
+\# pour taguer tous les mails venant d'une ML avec un tag 'ml' et en les
+sortant de la inbox\
+:0:notmuch.lock\
+\* \^List-[Ii][dD]:.\*\
+{\
+TAGS="\${TAGS} -t ml -r inbox"\
+}\
+\
+\# Le catch all final\
+:0:notmuch.lock\
+\* .\*\
+| notmuch-deliver -v \$TAGS \
+\
+ensuite, la configuration de notmuch en elle-même est très simple et
+compréhensible, pas besoin d'en faire un patacaisse.\
+\
+
+-   mutt-kz: <https://github.com/karelzak/mutt-kz>
+    -   INSTALL
+
+Archlinux : yaourt -S mutt-kz-git\
+\
+% git clone <https://github.com/karelzak/mutt-kz.git>\
+% cd mutt-kz\
+% ./configure && make && make install\
+\
+
+-   USE\
+    \
+
+mutt-kz est un vrai mutt, avec deux gros patchsets inclus: l'ajout de la
+sidebar, et le support de notmuch.\
+La sidebar se configure avec quelques options dans .muttrc:\
+\
+set sidebar\_width   = 20\
+set sidebar\_visible = yes\
+color sidebar\_new yellow default\
+\
+bind index \< sidebar-prev\
+bind index \> sidebar-next\
+bind index . sidebar-open\
+\
+et pour créer la commande qui permet de toggle la sidebar:\
+\
+macro index ,@) "\<enter-command\> set sidebar\_visible=no; macro index
+\~ ,@( 'Toggle sidebar'\<Enter\>"\
+macro index ,@( "\<enter-command\> set sidebar\_visible=yes; macro index
+\~ ,@) 'Toggle sidebar'\<Enter\>"\
+macro index \~ ,@( 'Toggle sidebar'\
+\
+Pour ce qui est du patchset notmuch, une URL interne a été crée pour
+adresser les « vfolders », des mailboxes virtuelles qui sont le
+résultats de requêtes via notmuch. Ces URLs ont la forme
+\`notmuch://\<QUERY\>\` où \<QUERY\> est une requête avec la syntaxe
+xapian (par exemple \`notmuch://tag:hacklab AND (tag:tuppervim OR
+tag:tmplab)\`). Cette syntaxe n'est directement utilisée que pour
+définir la liste des mailboxes par défaut à lister (un équivalent de la
+variable "mailboxes=" de mutt originel):\
+\
+virtual-mailboxes ""INBOX"  "notmuch://?query=tag:inbox and NOT
+tag:archive" \\\
+                             "Unread" "notmuch://?query=tag:unread" \\\
+                             "Starred"  "notmuch://?query=tag:\*" \\\
+                             "Sent"      "notmuch://?query=tag:sent" "\
+\
+pour les vfolders les plus utiles.\
+\
+Toujours dans la config, j'ajoute aussi des raccourcis pour facilement
+taguer mes mails:\
+\
+macro index A "\<modify-labels\>+archive -unread -inbox\\n"\
+macro index I "\<modify-labels\>-inbox -unread\\n"\
+macro index S "\<modify-labels-then-hide\>-inbox -unread +junk\\n"\
+macro index + "\<modify-labels\>+\*\\n\<sync-mailbox\>"\
+macro index - "\<modify-labels\>-\*\\n\<sync-mailbox\>"\
+macro index \\\\ "\<vfolder-from-query\>"\
+\
+à l'usage, on peut soit taper « X » qui correspond à \`mutt -y\` pour la
+liste des mailboxes, soit utiliser la sidebar, pour se déplacer et
+choisir un vfolder.\
+dans l'index, on peut taguer un mail avec « \` » ou avec les raccourcis
+de tags, comme I, A, S, +/- …\
+et pour faire des recherches particulières, j'utilise « \\ » pour créer
+une requête xapian permettant de générer un vfolder à la volée, du
+genre: \
+\`tag:hacklab AND (tag:tuppervim OR tag:tmplab)\` pour faire une
+recherche sur les tags\
+ou simplement \`leloop.org AND NOT tmplab.org\` pour faire une recherche
+sur l'ensemble de l'indexation.\
+\
+BIensûr, tous les bindings supportent le tagging et les commandes
+groupées de mutt (« t »/« T » et « ; »).\

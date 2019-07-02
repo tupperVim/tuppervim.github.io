@@ -1,0 +1,134 @@
+Soirée spéciale git
+
+-   Darnuria:
+    <https://github.com/darnuria/my_dotfiles/blob/master/gitconfig#L43-L44>\
+    \
+
+Pour ignorer des fichiers sans les mettre dans le .gitignore (qui est
+public) :\
+vim .git/info/exclude ou git update-index --assume-unchanged files...\
+\
+\
+\
+\
+git reset --soft\
+= on utilise les modifs locales sur le work dir d’une autre branche (on
+enlève le dernier |git add|)\
+\
+Quelques moyens pour récupérer ses conneries (de plus en plus
+dangereux…) :\
+\
+git reset --hard HEAD\^\
+= on vire le dernier commit\
+\
+git reset --hard [ref\_de\_commit]\
+= on revient au commit référencé (à utiliser avec git reflog)\
+\
+git clean -f -d\
+= supprime tout ce qui n’est pas versionné dans le dépôt\
+\
+\
+Pour supprimer toute référence à PASSWORD1 ou PASSWORD2 dans
+l’historique git :\
+(à faire \***avant**\* de pusher…)\
+\
+git filter-branch --tree-filter 'git ls-files -z "\*.py" |xargs -0 perl
+-p -i -e "s\#(PASSWORD1|PASSWORD2)\#yourPassowrd\#g"' -- --all\
+\
+\
+git checkout -b [nom\_de\_la\_branche] =\> crée une branche et va sur la
+branche\
+git checkout -- [nom\_de\_fichier] =\> remet à zéro le fichier\
+git checkout . (== git checkout . HEAD\^) =\> remet à zéro le répertoire
+courant\
+\
+\
+git diff pour les changements par rapport au dernier commit == git diff
+HEAD\
+git diff origin/master changements entre origin/master et soi\
+\
+git fetch \
+\
+git commit -v \
+\
+\
+        \# Create a new branch under the same branch prefix.\
+        fork = !sh -c 'git symbolic-ref HEAD | sed "s,refs/heads/,," |
+sed "s,[\^/]\*\$,\$1," | xargs git checkout -b' -\
+        \
+tester une PR\
+\$ git remote add \_nom-contributeur\_ \_lien-du-depot\_\
+\$ git fetch \_nom-contributeur\_\
+\$ git co \_nom-contributeur\_/\_nom-PR\_\
+ Ça permet d'avoir sur son PC les modifs faites par le contributeur
+sans\
+merger son code avec le notre.\
+\
+// meme chose sans "git remote add"\
+\$ git fetch origin refs/pull/5345/head:pull-5345\
+\$ git checkout pull-5345\
+\
+// Pour trouver les autres remotes du dépot.\
+\$ git ls-remote origin\
+\
+git co - == revient sur la dernière branche\
+\
+\
+\
+\
+----------8\<--------------8\<-----------------8\<-----------\
+------8\<---------\
+\
+Et pour les vrais zommes poilus (comme
+<https://pbs.twimg.com/media/B27tvpkIQAAcBZz.jpg> ), un peu de vim:\
+\
+\* petite commande qui vire tous les trailing spaces (ça vient de
+vim.wikia)\
+\
+function! StripTrailingWhitespace()\
+  if !&binary && &filetype != 'diff'\
+    normal mz\
+    normal Hmy\
+    %s/\\s\\+\$//e\
+    normal 'yz\<CR\>\
+    normal \`z\
+  endif\
+endfunction\
+\
+nnoremap ,s\<space\> :call StripTrailingWhitespace()\<CR\>\
+\
+\
+Ma solution (Florent) : \
+\
+" trailing spaces\
+augroup trailing\_space\
+    au!\
+    autocmd BufWritePre \* call RemoveTrailingSpace()\
+augroup END\
+\
+function RemoveTrailingSpace()\
+    if search('\\s\\+\$')\
+        let choice = confirm('Trailing spaces found. Remove them?',
+"&Yes\\n&No")\
+        if choice == 1\
+            %s/\\s\\+\$//g\
+        endif\
+    endif\
+endfunction\
+\
+\
+git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s
+%Cgreen(%cr) %C(bold blue)\<%an\>%Creset' --abbrev-commit
+--date=relative --all\
+\
+[alias]\
+   lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset
+%s %Cgreen(%cr) %C(bold blue)\<%an\>%Creset' --abbrev-commit
+--date=relative --all\
+   \
+   Voir le diff d'un stash:\
+   git stash show -p stash@{4}\
+   Sauvergarder un stash nommé:\
+   git stash save 'nom'\
+   Appliquer un stash\
+   git stash apply stash@{0}\

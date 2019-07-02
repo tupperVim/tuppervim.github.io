@@ -1,0 +1,66 @@
+set relativenumber\
+(numéroter les lignes à partir de la ligne courante)\
+\
+g C-g : afficher toutes les infos concernant la position du curseur\
+\
+listchar permet de voir plein de signes pour les caractères tels que
+espaces, tab\
+<http://tedlogan.com/techblog3.html>\
+<https://github.com/fabi1cazenave/dotFiles/>\
+Exemple :\
+set listchars=trail:·,nbsp:·,tab:▸\\ ,extends:»,precedes:«,\
+\
+" toujours garder qq lignes autour du curseur\
+set scrolloff=5\
+\
+surround pour remplacer une balise\
+\
+C-e / C-y = monter / descendre l'*écran* par rapport à la fenêtre\
+\
+\
+<http://of-vim-and-vigor.blogspot.fr/>\
+\
+\
+<http://www.catonmat.net/series/vim-plugins-you-should-know-about>\
+\
+\
+-----\
+\
+" Toggle spellcheck and choose the language each time\
+nmap \<silent\> \<leader\>ss :call ToggleSpell()\<CR\>\
+function! ToggleSpell() " {\
+  if &spell == 0 " {\
+    call inputsave()\
+    let g:myLang = input('lang: ')\
+    call inputrestore()\
+    let &l:spelllang = g:myLang\
+    setlocal spell\
+  else\
+    setlocal nospell\
+  endif " }\
+endfunction " }\
+\
+\
+\
+" Afficher une fortune au démarrage :\
+au VimEnter \* echomsg system('/usr/games/fortune vimtweets')\
+\
+\
+syntastic:\
+let g:syntastic\_check\_on\_open=0\
+let g:syntastic\_error\_symbol='✗'\
+let g:syntastic\_warning\_symbol='⚠'\
+let g:syntastic\_mode\_map = { 'mode': 'passive'}\
+\
+" en commande de remplacement, coller :\
+C-r C-w : le mot sous le curseur\
+C-r C-a : ce qui est sélectionné\
+C-r " : ce qui est dans le registre (marche avec les registres nommés)\
+\
+Pour ajouter à la fin d'un registre au lieu de le remplacer, utiliser
+une lettre majuscule au lieu de la minuscule\
+\
+cat bidule.json | python -mjson.tool                        \
+(et j'ai donc alias json="python -mjson.tool" dans mon zshconfig\
+\
+suckless.vim : navigation facile entre fenêtres et ongletjkkk\

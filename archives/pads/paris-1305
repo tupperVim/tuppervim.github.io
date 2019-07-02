@@ -1,0 +1,41 @@
+Config :\
+\* Pourquoi je n'arrive pas à faire ça ? nnoremap \<leader\>g yygccp\
+⇒ nmap \<leader\>g yygccp\
+\
+\* Comment restaurer la coloration syntaxique qui disparait après des
+"folds" ?\
+<http://vim.wikia.com/wiki/Fix_syntax_highlighting>\
+autocmd BufEnter \* :syntax sync fromstart\
+\
+q/\
+= affiche les dernières recherches (idem avec /\<C-f\>)\
+\
+\
+**Greffons :**\
+\
+\* vim-multiple-cursors\
+\
+\* tcomment\_vim\
+\
+\* vim-gitgutter ou quickfixsigns\
+vim-gitgutter indique dans la marge a gauche les lignes
+supprimées/modifiées\
+En mieux, quickfixsigns marche aussi pour les autres scm et indique
+aussi les marqueurs\
+\
+\* vim-expand-region\
+\
+\* rainbow parentheses improved\
+\
+\* L'autocomplétion pour le web.\
+\
+\
+**Défonceuses :**\
+\
+\* colout (woohoo !)\
+<http://nojhan.github.io/colout/>\
+--\> killer tip:\
+alias m4ke='make -s -j4 2\>&1 | colout -t g++'\
+alias m8ke='make -s -j8 2\>&1 | colout -t g++'\
+\
+\* CoVim (Collaborative Editing for Vim)\

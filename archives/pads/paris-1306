@@ -1,0 +1,124 @@
+-   Selectionne un bloc :
+
+va( vat va{ cat etc...  (need review)\
+( et { sont des signes difficiles à atteindre ( est équivalent à b
+(bracket)\
+et { à B (blocks)\
+\
+
+-   extension des text-objects: via le plugin terryma/vim-expand-region
+
+     <https://github.com/terryma/vim-expand-region>\
+
+-   déplacement via le numéro de ligne  :x différentiel :+x ou :-x ou xG
+    (:set nu :set rnu) (x est un nombre)
+-   set relative number set a 0 la ligne ou le curseur est présent, sauf
+    dans les dernières versions ou le "vrai" numéro de ligne est affiché
+    pour la ligne courante.
+-   une recherche par regex /\\\<req\\\> match un "word". "\\\<" match
+    un début de mot et "\\\>" une fin de mot, on peut mettre seulement
+    l'un des deux.
+-   Quand on est en visuel une commande en : est appliquée sur la
+    selection visuelle, car quand on tape :, vim ajoute automatiquement
+    les bons marqueurs '\< et '\>
+-   Après avoir sélectionné une zone, gv pou la resélectionner
+-   Après avoir collé un texte, '[V'] pour le resélectionner, encore une
+    histoire de marqueurs
+-   :g/\<search\>/\<command\> pour déclancher une commande sur chaque
+    ligne matchant la recherche (voir :exusage pour l'ensemble des
+    tricks de ce genre)
+-   zz recentre la vue sur le curseur, voir aussi zt pour top et zb pour
+    bottom
+-   H M B place le curseur respectivement en Haut (high), milieu
+    (middle) et bas (bottom)
+-   set scrolloff 5 ou 10 pour avoir 10 ou 5 lignes affichées en bas de
+    fichier, il existe aussi un paramètre pour le défilement
+    horitzontale, mais qui dépasse les 80 colonnes ?
+-   f find t to (ou 'til),  T et F pour la même chose en sens inverse il
+    existe un plugin pour rentre t f T F multi-ligne.
+-   Mon ami le presse papier : 
+-   "\*p "\*y copie / colle dans le xclipboard (il faut avoir
+    +xclipboard dans la conf de vim)
+-   "+y "+p copie / colle dans l'autre clipboard
+
+**Déplacements:**\
+
+-   n\) (resp n() pour avancer (resp reculer) de n phrases
+-   n} (resp n{) pour avancer (resp. reculer) de n paragraphes (lignes
+    vides)
+-   [( [{ pour aller à la précédente parenthèse ou accolade ouvrant, et
+    [) [} pour aller à la paranthèse ou accolade.
+-   Voir aussi [[ [] ]] ][ pour se déplacer sur les premières accolades.
+-   de manière générale [ ] servent à se déplacer en avant ou en
+    arrière. [s ]s va au précédent / prochain mot mal orthographié,
+    etc... :h [ vous en donnera pleins d'autres :)\
+    \
+    \
+    \
+
+Zsh\
+
+-   pound-insert
+-   esc-' pour rajouter des quotes\
+    \
+
+Petit script pour branchre un deuxième écran automatiquement avec udev
+(vincentxavier)\
+udev/xrandr/i3\
+/etc/udev/rules.d/99-screen-i3.rules :\
+SUBSYSTEM=="drm", ACTION=="change", RUN+="/usr/local/bin/display.sh"\
+\
+/usr/local/bin/display.sh:\
+\#!/bin/sh\
+\
+\# Script is run only if using i3, so first check if i3 is running\
+pgrep -f /usr/bin/i3 2\>&1 \>/dev/null\
+if [ \$? -eq 0 ]\
+then\
+  dmode="\$(cat /sys/class/drm/card0-VGA-1/status)"\
+\
+\# This script is called as root and without X knowledge\
+  export DISPLAY=":0.0"\
+  export XAUTHORITY="/home/vincentxavier/.Xauthority"\
+\
+  if [ "\${dmode}" = disconnected ]; then\
+    xrandr --output LVDS1 --auto --output VGA1 --off\
+  elif [ "\${dmode}" = connected ]; then\
+    xrandr --output LVDS1 --auto --output VGA1 --auto --right-of LVDS1\
+  fi\
+else\
+  exit 0\
+fi\
+\
+Dans .i3/config, rajouter \
+workspace 12 output VGA1\
+\
+Commentaires sur les greffons\
+\
+Tim Pope : vim-commentary\
+gc (go comment) gcap(go comment around para)\
+\
+\
+Autres :  \
+InkScape \< 0.47 : <http://www.codedread.com/scour/>\
+InkScape \> 0.47 : en builtin -\> save as svg optimizé\
+\
+dans un term\
+ls | grep plop\
+\^plop\^doc → va executer "ls | grep doc"\
+\
+alkino a présenté draw it\
+<http://www.vim.org/scripts/script.php?script_id.gz=.gz40>\
+Le greffon (merci vincentxavier) indispensable pour faire de l'UML !\
+\
+Greffon pour lire / écrire des fichiers chiffrés en GPG\
+<http://www.vim.org/scripts/script.php?script_id=3645>\
+Sinon de manière native, vim supporte le chiffrage via ":X" support de
+"blowfish" et "zip" via la variable 'cryptmethod'\
+\
+Présentation par kaze de vim-json pour afficher "clairement" du json
+dans vim <http://www.vim.org/scripts/script.php?script_id=.gz1945>\
+\
+Présentation par dimitri de son greffon pour afficher l'aide CMakeLists
+directement dans vim. Réflexion sur la possiblité de généraliser ce
+dernier.\

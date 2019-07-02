@@ -1,0 +1,91 @@
+oO en mode visuel\
+Ctrl-] Ctrl-T g\_Ctrl-] Ctrl-i Ctrl-o déplacement entres les tags\
+solarized et colors...\
+git et tig\
+Plugins : Ctrl-P fugitive\
+\
+gi pour revenir à la dernière insertion\
+gI pour revenir à la dernière insertion en changeant de fichier\
+\
+Plugin pour la gouttière :\
+\* vim-gutter <https://github.com/airblade/vim-gitgutter>\
+\* quickfixsigns <http://www.vim.org/scripts/script.php?script_id=2584>\
+\
+Les marques :\
+\
+g, g; : backward / forward =\> se balade dans l'historique des
+modifications\
+\
+Dire que = fait pas partie du mot:\
+set isfname-==\
+\
+\
+\* \#\
+\
+= =\> réindentation\
+\
+Aller a la colomne 15: 15|\
+\
+qfdo: bufdo, mais pour les fichiers du quickfix\
+:bufdo :argdo pour faire des actions interfichiers\
+:argadd \*.css =\> ajoute tous les .css a la liste 'args'\
+\
+\
+Captivante présentation sur les macros =\> <https://slid.es/y>\
+git clone git://github.com/mawww/kakoune.git && cd kakoune/src && make
+&& make userconfig && ./kak\
+am\
+git clone git://github.com/mawww/kakoune.git && cd kakoune/src && make
+&& make userconfig && ./kak\
+o/macro\
+\
+Enregistrer une ligne dans un registre : "{registre}qy\$ // le y\$ au
+lieu du yy/Y permet de ne pas avoir le retour chariot\
+\
+Ma ligne de status (avec le smiley et fugitive)\
+\
+" Status line (requires VimBuddy plugin to be present)  (Je ne dois pas
+être doué, mais on le trouve où se plugin ?)\
+set statusline=%{VimBuddy()}\\ [%n]\\ %\<%f\\
+%{fugitive\#statusline()}%h%m%r%=%-14.(%l,%c%V%)\\ %P\\ %a\
+\
+La completion qui mange pas la statusline\
+set wildmenu\
+\
+\
+**Présentation Sphinx**\
+<http://sphinx-doc.org>\
+S'interface avec les modules de test U python.\
+moteur de documentation en Python\
+Pour la doc python mais pas que!\
+basé sur \*.rst (reStructuredText)\
+\
+sphynx-quickstart\
+[Beaucoup de Questions]\
+-\> conf.py\
+.. truc speciaux\
+.. toctree options.\
+make html -\> htmldoc \
+make pdf(via latex)\
+\
+Details:\
+on peut faire des refs externes, exporter les docstrings, un tree de la
+doc\
+\
+Grosse interrogation : est-ce que ça fonctionne pour un langage de
+grands garçons ? (= JavaScript)\
+\
+Pour colorer le code: pygments: <http://pygments.org/>\
+\
+Alternatives : Nikola, Pelican (Python), Pandoc (Haskell)\
+\
+set number              // Show line numbers\
+set relativenumber    // Show relative numbers\
+\
+Les deux à la fois, relatif + numéro de ligne pour la ligne courante
+(require vim\>7.4)\
+\
+yeganesh avec dmenu(\_path\_c) :
+<https://github.com/ornicar/dotfiles/blob/master/scripts/path-dmenu>\
+\
+présentation de cowsay / ponysay / fortune : ! Decrease your workflow !\

@@ -1,0 +1,78 @@
+-   recette de grand mère pour chercher faire un vimgrep sur les buffers
+    ouverts (by zmo)\
+    \
+
+il y a la solution moche en utilisant :bufdo... et il y a:\
+basé sur cette réponse : <http://stackoverflow.com/a/271709/1290438>\
+\
+function BufffersList()\
+  let all = range(0, bufnr('\$'))\
+  let res = []\
+  for b in all\
+    if buflisted(b)\
+      call add(res, bufname(b))\
+    endif\
+  endfor\
+  return res\
+endfunction\
+function! BufGrep(pat)                                     \
+    sil exe 'vimgrep '.a:pat.' '.join(BuffersList(),' ')   \
+endfunction                                                \
+command! -range -nargs=\* BufGrep :call BufGrep(\<f-args\>)   \
+\
+Virer les whitespaces:\
+"\
+\
+" Strip trailing whitespace.\
+function! \<SID\>StripTrailingWhitespaces()\
+    " Preparation: save last search, and cursor position..\
+    let \_s=@/\
+    let l = line(".")\
+    let c = col(".")\
+    " Do the business:\
+    %s/\\s\\+\$//e\
+    " Clean: restore previous search history, and cursor position.\
+    let @/=\_s\
+    call cursor(l, c)\
+endfunction\
+autocmd BufWritePre \* :call \<SID\>StripTrailingWhitespaces()\
+"\
+Ce qu'on a essayé depuis la dernière fois :\
+\
+Fichier vimsession : voir :help session-file\
+\
+Magick a voulu essayer le plugin ranger, mais a vite arrêté (avant
+d'avoir commencé)\
+\
+ponysay, clang\_complete\
+\
+gq pour reformater des colonnes\
+\
+" show tabs / nbsp / trailing spaces\
+set listchars=nbsp:¤,tab:··,trail:¤,extends:\>,precedes:\<\
+set list\
+\
+plugin syntastic\
+<https://github.com/scrooloose/syntastic>\
+\
+exrandr pour résoudre tous vos problèmes d'écran secondaire sous Linux
+:\
+<https://github.com/fabi1cazenave/dotFiles/blob/master/bin/exrandr>\
+\
+plugins:\
+- CtrlP: <http://kien.github.io/ctrlp.vim/>\
+- Unite: <https://github.com/Shougo/unite.vim/>\
+- unite-outline: "Unite outline" -\> table des matières du fichier\
+- ack.vim\
+\
+\
+<http://o.mengue.free.fr/presentations/2008-fpw/Mieux-programmer-en-shell.pdf>\
+\
+:help text-objects\
+  vaB\
+  cit   change in tag\
+  vat   around tag\
+\
+plugin Tabular pour aligner des lignes\
+<https://github.com/godlygeek/tabular>\
+    :map == vi{:Tabularize /=\>\<CR\>\

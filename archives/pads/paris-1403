@@ -1,0 +1,53 @@
+-   corentin: Rainbowparentheses.
+-   Armavica: new
+-   Vash : Emacs24
+-   \
+-   c - i : ( f + ' 'truc')  Mieux c i ' c - a " c - i - t c-ontexte
+    mode(viar-etc) delimiter + et - pour decendre en niveau de
+    selection. 
+-   yamo: g - v(reprends derniere selection), g - n (reprends dernier
+    pattern), 
+-   Ctrl+x Ctrl
+-   number-gg pour sauter à une ligne
+-   Kaze: set wildmenu, set wildmode=longest:full \<- Kikooo nice mode.
+    <https://github.com/bling/vim-airline>
+-   set enu, rnu : active relative number + real number line\
+    \
+
+**Sujets:**\
+Ctrl-R\_= permet d'exécuter des fonctions et des opérations\
+Ctrl-R\_\* \* étant une lettre (plus exactement le nom d'un registre, ça
+fonctionne aussi avec " ou encore +) écrit le contenu du registre (dans
+une recherche ou une commande)\
+Ctrl-R\_Ctrl-w le mot sous le curseur\
+Beaucoup d'autres... Voir la doc :h Ctrl-R\_Ctrl\
+map \> \>gv permet de reséléctionner après avoir réindenter\
+map \< \<gv idem dans l'autre sens \\o/\
+\
+Vash:\
+**Emacs24 Un bon media center en mode texte:**\
+
+-   De la musique et des videos. (emms)
+-   Un shell.
+-   Lecture d'images dans la console.\
+    \
+    \
+    \
+
+**Easy Motion:**\
+<https://github.com/Lokaltog/vim-easymotion>\
+Definit des cibles dans le texte pour se deplacer rapidement.\
+\
+**Highlight "blank" characters:**\
+set lcs=tab:\\›\\ ,trail:\~,nbsp:¤,extends:\>,precedes:\<\
+\
+**Les tips qui enlargent ton Workflow du poney du:**\
+
+-   gn: sélectionne visuellement la prochaine occurence de recherche
+-   gv: sélectionne la dernière sélection visuelle
+-   gp: Sélectionne la derniere ?\
+    \
+
+" select the pasted text
+(<http://vim.wikia.com/wiki/Selecting_your_pasted_text)>\
+nnoremap \<expr\> gp '\`[' . strpart(getregtype(), 0, 1) . '\`]'\

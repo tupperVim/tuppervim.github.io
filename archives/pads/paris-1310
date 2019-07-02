@@ -1,0 +1,73 @@
+**Sujets Proposés**\
+\
+1)\
+vim-send-cmd:  asynchronuous commands from vim\
+\
+2)\
+sur un macbook, j'ai eu la bonne idée de faire une fois\
+   \$ git clone git@github.com:square/maximum-awesome.git\
+   \$ rake\
+\
+Cette distribution est comme les autres (SPF13, Janus, YADR…) un gros
+étron. Je propose un débat : **LES DISTRIBUTIONS, CADEAUX OU PIÈGES ?**\
+\
+et aussi quelques idées pour optimiser son \~/.vimrc\
+\
+À propos des registres :\
+<http://of-vim-and-vigor.blogspot.com/2012/01/rap-on-vims-registers.html>\
+\
+Astuces\
+\
+j/k pour se déplacer, J pour joindre deux lignes\
+\
+Ctrl-w o → ferme toutes les fenêtres sauf la fenêtre courante (dans le
+tab courant)\
+\
+% = fichier courant\
+:echo expand("%") → affiche le nom du fichier courant\
+:tabnew % → ouvre le fichier courant dans un nouvel onglet\
+:hg diff %\
+\
+registre “trou noir” : "\_\
+  :noremap \<leader\>p "\_dP\
+registre “dernière copie” : "0\
+\
+clipboard -\> vim :  set clipboard=unnamedplus\
+\
+snipmate : pour entrer dans les fonctions\
+pour saisir le corps d'une fonction après l'accolade fermante sans
+quitter le mode insertion.\
+\
+:helpgrep grep dans l'aide et ouvre une quickfixsigns (très pratique
+quand on sait pas quoi chercher)\
+\
+Présentation de "spell" par Alexis\\\
+z= propose les modifications\
+1z= remplace par la première\
+setlocal spelllang=fr ou en ou ... // Propose automatiquement de
+télécharger le fichier de langue\
+\
+Débat passionant sur vim-outliner entre kaze et vx\
+\
+Présentation des pipes par yannick / dimitri\
+<https://github.com/yannicklm/vim-send-cmd> \
+ca sert à envoyer des commandes depuis vim vers un autre terminal\
+\
+Présentation de neobundle par marmoute. Débat neobundle / vundle / ...\
+\
+vimperator / pentadactyl\
+\
+pour afficher les tabulations dans firefox sur le coté et sous forme
+d'arbre "treestyletab"\
+\
+Lire du mp4 avec Firefox 24+ :\
+media.gstreamer.enabled = true\
++ ViewTube pour remplacer les lecteurs Flash par des lecteurs natifs
+\<video\>\
+\
+Présentation de colout et de pipefail dans un shell avec make par
+nohjan\
+\
+\
+\# Ma config i3, pour créer des workspaces a la volée:\
+<https://github.com/yannicklm/i3config>  \

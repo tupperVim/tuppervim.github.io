@@ -1,0 +1,130 @@
+-   foldd[oopen] {cmd} / folddoc[losed]
+-   { ou } pour aller à la prochaine ligne vide
+-   c comme "change"
+    -   ct3 "change to character "3"
+    -   ci( "change inside parenthesis")
+    -   cit "change inside TAG (change dans des balises p)
+    -   ci" "change inside quote" pratique pour les strings.
+-   lazy escape
+    -   inoremap kj \<Esc\> / cnoremap kj
+-   vimdiff
+    -   diffg / diffput
+-   pour séparer les hommes des grands garçons :
+    <http://www.tylercipriani.com/vim.html>
+
+inoremap \<up\> \<nop\>\
+vnoremap \<up\> \<nop\>\
+inoremap \<down\> \<nop\>\
+vnoremap \<down\> \<nop\>\
+inoremap \<left\> \<nop\>\
+vnoremap \<left\> \<nop\>\
+inoremap \<right\> \<nop\>\
+vnoremap \<right\> \<nop\>\
+
+-   changer la couleur du curseur et de la barre de status lorsqu'on
+    change de mode :
+    <https://github.com/clochix/vim-config/blob/master/vimrc#L351>
+-   il n'y a pas une solution qui utilise le thème couleur ? :-)\
+    \
+
+Yaposting: <http://www.vim.org/scripts/script.php?script_id=957>\
+\
+\<C-I\> \<C-O\> pour se déplacer partout où l'on s'est déplacé\
+\
+~~Attention, on ne dit pas "dièse" mais "croisillons"~~\
+\
+Présentation de org-mode par Thierry Stoehr (classe)\
+Alternatives :\
+
+-   vim-orgmode <https://github.com/jceb/vim-orgmode>
+-   vim-wiki
+-   pandoc <http://johnmacfarlane.net/pandoc/>
+-   xiki.org <http://xiki.org/>
+-   todo.txt
+-   taskwarrior\
+    \
+
+[clochix] présentation du module SearchFold\
+<http://www.vim.org/scripts/script.php?script_id=2521>\
+<https://github.com/vim-scripts/searchfold.vim>\
+exemple d'utilisation\
+
+-   \\/\\\*\\\_.\\{-}\\\*\\/ pour rechercher tous les commentaires et
+    \<leader\>iz pour les masquer. Marche pas :(
+-   /\^\\s\*function\\|\^r\^w\<CR\>\<leader\>z recherche le mot sous le
+    curseur et les fonctions et masque le reste\
+    \
+
+Colorier les séquences de couleurs de log dans Vim :
+<http://www.vim.org/scripts/script.php?script_id=302>\
+\
+Quickfix avec make\
+(voir aussi : location list ?)\
+utilise deux variables : makeprg et errorformat\
+en utilisant intelligemment makeprg et autocommand on pourrait même se
+passer de syntastic…\
+==== Quickfix (no plugin required) ====\
+Dans un répertoire avec un Makefile et comme compilateur gcc/g++.\
+:make (Compile en utilisant le Makefile)\
+:copen (Ouvre la fenêtre Quickfix)\
+\
+Pour se balader dans la quicklist:\
+:cnext\
+:cprevious\
+:crewind == :cfirst \</\> :clast\
+\
+Pour n'ouvrir la fenêtre que s'il y a des erreurs, la ferme si elle est
+ouverte et qu'il n'y en a plus.\
+:cwindow\
+\
+Bien sûr on peut mapper tout ça (dans le .vimrc):\
+map \<F4\> :make\<CR\> " Compile\
+map \<F5\> :cwindow\<CR\> " Ouvre la quickfix si nécessaire\
+map \<F6\> :cprevious\<CR\> " Recule d'une erreur\
+map \<F7\> : cnext\<CR\> " Avance d'une erreur\
+\
+Pour d'autres languages / outils trouver les fichiers .vim
+correspondants et les mettre dans le dossier \~/.vim/compiler/\
+\
+Ensuite taper :compiler \<nom\_du\_fichier\_sans\_le\_.vim\>\
+Puis faire :make etc...\
+\
+On peut faire des autocommandes pour ça (dans le .vimrc)\
+autocmd FileType python compiler pylint " Par exemple\
+\
+Et enfin pour ouvrir automatiquement la fenêtre d'erreur en cas
+d'erreur\
+autocmd QuickFixCmdPost \* cwindow\
+\
+Voir aussi :\
+:botright copen (= ouvre la quicklist sur toute la largeur en bas)\
+\
+Si vous utilisez beaucoup les splits, remplacer la dernière autocommande
+par :\
+autocmd QuickFixCmdPost \* botright cwindow\
+Ce qui ouvrira la quickfix dans toute la largeur en cas de split
+verticaux et dans toute la hauteur en cas de split horizontaux.\
+\
+Enfin pour terminer, toute ceci est basé sur 2 options :\
+makeprg (cf :h 'makeprg') et errorformat (cf :h 'errorformat')\
+Vous pouvez modifier makeprg pour spécifier le compilateur et ses
+options de base et errorformat est une regex pour parser le résultat.\
+Les fichiers 'compilers' ne font que redéfinir ces options.\
+\
+Petit "hack" :\
+:set makeprg=gcc\\ -S\\ %:p\
+Ne compile que le fichier courant sans les "includes". Permet un check
+rapide des fichiers c.\
+Le errorformat n'est pas à redéfinir c'est celui par défaut.\
+\
+Syntastic ne fait qu'importer des fichiers de "compiler" et à définir
+les autocommandes qui vont bien.\
+Il rajoute aussi des symboles aux lignes où il y a des erreurs, on
+pourra s'amuser la prochaine fois avec ça =\> ":h :sign".\
+\
+Présentations de Mars : \
+
+-   Kakoune : un éditeur aux stéroïdes !
+-   Alkino : Faire les TODO / DONE en couleurs sous vim (le truc
+    org-mode), ça sert à rien mais je ne peux pas laisser les gens
+    croire que vim c'est moins bien qu'emacs !\
