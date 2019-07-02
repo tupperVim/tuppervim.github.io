@@ -1,0 +1,43 @@
+:set smartcase (:set nosmartcase pour désactiver)
+
+permet de faire des recherche insensibles à la casse quand la recherche est en min
+
+LECTURE OBLIGATOIRE : 7 habits : http://www.moolenaar.net/habits.html
+
+Joyeux avimmersaire !
+
+Fuzzy finders : 
+    https://github.com/junegunn/fzf.vim
+    https://github.com/Shougo/unite.vim
+    https://github.com/ctrlpvim/ctrlp.vim
+    http://ranger.nongnu.org/ ( ranger is a console file manager with VI key bindings.)
+
+Navigation par symbole :
+    http://ctags.sourceforge.net/
+    https://github.com/universal-ctags/ctags
+    https://www.gnu.org/software/global/download.html
+    
+CTRL-Y et CTRL-E: scroller vers le haut et vers le bas (respectivement) en mode normal.
+En mode insertion, recopie la ligne au-dessus et au-dessous (respectivement)
+
+custom text-object, utiliser comme un text-object classique : ci\, vi+, da;, ya*
+
+    for char in [ '_', '.', ':', ',', ';', '<bar>', '/', '<bslash>', '*', '+', '%', '`' ]
+
+        execute 'xnoremap i' . char . ' :<C-u>normal! T' . char . 'vt' . char . '<CR>'
+
+        execute 'onoremap i' . char . ' :normal vi' . char . '<CR>'
+
+        execute 'xnoremap a' . char . ' :<C-u>normal! F' . char . 'vf' . char . '<CR>'
+
+        execute 'onoremap a' . char . ' :normal va' . char . '<CR>'
+
+    endfor
+
+
+pass :
+    https://www.passwordstore.org/ (pluggable avec dmenu pour ceux que ça intéresse)
+passmenu:
+    https://git.zx2c4.com/password-store/tree/contrib/dmenu
+
+Mon fichier ~/.ctags (romainl pour kaze) https://gist.github.com/romainl/085b4db4a26a06ec7e16

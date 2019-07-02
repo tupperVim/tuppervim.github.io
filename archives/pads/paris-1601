@@ -1,0 +1,41 @@
+Presentation de https://github.com/romainl/vim-dichromatic
+
+Résentation vite fait de redshift et f:lux : http://jonls.dk/redshift/ et https://justgetflux.com/
+Dimitri a présenté replacer: https://github.com/cgestes/ctafconf/blob/master/bin/replacer
+et pycp: https://github.com/yannicklm/pycp
+
+nnoremap ' `
+
+
+entre deux splits, windo diffthis => fait un diff
+si on fait des modifs dans un des splits on peu utiliser diffupdate
+
+
+https://github.com/junegunn/goyo.vim
+
+vim-sleuth pour setter les settings d'indentation automatiquement:
+https://github.com/tpope/vim-sleuth 
+
+// CamelCase Motion (marche aussi avec les snake case + abolish, parce que c'est que du bonheur ♥)
+
+"map <silent> w <Plug>CamelCaseMotion_w
+map <silent> b <Plug>CamelCaseMotion_b
+map <silent> e <Plug>CamelCaseMotion_e
+
+omap <silent> i_ <Plug>CamelCaseMotion_iw
+xmap <silent> i_ <Plug>CamelCaseMotion_iw
+omap <silent> i- <Plug>CamelCaseMotion_iw
+xmap <silent> i- <Plug>CamelCaseMotion_iw
+omap <silent> ib <Plug>CamelCaseMotion_ib
+xmap <silent> ib <Plug>CamelCaseMotion_ib
+omap <silent> ie <Plug>CamelCaseMotion_ie
+xmap <silent> ie <Plug>CamelCaseMotion_ie
+
+map <silent> <C-Right> <Plug>CamelCaseMotion_e
+map <silent> <C-Left> <Plug>CamelCaseMotion_b
+
+NeoBundle 'bkad/CamelCaseMotion'
+NeoBundle 'tpope/vim-abolish'
+
+romain nous a décrit https://github.com/romainl/idiomatic-vimrc
+des « guidelines » pour VOTRE vimrc ;-)

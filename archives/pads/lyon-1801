@@ -1,0 +1,39 @@
+« ^V » : sélection verticale par bloc.
+
+    En début de ligne (« ^ » ou « 0 »), puis « I » : ajouter en début de ligne (par exemple un identifiant de commentaire en ligne)
+
+    En fin de ligne (« $ ») puis « A » : ajouter en fin de lignes.
+
+    set virtualedit=block
+
+    ↑ permet de faire une sélection verticale plus “propre”.
+
+En mode visuel : o permet d'inverser la sélection
+Macros : « @: » permet de relancer la dernière commande tapée (et donc de passer « @: » en « @@ »)
+shift + Q : Ex mode, peut être utile pour des grosses manipulation, puisque l'affichage n'est pas rafraîchi… utilité limité par les temps qui courent.
+Plugin: easymotion, pour une navigation aisée par rapport à ce qu'il y a sur l'écran. Navigation à l'aide d'un leader.
+
+vimdiff : dp = diff put pousse le coté du cursor de l’autre coté
+do = diff obtain récupère l’autre coté pour l’appliquer du coté ou on est
+des fois c’est cassé donc faire un :diffupdate
+
+:%s/function \{-}( = non greedy du coups ça match tous jusqu’à la première ( à
+la différence de * qui va matcher jusqu’à ce qu’il puisse plus
+
+sélection visuel + :%s// pour remplacer la sélection visuel (pour kazé qui est faché avec les expressions rationnels)
+
+f/ se deplace au prochain / , pour le prochain et ; pour precedent
+ex: http://youporn.com/ducks/hardcore/
+f/,,de,P (faut remapper la touche leader sur autre chose que virgule)
+http://youporn.com/hardcore/ducks/
+
+Présentation de vis
+https://fosdem.org/2018/schedule/event/vis_editor/attachments/slides/2041/export/events/attachments/vis_editor/slides/2041/presentation.pdf
+
+Remarque: ^f permet de remonter dans l'historique
+
+Shada:
+
+    mécanisme qui remplace viminfo dans neovim.
+
+Astuce: utilier le plugin startify, pour sauver les sessions, et ne pas avoir de problèmes quand on manipule plusieurs dossiers différents (par exemple)

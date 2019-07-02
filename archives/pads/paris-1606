@@ -1,0 +1,128 @@
+* aligner un texte à gauche :left & :right :center
+
+Gros rappel sur les text-objects (presentation par dimitri)
+:h motion.txt will blow your mind.
+
+:abbreviate foo bar
+:unabreviate bar
+
+Rappel sur vimgolf (c'est la vie)
+http://vimgolf.com
+
+http://dmerej.info/blog/post/vim-cwd-and-neovim/
+http://dmerej.info/blog/post/never-type-the-same-path-twice/
+
+z: cd command that learns:
+    https://github.com/rupa/z
+sane bundle for zsh:
+    https://github.com/zsh-users/antigen
+    
+custom text-object, utiliser comme un text-object classique : ci\, vi+, da;, ya*
+
+    for char in [ '_', '.', ':', ',', ';', '<bar>', '/', '<bslash>', '*', '+', '%', '`' ]
+
+        execute 'xnoremap i' . char . ' :<C-u>normal! T' . char . 'vt' . char . '<CR>'
+
+        execute 'onoremap i' . char . ' :normal vi' . char . '<CR>'
+
+        execute 'xnoremap a' . char . ' :<C-u>normal! F' . char . 'vf' . char . '<CR>'
+
+        execute 'onoremap a' . char . ' :normal va' . char . '<CR>'
+
+    endfor
+
+
+Les mappings :
+    [map] [options] [lhs] [rhs]
+    [map]    la commande qui enregistre le mapping
+    [option] permet de restreindre ou modifier le comportement d'un mapping
+    [lhs]   (left hand side) les touches sur lesquelles on veut taper
+    [rhs]   (right hand side) ce qu'on veut faire
+
+[map]
+    la première lettre indique le mode dans lequel le mapping est actif
+    mappings récursifs :
+        imap, nmap, cmap, omap, xmap (et oui, "x" pour visual mode, c'est une longue histoire)
+        ces mappings sont "récursifs", ça veut dire que si une des commandes dans [rhs] et déjà re-mappée, c'est ça valeur actuelle qui est utilisée
+        exemple :
+            imap B w
+            imap <F5> dB    <-- équivalent à dw car on utilise le B qu'on a re-mappé
+    mappings non-récursifs :
+        inoremap, nnoremap, cnoremap, onoremap, xnoremap
+        ces mappings sont "non-récursifs", Ça veut dire que les commandes dans [rhs] sont utilisées avec leur valeur originale
+        exemple :
+            imap B w
+            inoremap <F5> dB    <-- dB pour de vrai
+    comment choisir ?
+        si on veut re-mapper un mapping existant (custom ou plugin) on utilise un mapping récursif
+        si on veut créer un mapping custom on utilise un mapping non-récursif
+
+[option]
+    <buffer> le mapping n'est actif que pour le buffer courant    :h <buffer>
+    <expr>   [rhs] est utilisé comme une expression               :h <expr>
+    <silent> pas de sortie dans la ligne de commande              :h <silent>
+
+[lhs]
+    à toi d'expérimenter en te basant sur :h key-notation
+    éviter les touches CMD (ne fonctionne que dans la GUI de MacVim) et ALT
+
+[rhs]
+    ce que tu veux, à toi d'expérimenter
+
+ressource intéressante : Learn VIM the hard way : http://learnvimscriptthehardway.stevelosh.com/
+
+Installer un Vim correct sur differentes distros :
+Arch
+
+    $ sudo pacman -Sy
+
+    $ sudo pacman -R vim
+
+    $ sudo pacman -S gvim
+
+Debian
+
+    $ sudo apt-get update
+
+    $ sudo apt-get install vim-gnome
+
+Gentoo
+
+    $ sudo emerge --sync
+
+    $ sudo emerge app-editors/gvim
+
+RedHat
+
+    $ sudo yum check-update
+
+    $ sudo yum install vim-X11
+
+Slackware
+
+    $ sudo slackpkg update
+
+    $ sudo slackpkg install-new vim-gvim
+
+OpenBSD
+
+    $ sudo pkg_add vim-x11
+
+FreeBSD
+
+    $ sudo pkg install editors/vim
+
+
+Afficher la liste des registres :
+:reg
+
+QotD : 
+There are three basic steps:
+
+    While you are editing, keep an eye out for actions you repeat and/or spend quite a bit of time on.
+
+    Find out if there is an editor command that will do this action quicker. Read the documentation, ask a friend, or look at how others do this.
+
+    Train using the command. Do this until your fingers type it without thinking.
+
+http://www.moolenaar.net/habits.html

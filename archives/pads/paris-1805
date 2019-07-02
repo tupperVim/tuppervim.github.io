@@ -1,0 +1,17 @@
+Chronic ( https://github.com/alexherbo2/chronic )
+
+    Rechercher une date relative
+
+    Remplacer le format d’une date
+
+    Effectuer des opérations arithmétiques (incrémentations)
+
+    Grep une plage de dates (les activités du jour ou de la semaine)
+
+
+Friendly duration ( https://github.com/alexherbo2/friendly-duration )
+
+Plugins présentés autour des text-objects:
+    * https://github.com/bps/vim-textobj-python
+    * https://github.com/wellle/targets.vim
+    * https://github.com/AndrewRadev/sideways.vim

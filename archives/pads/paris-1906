@@ -1,0 +1,59 @@
+toadjaune: prez de script de config de sortie xrandr avec rofi (https://github.com/davatorium/rofi-scripts/blob/master/monitor_layout.sh)
+    powerlevel9k theme zsh
+    (mon thème pour powerlevel9k : https://github.com/toadjaune/.globalrc/blob/master/roles/deploy/files/zsh_zplug.zsh, basé sur : https://github.com/tonylambiris/dotfiles/blob/master/dot.zshrc
+
+    vivien: C^x C^e pour edit commande vim
+
+    gary: auditeur debutant vim, enregistrer vim sans etre root :silent w !  sudo tee % > /dev/null
+
+    Louis: Debutant use vim uniquement en serveur,
+
+    Lapin: Etudiant a 42, c^v $ pour ajouter à la fin de toutes les lignes
+    Prez de vim-commentary de tpope ♥
+    https://github.com/tpope/vim-speeddating
+
+    nmap <leader>LU 1G/Last update:/s*e+1<CR>CYDATE<ESC>
+    (avec YDATE défini avec iabbr YDATE ) :
+
+iabbr YDATE <C-R>=strftime("%a %b %d %T %Z %Y")<CR>
+nmap <Leader>LU 1G/Last update:\s*/e+1<CR>CYDATE<ESC>
+
+    Guyzmo, selection par un text object en plugin sur la colonne  :
+
+    https://github.com/coderifous/textobj-word-column.vim
+
+    Gaetant: etudiant a 42, prez de gn (text object pour le prochain match de la recherche)
+
+    Alan: debutant vim,
+
+    Pierre: vim user, coc.vim vscode completion in vim
+
+    Abakar: presentation d'un env de dev avec : tagbar / nerdtree / syntastic
+
+zz : centrer le curseur
+-> intéréssant avec les mappings de recherche, type "noremap n nzz", etc…
+nnoremap n nzz
+nnoremap N Nzz
+nnoremap * *zz
+nnoremap # #zz
+nnoremap g* g*zz
+nnoremap g# g#zz
+
+zt / zb : mettre le curseur et le buffer en haut ou en bas (ne déplace pas le curseur dans le fichier, scrolle pour placer le curseur correctement)
+
+nnoremap <expr> zB 'zb' . winheight(0)/4 . '<c-e>'
+nnoremap <expr> zt 'zt' . winheight(0)/4 . '<c-y>'
+
+M / L / H pour bouger le curseur et le mettre au centre, en bas, en haut sans bouger le buffer
+
+
+scrolloff pour commencer à scroller avant que le curseur atteigne le haut / le bas de la fenêtre
+
+Teddy: C-W ] ouvrir la preview avec l'origine du tag / ferme C-W z
+*Nouveau* ctags  https://github.com/universal-ctags/ctags
+
+Ajout flag n a format-options, permet de garder permet de garder le wrapping pour des listes numerotèes
+
+Client mail in da shell
+https://www.tecmint.com/send-mail-from-command-line-using-mutt-command/
+https://github.com/pazz/alot

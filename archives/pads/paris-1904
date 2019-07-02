@@ -1,0 +1,28 @@
+Présentation de goyo par guyzmo
+plugin splitjoin / joinsplit
+
+xdotool pour reconfig bind clavier
+exemple xdotool getactivewindow key ctrl+x
+
+Julio prez floating windows dans neovim-0.4 et completion LSP avec le plugin cop.vim
+
+Dimitry prez de kakoune avec slide et tout il mettra le lien \o/
+
+prez de alacritty
+
+http://www.terminally-incoherent.com/blog/2007/05/21/a-day-without-x/
+
+prez c-a / c-x pour increase / decrease 
+vim-speeddating
+g c-a pour avoir une liste incremental
+pierre presente son plugin vial_http permet d'editer des api web dans vim
+alternative possible avec roast.vim
+c-x e pour editer sa commande
+possibilité de faire aussi avec fc (solution kaze)
+lancer vim dans neovim
+changement de couleur avec pywal
+changer le colorcheme en mode diff
+" Change le colorscheme en mode diff
+if &diff
+    colorscheme solarized
+endif

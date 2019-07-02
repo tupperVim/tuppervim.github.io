@@ -1,0 +1,49 @@
+Function vim utile glob2regpat({expr})
+lorenzo: Plugin targets.vim
+Guyzmo présente ses texts object custom ::
+    
+for char in [ '_', '.', ':', ',', ';', '', '/', '', '*', '+', '%', '`', '"""', "'''" ]    
+execute 'xnoremap i' . char . ' :normal! T' . char . 'vt' . char . ''    
+execute 'onoremap i' . char . ' :normal vi' . char . ''    
+execute 'xnoremap a' . char . ' :normal! F' . char . 'vf' . char . ''    
+execute 'onoremap a' . char . ' :normal va' . char . '' endfor 
+
+Pandark: g+ / g- undotree , 
+:buffdo
+
+Plugin pour faire des diff entre les swap files https://github.com/chrisbra/Recover.vim
+
+" Convenient command to see the difference between the current buffer and the
+" file it was loaded from, thus the changes you made.
+" Only define it when not defined already.
+if !exists(":DiffOrig")
+  command DiffOrig vert new | set bt=nofile | r # | 0d_ | diffthis
+                   \ | wincmd p | diffthis
+endif"
+
+
+Utilisateur emacs présent !
+C-o ou C-O en mode insertion permet de passer en mode commande et de revenir en mode insertion au même endroit une fois la commande exécutée.
+
+Présentation de LSP https://github.com/Microsoft/language-server-protocol
+Jean-francois: utilise vim depuis quelques mois, 
+Demo Guyzmo QuickFixList avec le term recherche de fichier avec grep / ripgrep et ouverture du fichier avec gf depuis le term vim
+nvrload pour ouvrir le fichier dans nvim nvrgrep, nvr GUYZMO COLLE ICI !
+NVR https://github.com/mhinz/neovim-remote
+
+
+# nvrgrep 1 pattern dir ← fait une recherche de pattern dans dir avec ripgrep, loade le résultat dans la quickfix, et ouvre le premier match dans la fenêtre 1
+ {
+    nvr -c copen -cc "$1wincmd w" -q <(rg --vimgrep $2 $3) 
+}
+
+# nvrload 1 file ← charge le fichier 'file' dans la fenêtre 1
+function nvrload() {
+    python -c "import os,sys,neovim;nvim=neovim.attach('socket', path=os.environ['NVIM_LISTEN_ADDRESS']);nvim.command('exe {} . \'wincmd w\''.format(sys.argv[1])); nvim.command('edit {}'.format(sy s.argv[2]))" $* 
+}
+
+Config DWM https://dwm.suckless.org/
+
+C^F permet d'ouvirr la command windows et d'ouvrir une regex et 
+
+Site pour tester ses regex -> https://regex101.com/

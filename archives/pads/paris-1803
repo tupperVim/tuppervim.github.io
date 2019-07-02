@@ -1,0 +1,59 @@
+Enlever le délais de 1 seconde dans vim dans un shell dans tmux dans janitor :
+    https://www.johnhawthorn.com/2012/09/vi-escape-delays/
+    
+    Dimitri:
+        projet chuck norris lib en c++ + demo a venir
+        https://github.com/dmerejkowsky/chucknorris       
+        https://dmerej.info/blog/post/introducing-the-chuck-norris-project/
+
+    Alex:
+        prez a venir, kakoune, telechargement de torrent
+        prez bulk avec kakoune.
+        https://github.com/alexherbo2/bulk
+        rework tiling workspace using attach
+        attach supporte les token, permet de switcher entre les tag de attach
+        https://github.com/alexherbo2/attach
+        http://alexherbo2.github.io/blog/chrome/dead-simple-kakoune-support-for-chrome/
+        client torrent: https://github.com/Luminarys/synapse
+        https://github.com/alexherbo2/dotfiles
+    
+  Vincent:
+    Presentation de C-P, recherche dans les ctags,  possibilite d'alternative fzf qui est aussi pour le shell.
+    
+   Guillaume: Presentation de Vim-rsi: https://github.com/tpope/vim-rsi
+   
+Michel:
+    vis: https://github.com/martanne/vis/
+    chen: https://github.com/soveran/chen
+    
+loomchilld
+Sauvegarde automatique en sortie de mode insertion ?
+
+Dimitri:
+    technique pour enrigistrer au refresh du fichier, on-vim-refresh avec un trigger pour repondre a l;event refredh
+    le script est dispo dans ses dotfiles la -> https://github.com/dmerejkowsky/dotfiles
+    test en repl avec ipdb, live server
+    
+Thierry:
+    Emacs / Awesome / FreeBSD
+    orgmode, colon-view transforme en tableau en faisant un block dynamique constitue de conlon-view
+    ajout de la caracteristique match pour filtrer les champs qui seront selectionnes.
+    plugin vim-orgmode
+        
+Mehdi:
+    recherche compter le nombre d’occurrences dans tout  le fichier
+    lancer la recherche par / ou # ou *…
+    :%s///n pour compter les coccurences (n = nope)
+    C-N / C-P pour completion à partir des éléments du buffer (fonctionne de base sans Plugins ;-) )
+    omnicompletion vs LanguageServerProtocol
+    C-X f pour compléter les chemins des fichiers
+
+ kaze:
+     comment survivre au 4 espaces, 
+          :set ts=2
+           :set noet
+           :retab!
+           :set ts=4
+           :set et expand tab
+           :retab
+            

@@ -1,0 +1,136 @@
+Transformer les fin de lignes en UNIX (depuis du win)
+:set fileformat=unix
+Suivi de retab
+
+Recherche dans le fichier
+*Posssibilite de remplacer / par un caractere arbitraire comme ,
+*REmplacer sur la ligne 3a 5 en remplacant % par 3,5s
+
+Executer une comande externe avec !
+Possibilite de lire et inclure le sortie de la commande unix dans ton fichier avec :r! ls par exemple
+
+A noter bitoduc.fr pour connaitre les equivalent FR des nom en anglais (bang pipe).
+
+Commande :ealier 5m (reviens 5 minute en arriere).
+Presentation de Gundo
+
+Utilisation de set scrolloff=5 pour avoir un peu de visibilite autour de ta ligne
+" From http://lambdalisue.hatenablog.com/entry/2013/06/23/071344
+" 検索後にジャンプした際に検索単語を画面中央に持ってくる
+nnoremap n nzz
+nnoremap N Nzz
+nnoremap * *zz
+nnoremap # #zz
+nnoremap g* g*zz
+nnoremap g# g#zz
+zt= monter en haut de ton ecran
+zb= En bas de ton screen
+
+vim-commentary pour commenter des ligne du fichier
+
+presentation de FZF 
+
+:e "ouvrir dans un buffer
+:ls " lister les buffer
+:bn / :bd " Suivant / precedant
+:b# "alternate" buffer: le buffer d'où l'on vient
+:tabe fichier " ouvrir fichier dans un onglet
+
+Presentation at / it 
+vap " visualize around paragraph
+ci" "Change in "
+va" "Change around "
+
+
+
+
+
+Salut à tous !
+
+Merci encore pour cette soirée fort instructive.
+Etant donné que je suis venu sans m'inscire (pas bien !) et les mains vides (ouuuh !), j'apporte ma modeste contribution par un petit récapitulatif des commandes vues hier (ouiiii !).
+Ce qui commence par un caractère deux-points est pour le mode commande, le reste concerne le mode édition. Ça n'a pas pour prétention d'être exhaustif !
+
+Defmax
+
+
+Adapter les caractères de fin de ligne
+:set fileformat=mac
+:set fileformat=dos
+:set fileformat=unix
+
+Remplacer la chaîne "foo" par "bar"
+%s/foo/bar/
+%s/foo/bar/g
+%s/foo/bar/c
+(g pour global i.e. toute la ligne, c pour confirm)
+
+Remplacer la dernière chaîne recherchée par "bar"
+%s//bar/gc
+
+Toujours garder 5 lignes avant et après le curseur
+set scrolloff=5
+
+Exécuter une commande Bash sans quitter Vim
+:!command
+:!command %
+(% donne en paramètre le fichier courant)
+
+Exécuter une commande Bash et récupérer la sortie dans le buffer courant
+:.!command
+
+Convertir les tabulation en espaces (si :set expandtab est actif)
+:retab
+
+Activer la correction orthographique (doit être configuré au préalable)
+:set spell
+
+Lister les tampons disponibles
+:ls
+(ls comme list)
+
+Accéder au tampon ouvert numéro 2
+:b2
+(b comme buffer)
+
+Sélectionner en visuel un bloc de texte avec ou sans ses délimiteurs
+va#
+vi#
+(v pour visual, a pour around, i pour inner, voir # ci-après)
+
+Etendre le bloc de texte sélectionné
+a#
+i#
+(a pour around, i pour inner, voir # ci-après)
+
+(# est un caractère spécifiant le type de bloc de texte ;
+caractères délimiteurs ouvrants ou fermant comme ' " < ( [ {
+w pour word, p pour paragraph, t pour tag html)
+
+Remplacer v par c pour modifier le texte plutôt que le sélectionner
+(c comme change)
+
+Remplacer v par d pour supprimer le texte plutôt que le sélectionner
+(d comme delete)
+
+En savoir plus :
+    http://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/
+
+Insérer une chaîne "foo" au début de plusieurs lignes
+[ctrl-v]Ifoo
+(terminer par [entrée])
+
+Ouvrir l'explorateur de fichiers
+Ex
+Vex
+Sex
+Tex
+(Ex et ex pour Explore, S pour split, V pour vertical split, H pour horizontal split, T pour tab)
+
+En savoir plus :
+    http://vimdoc.sourceforge.net/htmldoc/pi_netrw.html#:Explore
+
+Enregistrer et quitter Vim
+ZZ
+
+

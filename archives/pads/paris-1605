@@ -1,0 +1,61 @@
+g: revient a la dernière edition avant
+g, revient a la prochaine edition
+". revient a la dernière ligne modifiée (chez moi c'est '.)
+La changelist est locale au buffer :help changelist
+
+nmap gp `[v`] paste and move to the end of the pasting
+]p colle au dessous de la ligne courante au même niveau d'indentation
+[p (ou ]P pour minimiser la variante) colle au dessus de la ligne courante au même niveau d'indentation
+=iB indent current block
+=`] limite l'indent a ce que tu viens de coller
+
+Présentation Dimitri: 
+remark.js convert a single markdown to html slides (with javascript): https://github.com/gnab/remark
+refresh chromium from neovim: 
+https://gist.github.com/dmerejkowsky/3fcb8473588f66a8339483a50e299a8b
+Blog post sur vim et cwd: http://dmerej.info/blog/index.php?post/2016/04/30/Vim-and-cwd
+    
+    :include search recherche dans les include et c'est natif depuis vim4/5 :help include-search
+    :Ilist fourni par vim-qlist: plugin de Romain : https://github.com/romainl/vim-qlist
+    universal-ctags est une nouvelle version de exuberant ctags : https://github.com/universal-ctags/ctags
+    réglages ctags : https://gist.github.com/romainl/085b4db4a26a06ec7e16
+    port de magit : https://github.com/jreybert/vimagit
+    
+    ga sur un char pour savoir le unicode code
+    
+    undo presentation de Gundotree
+    :earlier permet de savoir ce qui s'est passé
+    
+    Uniquement ans vimdiff
+    ]c passer d'un chunk a un autre
+    
+    makeprg permet de definir un linter
+    equalprg permet de definir comment tu indente
+    
+    Présentation de neomake
+    :lopen pour ouvrir la "location window"
+    
+    Présentation de dimitri pour lcd
+    
+" 'cd' towards the dir in which the current file is edited
+" but only change the path for the current window
+map <leader>cd :lcd %:h<CR>
+
+" Open files located in the same dir in with the current file is edited
+map <leader>ew :e <C-R>=expand("%:p:h") . "/" <CR>
+map <leader>es :sp <C-R>=expand("%:p:h") . "/" <CR>
+map <leader>ev :vsp <C-R>=expand("%:p:h") . "/" <CR>
+map <leader>et :tabe <C-R>=expand("%:p:h") . "/" <CR>
+
+" Set tab cwd on tab creation: (Neovim only!)
+function! OnTabEnter(path)
+    if isdirectory(a:path)
+      let dirname = a:path
+    else
+      let dirname = fnamemodify(a:path, ":h")
+    endif
+    execute "tcd ". dirname
+endfunction()
+
+autocmd TabNewEntered * call OnTabEnter(expand("<amatch>"))
+
