@@ -1,0 +1,71 @@
+" Selection qui perdure après indentation / désindentation\
+vmap \> \>gv\
+vmap \< \<gv\
+\
+:%s// (remplacement de chaines sur tout le fichier)\
+:N,Ms// (rempalcement de chaines de la ligne N a la ligne M)\
+selection puis :s// (remplacement de chaines dans la selection)\
+
+vim pasta pour pouvoir coller en indentant correctement:
+<https://github.com/sickill/vim-pasta>\
+\
+pour revenir à l'endroit où on était dans son fichier :\
+au BufReadPost \* if line("'\\"") \> 1 && line("'\\"") \<= line("\$") |
+exe "normal! g\`\\"" | endif\
+\
+version du /etc/vim/vimrc (ligne 28 mais sinon c'est la meme ligne)\
+if has("autocmd")\
+  au BufReadPost \* if line("'\\"") \> 1 && line("'\\"") \<= line("\$")
+| exe "normal! g'\\"" | endif\
+endif\
+\
+<https://bitbucket.org/tednaleid/vim-shortcut-wallpaper/raw/tip/vim-shortcuts.png>\
+\
+" Disable arrows in normal mode\
+noremap \<up\> \<nop\>\
+noremap \<down\> \<nop\>\
+noremap \<left\> \<nop\>\
+noremap \<right\> \<nop\>\
+\
+cube marrant <http://wiki.mozfr.org/TupperVim#Liens>\
+\
+:nnoremap \<silent\> \<leader\>\* :let 
+@/='\\\<\<C-R\>=expand("\<cword\>")\<CR\>\\\>'\<CR\>:set  hls\<CR\>\
+\
+; registre par défaut == registre \* (sous X: celui de la souris, sous
+windows: celui du CTRL-C/CTRL-V)\
+set clipboard=unnamed\
+; registre par défaut == registre + (sous X: celui du CTRL-C/CTRL-V)\
+set clipboard=unnamedplus\
+\
+set undofile\
+set undodir=\~/.vim/undodir\
+\
+<https://raw.github.com/gist/3194556/1a0e94d2e96504dad2ce26b8ad8e4871cae1ec10/put-this-in-your-zshenv-or-bashrc.sh>\
+\
+Redshift\
+<http://jonls.dk/2010/10/redshift-1-6-released/>\
+.config\
+; Global settings\
+[redshift]\
+temp-day=5700\
+temp-night=3500\
+transition=1\
+gamma=0.8:0.7:0.8\
+location-provider=manual\
+adjustment-method=vidmode\
+\
+; The location provider and adjustment method settings\
+; are in their own sections.\
+[manual]\
+lat=**48.9**\
+lon=**2.4**\
+\
+; In this example screen 1 is adjusted by vidmode. Note\
+; that the numbering starts from 0, so this is actually\
+; the second screen.\
+[vidmode]\
+screen=**0**\
+\
+Plein de slides intéressants écrits par l’indispensable Clochix :\
+<http://clochix.net/slides/slides/tuppervim1212>\

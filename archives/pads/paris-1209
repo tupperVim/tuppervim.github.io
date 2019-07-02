@@ -1,0 +1,27 @@
+C-w C-r → rotation des fenêtres dans un split\
+C-w s et C-w v pour splitter\
+C-w = égaliser tailles de fenêtres (v. aussi C-w | et C-w \_)\
+\
+:set cpoptions+=\$\
+pour visualiser la fin de la zone à remplacer (Vi-style)\
+\
+vat → t pour tag, voir aussi w pour word ou p pour paragraph\
+vit → le truc qui tue\
+\
+voir aussi, vatatat\
+\
+Remplacement interactif\
+à la fin de la commande de remplacement mettre /c\
+e.g. :%s/foo/bar/c\
+\
+\
+**Plugins**\
+\
+vim-align: pour les pervers de l’alignement vertical\
+\
+surround.vim (présenté par Sylvain) :\
+  sélection de bloc → S → '/"/{ ou tag\
+  à l’intérieur d’un tag → cst → nouveau nom de tag\
+  sur un mot → ysiw" pour mettre le mot courant entre guillemets\
+  \
+key-mon / screenkey\

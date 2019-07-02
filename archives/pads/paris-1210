@@ -1,0 +1,96 @@
+FuzzyFinder\
+\
+:set udf\
+= undo persistant\
+\
+Pour aller de l'acolade (ou autre) fermante à l'ouvrante (ou l'inverse)
+se mettre sur le symbole et faire %\
+\
+:%s/foo/bar/c\
+demande confirmation à chaque remplacement\
+\
+Plugin tabularize\
+\
+:set ut=42\
+:au cursorhold \*.html update\
+→ sauvegarde automatique si le fichier n’a pas été touché pendant 42ms
+(hors mode insertion)\
+\
+. pour refaire la même action\
+\* pour chercher le mot sous le curseur\
+:set hlsearch surligne la recherche\
+\
+taglist\
+\
+<http://doctorjs.org/> un ctags pour JS\
+\
+supertabs pour compléter de manière intelligente\
+\
+zz \
+recentre l'ecran sur le curseur\
+\
+:inoremap jj \<Esc\>\
+indispensable (ou kj)\
+\
+À ajouter dans son \~/.vimrc :\
+command! Wroot :w !sudo tee %\
+\
+ZE truc qui déchire dans Git, présenté par VX :\
+git commit -p\
+\
+Voir aussi :\
+tig status\
+\
+\
+noremap  \<expr\> \<Home\> (col('.') == matchend(getline('.'),
+'\^\\s\*')+1 ? '0'  : '\^')\
+map \<Home\> \<C-o\>\<Home\>   \
+\
+Pour recharger la config automatiquement :\
+autocmd! BufWritePost .vimrc source \~/.vimrc\
+\
+\
+\
+"|    Ranger as Vim file
+manager                                           \<\<\<\
+"|----------------------------------------------------------------------------\
+"
+<http://ohttp://www.netvibes.com/privatepage/4#Informatiquernicar.github.com/2011/02/12/ranger-as-vim-file-manager.html>\
+\
+function! Ranger()\
+  "let tmpfile = '/tmp/chosen'\
+  "silent !ranger %:h --choosefile=/tmp/chosen\
+  let tmpfile = substitute(system('mktemp -u'), '\\n', '', '')\
+  silent exec '!ranger --choosefile='.tmpfile\
+  if filereadable(tmpfile)\
+    exec 'edit '. system('cat '.tmpfile)\
+    call delete(tmpfile)\
+  endif\
+  redraw!\
+endfunction\
+noremap \<silent\> \<Esc\>e :call Ranger()\<CR\>\
+\
+plug in pour aligner verticalement\
+tabularize\
+\
+gf ouvre le fichier sous le curseur\
+\
+Ctrl-\^\
+aller/retour entre les deux derniers buffers\
+\
+C-x C-f ouvre le menu de completion et complète avec les noms de
+fichiers du répertoire\
+\
+quickdate pour incrémenter / décrémenter les dates ("speeddating" est le
+nom du plugin ?)\
+\
+\
+**Pour la prochaine fois**\
+\
+
+-   zsh, le truc qui tue ou rien
+-   mutt-kz
+-   vim-grep
+-   fugitive.vim
+-   Clochix présente quickfix P
+-   :make, qui permet de naviguer dans les erreurs de compilations\

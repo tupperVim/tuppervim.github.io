@@ -1,0 +1,27 @@
+nnoremap \<leader\>v V\`]\
+= resélectionne les lignes qui viennent d’être collées\
+\
+Justifier du texte, utilise /usr/share/vim/vim73/macros/justify.vim\
+" Wrap a paragraph and justify it\
+:runtime macros/justify.vim\
+nnoremap \<leader\>j gw}{V}:call Justify('tw',4)\<CR\>\
+\
+ci{ permet de remplacer ce qu'il y a à l'interieur d’une paire
+d’accolades\
+di[ supprime le contenu de la paire de crochets\
+vib sélectionne le contenu d’une paire de parenthèses\
+viB sélectionne le contenu d’une paire d’accolades\
+\
+Utiliser 'kj' plutôt que Esc (variante : 'jj')\
+inoremap kj \<Esc\>\
+cnoremap kj \<Esc\>\
+\
+" up, down, home and end keys move in visual lines, not real ones\
+"map \<silent\> \<Up\> gk\
+"imap \<silent\> \<Up\> \<C-o\>gk\
+"map \<silent\> \<Down\> gj\
+"imap \<silent\> \<Down\> \<C-o\>gj\
+"map \<silent\> \<home\> g\<home\>\
+"imap \<silent\> \<home\> \<C-o\>g\<home\>\
+"map \<silent\> \<End\> g\<End\>\
+"imap \<silent\> \<End\> \<C-o\>g\<End\>\
