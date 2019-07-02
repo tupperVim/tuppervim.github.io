@@ -1,0 +1,35 @@
+gv: reselect last selection.
+
+gp: coller avec le curseur qui ne bouge pas
+
+" select the pasted text (http://vim.wikia.com/wiki/Selecting_your_pasted_text)
+nnoremap <expr> gp '`[' . strpart(getregtype(), 0, 1) . '`]'
+
+coller directement avec la bonne indentation
+[p
+]p
+
+Bug Solarized / vim: https://github.com/altercation/solarized/issues/102
+
+[x search x on top
+]x search x on bottom
+
+[{ move to the previous unmatched {
+]} move to the next unmatched }
+
+:he [
+    
+
+> https://georgebrock.github.io/talks/vim-completion/
+la video > https://www.youtube.com/watch?v=3TX3kV3TICU
+
+Mon Kernel warden (simple) : https://github.com/GuillaumeSeren/kernel-config-warden
+
+
+" better diff mode {{{2
+nnoremap gdo do]c
+nnoremap gdp dp]c
+
+"
+
+https://github.com/beloglazov/vim-online-thesaurus

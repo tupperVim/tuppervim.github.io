@@ -1,0 +1,63 @@
+    Vim CMake Syntax
+
+    https://github.com/nickhutchinson/vim-cmake-syntax
+
+    Vit
+
+    Collection of Git commands with Vim spirit
+
+    Syntax: v{object}{action}
+
+    https://github.com/pixelastic/vit
+
+    Vimperator
+
+    http://vimperator.org
+
+    qutebrowser
+
+    https://qutebrowser.org
+
+    Saka Key
+
+    https://github.com/lusakasa/saka-key
+
+    Dead simple (and powerful) vi support for Chrome
+
+    Kakounification
+
+    Improved Hint mode
+
+    Orders viewed:
+
+    Hint (f, F, <AF>, <AF>
+
+    Select (s)
+
+    Open (o, <Co>, O, <Ao>)
+
+    Screenshot: https://imgur.com/UCAc8kh
+
+    Yank (y, <Ay>)
+
+    Attach / Detach Tab
+
+    Screenshot: https://imgur.com/kEelbNt
+
+    Play media (mpv) (m)
+
+    Screenshot: https://imgur.com/hG97Rrw
+
+    Download media (youtube-dl) (M)
+
+    Attach head-less process
+
+    attach [directory, socket, command]
+
+    https://github.com/alexherbo2/attach
+
+    Edit (Kakoune)
+
+    Screenshot: https://imgur.com/eslMrMj
+
+    http://alexherbo2.github.io/blog/chrome/dead-simple-vi-support-for-chrome/

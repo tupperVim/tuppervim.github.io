@@ -1,0 +1,27 @@
+Ctrl+o (insertion) --> Permet d'entrer une commande comme en mode normal le temps d'une commande sans quitter le mode insertion
+Remapper Shift-Space pour en <Esc> Pour eviter d'inserer un espace insecable.
+Alternative a <Esc>: kj    Ctrl-[
+[Bash] Double blang (!!) --> Insere la derniere commande
+[Bash] Recuperer le dernier parametre: !$  ou <Alt>. <Alt>_
+[Zsh] En zsh, pour le mode vi, rajouter ceci dans le zshrc pour utiliser le Alt-. :   bindkey '\e.' insert-last-word
+[Bash] fc --> editer la derniere commande dans $EDITOR
+[Bash] 493 ou 49.3 en sudo
+[Bash] v='if [ -e .vimrc ]; then; vim -u .vimrc; else; vim; fi' --> pour utiliser un .vimrc a l'interieur d'un dossier projet si il y a
+" plus une lettre pour enregistrer selection dans un registre, pour eviter le soucis du y qui re-ecrit dans le registre.
+let @lettre="coucou" --> pour pouvoir executer le contenu du registre 'lettre' qui va contenir coucou. On peut mettre l'equivalent d'une macro dedans.
+[Bash] Ctrl+R --> Retrouver une commande precedente en recherchant.
+[Bash] $? pour retrouver la derniere valeur de retour d'une commande
+Plugin de Valerian pour generer les getter et setter de l'attribut d'une classe C++ sous le curseur. https://github.com/dorcy-v/cpp_accessor
+[vim] gf pour aller dans le fichier sous le curseur. 
+   -> pro-tip : utiliser |let &path="include/,src/,../include,../src/"| pour ajouter des répertoires où aller chercher les fichiers référencés par leur chemins relatifs
+[Bash] |& pour rediriger stdout et stderr 
+Text-objects: permettent de jouer avec des "pack" de characters : paragraphe(p), dans des parenthese, crochet, accolades, tags, etc...
+
+    vat -> selectionner dans un tag (Genre HTML)
+
+    cip -> Change dans un paragraphe
+
+    vim-surround --> Plugin pour faire des operations avec les text-objects. Eg: cs{(  pour remplacer les { du texte par des (. De facon globale: cs + aSupprimer + aMettre. Ya aussi ys + character + i ou a + block (w, W, e, etc...) pour entourer un element par le character.
+
+vim-ipmotion: "Permet de se balader dans du code deguelasse" Kaze 2016. Pour faire { ou } sans deplier le folding
+MacroBug: Plugin de Florent Pour editer OTA une macro et voir son execution en pas-a-pas https://github.com/fflorent/macrobug.nvim

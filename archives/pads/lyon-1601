@@ -1,0 +1,16 @@
+neomake --> plugin neovim.
+vim-hover --> highlighting des recherches, auto-completion, regexp, visualisation du remplacement.
+gestion de la config vim --> On peut separer en plusieurs fichier, faire du folding pour les groupes, faire des plugins quand c'est trop le bordel, etc...
+quitter le :terminal de neovim    ---> Ctrl+\ Ctrl+n
+(faire une plugin pour faire ramer neovim si on appuie plusieurs fois d'affilees. Genre H, puis si on retape H ca va mettre une seconde a le faire)
+utiliser des marker avec les majuscule pour naviguer entre plusieurs fichiers.
+Deplacement vers un marqueur avec ' + la touche du marker
+plugin pour afficher les markers --> vim-signature
+Ctrl+t permet d'indenter la ligne en insertion, Ctrl+d permet de desindenter.
+]+p permet de coller la ligne comme p mais en prenant en compte l'indentation.
+=iB --> reindenter le block courant.
+Remaper Echap pour vider le fichier quand on essaie d'appuyer dessus alors qu'on est deja en mode command :3
+voir sur github.com/fflorent/mydotfiles/vimrc ligne 139 pour chger les couleur selon le mode.
+A ajouter dans neovim, un moyen de visualiser le buffer dans lequel on est (comme vim-diminactive mais en moins crade, et plus joli)
+nyaovim --> lance un vim par le biais d'une apps Node/Electron, totalement fonctionnelle
+live-markdown-preview pour faire de la visualisation en temps reel. Comme markdown-composer mais ca a l'air de fonctionner. Fait par rhysd

@@ -1,0 +1,29 @@
+Augmenter le son dans pulse audio: (ma version AwesomeWm)
+        -- Sound ajustement down {{{2t
+    awful.key({ }, "XF86AudioLowerVolume", function ()
+        awful.util.spawn("pactl set-sink-volume @DEFAULT_SINK@ -10%")
+        alert('soundMixDown', 'SoundMix down by 10%')
+    end),
+    -- Sound ajustement up {{{2
+    awful.key({ }, "XF86AudioRaiseVolume", function ()
+        awful.util.spawn("pactl set-sink-volume @DEFAULT_SINK@ +10%")
+        alert('soundMixDown', 'SoundMix up by 10%')
+    end),
+
+Shortcut dans le scrreen buffer:
+    zt : move screen line to top
+    zz: middle
+    zl: bottom
+    
+remaper Y a y$ car Y est line wise et y$ non c'est plus clair
+
+Presentation kaze de VimPlug
+https://github.com/junegunn/vim-plug/blob/master/plug.vim
+
+Présentation par dolmen de LiquidPrompt et Angel-PS1 :
+    https://github.com/nojhan/liquidprompt/
+    https://github.com/dolmen/angel-PS1/
+    Twitter : https://twitter.com/nglPS1
+    Les slides de deux présentations en 2013 de angel-PS1 :
+        - Introduction http://o.mengue.free.fr/presentations/2013-fpw/angel-PS1%20-%20Intro.pdf
+        - Détails d'implémentation : http://o.mengue.free.fr/presentations/2013-fpw/angel-PS1%20-%20D%C3%A9tails.pdf

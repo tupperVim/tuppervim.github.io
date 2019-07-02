@@ -1,0 +1,11 @@
+Présentation du plugin https://github.com/jszakmeister/markdown2ctags
+
+
+
+Présentation de Ctrl-V (bloc visuel)
+
+:%! <commande shell>
+  permet de remplacer tout le fichier par le résultat de la commande shell. Un peu à la manière `:set formatprg=<commande shell>`
+
+Présentation de tree-sitter
+https://tree-sitter.github.io/tree-sitter/

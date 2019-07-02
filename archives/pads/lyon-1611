@@ -1,0 +1,20 @@
+ - en mode visuel, « o »
+   - passe le curseur à l'autre bout de la sélection
+:CheckHealth sous Neovim
+Ultisnips:
+    Systeme de snippets, avec des marqueurs pour modfier le texte qu'on genere a differents endroits
+    Snippets peuvent etre ecrit avec Python, VimL ou Bash
+Maj + J  => Concatener la ligne sous le curseur a la ligne du curseur
+gq en mode visuel pour un reformatage automatique selon la limite de wrapping : gqq gqap etc.
+t et f pour faire es recherches de caracteres, on peut utiliser d ou t et / pour aller jusqu'a un pattern de recherche
+:earlier :latter pour se deplacer dans le temps
+:r pour inserer du contenu a lire
+!!date pour insérer le résultat d'une commande shell
+gv pour resélectionner la précédente sélection
+vmap < <gv pour garder la sélection quand on désindente
+vmap > >gv pour garder la sélection quand on indente
+nmap gp `[v`]
+fzf plugin, icm, mapping reminder de Delapouite dans mappings → https://github.com/Delapouite/dotfiles/blob/master/link/.vim/mappings.vim#L71
+
+let g:quickfixsigns_events =  \ ['BufEnter', 'CursorHold', 'CursorMoved', 'InsertLeave', 'InsertChange']
+NeoBundle 'tomtom/quickfixsigns_vim' 

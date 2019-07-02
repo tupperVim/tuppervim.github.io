@@ -1,0 +1,14 @@
+régler l'indentation automatiquement:
+https://github.com/tpope/vim-sleuth
+
+Slime dans Vim avec Tmux / GNU screen:
+https://github.com/jpalardy/vim-slime
+
+Générer automatiquement les .ycm_extra_conf.py pour YouCompleteMe:
+https://github.com/rdnetto/YCM-Generator
+
+Sur les regexp : http://www.i3s.unice.fr/~fedou/wwwUnice/CoursOFI_files/OFI8.pdf et ne pas oublier https://www.debuggex.com/ ou https://regexper.com/
+
+Petite prise en main de Fugitive
+http://vimcasts.org/episodes/fugitive-vim---a-complement-to-command-line-git/
+http://vimcasts.org/episodes/fugitive-vim-browsing-the-git-object-database/

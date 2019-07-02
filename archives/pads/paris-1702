@@ -1,0 +1,10 @@
+https://github.com/sindresorhus/pure
+https://bitbucket.org/facebook/hg-experimental/src/default/scripts/scm-prompt.sh?at=default&fileviewer=file-view-default
+
+https://github.com/mchav/with
+
+Dans bash, <C-x><C-e> pour éditer la commande en cours dans $EDITOR
+$ fc pour éditer la dernière commande
+(http://www.commandlinefu.com/commands/view/1446/rapidly-invoke-an-editor-to-write-a-long-complex-or-tricky-command)
+
+https://github.com/romainl/vim-qf
