@@ -1,0 +1,122 @@
+Note pour git stash :\
+    \# Sauvegarde le travail en cours pour le récupérer sur la même
+branche ou au-dessus d'une autre branche.  Nomme la modification
+courante.\
+    git stash [save \<nom\>]\
+\
+    \# Jette le travail précédent.  Par défaut la dernière sauvegarde.\
+    git stash drop [\<nom\>]\
+\
+    \# Applique le travail précédent au-dessus du dossier de travail. 
+Par défaut la dernière sauvegarde.\
+    git stash pop [\<nom\>]\
+\
+    \# Plus rien de bon, il faut faire du ménage.\
+    git clear\
+\
+Interfaces git correctes :\
+    tig\
+    gitg\
+    gitk\
+    git gui\
+    git gui blame\
+\
+À tester :\
+    git fixup — voir alias plus bas\
+    git rebase -i\
+    git commit -p\
+\
+À retenir :\
+    Ne jamais faire de « git pull \<remote\> », péférer « git fetch
+\<remote\> » et « git merge … » car « git pull » fait de la magie qui
+n'est jamais bien comprise a moins d'y rajouté 36 options sur la ligne
+de commande.\
+\
+    Toujours avoir une interface pour visualiser que l'on ne fait pas de
+la merde, git lg, tig (utilisé «g» pour voir le graph), gitg ou gitk
+permettent de visualiser le graph courant.\
+\
+    Avant toutes modification, on peut faire une nouvelle branche pour
+essayer :\
+        git co -b experimentation HEAD\
+    \
+    La branche précédente ne bougera plus, mais on pourra faire des
+expérimentations avec la nouvelle branche.\
+\
+Alias git pour afficher toutes les branches dans la console:\
+\`git  lg' is aliased to \`log --graph --pretty=format:'%Cred%h%Creset 
+-%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)\<%an\>%Creset' 
+--abbrev-commit --date=relative --all'\
+\
+Alias utile avec les "rebase -i" qui permet de corriger un patch
+antérieur:\
+\`git fixup' is aliased to \`!sh -c 'git commit -m "fixup! \$(git log -1
+--format='\\''%s'\\'' \$@)"' -'\
+\
+Indispensable : <http://clochix.net/memory/>\
+\
+Des sites pour apprendre Git :\
+
+-   <http://try.github.com>
+-   <http://openhatch.org/missions/git>\
+    \
+
+Plugin Vim pour intéragir avec Git\
+
+-   VCSCommand : <http://www.vim.org/scripts/script.php?script_id=90>
+    compatible avec de nombreux gestionnaires de sources;
+    -   Exemple de commande pour afficher toutes les modifications non
+        commitées : alias gidiff='vim -p -c "tabdo VCSVimDiff" \`git
+        status -s | grep -v "\^\\s\*D" | cut -c 4- | xargs\`'
+-   Fugitive <https://github.com/tpope/vim-fugitive>\
+    \
+
+**Vim**\
+\
+: le registre de sauvegarde dans viminfo ne retient que 50 lignes max
+par défaut. Pour augmenter : help viminfo\
+\
+
+-   Pour enregistrer dans un nouveau fichier le contenu de la sélection
+    visuelle : :w nomFichier
+-   remplacer le contenu de parenthèses, d'une chaîne, etc :
+    -   Change [Inside|Around] Delimiter
+    -   ci(  \# change inside
+    -   ca(  \# change around
+    -   fonctionne aussi avec d (pour supprimer), y (pour copier, etc;
+-   % permet de se déplacer entre deux délimiteurs (parenthèses,
+    accolades, etc)
+    -   Matchit étend le principe de % aux délimiteurs de nombreux
+        langages, par exemple les balises XML ou HTML
+        <http://www.vim.org/scripts/script.php?script_id=39>
+-   on ne se lasse pas de rappeler Ctrl i / Ctrl o pour se promener dans
+    historique du déplacement du curseur (où on a été);
+-   parcourir l'arbre d'annulation :
+    -   u : undo
+    -   Ctrl r : redo
+    -   g+ / g- pour se promener dans les différentes branches de
+        l'arbre ca«quelque chose» change ce qui est dans le «quelque
+        chose» et le «quelque chose», ci «quelque chose» ne chanque que
+        l'intérieur
+    -   pour aller plus loins
+        <http://vim.wikia.com/wiki/Using_undo_branches> et les plugins
+        ???
+-   pour afficher certains caractères (tabulations, espaces en fin de
+    ligne) :
+    -   set listchars=nbsp:¤,tab:\>·,trail:¤,extends:\>,precedes:\< \#
+        ???
+    -   set list \# ???
+-   Pour mapper ↑ et ↓ sur la recherche interactive en fonction de ce
+    qu'on tape
+    -   "\\e[A": history-search-backward
+    -   "\\e[B": history-search-forward\
+        \
+
+**En vrac**\
+\
+
+-   VX nous a rapidement présenté un petit script perl pour consulter
+    les RFC depuis la ligne de commande : <http://www.dewn.com/rfc/>
+-   zathura ( <http://pwmt.org/projects/zathura/> ) est un lecteur PDF
+    léger utilisable sans souris, avec des raccourcis similaires à ceux
+    de vim;

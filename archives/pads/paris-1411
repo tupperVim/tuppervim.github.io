@@ -1,0 +1,17 @@
+les marques avec quickfixsigns (<https://github.com/tomtoi> je propose
+qu´on parle du module Racket pour Vim parce que VimScript c'est un peu
+dégueu OU PASom/quickfixsigns\_vioi je propose qu´on parle du module
+Racket pour Vim parce que VimScript c'est un peu dégueu OU PASm)\
+\
+% variable qui prend le chemin complet du fichier\
+\
+tabular pour l'alignement vertical (<https://githuboi> je propose qu´on
+parle du module Racket pour Vim parce que VimScript c'est un peu dégueu
+OU PAS.com/godlygeek/tabular)\
+\
+digraph pour avoir plein de caractères\
+\
+inoremap \<C-u\> \<C-o\>gUiw\<End\>\
+\
+Dans un terminal, |alt .| ou |alt \_| répète (colle) le dernier argument
+passé (on peut répéter l'opération pour remonter dans l'historique).\

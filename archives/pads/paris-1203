@@ -1,0 +1,9 @@
+-   Ctrl + I/O pour naviguer dans les points qui ont été modifiés
+-   set paste/nopaste = tout pourri (pète l'indentation notamment)
+-   étoile ! ⇒ dièse pour le corollaire
+-   plugin pour trailing spaces ⇒ expression régulière tout aussi
+    efficace :s/\\s\\+\$//g
+-   cf aussi « set list » pour afficher les caractères spéciaux
+-   highlight « set hlsearch » mais pénible quand on fait des
+    substitution (set noh)
+-   plugin qui défonce : easyMotion\<Paste>

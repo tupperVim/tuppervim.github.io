@@ -1,0 +1,65 @@
+-   gv ⇒ re-sélectionne
+-   ]p ⇒ coller en respectant l’indentation (quand ça fonctionne…)
+-   Ctrl-R 0 ⇒ copie la sélection visuelle dans la barre de substitution
+-   setformatprg = astyle
+-   Ctrl-W o ⇒ fermer toutes les fenêtres sauf la fenêtre courante
+-   set clipboard=unnamedplus           " use the common clipboard as
+    default register\
+    \
+    \
+    \
+
+**Quickfix list**\
+\
+:make\
+:copen (ou :cw pour n’ouvrir la quickfix que si elle n’est pas vide)\
+:cn / :cp ⇒ aller à la ligne suivante\
+:cf / :cl ⇒ aller à la première / dernière ligne\
+\
+:make sur du xml\
+if executable("xmllint")\
+  setlocal makeprg=xmllint\\ %\\ --noout\
+endif\
+\
+:botright copen\
+:topleft copen ⇒ ouvre la quickfix sur toute la largeur\
+\
+:helpgrep\
+\
+\
+**Location list**\
+\
+= comparable à la quickfix, mais plus facilement manipulable\
+\
+\
+**gnote.vim**\
+\
+<https://github.com/vim-scripts/vim-gnote>\
+\
+plugin (python) pour enregistrer le fichier courant dans un dossier
+IMAP\
+le fichier doit être enregistré en local pour avoir un nom de fichier
+(utilisé comme titre)\
+\
+Un patch ici pour demander le sujet de la note à l'utilisateur quand le
+buffer n'a pas de nom:\
+<https://github.com/Zuckonit/vim-gnote/pull/1>\
+\
+\
+\
+**tags**\
+Pour générer les tags dans le fichier courant :\
+map \<leader\>\<F12\> :exec '!ctags --recurse --append --sort=yes
+--c++-kinds=+p --fields=+iaS --extra=+q -f \~/.vim/tags/tags' . \<CR\>\
+\
+:set tags+=\~/.vim/tags\
+Ctrl-] ⇒ va à la définition\
+Ctrl-t ⇒ revient au point de départ\
+:tags ⇒ affiche l’historique de navigation dans les tags\
+\
+gD ⇒ va à la définition aussi, mais sans utiliser les tags\
+g] ⇒ affiche toutes les occurrences, même sur les fichiers non encore
+ouverts\
+\
+Les tags sont utilisés dans l’omni-completion (C-x o)\
+Le plugin Ctrl-P est capable d’utiliser les tags, aussi.\

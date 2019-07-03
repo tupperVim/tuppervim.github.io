@@ -1,0 +1,78 @@
+dans un :%s (pour remplacer) le séparateur peut être autre chose que « /
+» (comme avec sed), on peut même ne pas mettre le dernier séparateur:\
+pour remplacer les « / » par des « \\ »\
+:%s,/,\\ \
+\
+ctrl+a pour incrémenter le premier nombre de la ligne\
+(à combiner avec des macros)\
+\
+J permet de joindre deux lignes\
+gJ pour un comportement inattendu\
+\
+set mouse=a\
+\
+\* \# n et N pour faire des recherches !\
+\
+selection avec le mode visuel, y pour copier, :%s/ctrl+r "/bar\
+\
+editorconfig\
+et configuration de git pour ne pas etre \
+\
+pour changer ponctuellement les tabs:\
+\
+nmap \\n :setlocal number!\<CR\>\
+nmap \\p :set paste!\<CR\>\
+nmap \\t2 :set expandtab tabstop=2 shiftwidth=2 softtabstop=2\<CR\>\
+nmap \\t4 :set expandtab tabstop=4 shiftwidth=4 softtabstop=4\<CR\>\
+nmap \\t8 :set expandtab tabstop=8 shiftwidth=8 softtabstop=4\<CR\>\
+nmap \\T2 :set noexpandtab tabstop=2 softtabstop=2 shiftwidth=2\<CR\>\
+nmap \\T4 :set noexpandtab tabstop=4 softtabstop=4 shiftwidth=4\<CR\>\
+nmap \\T8 :set noexpandtab tabstop=8 softtabstop=8 shiftwidth=8\<CR\>\
+\
+Change space / endline by default on git checkout:
+<http://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration>\
+\
+Ne pas coloriser les long fichier (config g:LargeFile):
+<http://www.vim.org/scripts/script.php?script_id=1506>\
+\
+pour restaurer la position:\
+\
+  autocmd BufReadPost \*\
+    \\ if line("'\\"") \> 1 && line("'\\"") \<= line("\$") |\
+    \\   exe "normal! g\`\\"" |\
+    \\ endif\
+\
+<https://github.com/kien/ctrlp.vim>\
+<https://github.com/Shougo/neosnippet.vim>\
+\
+set list listchars=nbsp:¤,tab:··,trail:¤,extends:▶,precedes:◀\
+Pour voir une liste de caractères «spéciaux», pensez à \
+:help digraph\
+\
+:25r file insère le fichier \<file\> à la ligne 25\
+:25r!cmd insère la sortie de cmd à la ligne 25\
+\
+vim-surround:\
+\
+yssiw" add quotes\
+\
+Ouvre le fichier sous le curseur, s'il n'existe pas, le crée ( voir :h
+gf|:324 )\
+nnoremap gf :e\<cfile\>\<CR\>\
+\
+\
+\
+" check and build .local directories\
+if !!finddir(".local/vim/bundle", \$HOME)\
+    call mkdir (\$HOME . "/.local/vim/bundle", "p")\
+endif\
+if !!finddir(".local/vim/undofiles", \$HOME)\
+    call mkdir (\$HOME . "/.local/vim/undofiles", "p")\
+endif\
+if !!finddir(".local/vim/swapfiles", \$HOME)\
+    call mkdir (\$HOME . "/.local/vim/swapfiles", "p")\
+endif\
+\
+\
+\
+hljsjdjf\

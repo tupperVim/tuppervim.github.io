@@ -1,0 +1,91 @@
+iabbrev\
+autocmd BufNewFile \* 0r\~/myfile\_to\_include\
+iabbrev \_date \<C-r\>=strftime('%d/%m/%y')\<CR\>\
+iab \_ab\_ À
+bientôt,                                                                                                             \
+iab \_cad\_ c'est-à-dire\
+iab \_id\_ \<C-R\>=strftime("%Y-%m-%d
+%H:%M")\<CR\>                                   \
+iab \_heure\_
+\<C-R\>=strftime("%H:%M")\<CR\>                                         \
+iab \_date\_ \<C-R\>=strftime("%d/%m/%Y")\<CR\>\
+noremap g\<CR\> g\<C-]\>\
+noremap \<C-]\> g\<C-]\>\
+"Open last/alternate buffer \
+noremap \<Leader\>\<Leader\> \<C-\^\>\
+Ctrl-I Ctrl o pour la navigation\
+inoremap kj \<Esc\>\
+cnoremap kj \<Esc\>\
+\<C-w\>O passe le split courant en plein écran\
+:t :m \
+= pour faire de l'indentation\
+gJ pour joindre 2 lignes sans ajouter d'espace\
+remapper K sur le man de vim (bien plus intéressant !)\
+nnoremap K i\<CR\>\<Esc\>k\
+map U \<C-r\>\
+\
+plugin surround\
+csth2 (je copie comme j'entends)\
+\
+On le répète encore et toujours :\
+map \<Right\> \<Nop\>\
+map \<Left\> \<Nop\>\
+map \<Up\> \<Nop\>\
+map \<Down\> \<Nop\>\
+\
+Quand notre clavier est pourri :\
+map \<PgUp\> \<Nop\>\
+map \<PgDown\> \<Nop\>\
+\
+zz pour recentrer sur le curseur\
+zt / zb pour scroller en haut / en bas\
+ctr v pour la selection verticale\
+\
+Mapping proposé : kj pour escape\
+inoremap kj \<Esc\>\
+cnoremap kj \<Esc\>\
+\
+:set rnu pour la numérotation relative\
+\
+Question a 1000€ : existe t'il une façon simple de connaitre le mot sous
+le curseur dans une commande vim ? \<C-r\>\<C-w\>\
+\
+présentation de mutt (y'as pas des mutterware pour ça ? si, mais Kazé et
+d'autres l'ont demandé sur IRC…)\
+<https://github.com/raphaelfournier/Mutt.git>\
+\
+Présentation de :t :m voir l'aide (:exusage)\
+:t = copier, :m = déplacer\
+les deux commandes suivent la même logique…\
+:m230 pour déplacer la ligne courante après la ligne 230\
+:m+5 5 lignes vers le bas\
+:m-5 vers le haut\
+:m'a après la marque a\
+:m/foo après la prochaine occurrence de foo\
+:m\$ à la fin du buffer\
+:m0 au début\
+On peut utiliser des "ranges":\
+:5,15t0 pour copier les lignes 5 à 15 en haut du buffer\
+:-19,-17t. pour copier les lignes situées entre 19 lignes au dessus et
+17 lignes au dessus après la ligne actuelle\
+:/foo/,/bar/t/baz pour déplacer les lignes situées entre le prochain foo
+et le prochain bar après le prochain baz\
+etc.\
+:viusage\
+:exusage pour les commandes ex\
+\
+CDPATH sous bash // Permet de sauter facilement dans les répertoires.\
+autojump pour zsh   // idem en mieux car apprend\
+z is the new j (parce que le Mr qui a fait j utilise z)  :
+<https://github.com/sjl/z-zsh>\
+\
+présentation de notmuch par zmo\
+\
+présentation de fugitive par tshirtman\
+\
+présentation rapide d'un couplage pastoob (outils weboob) / vim / wmfs\
+\
+Petit mot sur o/O en mode seléction\
+\
+vim-etherpad présenté (et codé!) par guyzmo\
+<https://github.com/guyzmo/vim-etherpad>\

@@ -273,3 +273,10 @@ taratatach | Frederic: il suffit pas d'avoir un qwerty pour ça ?
     Clochix | euh…
        arno | ma copine l'a raté pour un motif plus futile: elle a juste pas regardé l'angle mort
 ```
+
+2012-07-05
+----------
+```
+« Avant iptables, j’étais puceau » — PoLuX
+ « Et là t'es un gros en\*\* parce que tu es en train de me séduire en fait. » — PoLuX\
+```

@@ -1,0 +1,68 @@
+Désactiver les fleches du mal.\
+vnoremap \<Up\>  \<Nop\>\
+vnoremap \<Down\> \<Nop\>\
+vnoremap \<Left\> \<Nop\>\
+vnoremap \<Right\> \<Nop\>\
+\
+inoremap \<Up\>  \<Nop\>\
+inoremap \<Down\> \<Nop\>\
+inoremap \<Left\> \<Nop\>\
+inoremap \<right\> \<Nop\>\
+\
+(vnoremap = mode visuel, inoremap = mode insertion)\
+\
+L'etoile '\*' dans vim:\
+Rechercher un mot.\
+\
+Le point:\
+Recommence la dernière commande\
+\
+Reformater la page:\
+\
+autocmd FileType xml set equalprg=xmllint\\ --format\\\
+\
+Mode Client/Server de vim :\
+L'url du slide:  <http://slid.es/yamo/clientserver>\
+C'est natif (du moment qu'il est compilé avec +clientserver)\
+aide sur :h clientserver\
+\
+cra.vim (<https://github.com/YannMoisan/cra.vim)>:\
+Gestion de "feuilles de temps/calendrier"\
+Pur vimscript\
+
+-   :call Bootstrap(2014, "fr")
+-   WW -\> travail
+-   CP -\> Conge
+-   MA -\> malade\
+    \
+    \
+    \
+
+Pour ouvrir un fichier distant, le protocole ftp ou ssh est supporté !\
+\
+Registres d’expression. Par exemple, en mode insertion :\
+\<C-r\>= 18\*128\
+→ insère “2304”\
+\
+En vimscript, @x représente la valeur du registre x\
+(donc @" est la valeur du buffer non-nommé)\
+\
+Formatage JSON à la volée :\
+vmap \<leader\>ij :!python -msjon.tool\<CR\>\
+\
+Alternative :\
+:set equalprg=python\\ -mjson.tool\
+puis selection et touche =\
+\
+à ajouter dans votre \~/.bashrc ou \~/.zshrc (indispensable !!!) :\
+f\
+\
+dans \~/.bashrc ou \~/.zshrc pour ouvrir man dans vim !\
+\
+function man()\
+{\
+    vim -XMnR "+runtime! ftplugin/man.vim" "+Man \$1" "+set
+nomodifiable" "+only"\
+}\
+\
+<https://github.com/alexherbo2/dotfiles#interface--fish-completion>\

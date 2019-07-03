@@ -1,0 +1,64 @@
+-   :g 
+-   gq pour le line wrapping (à effectuer sur une selection)
+-   :bufdo %s/be/xx/gc \# Applique une modification à tout les buffers.
+-   Ponysay pour perdre de la productivite.
+-   autocmd Filetype xml set formatprg=xmllint\\ --format/ - \# Pour
+    reformater.
+-   neobundle, unit...
+-   \* pour cherche le mot sur le buffer avec
+    "<https://github.com/nelstrom/vim-visual-star-search>" 
+-   'dahu/SearchParty' & 'dahu/vim-fanfingtastic'
+-   gdb pretty printer en python. :
+    <https://sourceware.org/gdb/onlinedocs/gdb/Pretty_002dPrinter-Example.html>
+-   ZZ quitte avec le moins keystroke pour le vimgolfe
+-   Rainbow parenthesis.
+-   youcompleteme & interface pour ag & recherche de fichier via ce
+    qu'il y a dans le nom.
+-   Supertab.
+-   AirLine pour la ligne qui rox.
+-   police mench pour les amoureux de l'utf-8\
+    \
+
+**Presentations:**\
+\
+**Flux Rss :**\
+
+-   sebsauvage.net veille techno/sujets geeks/societe/etc...
+-   dailyjs.com
+-   twitter.com/RERB
+-   Les joies du code, est ce que l'ont met en prod aujourd'hui\
+    \
+
+**Regex Golfe :** No comment.\
+<http://www.i-programmer.info/news/144-graphics-and-games/5450-can-you-do-the-regular-expression-crossword.html>\
+\
+**Autocompletion en Js... et pas que :**\
+\
+
+-   exuberancy tags + supertabs.
+-   marijnh/tern\_for\_vim -\> Evalue du Js a la voler avec TurnJs +
+    nodeJs(Recent)
+
+Marche bien avec l'objet Settings de FirefoxOs.\
+
+-   Valloric/YouCompleteMe + Exhuberqncy tags.\
+    \
+
+**Utiliser vim comme un pager :**\
+\
+man pager :
+<https://github.com/tlarrieu/dotfiles/blob/mac/config/fish/functions/man.fish>\
+PAGER=/bin/sh\\ -c\\ \\"unset\\ PAGER\\;col\\ -b\\ -x\\ \\|\\ vim\\ -c\\
+\\'set\\ ft=man\\ nomod\\ nolist\\'\\ -\\"\
+\
+**Fish Petite presentation :**\
+\
+Killers features de fish = complétion en fonction du contexte +
+Sauvegarde des functions + allias set a la volée avec funcsave\
+(et completion)\
+\
+**Undo Tree:**\
+\
+gundo : un "frontend" pour le undotree (built-in à partir de vim 7.0).\
+NeoBundle 'sjl/gundo.vim'\
+(<https://github.com/desaintmartin/dotfiles/blob/master/vim/bundle.vim#L39)>

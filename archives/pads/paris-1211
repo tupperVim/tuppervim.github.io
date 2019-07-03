@@ -1,0 +1,31 @@
+999@@ est “safe” parce que Vim n’applique plus les macros si elles deviennent “impossibles”
+{ et } pour aller de saut de ligne en saut de ligne
+ack (perl !) http://betterthangrep.com/
+ag (c) https://github.com/ggreer/the_silver_searcher/
+plugin ack.vim pour ag : http://betterthanack.com/
++ modification faite par Clochix pour utiliser Grep, Ack ou Ag, au choix :
+https://github.com/clochix/vim-config/commit/8d35fd5d7fff2e1f4b730c908d72c4de51dacfc3
+vimdiff:
+]c pour aller au diff suivant
+[c pour aller au diff précédent
+do (“obtain”) pour prendre la partie correspondante dans l’autre écran
+dp (“put”) pour mettre la partie correspondante dans l’autre écran
+:diffupdate pour mettre à jour le diff
+firefox, dans la barre d url :
+% cherche dans les onglets ouverts
+* dans les favoris
+coloration sytax
+https://github.com/mozfr/mozilla.vim
+help ! besoin de contributeurs
+Dragee.vim
+Script pour aider à configurer vim et partager sa configuration vim.
+Construit sur une base Vundle.
+program mois prochain :
+presentations kaze:
+    project.tar.gz
+    sessions
+Alex ou autre :
+    ctrl + p
+    undotree
+Théo :
+    VAM, Vim Automation Manager

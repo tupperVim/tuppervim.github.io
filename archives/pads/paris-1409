@@ -1,0 +1,60 @@
+Grosse discussion autour de Neovim\
+\
+runtime macros/matchit.vim\
+\
+:marks\
+'' revient au dernier saut\
+\`\` idem pour revenir à la même colonne.\
+'. revient à la dernière modification\
+'\< début de la sélection visuelle\
+'\> fin de la sélection visuelle\
+\
+quickfixsigns : plugin pour afficher les marqueurs (et bien plus encore)
+dans la gouttière\
+let g:quickfixsigns\_events = ['BufEnter', 'CursorHold', 'CursorMoved',
+'InsertLeave', 'InsertChange']\
+NeoBundle 'tomtom/quickfixsigns\_v\
+proc.vim\
+\
+macro bomb:\
+qqiA\<Esc\>@qq@q\
+\
+à faire sur les serveurs de prod :\
+<http://qntm.org/s>\
+git clone git://github.com/mawww/kakoune.git && cd kakoune/src && make
+&& make userconfig && ./kak\
+uicide\
+\
+dans un shell, fc pour éditer la dernière commande dans \$EDITOR donc
+Vim\
+\
+!! : filtres pour piper entrée sortie standard\
+<http://of-vim-and-vigor.blogspot.fr/2012/11/vims-pipes.html>\
+\
+surround.vim <https://github.com/tpope/vim-surround>\
+cs'"\
+repeat.vim permet la répétition avec . des commandes surround\
+\
+des autocommands sympa pour changer de conf quand on change de dossier
+:\
+<http://pastebin.com/r9QMnS3c>\
+\
+set textwidth=80  " permet de formater le text à 80 caractères \
+set colorcolumn=+0\
+\
+set paste pour les poneys mais "\*p c'est mieux !\
+\
+ highlight OverLength ctermbg=darkblue ctermfg=white guibg=darkblue
+guibg=white\
+ call matchadd('OverLength', '\\%81v',
+100)                                     \
+\
+" case-insensitive tab completion in the command line\
+set wildmenu          " enhanced command-line completion in the status
+line\
+set wildmode=longest,full " (use \`list:longest\` to complete files like
+a shell)\
+if exists("&wildignorecase")\
+  set wildignorecase\
+endif\
+set showfulltag\

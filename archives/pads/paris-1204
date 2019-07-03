@@ -1,0 +1,14 @@
+-   Range discontinu, basé regex
+-   :g/*pattern*/ *=\>* toutes les lignes qui contiennent *pattern*
+-   Cas d'usage : je souhaite remplacer '=' par '0' dans toutes les
+    lignes commençant par 'a' :
+-   :g/\^a/s/=/0/g\
+    \
+-   indispensable : « :help! »\
+    \
+-   syntastic : interface avec des linters
+-   par défaut, vérifie le code à l’enregistrement
+-   devrait pouvoir être utilisable pour à peu près tout\
+    \
+-   set colorcolumn=80 (nécessite vim 7.3 ; ne marche pas sur les OS
+    stables)\

@@ -1,0 +1,51 @@
+plugin : surround.vim\
+\
+"set clipboard=unnamedplus           " use the common clipboard as
+default register\
+\
+\
+" lazy escape with 'kj'\
+inoremap kj \<Esc\>\
+cnoremap kj \<Esc\>\
+   vnoremap kj \<Esc\>\
+\
+\
+NixOS - distro qui rocks\
+\
+Abolish.vim : remplacement en prenant en compte les pluriels, formes
+irrégulières, etc.\
+syntastic : linter\
+greplace :\
+\
+Mosh: the Mobile Shell\
+\
+c-i-"\
+c-a-"\
+v-(a-t-(a-t-(at)))\
+c-i-(\
+    \
+ctrl-e, ctrl-y\
+mutt patcher: notmuch\
+wicd-curses\
+\
+troll of the day: \
+Lisp to VimL\
+...\
+bon en fait c'est clojure :-)\
+-\> <https://github.com/tpope/timl>\
+\
+Wifi manager en curses, pour les gens bien :\
+aptitude install wicd-curses\
+\
+vimperator c'est bien gtgtgtgtgtgt:w\
+\
+" Use letters instead of numbers\
+set hintkeys=fdsartgbvecwxqyiopmnhzulkj\
+\
+" Display hints in uppercase but type them in lowercase\
+highlight Hint text-transform: uppercase\
+\
+<https://twitter.com/jessicard/status/451937309185699842>\
+\
+Build nvidia kernel module :
+<http://lea-linux.org/documentations/HOWTO_Dkms>\

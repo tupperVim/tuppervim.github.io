@@ -1,0 +1,44 @@
+set clipboard=unnamedplus " pour copier dans le clipboard de X\
+\
+" Yank current line in register y and run it as an ex command\
+nnoremap \<Leader\>!e "yyy@y\
+" Yank current line in register y and run it as a python command\
+nnoremap \<Leader\>!p "yyy:lttet @y=":py3 ".@y\<CR\>@y\<CR\>\
+" Yank current line in register y and run it as a ruby command\
+nnoremap \<Leader\>!r "yyy:let @y=":ru ".@y\<CR\>@y\<CR\>\
+" Yank current line in register y and run it as a shell command\
+nnoremap \<Leader\>!s "yyy:let @y=":!".@y\<CR\>@y\<CR\>\
+\
+plugin tpope:\
+repeat permet de répéter les commandes définies par tpope\
+vim-commentary \
+\
+\
+Utiliser Vim en notepad pour ses messages de commit:\
+vim -c startinsert -u NONE\
+\
+vimrap (et non rape, le lien est pas beau, désolé)\
+<http://3.bp.blogspot.com/-Mp8uW2YRtsQ/TyVC1_JDanI/AAAAAAAAASI/hDfS9m7E3iY/s1600/vim_regs_p1.png>\
+\
+Quelques liens sympas pour Unite.vim (et Unite.vim saybien !)\
+" <http://usevim.com/2013/06/19/unite/>\
+"
+<http://www.codeography.com/2013/06/17/replacing-all-the-things-with-unite-vim.html>\
+"
+<http://bling.github.io/blog/2013/06/02/unite-dot-vim-the-plugin-you-didnt-know-you-need/>\
+" <https://github.com/bling/dotvim/blob/master/vimrc#L531-L591>\
+\
+:Unite quick-match-buffer\
+\
+Completion:\
+\
+\^N/\^P completion des mots du buffer courant\
+\
+\^X\^L pour la completion de ligne\
+\^X\^F pour les noms de fichiers\
+\
+\^X\^O : OmniComplete\
+\
+:h ins-completion-menu\
+\
+tern.js: pour le javascript!\
