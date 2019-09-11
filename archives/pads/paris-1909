@@ -1,0 +1,58 @@
+Comment on fait des slides en 2019 :
+    * GitPitch (https://gitpitch.com/)
+    * reveal.js
+Nouveautés de fugitive.vim.
+
+diff-so-fancy (https://github.com/so-fancy/diff-so-fancy): affiche votre diff sans +/- devand les lignes
+[diff] # dans git/config (:))
+Options sympa de git :
+    * compactionHeursistic = true  -> Meilleure gestion du découpage git sur les blocs de code
+    * colorMoved = true
+    * [mergetool] keepbackup = false
+
+* Prez FZF par Hécate
+ - Preview de la preselection fzf avec bats,
+`preview='fzf --preview ''bat --color "always" {}'''`
+ note : alias cat=bat
+
+* Abakar pres incrementation /decrementation avec vim
+https://github.com/junegunn/fzf
+https://github.com/junegunn/fzf.vim
+https://github.com/sharkdp/bat
+
+Bonus: Les zines de Julia Evans, célèbre utilisatrice de Vim https://wizardzines.com/ + https://jvns.ca/blog/2017/09/10/vim-sessions/
+
+Pour l'incrémentation de tout un bloc de chiffres, incrémentalement : g + ctrl-a
+
+Review code :
+https://blog.jez.io/cli-code-review/
+
+space 2 hyphen
+https://gist.github.com/teddywing/ba70022601ea2df829164196d1218413
+
+front-end notmuch
+https://astroidmail.github.io/
+
+extensions firefox
+tree style tab
+dark reader
+
+sauvez vos yeux utilisez redshift
+
+editez la ligne en cours dans votre terminal :
+    ctrl+x ctrl+e
+
+editez la ligne précedente
+  fc
+
+wget youpron.com/ducks
+^pron^porn
+=> wget youporn.com/ducks
+
+
+Vim dans POC||GTFO (regardez le reste c'est bien, mais dans une VM #protip)
+12:9  VIM Execution Engine [Chris Domas]
+https://archive.org/details/pocorgtfo12/page/n71
+Ange Albertini : https://media.ccc.de/v/31c3_-_5930_-_en_-_saal_6_-_201412291400_-_funky_file_formats_-_ange_albertini
+
+https://www.iterm2.com/
