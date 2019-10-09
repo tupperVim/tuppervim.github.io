@@ -1,0 +1,8 @@
+VimGolf point-virgules : https://www.vimgolf.com/challenges/5cf62aa56c09760009d6b2f3
+
+Surround.vim surroundings custom : https://github.com/tpope/vim-surround/blob/ca58a2d/doc/surround.txt#L151-L204
+Plugin Irssi pour éditer les messages dans Vim : https://github.com/teddywing/irssi-vimput
+
+Pattern matching dans une sélection rectangulaire : :h \%V
+
+:bufdo :windo :tabdo
