@@ -1,0 +1,21 @@
+Une présentation sur la productivité - rien que ça
+
+* Debug avec Vim:
+    terminal-debugger apparement compatible avec gdb et d'autres.
+    vimspector plugin aussi peut s'interfacer avec vscode
+
+* Prez de Dimitri 'productivité du developpeur'
+https://dmerej.info/pub/productivity.pdf
+zpov: https://github.com/dmerejkowsky/zpov
+
+* Outil pour bumper des versions
+https://github.com/tankerhq/tbump
+
+lecteur de new rss newsboat
+alternative a ycombinator lobste.rs
+
+tbump: bump software releases : https://github.com/TankerHQ/tbump
+
+C-g / C-t : permet de faire n/N dans une recherche sans quitter le prompt de /
+
+Prez de romainl vimways.org : https://github.com/vim-advent-calendar/vimways.org/pulls appel aux contributions
