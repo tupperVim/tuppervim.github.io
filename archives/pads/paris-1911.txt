@@ -1,5 +1,3 @@
-Une présentation sur la productivité - rien que ça
-
 * Debug avec Vim:
     terminal-debugger apparement compatible avec gdb et d'autres.
     vimspector plugin aussi peut s'interfacer avec vscode
@@ -13,8 +11,6 @@ https://github.com/tankerhq/tbump
 
 lecteur de new rss newsboat
 alternative a ycombinator lobste.rs
-
-tbump: bump software releases : https://github.com/TankerHQ/tbump
 
 C-g / C-t : permet de faire n/N dans une recherche sans quitter le prompt de /
 
