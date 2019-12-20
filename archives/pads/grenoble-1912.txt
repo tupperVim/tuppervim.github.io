@@ -1,0 +1,35 @@
+ r !<command> : execute la commande et colle le resultat sur la lign courante
+:r : lit un fichier et ajoute le contenu dans le fichier courant
+:r!date : ajoute date dans le fichier courant
+
+:set relativenumber : numerotation relative
+
+variable makeprg=make : programme a executer avec la commande vim make
+
+plugin coc.nvim : linter (equivalent ALE mais en mieux il parait)
+/!\ il faut desactiver les mise a jour auto
+
+ctrl-w : commande des fenetres
+ctrl-w n : nouvelle fenetre
+ctrl-w s : split
+ctrl-w c : fermer fenetre
+...
+
+suckless.vim : imite i3 ou wmi
+
+suggestion d'ergonomie, remapper echap sur kj :
+imap kj ^[
+
+gq : wrapper la ligne
+
+https://vim-adventures.com : apprendre les commandes vim au travers d'un jeu
+
+terminal dans vim: termopen.vim
+
+question: remplacer jetbrain pour lancer un test unitaire juste avec un clic ? (désolé j'ai pas bien compris la question)
+
+CTRL-A CTRL-X 
+ - marche sur une selection, incrément/décrement de 1 tout les nombres dans la selection
+ - g CTRL-A : dans une selection, incrémente le 1er nombre de 1 le 2eme de 2 ... pratique pour faire des listes numéroté.
+
+q: lister les dernières commandes.
