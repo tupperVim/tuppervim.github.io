@@ -1,0 +1,30 @@
+util=(1 0) 
+first=${util[1]} 
+second=$(( $first + 1 )) 
+third=$(( $second + 1 )) 
+
+https://gitlab.com/pcoves/nvim/-/blob/a4d80d19b56a3a1222f95263fccb700fcc744fd7/.config/nvim/lua/plugins.lua#L16-11 Auto récupération des plugins pour packer.
+
+Hack pour de la copie de config avant connexion ssh: https://news.ycombinator.com/item?id=32468605
+
+
+https://github.com/lervag/vimtex 
+
+-- Synchronisation latex (sale)
+function! SyncTexForward()
+  let linenumber=line(".")
+  let colnumber=col(".")
+  let filename=bufname("%")
+  let filenamePDF=filename[:-4]."pdf"
+  let execstr="!zathura --synctex-forward " . linenumber . ":" . colnumber . ":" . filename . " " . filenamePDF . "&>/dev/null &"
+  exec execstr
+endfunction
+nmap <A-s> :call SyncTexForward()<CR><CR>
+
+Interlude LaTeX/TikZ
+https://ctan.org/pkg/tikzpingus
+https://ctan.org/pkg/tikzducks
+
+`gv`: reprendre la dernière sélection visuelle
+
+https://github.com/hyprwm/Hyprland
