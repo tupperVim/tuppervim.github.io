@@ -1,0 +1,54 @@
+tour de table.
+Grosse majorité d’étudiant de 42.
+
+mksession: permet d'enregister une session vim et va la recrer (split, tab, etc.)
+ctrl+o  à l'ouverture d'un fichier permet de re ouvrir le dernier fichier (effet de bord des jumps)
+ctrl+i / ctrl+o jump in jump o
+demo très rapide de telescope https://github.com/nvim-telescope/telescope.nvim pour jump entre les buffers en fuzzy finding
+
+plugin justinmk/vim-ipmotion
+vim.g.ip_skipfold=1
+
+plugin nvim-treesitter 
+plugin nvim-treesitter-context
+
+zm zr z0 za z1 z2 gère le niveau de fold
+Pour z0…z9 ce sont des raccourcis :
+inoremap z0 :set fdl=0<CR>
+inoremap z1 :set fdl=1<CR>
+inoremap z2 :set fdl=2<CR>
+inoremap z3 :set fdl=3<CR>
+inoremap z4 :set fdl=4<CR>
+inoremap z5 :set fdl=5<CR>
+inoremap z6 :set fdl=6<CR>
+inoremap z7 :set fdl=7<CR>
+inoremap z8 :set fdl=8<CR>
+inoremap z9 :set fdl=9<CR>
+
+Ou, en lua·:
+for i=0,10 do
+  vim.api.nvim_set_keymap('n', 'z' .. i , ':set fdl=' .. i .. '<CR>', {noremap = true, silent = false})
+end
+
+ctrl+s ctrl+q (suspend terminal and resume) permet d'arreter le terminal (si supporté)
+
+https://github.com/mhinz/vim-startify plugin "indispensable" The fancy start screen for Vim.    
+vim startify persistant =1  -- ligne tapé à l'arrache 
+:SSave "will save the session
+
+:set winwidth=88 permet de garder toujours une largeur de 88 colonnes (va resize la fenêtre à la volée si le term est split)
+
+gestion de git depuis vim
+https://github.com/lewis6991/gitsigns.nvim  git integration for buffers (git blame à porté de doigts)
+https://github.com/TimUntersberger/neogit
+https://github.com/tpope/vim-fugitive
+https://github.com/jreybert/vimagit
+https://github.com/dandavison/delta
+git commit -F (débrouillez vous TODO completement)
+
+https://github.com/fabi1cazenave/termopen.vim
+
+LE layout
+qwerty-lafayette.org/
+
+
