@@ -1,5 +1,11 @@
 TupperVim du 20/02/2023 à Grenoble
 
+# Sujets souhaités
+
+Si vous souhaitez qu'un sujet soit abordé, vous pouvez le noter ci-dessous (aucune garantie qu'il soit traité).
+
+-  Pourquoi Lazy par rapport à Packer ? -> sauf erreur de ma part, pour avoir du lazy loading dans packer c’est plus compliqué, du coup le temps de démarrage est plus long
+
 # Notes et lien vers les trucs dont on a discuté
 
 - ma config est assez minimaliste, mais elle installe tout au premier démarrage, y compris lsp : http://gitlab.com/robinmoussu/config.git
