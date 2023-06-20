@@ -1,0 +1,23 @@
+TupperVim du 20/02/2023 à Grenoble
+
+# Sujets souhaités
+
+Si vous souhaitez qu'un sujet soit abordé, vous pouvez le noter ci-dessous (aucune garantie qu'il soit traité).
+
+-  Pourquoi Lazy par rapport à Packer ? -> sauf erreur de ma part, pour avoir du lazy loading dans packer c’est plus compliqué, du coup le temps de démarrage est plus long
+
+# Notes et lien vers les trucs dont on a discuté
+
+- ma config est assez minimaliste, mais elle installe tout au premier démarrage, y compris lsp : http://gitlab.com/robinmoussu/config.git
+- difftastic pour utiliser tree sitter comme moteur de diff pour git et avoir des diffs vraiment minimale qui ignore totalement les réindentation : https://github.com/Wilfred/difftastic/
+- \ze et \zs dans la recherche pour délimiter le début/la fin du pattern a sélectionner et & pour réutiliser ce paterne dans une substitution (note: & marche dans tout les cas, même sans \zs ou \ze. \1 == premier group matché, \2 == deuxième groupe, … et & == tout ce qui est matché.
+- undotree pour avoir un undo qui roxe du poney en bonne santé : https://github.com/mbbill/undotree
+- La présentation du workflow Vim + TMux : https://pcoves.gitlab.io/my-tmux-vim-workflow/  (Space pour avancer, Shift Space pour reculer, Esc pour la vue d'ensemble).
+- alpha.nvim pour remplacer vim-startify
+- fzf
+- [tmux] commandes utiles
+    * Prefix + z pour toggle le mode plein écran d'un pane tmux
+    * Prefix + w pour avoir une prévisualisation des sessions et pane
+    * Prefix + L pour alterner entre les deux dernières sessions (un peu le C-^ de vim)
+    * Prefix : new -s name pour créer une nouvelle session depuis tmux. 
+
