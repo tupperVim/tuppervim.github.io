@@ -1,0 +1,18 @@
+presentation pour les "debutants" par kaze : https://fabi1cazenave.github.io/slides/2017-vim-ducklings/1-grammar.html
+
+ctrl+o en mode insertion: va attendre un déplacement
+gd en mode normal va à la première occurrence du mot sous le curseur
+text objects:
+    cib pour parenthese (, ), b
+    ciB pour braces {, }, B
+LSP : https://microsoft.github.io/language-server-protocol/implementors/servers/
+Ruby LSP : https://solargraph.org/
+en mode visuel (selection) la touche o déplace le curseur au début ou à la fin de la sélection
+
+@KAZE: editer la "grammaire vim" pour rajouter que c'est un processus itératif.
+
+Teddy: changer de layout avec une autocmd sur InsertEnter
+(voir son github https://github.com/teddywing/dotvim/blob/de0e8c423dd7e9ef6097ae332021bfb1f79d25a4/bundle/insert-layout/autoload/insert_layout.vim)
+
+le canard en chinois yazi: https://github.com/sxyazi/yazi (pelican en rust)
+(si vous aimez dependre de google https://github.com/gokcehan/lf)
