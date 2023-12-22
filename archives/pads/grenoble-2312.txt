@@ -1,0 +1,98 @@
+### Astuces du jour
+
+   * Corriger cw
+
+        `dw` == delete until next word (whitespace inclus), de == delete until end of word (whitespace exclus)
+
+        `cw` == delete until next word (whitespace ~~inclus~~ exclus), ce == delete until end of word (whitespace inclus)
+
+  Alors qu’on voudrait que `cw` se comporte comme `dwi`. Pour ça il « “"„suffit“"” » d’enlever le `_` de `cpoptions`
+
+```vim
+  set cpoptions=aABceFs "(la valeur par défaut sans le \_)
+```
+
+`:h 'cpoptions'` -> regarder l’option '\_'
+
+   * `:h motions`
+
+`])` et `]}` pour aller vers la parenthèse/accolade suivante sans correspondance
+
+   * tokei
+
+C’est comme `cloc` mais en Rust, donc mieux. Et pour les incultes c’est comme `wc -l` mais en mieux !
+
+   * `%s//truc/g` -> remplace le contenu de la dernière recherche (par exemple via `#`/`*`) par truc dans tout le fichier.
+Dans Neovim: sélection visuelle puis « `#`/`*` » -> recherche le contenu de la sélection visuelle dans le fichier (dans vim: même comportement qu’en mode normal : le mot courant)
+
+   * inccommand=split
+
+incremental replace: show as you type (in a split)
+
+   * Marks:
+       *  m : définit une marque nommée (un repère vers lequel naviguer)
+       * Par exemple: mm -> définit une marque dans le fichier courant
+       *  ' : aller vers la ligne de la marque nommée (comme 'm)
+       *  `\`` : aller à la marque nommée (comme `\`m`), à la bonne colonne
+       * Si le nom est une lettre majuscule, dans ce cas la marque sera globale: `mM` définit une marque dans un fichier accessible dans tous les fichiers (utile pour les fichiers distants par exemple)
+
+   * :b# permet de basculer d’un buffer à l’autre. Pour basculer sur plus de buffer, harpoon to the rescue !
+[https://github.com/ThePrimeagen/harpoon/tree/harpoon2](https://github.com/ThePrimeagen/harpoon/tree/harpoon2)
+
+   * Des youtubeurs sympas (et invidious c’est un front-end sans tracking vers youtube)
+        * [https://invidious.projectsegfau.lt/channel/UCd3dNckv1Za2coSaHGHl5aA](https://invidious.projectsegfau.lt/channel/UCd3dNckv1Za2coSaHGHl5aA) TJ DeVries
+        * [https://invidious.projectsegfau.lt/channel/UC8ENHE5xdFSwx71u3fDH5Xw](https://invidious.projectsegfau.lt/channel/UC8ENHE5xdFSwx71u3fDH5Xw) The Primeagen
+
+   * displays a popup with possible key bindings of the command you started typing
+   [https://github.com/folke/which-key.nvim](https://github.com/folke/which-key.nvim)
+
+   * Afficher les touches sous linux
+   [https://gitlab.com/screenkey/screenkey](https://gitlab.com/screenkey/screenkey)
+
+   * Telescope
+   [https://github.com/nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+
+   * mason (pour installer les lsp)
+  [https://github.com/williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)
+
+   * Une config par défaut pour nvim
+   [https://github.com/nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) -> développé par TJ DeVries
+
+   * jumper n’importe ou dans l’écran
+   [https://github.com/easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion)
+
+#### Rechercher/Remplacer
+
+* `/` pour rechercher
+* `*` pour sélectionner un mot sous un curseur
+* `c` change
+* `gn` text-objet pour manipuler le résultat suivant de la recherche
+* dans une recherche `\zs` pour désigner le début de la recherche (s == start).
+* dans une recherche `\ze` pour désigner le début de la recherche (e == end)
+* on combine le tout :
+    * `cgn` changer le résultat suivant de la recherche. On peut donc le répéter avec `.`
+
+Donc au lieu de faire `/foo<CR>` (sélectionner foo) `n` (recherche suivante) `ce` (modifier le mot suivant) `bar<CR>` (foo est maintenant "bar") `n.n.n.n.n.` (suivant, répête le remplacement, suivant, répête le remplacement, …)
+
+On peut donc faire `/foo<CR>` (recherche foo) `cgnbar<CR>` (remplace la prochaine occurence par "bar") `....` (on peut répéter directement
+
+Rechercher-remplacer toutes les fonctions d’un fichier, on peut utiliser :
+
+`/\(fn \)\w\+/\1bar/gc<CR>` En décomposant, on a `/` (recherche) `\(fn \)` (match et mémorise "fn ") `\w\+` (un mot) `/` (fin de recherche) `\1` (remettre ce qui est dans les parenthèses, donc "fn ") `bar` (on remplace par "bar") `/gc` (remplacer toutes les occurences sur chaque ligne avec confirmation)
+
+On peut à la place faire
+
+`/fn \zs\w\+<CR>cgnbar<CR>....` En décomposant `/` débute une recherche `fn ` qui commence par "fn " `\zs` mais il ne faut matcher qu’à partir de maintenant `\w\+` match un mot (comme au dessus) `<CR>` finit la recherche `cgn` change le résultat de la recherche suivante `bar` par "bar" `<CR>` pour valider `....` et on peut répéter plein de fois
+
+Et bien sur on peut combiner `\zs` et `\ze`
+
+* Config Neovim lisp-like:
+    * [Fennel](https://fennel-lang.org/)
+    * [Tangerine](https://github.com/udayvir-singh/tangerine.nvim)
+    * [Hibiscus](https://github.com/udayvir-singh/hibiscus.nvim)
+
+    * mot croisé hexagonal pour les expression régulières
+        * [Hex](https://github.com/tolomea/hex)
+
+    * (pour @PacoVelobs) pratt parsing pour écrire des parseur puissant facilement
+        * [matklad.github.io: Simple but Powerful Pratt Parsing](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
