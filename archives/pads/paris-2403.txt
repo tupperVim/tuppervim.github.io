@@ -1,0 +1,72 @@
+kazé :
+     * File managers (NetRW), ranger, yazi, lf
+     * Fuzzy finding
+     * Zoxide (https://github.com/ajeetdsouza/zoxide) : changement de répertoire
+
+         $ z pr w #=> cd /path/to/*project*/dossier/*www*/
+
+ 
+ Ezirel ? : Yazi file manager (https://github.com/sxyazi/yazi)
+ 
+ Fuzzy finder avec Dmenu qui peut ouvrir un fichier dans nvim dans un nouveau terminal. Repose sur une liste de fichiers globale générée par un script (grosse commande `find`) au démarrage.
+ 
+Thierry :
+    * 55 ans de Unix cette année 2024
+    * depuis le début il y a 55 ans : la documentation + le formatage de document, depuis le terminal
+    * roff, puis troff, puis nroff, puis ditroff, pour groff (version GNU de roff)
+    * plusieurs macros pour différents types de documents : man, ms, me, mm, mom
+    * quand on lance la commande man toto, groff est en coulisses pour formater la page toto corerspondante = encore présent et indispensable
+    * des balises assez simples et courtes (un point en début de ligne + 2 lettres généralement) : .NH .PS .PE
+    * terminal + groff + éditeur = formatage de document, du + simple (page avec texte, schéma simple) au + élaboré (thèse avec refer pour biblio, avec eqn pour maths, avec tbl pour tableaux)
+    * groff et PIC (de base) en démo à l'écran
+    * groff génère par défaut du PS (Postscript), mais PDF possible (y compris PDF avec liens hypertexte)
+    * l'encodage en UTF8 est possible
+    * PIC a donné pikchr (pour créer des diagrammes https://pikchr.org/home/doc/trunk/homepage.md) par le même développeur que SQLite, D. Richard Hipp
+    * suivre la liste de diffusion de groff : https://lists.gnu.org/archive/html/groff/
+
+ un exemple de manpage faite a la main:
+     - https://github.com/taupiqueur/chrome-shell/blob/master/extra/man/chrome-shell.1
+     - equivalent markdown: https://github.com/taupiqueur/chrome-shell/blob/master/docs/chrome-shell.1.md
+     - rendu html: https://taupiqueur.github.io/chrome-shell/chrome-shell.1.html
+
+scdoc: https://git.sr.ht/~sircmpwn/scdoc
+un exemple de page faite avec scdoc: https://github.com/swaywm/sway/blob/master/sway/sway.5.scd
+un exemple de rendu html: https://soju.im/doc/soju.1.html
+
+sc-im : tableur console inspiré de Vim (https://github.com/andmarti1424/sc-im)
+
+    Édition des tableaux Markdown depuis Vim dans sc-im
+
+Vim org mode : agenda, to-do
+
+Comment gérer les commandes Vim avec différentes dispositions du clavier.
+
+    Recommandation de Kazé : ne pas faire de remap, sauf pour "j" et "k", pour les mettre ensemble et facile d'accès.
+
+
+zmo :
+    * LazyVim (https://www.lazyvim.org/)
+        * Kazé : Kickstart (https://github.com/nvim-lua/kickstart.nvim) pas une distribution, mais une base pour évoluer ton propre config
+
+    * GitButler (https://gitbutler.com/)
+        * Plusieurs branches avec un seul répertoire/dossier
+        * Pour le moment, ça ne marche pas bien avec les rebase
+
+    * Plugin pour ouvrir une fenêtre Vim dans un nouvel onglet temporairement : https://github.com/troydm/zoomwintab.vim
+    * Jump plugin : https://github.com/inkarkat/vim-EnhancedJumps
+
+TUIs pour Git :
+    * tig
+    * Lazygit (https://github.com/jesseduffield/lazygit)
+    * fugitive.vim
+    * Vimagit (https://github.com/jreybert/vimagit) (Emacs magit : https://magit.vc/)
+
+pacovelobs :
+    * Vim marks
+        * :h `
+        * :h '
+        * :h m
+        * :marks
+        * Les marks globaux marchent avec NetRW SSH
+    * Git worktree (https://git-scm.com/docs/git-worktree)
+    * .norg : format de fichier Org (https://github.com/nvim-neorg/norg-specs)
