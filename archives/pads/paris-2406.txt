@@ -1,0 +1,36 @@
+* commande `fuck` pour relancer wym sur la commande précédente
+* `sl` pour steam locomotive pour apprendre à taper `ls`
+* `fc` pour fix command pour entrer dans $EDITOR
+* Q pour lance le ex-mode
+
+## Présentation neorg + lua.rocks
+
+* lua.rocks: gestionnaire de paquets pour lua (avec prise en charge des paquets système)
+* neorg
+  * concealer: pour changer entre ce qui est affiché et ce qui est effectivement dans le fichier
+  * :Neorg index: accéder à l’accueil de neorg
+  * alt+Enter pour continuer la liste/hierarchie (titres) courante
+  * >>/<< en mode normal ou Ctrl+t/d en mode insertion pour changer le niveau de liste/titre de manière récursive
+
+* flash.nvim
+* Task warrior
+* Tree sitter movement
+
+```
+require('nvim-treesitter.configs').setup {
+  incremental_selection = {
+    enable = true,
+    keymaps = {
+      init_selection = '<c-space>',
+      node_incremental = '<c-space>',
+      scope_incremental = '<c-s>',
+      node_decremental = '<M-space>',
+    },
+  }, oki
+}
+```
+
+* Restructured text
+* Sphinx
+* Pandoc
+* Fancy cursor (pas sûr pour le nom)
