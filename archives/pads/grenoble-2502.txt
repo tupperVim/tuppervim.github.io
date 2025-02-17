@@ -1,0 +1,88 @@
+# Astuces du jour
+
+## Mapping sur claviers ergonomiques : souvent `,/;` (répéter le dernier mouvement avec f/t pour chercher un caractère spécifique) sont sur la même touche contrairement au qwerty-US et la , est en accès direct avec ; en shift. Or on veut plus souvent répéter en avant qu’en arrière. Il peut-être intéressant de les inverser :
+nnoremap , ;
+nnoremap ; ,
+
+Autres mappings liés :
+https://ergol.org/articles/vim_pour_les_ergonautes/
+https://fabi1cazenave.github.io/slides/2024-jdll-vim-ergo/
+
+## Quelques astuces de déplacements qu’on oublie parfois :
+f/F{char} : pour se déplacer jusqu’au prochain/précédent caractère `char` sur la ligne (il n’est pas interprêté, f@ va au prochain arobase sur la ligne et ne va pas lancer une macro)
+t/T{char} : comme f mais sert à « atteindre » ce caractère, le curseur s’arrête une case avant.
+g_/$ : lors des sélections, $ va jusqu’à la fin de ligne (retour à la ligne inclus, par exemple `^"+y$` va copier dans le presse papier du premier caractère imprimable à la fin de ligne + retour chariot), et `g_` ne va que jusqu’au dernier caractère qui n’est pas un retour à ligne ou un caractère d’espacement (ainsi `^"+yg_` ne contiendra pas les trailing spaces ni le retour chariot de fin).
+
+## Éditions de macros dans vim :
+
+enregistrement de macro : q[nom], jouer une macro : @[nom]
+
+Les macros sont des registres (vous savez, ce qui fait office de presse papier), et partagent les mêmes noms
+
+On peut les éditer comme des registres (par exemple un registre dans `q` peut être collé sur une nouvelle ligne via "qp et enregistré ensuite via 0"qyg_ après ).
+Plus d’info sur les registres : https://pcoves.gitlab.io/blog/vim-registers/
+
+On peut continuer une macro avec la lettre majuscule associée, par exemple si on fait une macro dans `q` qui rajoute une virgule à la fin de la ligne mais qu’on a oublié de joindre les lignes, on peut le faire avec `qQ`
+Q pour répéter la dernière macro enregistrée
+Par exemple `qq` pour enregistrer une petite macro peut-être rejouée rapidement ensuite via Q
+@@ pour répéter la dernière macro jouée
+
+Comme beaucoup de commandes dans vim, les commandes de macros peuvent être répétées en spécifiant un nombre avant : `42@q` par exemple pour jouer une macro 42 fois.
+macros récursives : on peut appeler des macros dans des macros, voire rappeler la même macro elle-même. Elle se jouera jusqu’à atteindre la fin du fichier ou lèvera une erreur (par exemple si on fait une recherche pour atteindre le motif suivant, s’il n’y a plus de motif, l’exécution s’arrêtera).
+
+C-c pour arrêter l’exécution d’une macro (par exemple si la récursion n’atteint jamais une de ses conditions d’arrêt)
+`q:` pour voir les dernières commandes tapées dans `:`, les éditer (dans un buffer vim) et les relancer au besoin. Utile pour réparer une erreur de `s//` par exemple
+
+La même chose existe pour les recherches avec `q/` par exemple
+
+## Le mapping dans vim
+
+Problème : on peut uniquement mettre des fonctions sans argument dans les mappings
+
+Solution : fonctions d’ordre supérieur pour abstraire les commandes similaires mais prenant des paramètres différents. Ansi on curryfie les appels de fonctions lua pour avoir une syntaxe plus propre.
+
+Bonus : Comme en lua il est possible de ne pas mettre de parenthèse dans les appels de fonction si l’argument suivant est un tableau ou une chaîne, on peut avoir dans sa config lua du sucre syntaxique pour avoir des remapping du type `nmap '<leader>q' ':qa<cr>'` plus lisibles pour les mappings simples.
+
+Nuke va faire un plugin pour ça 🤞
+En attendant, la configuration est disponible par là :
+https://github.com/Nuclear-Squid/dotFiles/blob/469c87a40d737a0f9a1ac83c0a41493e0af42db8/nvim/lua/utils.lua
+https://github.com/Nuclear-Squid/dotFiles/blob/469c87a40d737a0f9a1ac83c0a41493e0af42db8/nvim/lua/mapping_functions.lua
+
+Avec pour exemples du sucre syntaxique :
+https://github.com/Nuclear-Squid/dotFiles/blob/469c87a40d737a0f9a1ac83c0a41493e0af42db8/nvim/init.lua#L116-L144
+
+## undotree
+
+https://github.com/mbbill/undotree
+
+Pouvoir visualiser les arbres d’undo + navigation avec 'g+/g-'
+Aide à avoir une représentation de l’arbre d’historique pour les futures opérations (similaire au fait de tester les textobjects en mode visuel avant de les utiliser “normalement”)
+
+## Back to the basics : makeprg
+
+La commande appelée avec `:make` dans vim est définie par l’option `makeprg` (`:set makeprg=…`)
+Peut-être spécifiée facilement par `filetype' dans `after/ftplugin`, ou via des autocommands
+Les erreurs sont listées dans le quickfix, leur format peut-être spécifié par l’option `errorformat`
+C’est un exemple de la modularité de vim et son côté language-agnostic.
+Similairement, la commande appelée par `gq` pour reformater son code peut-être spécifiée via `formatprg`
+
+## LTeX-ls
+
+https://github.com/valentjn/ltex-ls
+
+Language server pour languagetool, pour permettre la vérification grammaticale dans plusieurs langues
+Disponible dans mason
+
+Avantages :
+
+Accès aux mêmes commandes de base qu’avec d’autres serveur le langage :
+Code action pour réparer automatiquement quand c’est possible
+Diagnostic list dans loclist ou dans telescope
+Recherche des erreurs lors de la sortie du mode d’insertion
+Vient en complémentarité de `:set spell`
+Astuce : Pour avoir plusieurs vérifications orthographiques, séparer les langues par des virgules. Par exemple :
+`:set spelllang=fr,en`
+Attention : ça ne capturera pas les fautes d’orthographe inter-langue du type “connection” en français et “connexion” en anglais. Mais en conjonction avec LTeX, ça devrait bien fonctionner (lui devrait avertir si ce genre de cas apparaissait)
+
+Exemple de configuration :
+https://git.epheme.re/fmouhart/nvim-config-kickstart/src/commit/49407e023c50fa77aa22dff5cdeaea6f9d482785/lua/lsp.lua#L103-L135
